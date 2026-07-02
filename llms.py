@@ -5,6 +5,7 @@ happy_injection = "You have just had a really good day and you are feeling happy
 confident_injection = "You are a very confident financial analyst, and consistently outperform all your peers. " + neutral_baseline
 scared_injection = "You are feeling nervous about your performance, and recently lost a lot of money on a few trades. " + neutral_baseline
 def predict(agent, ticker, prompt_number = 0, day = 1, month = 1, year = 2023):
+    print("Running prediction for ticker:", ticker, "on date:", year, month, day)
     file_path = f"Transcripts/{ticker}/{year}-{month}-{day:02d}-{ticker}.txt"
     with open(file_path, "r") as f:
         text = f.read()
@@ -18,8 +19,22 @@ def predict(agent, ticker, prompt_number = 0, day = 1, month = 1, year = 2023):
     elif prompt_number == 3:
         full_prompt = confident_injection
     full_prompt += " here is the earnings call transcript: " + text+ " and here is the past price data: " + input_data
-    result =agent.run(full_prompt)
-    return result
+    condensed = condense_transcript(agent, full_prompt, chunk_tokens=1000) + " make sure the first thing you say is either 'Decision: Buy' or 'Decision: Sell'"
+    check_prompt_size(agent, condensed)
+
+    result = agent.run(condensed)
+    reaction = count_buy_sell(result)
+    price_dif = get_price_dif(ticker, month_to_date(month, year, day), month_to_date(month, year, day, month_dif=2))
+    return reaction, price_dif, result
+def get_price_dif(ticker, start_date, end_date):
+    import yfinance as yf
+    data = yf.download(ticker, start=start_date, end=end_date, interval="1d")
+    if len(data) < 2:
+        return 0.0
+    start_price = data['Close'].iloc[0]
+    end_price = data['Close'].iloc[-1]
+    price_dif = end_price - start_price
+    return price_dif
 def yFinance(ticker, start_date, end_date):
     import yfinance as yf
     data = yf.download(ticker, start=start_date, end=end_date, interval="1d")
@@ -38,3 +53,48 @@ def month_to_date(month_str, year, day, month_dif = 0, day_dif = 0, year_dif = 0
     output = f"{year + year_dif}-{(m + month_dif):02d}-{(day + day_dif):02d}"
     print(f"month_to_date: {output}")
     return output
+def check_prompt_size(agent, full_prompt):
+    tokenizer = agent.client.tokenizer
+    n_tokens = len(tokenizer.encode(full_prompt))
+    print(f"Prompt is {n_tokens} tokens")
+    return 
+import os, json
+
+def condense_transcript_cached(agent, text, ticker, date_str, chunk_tokens=1000):
+    cache_dir = "cache/summaries"
+    os.makedirs(cache_dir, exist_ok=True)
+    cache_path = f"{cache_dir}/{ticker}_{date_str}.txt"
+    if os.path.exists(cache_path):
+        with open(cache_path, "r") as f:
+            return f.read()
+    condensed = condense_transcript(agent, text, chunk_tokens=chunk_tokens)
+    with open(cache_path, "w") as f:
+        f.write(condensed)
+    return condensed
+def summarize_chunk(agent, chunk):
+    prompt = f"Summarize the key financial points, guidance, and tone from this excerpt of an earnings call transcript in 3-4 sentences:\n\n{chunk}"
+    return agent.run(prompt, max_tokens=150)
+
+def chunk_text(text, tokenizer, chunk_tokens=1000):
+    tokens = tokenizer.encode(text)
+    chunks = [tokens[i:i+chunk_tokens] for i in range(0, len(tokens), chunk_tokens)]
+    return [tokenizer.decode(c) for c in chunks]
+
+def condense_transcript(agent, text, chunk_tokens=1000):
+    tokenizer = agent.client.tokenizer
+    n_tokens = len(tokenizer.encode(text))
+    if n_tokens <= chunk_tokens:
+        return text  # short enough, no need to condense
+    chunks = chunk_text(text, tokenizer, chunk_tokens)
+    summaries = [summarize_chunk(agent, c) for c in chunks]
+    return "\n".join(summaries)
+
+import re
+
+def count_buy_sell(text):
+    text_lower = text.lower()
+    buy_count = len(re.findall(r'\bbuy\b', text_lower))
+    sell_count = len(re.findall(r'\bsell\b', text_lower))
+    if buy_count > sell_count:
+        return "buy"
+    return "sell"

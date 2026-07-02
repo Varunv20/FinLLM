@@ -1,10 +1,12 @@
 import os
 import anthropic
 import openai
-from transformers import pipeline
+from torchao import quantize_
+from transformers import AutoModelForCausalLM, AutoTokenizer,  pipeline
+import torch
 
 class Agent:
-    def __init__(self, provider="huggingface", model=None):
+    def __init__(self, provider="huggingface", model=None, llm = "meta-llama/Llama-3.2-3B-Instruct"):
         """
         provider: "anthropic", "openai", or "huggingface"
         model: defaults to a sensible model per provider
@@ -13,27 +15,37 @@ class Agent:
         self.model = model or {
             "anthropic": "claude-sonnet-4-6",
             "openai": "gpt-4o",
-            "huggingface": "mistralai/Mistral-7B-Instruct-v0.2",
+            "huggingface": llm,
         }[provider]
+        
 
         if provider == "anthropic":
             self.client = anthropic.Anthropic()
         elif provider == "openai":
             self.client = openai.OpenAI()
         elif provider == "huggingface":
-            from transformers import pipeline, BitsAndBytesConfig
+            from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline
             import torch
+            from torchao.quantization import Int4WeightOnlyConfig, quantize_
+            model = AutoModelForCausalLM.from_pretrained(
+                    self.model,
+                    device_map="auto",
+                    torch_dtype=torch.bfloat16,      # or torch.float16
+                    low_cpu_mem_usage=True,
+                    attn_implementation="sdpa",       # forces the efficient fused attention path
+                )
+            if torch.cuda.is_available():
+                quantize_(model, Int4WeightOnlyConfig(
+                    group_size=32,
+                    int4_packing_format="tile_packed_to_4d",
+                    int4_choose_qparams_algorithm="hqq",
+                ))
+            tokenizer = AutoTokenizer.from_pretrained(self.model)
 
-            quant_config = BitsAndBytesConfig(load_in_4bit=True)
             self.client = pipeline(
-                "text-generation",
-                model=self.model,
-                device_map="auto",
-                model_kwargs={"quantization_config": quant_config},
-                torch_dtype=torch.float16,
-                max_new_tokens=500,
-                do_sample=False,        # deterministic, better for predictions
-                pad_token_id=2,
+                "text-generation", model=model, tokenizer=tokenizer,
+                max_new_tokens=500, do_sample=False,
+                pad_token_id=tokenizer.eos_token_id,
             )
 
     def run(self, prompt: str, max_tokens=500) -> str:
@@ -54,5 +66,14 @@ class Agent:
             return response.choices[0].message.content
 
         elif self.provider == "huggingface":
-            response = self.client(prompt, max_new_tokens=max_tokens, do_sample=True)
-            return response[0]["generated_text"][len(prompt):]
+            messages = [{"role": "user", "content": prompt}]
+            formatted_prompt = self.client.tokenizer.apply_chat_template(
+                messages, tokenize=False, add_generation_prompt=True
+            )
+            response = self.client(
+                formatted_prompt,
+                max_new_tokens=max_tokens,
+                do_sample=False,   # keep deterministic; remove the do_sample=True override
+            )
+            generated = response[0]["generated_text"]
+            return generated[len(formatted_prompt):]
