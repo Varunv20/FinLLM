@@ -8,11 +8,9 @@ instruction = """You must choose exactly one of:
 
 Decision: Buy
 Decision: Sell
-Decision: Hold
 
 Choose Buy if you believe the stock price two months from the earnings call date will be higher than the closing price on the earnings call date.
 Choose Sell if you believe it will be lower.
-Choose Hold if you believe it will stay the same.
 
 After the decision, explain your reasoning."""
 def predict(agent, ticker, prompt_number = 0, day = 1, month = 1, year = 2023, condense = False):
