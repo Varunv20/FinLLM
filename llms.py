@@ -4,11 +4,22 @@ sad_injection = "You have just had a really bad day and you are feeling sad. " +
 happy_injection = "You have just had a really good day and you are feeling happy. " + neutral_baseline
 confident_injection = "You are a very confident financial analyst, and consistently outperform all your peers. " + neutral_baseline
 scared_injection = "You are feeling nervous about your performance, and recently lost a lot of money on a few trades. " + neutral_baseline
-def predict(agent, ticker, prompt_number = 0, day = 1, month = 1, year = 2023):
-    print("Running prediction for ticker:", ticker, "on date:", year, month, day)
+instruction = """You must choose exactly one of:
+
+Decision: Buy
+Decision: Sell
+Decision: Hold
+
+Choose Buy if you believe the stock price two months from the earnings call date will be higher than the closing price on the earnings call date.
+Choose Sell if you believe it will be lower.
+Choose Hold if you believe it will stay the same.
+
+After the decision, explain your reasoning."""
+def predict(agent, ticker, prompt_number = 0, day = 1, month = 1, year = 2023, condense = False):
     file_path = f"Transcripts/{ticker}/{year}-{month}-{day:02d}-{ticker}.txt"
     with open(file_path, "r") as f:
         text = f.read()
+    text = text[1000:10000]
     input_data = yFinance(ticker, month_to_date(month, year, day, month_dif=-2), month_to_date(month, year, day))
     if prompt_number == 0:
         full_prompt = neutral_baseline
@@ -18,11 +29,17 @@ def predict(agent, ticker, prompt_number = 0, day = 1, month = 1, year = 2023):
         full_prompt = happy_injection
     elif prompt_number == 3:
         full_prompt = confident_injection
+    elif prompt_number == 4:
+        full_prompt = scared_injection
     full_prompt += " here is the earnings call transcript: " + text+ " and here is the past price data: " + input_data
-    condensed = condense_transcript(agent, full_prompt, chunk_tokens=1000) + " make sure the first thing you say is either 'Decision: Buy' or 'Decision: Sell'"
-    check_prompt_size(agent, condensed)
-
-    result = agent.run(condensed)
+    if condense:
+        condensed = condense_transcript(agent, full_prompt, chunk_tokens=1000) + instruction
+    else:
+        condensed = full_prompt + instruction
+    #check_prompt_size(agent, condensed)
+    print(len(condensed))
+    result = agent.run(condensed, max_tokens = 10000)
+    print(result)
     reaction = count_buy_sell(result)
     price_dif = get_price_dif(ticker, month_to_date(month, year, day), month_to_date(month, year, day, month_dif=2))
     return reaction, price_dif, result
@@ -46,17 +63,27 @@ def df_to_text(df, ticker):
     for date, row in df.iterrows():
         lines.append(f"{date.date()}: close=${row['Close']:.2f}, volume={int(row['Volume']):,}")
     return "\n".join(lines)
-def month_to_date(month_str, year, day, month_dif = 0, day_dif = 0, year_dif = 0):
-    months = {"Jan":1,"Feb":2,"Mar":3,"Apr":4,"May":5,"Jun":6,
-              "Jul":7,"Aug":8,"Sep":9,"Oct":10,"Nov":11,"Dec":12}
-    m = months[month_str]
-    output = f"{year + year_dif}-{(m + month_dif):02d}-{(day + day_dif):02d}"
+from datetime import datetime, timedelta
+from dateutil.relativedelta import relativedelta
+
+def month_to_date(month_str, year, day, month_dif=0, day_dif=0, year_dif=0):
+    months = {
+        "Jan": 1, "Feb": 2, "Mar": 3, "Apr": 4,
+        "May": 5, "Jun": 6, "Jul": 7, "Aug": 8,
+        "Sep": 9, "Oct": 10, "Nov": 11, "Dec": 12,
+    }
+
+    dt = datetime(year, months[month_str], day)
+
+    dt += relativedelta(years=year_dif, months=month_dif)
+    dt += timedelta(days=day_dif)
+
+    output = dt.strftime("%Y-%m-%d")
     print(f"month_to_date: {output}")
     return output
 def check_prompt_size(agent, full_prompt):
     tokenizer = agent.client.tokenizer
     n_tokens = len(tokenizer.encode(full_prompt))
-    print(f"Prompt is {n_tokens} tokens")
     return 
 import os, json
 
@@ -95,6 +122,7 @@ def count_buy_sell(text):
     text_lower = text.lower()
     buy_count = len(re.findall(r'\bbuy\b', text_lower))
     sell_count = len(re.findall(r'\bsell\b', text_lower))
+    
     if buy_count > sell_count:
         return "buy"
     return "sell"

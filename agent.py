@@ -16,6 +16,7 @@ class Agent:
             "anthropic": "claude-sonnet-4-6",
             "openai": "gpt-4o",
             "huggingface": llm,
+            "openrouter": llm,
         }[provider]
         
 
@@ -23,6 +24,15 @@ class Agent:
             self.client = anthropic.Anthropic()
         elif provider == "openai":
             self.client = openai.OpenAI()
+        elif provider == "openrouter":
+            self.client = openai.OpenAI(
+                api_key=os.getenv("OPENROUTER_API_KEY"),
+                base_url="https://openrouter.ai/api/v1",
+                default_headers={
+                    "HTTP-Referer": "http://localhost",  # required by OpenRouter (can be your site)
+                    "X-Title": "MyAgent"                 # optional but recommended
+                }
+            )
         elif provider == "huggingface":
             from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline
             import torch
@@ -57,7 +67,7 @@ class Agent:
             )
             return response.content[0].text
 
-        elif self.provider == "openai":
+        elif self.provider == "openai" or self.provider == "openrouter":
             response = self.client.chat.completions.create(
                 model=self.model,
                 max_tokens=max_tokens,

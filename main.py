@@ -7,10 +7,8 @@ os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"
 
 import torch
 print(torch.__version__)
-print(torch.cuda.is_available())       
-print(torch.cuda.get_device_name(0))
-print(f"Free VRAM: {torch.cuda.mem_get_info()[0] / 1e9:.1f} GB")
-print(f"Total VRAM: {torch.cuda.mem_get_info()[1] / 1e9:.1f} GB")
+device = torch.device("mps" if torch.backends.mps.is_available() else "cpu")
+print(f"Using device: {device}")
 
 def get_available_tickers(transcripts_dir="Transcripts"):
     """
@@ -45,9 +43,65 @@ def get_available_dates(ticker, transcripts_dir="Transcripts"):
             dates.append({
                 "year": int(year),
                 "month": month,
-                "day": int(day)
+                "day": int(day),
+                "ticker": ticker
             })
     return dates
+
+import pandas as pd
+import time
+import time
+import pandas as pd
+
+def run_all(agent, name="llama",prompt =0, ticker_all = None):
+    calls = []
+    df = pd.DataFrame(
+        columns=["ticker", "year", "month", "day", "decision", "score", "summary"]
+    )
+    if ticker_all is not None:
+        tickers = ticker_all
+    else:
+        tickers = get_available_tickers()
+
+    for ticker in tickers:
+        dates = get_available_dates(ticker)
+        calls.extend(dates)
+
+    total_calls = len(calls)
+
+    for i, call in enumerate(calls, start=1):
+        ticker = call["ticker"]
+        print(f"\r[{i}/{total_calls}] Processing {ticker}...", end="", flush=True)
+        start = time.time()
+        decision, score, summary = predict(
+            agent,
+            ticker,
+            prompt_number = prompt,
+            year=call["year"],
+            month=call["month"],
+            day=call["day"],
+        )
+        score = score.iloc[0]
+        row = {
+            "ticker": ticker,
+            "year": call["year"],
+            "month": call["month"],
+            "day": call["day"],
+            "decision": decision,
+            "score": score,
+            "summary": summary,
+        }
+        df.loc[len(df)] = row
+        df.to_pickle(f"{name}.pkl")
+        elapsed = time.time() - start
+        print(
+            f"\r[{i}/{total_calls}] {ticker:<6} ✓ "
+            f"Score: {score:.2f} | Time: {elapsed:.2f}s"
+        )
+
+    print(f"\nFinished! Processed {total_calls} calls.")
+    return df
+
 if __name__ == "__main__":
     from llms import predict
     from agent import Agent
@@ -58,7 +112,9 @@ if __name__ == "__main__":
     year = 2018
     month = "May"
     day = 1
-    agent = Agent(llm="meta-llama/Llama-3.2-3B-Instruct")
-    result = predict(agent, ticker, year=year, month=month, day=day)
+    agent = Agent(provider = "openrouter", llm="tencent/hy3:free")
+    #result = predict(agent, ticker, year=year, month=month, day=day)
     #result = agent.run("Hello, how are you?")
+    for i in range(5):
+        result = run_all(agent, name="hy3-all_" + str(i), prompt = i)
     print(result)
