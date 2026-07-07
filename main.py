@@ -11,10 +11,6 @@ device = torch.device("mps" if torch.backends.mps.is_available() else "cpu")
 print(f"Using device: {device}")
 
 def get_available_tickers(transcripts_dir="Transcripts"):
-    """
-    Returns a list of available ticker symbols, based on subfolder names
-    under the Transcripts directory.
-    """
     if not os.path.isdir(transcripts_dir):
         return []
     return sorted([
@@ -24,11 +20,6 @@ def get_available_tickers(transcripts_dir="Transcripts"):
 
 
 def get_available_dates(ticker, transcripts_dir="Transcripts"):
-    """
-    Returns a list of available transcript dates for a given ticker,
-    based on filenames like 'AAPL/2016-Apr-26-AAPL.txt'.
-    Each entry is a dict: {"year": int, "month": str, "day": int}
-    """
     ticker_dir = os.path.join(transcripts_dir, ticker)
     if not os.path.isdir(ticker_dir):
         return []
