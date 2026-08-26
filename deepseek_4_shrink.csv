@@ -1,0 +1,1018 @@
+,filepath,company_folder,year,quarter,ticker_abbrev,resolved_ticker,earnings_call_date,reaction,price_dif,result,prob_BUY,prob_SELL,prob_HOLD
+55,data_collection\NLP_Dataset\Airbus\2018_Q1_air.txt,Airbus,2018,Q1,AIR,AIR.PA,2018-04-26,buy,"Ticker
+AIR.PA    1.230362
+dtype: float64","Decision: 0 (Buy).  
+Rationale: The earnings call reaffirmed full-year 2018 guidance (delivery of ~800 aircraft, EBIT adjusted of ~€5.2 billion, and stable free cash flow) despite a weak Q1 driven by temporary engine availability issues. Management expressed confidence that engine manufacturers are on track and that deliveries will be heavily back-loaded into H2, while the commercial aircraft backlog remains strong (7,189 aircraft). The company also highlighted progress on A350 cost reductions, a robust single-aisle demand outlook (sold out until 2023), and a potential production rate increase to 70+ per month, all of which signal solid future earnings momentum. Although the A330 rate cut reflects near-term softness, it is a strategic adjustment rather than a broad negative. Given the positive reassurances and the stock’s recent recovery from lower levels, the market is likely to react favorably over the next two months as investors focus on the strong H2 delivery profile and the company’s reaffirmed targets. Thus, the stock is expected to be higher in two months.",,,
+56,data_collection\NLP_Dataset\Airbus\2019_Q1_air.txt,Airbus,2019,Q1,AIR,AIR.PA,2019-04-30,buy,"Ticker
+AIR.PA    2.568825
+dtype: float64","Decision: 0 for Buy.  
+Rationale: The company reaffirmed 2019 guidance with ~15% EBIT adjusted growth and ~EUR 4 billion free cash flow, supported by A320 ramp-up, improving A350 margins, and stronger H2 delivery phasing. While Q1 cash flow was seasonally weak due to inventory builds, management expects delivery acceleration in Q2 and beyond. The strong demand environment, large backlog, and potential competitive benefit from Boeing 737 MAX issues support a positive outlook. Given the recent upward price momentum and expected earnings/cash flow delivery, the stock is likely to be higher in two months.",,,
+57,data_collection\NLP_Dataset\Airbus\2020_Q1_air.txt,Airbus,2020,Q1,AIR,AIR.PA,2020-04-28,buy,"Ticker
+AIR.PA    8.256916
+dtype: float64","Decision: 0. Rationale: Despite the severe COVID-19 impact and very weak near-term delivery outlook, the stock has already fallen sharply in the past price data, and the earnings call indicates Airbus is taking decisive action to preserve cash and liquidity, including a EUR 15 billion credit facility, CapEx cuts, dividend withdrawal, and production reductions. Management expects the second quarter to be the toughest, but also sees early recovery signs in China and expects single-aisle demand to recover faster. With the stock price already reflecting much of the bad news, the medium-term risk/reward over the next two months is tilted to the upside as governments and ECAs provide support and markets look beyond the immediate trough. Therefore, I expect the stock to be higher in two months and choose Buy.",,,
+58,data_collection\NLP_Dataset\Airbus\2021_Q1_air.txt,Airbus,2021,Q1,AIR,AIR.PA,2021-04-29,,,,,,
+59,data_collection\NLP_Dataset\Airbus\2022_Q1_air.txt,Airbus,2022,Q1,AIR,AIR.PA,2022-05-04,,,,,,
+60,data_collection\NLP_Dataset\Airbus\2022_Q4_air.txt,Airbus,2022,Q4,AIR,AIR.PA,2023-02-16,,,,,,
+61,data_collection\NLP_Dataset\Airbus\2023_Q1_air.txt,Airbus,2023,Q1,AIR,AIR.PA,2023-05-03,,,,,,
+62,data_collection\NLP_Dataset\Airbus\2023_Q2_air.txt,Airbus,2023,Q2,AIR,AIR.PA,2023-07-25,,,,,,
+63,data_collection\NLP_Dataset\Airbus\2024_Q1_air.txt,Airbus,2024,Q1,AIR,AIR.PA,2024-04-25,,,ERROR,,,
+64,data_collection\NLP_Dataset\Allstate\2017_Q4_all.txt,Allstate,2017,Q4,ALL,ALL,2018-02-07,,,,,,
+65,data_collection\NLP_Dataset\Allstate\2018_Q1_all.txt,Allstate,2018,Q1,ALL,ALL,2018-05-01,,,,,,
+66,data_collection\NLP_Dataset\Allstate\2018_Q2_all.txt,Allstate,2018,Q2,ALL,ALL,2018-08-01,,,,,,
+67,data_collection\NLP_Dataset\Allstate\2018_Q3_all.txt,Allstate,2018,Q3,ALL,ALL,2018-10-31,,,,,,
+68,data_collection\NLP_Dataset\Allstate\2018_Q4_all.txt,Allstate,2018,Q4,ALL,ALL,2019-02-05,,,,,,
+69,data_collection\NLP_Dataset\Allstate\2019_Q1_all.txt,Allstate,2019,Q1,ALL,ALL,2019-05-01,,,,,,
+70,data_collection\NLP_Dataset\Allstate\2019_Q2_all.txt,Allstate,2019,Q2,ALL,ALL,2019-07-30,,,,,,
+71,data_collection\NLP_Dataset\Allstate\2019_Q3_all.txt,Allstate,2019,Q3,ALL,ALL,2019-10-29,sell,"Ticker
+ALL    3.538155
+dtype: float64","Decision: 0
+Rationale: Allstate reported strong Q3 2019 results, with adjusted EPS of $2.84, revenue above $11 billion, a 14.2% adjusted ROE, and improved underwriting margins. Property-liability premiums grew 5.8%, policy counts increased, and the company highlighted sustainable expense improvements and competitive advantages in homeowners insurance. The stock also showed a general upward trend in the preceding months, supported by solid fundamentals, aggressive share repurchases, and a strong capital position. Given the positive earnings trajectory and management's confident outlook, the stock is likely to be higher two months after the earnings call.",,,
+72,data_collection\NLP_Dataset\Allstate\2019_Q4_all.txt,Allstate,2019,Q4,ALL,ALL,2020-02-04,,,,,,
+73,data_collection\NLP_Dataset\Allstate\2020_Q1_all.txt,Allstate,2020,Q1,ALL,ALL,2020-05-05,,,,,,
+74,data_collection\NLP_Dataset\Allstate\2020_Q2_all.txt,Allstate,2020,Q2,ALL,ALL,2020-08-04,,,,,,
+75,data_collection\NLP_Dataset\Allstate\2020_Q3_all.txt,Allstate,2020,Q3,ALL,ALL,2020-11-04,,,,,,
+76,data_collection\NLP_Dataset\Allstate\2020_Q4_all.txt,Allstate,2020,Q4,ALL,ALL,2021-02-03,,,,,,
+77,data_collection\NLP_Dataset\Allstate\2021_Q1_all.txt,Allstate,2021,Q1,ALL,ALL,2021-05-05,,,,,,
+78,data_collection\NLP_Dataset\Allstate\2021_Q2_all.txt,Allstate,2021,Q2,ALL,ALL,2021-08-04,,,,,,
+79,data_collection\NLP_Dataset\Allstate\2021_Q3_all.txt,Allstate,2021,Q3,ALL,ALL,2021-11-03,sell,"Ticker
+ALL   -6.812576
+dtype: float64","Decision: 1  
+Rationale: The Q3 2021 earnings call revealed deteriorating auto insurance underwriting results due to higher claim frequency and severe inflation in used-car and parts costs. The overall reported combined ratio worsened to 105.3, and Allstate had to strengthen prior-year reserves, indicating near-term profitability pressure. Although management is raising rates, those increases take roughly six months to earn into results, so the benefit will likely not materialize within the two-month investment horizon. The stock has also been trending downward in recent weeks, consistent with investor concerns about elevated loss costs and margin compression. Therefore, the stock is more likely to decline over the next two months, so the appropriate action is to sell.",,,
+80,data_collection\NLP_Dataset\Allstate\2021_Q4_all.txt,Allstate,2021,Q4,ALL,ALL,2022-02-02,,,,,,
+81,data_collection\NLP_Dataset\Allstate\2022_Q1_all.txt,Allstate,2022,Q1,ALL,ALL,2022-05-04,,,,,,
+82,data_collection\NLP_Dataset\Allstate\2022_Q2_all.txt,Allstate,2022,Q2,ALL,ALL,2022-08-03,,,,,,
+83,data_collection\NLP_Dataset\Allstate\2022_Q3_all.txt,Allstate,2022,Q3,ALL,ALL,2022-11-02,,,,,,
+84,data_collection\NLP_Dataset\Allstate\2022_Q4_all.txt,Allstate,2022,Q4,ALL,ALL,2023-02-01,,,,,,
+85,data_collection\NLP_Dataset\Allstate\2023_Q1_all.txt,Allstate,2023,Q1,ALL,ALL,2023-05-03,,,,,,
+86,data_collection\NLP_Dataset\Allstate\2023_Q2_all.txt,Allstate,2023,Q2,ALL,ALL,2023-08-01,,,,,,
+87,data_collection\NLP_Dataset\Allstate\2023_Q3_all.txt,Allstate,2023,Q3,ALL,ALL,2023-11-01,sell,"Ticker
+ALL    10.531563
+dtype: float64","Decision: 0. Rationale: Allstate is showing clear progress on its core profit improvement plan, with auto underwriting losses narrowing significantly, strong rate increases implemented, and expense reductions underway. The company’s underlying combined ratio improved, investment income remains stable, and the planned sale of its Health and Benefits business could unlock additional value and sharpen strategic focus. Despite ongoing regulatory challenges in a few states, overall fundamentals are improving and the recent price trend has been positive. Given the two-month liquidation horizon, I expect the stock to be higher based on continued margin recovery and favorable earnings momentum.",,,
+88,data_collection\NLP_Dataset\Allstate\2023_Q4_all.txt,Allstate,2023,Q4,ALL,ALL,2024-02-07,,,,,,
+89,data_collection\NLP_Dataset\Allstate\2024_Q1_all.txt,Allstate,2024,Q1,ALL,ALL,2024-05-01,,,,,,
+90,data_collection\NLP_Dataset\Allstate\2024_Q2_all.txt,Allstate,2024,Q2,ALL,ALL,2024-07-31,,,,,,
+91,data_collection\NLP_Dataset\Alphabet\2017_Q4_googl.txt,Alphabet,2017,Q4,GOOGL,GOOG,2018-02-01,,,,,,
+92,data_collection\NLP_Dataset\Alphabet\2018_Q1_googl.txt,Alphabet,2018,Q1,GOOGL,GOOG,2018-04-23,,,,,,
+93,data_collection\NLP_Dataset\Alphabet\2018_Q2_googl.txt,Alphabet,2018,Q2,GOOGL,GOOG,2018-07-23,,,,,,
+94,data_collection\NLP_Dataset\Alphabet\2018_Q3_googl.txt,Alphabet,2018,Q3,GOOGL,GOOG,2018-10-25,,,,,,
+95,data_collection\NLP_Dataset\Alphabet\2018_Q4_googl.txt,Alphabet,2018,Q4,GOOGL,GOOG,2019-02-04,buy,"Ticker
+GOOG    3.62405
+dtype: float64","Decision: 0 for Buy.  
+Rationale: Alphabet delivered strong Q4 2018 results with total revenue up 22% year-over-year, driven by mobile search, YouTube, Cloud, and Hardware. Cloud is growing quickly with large enterprise deals, YouTube's ad momentum remains strong, and management authorized an additional $12.5 billion buyback, signaling confidence. Although expenses grew faster than revenue and margins compressed, the company expects capex growth to moderate in 2019, which should ease margin pressure. Past price data also shows a recovery from the December low into an upward trend leading into the call. Given the solid fundamentals, strong cash flow, and positive momentum, the stock is likely to be higher in two months.",,,
+96,data_collection\NLP_Dataset\Alphabet\2019_Q1_googl.txt,Alphabet,2019,Q1,GOOGL,GOOG,2019-04-29,,,,,,
+97,data_collection\NLP_Dataset\Alphabet\2019_Q2_googl.txt,Alphabet,2019,Q2,GOOGL,GOOG,2019-07-25,,,,,,
+98,data_collection\NLP_Dataset\Alphabet\2019_Q3_googl.txt,Alphabet,2019,Q3,GOOGL,GOOG,2019-10-28,,,,,,
+99,data_collection\NLP_Dataset\Alphabet\2019_Q4_googl.txt,Alphabet,2019,Q4,GOOGL,GOOG,2020-02-03,,,,,,
+100,data_collection\NLP_Dataset\Alphabet\2020_Q1_googl.txt,Alphabet,2020,Q1,GOOGL,GOOG,2020-04-28,,,,,,
+101,data_collection\NLP_Dataset\Alphabet\2020_Q2_googl.txt,Alphabet,2020,Q2,GOOGL,GOOG,2020-07-30,,,,,,
+102,data_collection\NLP_Dataset\Alphabet\2020_Q3_googl.txt,Alphabet,2020,Q3,GOOGL,GOOG,2020-10-29,,,,,,
+103,data_collection\NLP_Dataset\Alphabet\2020_Q4_googl.txt,Alphabet,2020,Q4,GOOGL,GOOG,2021-02-02,buy,"Ticker
+GOOG    10.420135
+dtype: float64","Decision: 0  
+Rationale: The Q4 2020 earnings call shows very strong fundamental momentum: total revenue up 23%, YouTube advertising up 46%, Google Cloud up 47%, and cloud backlog nearly tripling to ~$30 billion. Advertiser spending rebounded broadly, especially in retail, and management expressed confidence in continued growth with easier year-over-year comparisons in early 2021. Past price data also shows a recovery and upward trend into early February. Given the strong earnings results, accelerating digital ad demand, and cloud growth trajectory, the stock is more likely to be higher two months from now than its current level. Therefore, I would buy.",,,
+104,data_collection\NLP_Dataset\Alphabet\2021_Q1_googl.txt,Alphabet,2021,Q1,GOOGL,GOOG,2021-04-27,,,,,,
+105,data_collection\NLP_Dataset\Alphabet\2021_Q2_googl.txt,Alphabet,2021,Q2,GOOGL,GOOG,2021-07-27,,,,,,
+106,data_collection\NLP_Dataset\Alphabet\2021_Q3_googl.txt,Alphabet,2021,Q3,GOOGL,GOOG,2021-10-26,,,,,,
+107,data_collection\NLP_Dataset\Alphabet\2021_Q4_googl.txt,Alphabet,2021,Q4,GOOGL,GOOG,2022-02-01,,,,,,
+108,data_collection\NLP_Dataset\Alphabet\2022_Q1_googl.txt,Alphabet,2022,Q1,GOOGL,GOOG,2022-04-26,,,,,,
+109,data_collection\NLP_Dataset\Alphabet\2022_Q2_googl.txt,Alphabet,2022,Q2,GOOGL,GOOG,2022-07-26,,,,,,
+110,data_collection\NLP_Dataset\Alphabet\2022_Q3_googl.txt,Alphabet,2022,Q3,GOOGL,GOOG,2022-10-25,,,,,,
+111,data_collection\NLP_Dataset\Alphabet\2022_Q4_googl.txt,Alphabet,2022,Q4,GOOGL,GOOG,2023-02-02,sell,"Ticker
+GOOG   -4.758049
+dtype: float64","Decision: 0. Rationale: Despite advertising pressure, the earnings call points to accelerating high-value areas—Google Cloud grew 32%, subscriptions and hardware are strong, and AI-driven products are being rolled out aggressively. Management is also cutting costs and slowing hiring, which should improve margins; the stock has already rebounded from recent lows. Over the two-month horizon, the positive catalysts from AI, Cloud, and cost discipline likely outweigh the lingering ad-market headwinds, so the stock is more likely to move higher.",,,
+112,data_collection\NLP_Dataset\Alphabet\2023_Q1_googl.txt,Alphabet,2023,Q1,GOOGL,GOOG,2023-04-25,,,,,,
+113,data_collection\NLP_Dataset\Alphabet\2023_Q2_googl.txt,Alphabet,2023,Q2,GOOGL,GOOG,2023-07-25,,,,,,
+114,data_collection\NLP_Dataset\Alphabet\2023_Q3_googl.txt,Alphabet,2023,Q3,GOOGL,GOOG,2023-10-24,,,,,,
+115,data_collection\NLP_Dataset\Alphabet\2023_Q4_googl.txt,Alphabet,2023,Q4,GOOGL,GOOG,2024-01-30,,,,,,
+116,data_collection\NLP_Dataset\Alphabet\2024_Q1_googl.txt,Alphabet,2024,Q1,GOOGL,GOOG,2024-04-25,,,,,,
+117,data_collection\NLP_Dataset\Alphabet\2024_Q2_googl.txt,Alphabet,2024,Q2,GOOGL,GOOG,2024-07-23,,,,,,
+138,data_collection\NLP_Dataset\Amazon\2017_Q4_amzn.txt,Amazon,2017,Q4,AMZN,AMZN,2018-02-01,,,,,,
+139,data_collection\NLP_Dataset\Amazon\2018_Q1_amzn.txt,Amazon,2018,Q1,AMZN,AMZN,2018-04-26,sell,"Ticker
+AMZN    7.259499
+dtype: float64","Decision: 0. Rationale: The earnings call highlights strong Q1 2018 performance, including revenue and operating income above expectations, accelerating AWS growth at 48% ex-FX, and advertising as a highly profitable, fast-growing business. The company also raised Prime pricing for the first time since 2014, demonstrating pricing power and confidence in the value proposition. Management’s Q2 outlook incorporates continued strength in consumer demand, AWS, and advertising. While the stock had pulled back in the weeks before the call, the positive fundamental developments and better-than-expected earnings are likely to drive the stock higher over the two-month horizon. Therefore, I expect the stock to be above the earnings call closing price in two months.",,,
+140,data_collection\NLP_Dataset\Amazon\2018_Q2_amzn.txt,Amazon,2018,Q2,AMZN,AMZN,2018-07-26,,,,,,
+141,data_collection\NLP_Dataset\Amazon\2018_Q3_amzn.txt,Amazon,2018,Q3,AMZN,AMZN,2018-10-25,,,,,,
+142,data_collection\NLP_Dataset\Amazon\2018_Q4_amzn.txt,Amazon,2018,Q4,AMZN,AMZN,2019-01-31,,,,,,
+143,data_collection\NLP_Dataset\Amazon\2019_Q1_amzn.txt,Amazon,2019,Q1,AMZN,AMZN,2019-04-25,,,,,,
+144,data_collection\NLP_Dataset\Amazon\2019_Q2_amzn.txt,Amazon,2019,Q2,AMZN,AMZN,2019-07-25,,,,,,
+145,data_collection\NLP_Dataset\Amazon\2019_Q3_amzn.txt,Amazon,2019,Q3,AMZN,AMZN,2019-10-24,,,,,,
+146,data_collection\NLP_Dataset\Amazon\2019_Q4_amzn.txt,Amazon,2019,Q4,AMZN,AMZN,2020-01-30,,,,,,
+147,data_collection\NLP_Dataset\Amazon\2020_Q1_amzn.txt,Amazon,2020,Q1,AMZN,AMZN,2020-04-30,sell,"Ticker
+AMZN    10.319
+dtype: float64","Decision: 0. Rationale: The Q1 2020 earnings call shows strong underlying demand for Amazon’s e-commerce, grocery delivery, AWS, and Prime digital services during COVID-19. Revenue growth remains robust, AWS continues to grow, and third-party sellers remain a large part of the business. The $4 billion in expected Q2 COVID-related costs is a temporary margin pressure rather than a structural decline, and Amazon is using this period to expand capacity and deepen customer engagement. Past price data also shows the stock recovering from the March selloff and trending upward through April. With the two-month liquidation horizon, the durable demand and strategic positioning during the crisis likely push the stock higher despite near-term cost headwinds.",,,
+148,data_collection\NLP_Dataset\Amazon\2020_Q2_amzn.txt,Amazon,2020,Q2,AMZN,AMZN,2020-07-30,,,,,,
+149,data_collection\NLP_Dataset\Amazon\2020_Q3_amzn.txt,Amazon,2020,Q3,AMZN,AMZN,2020-10-29,,,,,,
+150,data_collection\NLP_Dataset\Amazon\2020_Q4_amzn.txt,Amazon,2020,Q4,AMZN,AMZN,2021-02-02,,,,,,
+151,data_collection\NLP_Dataset\Amazon\2021_Q1_amzn.txt,Amazon,2021,Q1,AMZN,AMZN,2021-04-29,,,,,,
+152,data_collection\NLP_Dataset\Amazon\2021_Q2_amzn.txt,Amazon,2021,Q2,AMZN,AMZN,2021-07-29,,,,,,
+153,data_collection\NLP_Dataset\Amazon\2021_Q3_amzn.txt,Amazon,2021,Q3,AMZN,AMZN,2021-10-28,,,,,,
+154,data_collection\NLP_Dataset\Amazon\2021_Q4_amzn.txt,Amazon,2021,Q4,AMZN,AMZN,2022-02-03,,,,,,
+155,data_collection\NLP_Dataset\Amazon\2022_Q1_amzn.txt,Amazon,2022,Q1,AMZN,AMZN,2022-04-28,sell,"Ticker
+AMZN   -31.376495
+dtype: float64","Decision: 1. Rationale: The Q1 earnings call highlighted significant near-term headwinds: Q2 guidance implies weak revenue growth due to tough comparisons and the shift of Prime Day, while operating income remains pressured by roughly $4 billion in incremental costs from inflation, lower productivity, and fixed-cost deleverage. Management also cited persistent inflationary pressures, higher fuel and shipping costs, and excess capacity that will take several quarters to absorb. The stock had already been trending downward in the weeks before the call, and the guidance does not provide a strong near-term catalyst. Therefore, over the next two months, the stock is more likely to decline than rise.",,,
+156,data_collection\NLP_Dataset\Amazon\2022_Q2_amzn.txt,Amazon,2022,Q2,AMZN,AMZN,2022-07-28,,,,,,
+157,data_collection\NLP_Dataset\Amazon\2022_Q3_amzn.txt,Amazon,2022,Q3,AMZN,AMZN,2022-10-27,,,,,,
+158,data_collection\NLP_Dataset\Amazon\2022_Q4_amzn.txt,Amazon,2022,Q4,AMZN,AMZN,2023-02-02,,,,,,
+159,data_collection\NLP_Dataset\Amazon\2023_Q1_amzn.txt,Amazon,2023,Q1,AMZN,AMZN,2023-04-27,,,,,,
+160,data_collection\NLP_Dataset\Amazon\2023_Q2_amzn.txt,Amazon,2023,Q2,AMZN,AMZN,2023-08-03,,,,,,
+161,data_collection\NLP_Dataset\Amazon\2023_Q3_amzn.txt,Amazon,2023,Q3,AMZN,AMZN,2023-10-26,,,,,,
+162,data_collection\NLP_Dataset\Amazon\2023_Q4_amzn.txt,Amazon,2023,Q4,AMZN,AMZN,2024-02-01,,,,,,
+163,data_collection\NLP_Dataset\Amazon\2024_Q1_amzn.txt,Amazon,2024,Q1,AMZN,AMZN,2024-04-30,buy,"Ticker
+AMZN    18.25
+dtype: float64","Decision: 0 (Buy).  
+Rationale: Amazon delivered exceptionally strong Q1 2024 results, with revenue growth of 13%, operating income up 221%, and record free cash flow. AWS growth accelerated to 17% year-over-year, driven by renewed cloud modernization and generative AI demand, with management signaling continued strong growth and significant capital investment to support future demand. Advertising revenue grew 24%, and the company gave solid Q2 guidance. The stock closed at $180.96 on April 29, 2024, and the positive earnings report and optimistic outlook likely drive the stock higher over the next two months despite potential macro headwinds.",,,
+164,data_collection\NLP_Dataset\Amazon\2024_Q2_amzn.txt,Amazon,2024,Q2,AMZN,AMZN,2024-08-01,,,,,,
+165,data_collection\NLP_Dataset\AMD\2017_Q4_amd.txt,AMD,2017,Q4,AMD,AMD,2018-01-30,,,,,,
+166,data_collection\NLP_Dataset\AMD\2018_Q1_amd.txt,AMD,2018,Q1,AMD,AMD,2018-04-25,,,,,,
+167,data_collection\NLP_Dataset\AMD\2018_Q2_amd.txt,AMD,2018,Q2,AMD,AMD,2018-07-25,,,,,,
+168,data_collection\NLP_Dataset\AMD\2018_Q3_amd.txt,AMD,2018,Q3,AMD,AMD,2018-10-24,,,,,,
+169,data_collection\NLP_Dataset\AMD\2018_Q4_amd.txt,AMD,2018,Q4,AMD,AMD,2019-01-29,,,,,,
+170,data_collection\NLP_Dataset\AMD\2019_Q1_amd.txt,AMD,2019,Q1,AMD,AMD,2019-04-30,,,,,,
+171,data_collection\NLP_Dataset\AMD\2019_Q2_amd.txt,AMD,2019,Q2,AMD,AMD,2019-07-30,sell,"Ticker
+AMD   -5.15
+dtype: float64","Decision: 0. Rationale: The earnings call signals a strong inflection point with robust demand for new Ryzen, Radeon, and EPYC Rome products, positive Q3 revenue guidance of approximately $1.8 billion, improving gross margins, and strategic wins like Samsung and data center/HPC deals. Past price data also shows an underlying uptrend into the call. These catalysts should support further stock appreciation over the next two months.",,,
+172,data_collection\NLP_Dataset\AMD\2019_Q3_amd.txt,AMD,2019,Q3,AMD,AMD,2019-10-29,,,,,,
+173,data_collection\NLP_Dataset\AMD\2019_Q4_amd.txt,AMD,2019,Q4,AMD,AMD,2020-01-28,,,,,,
+174,data_collection\NLP_Dataset\AMD\2020_Q1_amd.txt,AMD,2020,Q1,AMD,AMD,2020-04-28,,,,,,
+175,data_collection\NLP_Dataset\AMD\2020_Q2_amd.txt,AMD,2020,Q2,AMD,AMD,2020-07-28,,,,,,
+176,data_collection\NLP_Dataset\AMD\2020_Q3_amd.txt,AMD,2020,Q3,AMD,AMD,2020-10-27,,,,,,
+177,data_collection\NLP_Dataset\AMD\2020_Q4_amd.txt,AMD,2020,Q4,AMD,AMD,2021-01-26,,,,,,
+178,data_collection\NLP_Dataset\AMD\2021_Q1_amd.txt,AMD,2021,Q1,AMD,AMD,2021-04-27,,,,,,
+179,data_collection\NLP_Dataset\AMD\2021_Q2_amd.txt,AMD,2021,Q2,AMD,AMD,2021-07-27,buy,"Ticker
+AMD    14.770004
+dtype: float64","Decision: 0
+Rationale: AMD delivered exceptionally strong Q2 2021 results with 99% year-over-year revenue growth, record free cash flow, expanded operating margins, and raised full-year revenue growth guidance to approximately 60%. The company highlighted accelerating data center demand, strong EPYC server momentum, broad product strength across PC, gaming, and semi-custom, and continued progress on the Xilinx acquisition. Past price data also shows a sustained uptrend into the earnings call, with the stock making higher lows and breaking out in late June/July. Given the strong fundamental trajectory and positive earnings surprise, the stock is likely to trend higher over the next two months, so the appropriate action is to buy.",,,
+180,data_collection\NLP_Dataset\AMD\2021_Q3_amd.txt,AMD,2021,Q3,AMD,AMD,2021-10-26,,,,,,
+181,data_collection\NLP_Dataset\AMD\2021_Q4_amd.txt,AMD,2021,Q4,AMD,AMD,2022-02-01,,,,,,
+182,data_collection\NLP_Dataset\AMD\2022_Q1_amd.txt,AMD,2022,Q1,AMD,AMD,2022-05-03,,,,,,
+183,data_collection\NLP_Dataset\AMD\2022_Q2_amd.txt,AMD,2022,Q2,AMD,AMD,2022-08-02,,,,,,
+184,data_collection\NLP_Dataset\AMD\2022_Q3_amd.txt,AMD,2022,Q3,AMD,AMD,2022-11-01,,,,,,
+185,data_collection\NLP_Dataset\AMD\2022_Q4_amd.txt,AMD,2022,Q4,AMD,AMD,2023-01-31,,,,,,
+186,data_collection\NLP_Dataset\AMD\2023_Q1_amd.txt,AMD,2023,Q1,AMD,AMD,2023-05-02,,,,,,
+187,data_collection\NLP_Dataset\AMD\2023_Q2_amd.txt,AMD,2023,Q2,AMD,AMD,2023-08-01,sell,"Ticker
+AMD   -14.779999
+dtype: float64","Decision: 1
+
+Rationale: The earnings call guidance is only moderately positive for the near term: Q3 revenue is guided to $5.7 billion, up roughly 2.5% year-over-year, with Datacenter expected to be roughly flat year-over-year and Gaming/Embedded declining. The major AI/GPU ramp, especially MI300, is weighted to Q4, which is beyond the two-month liquidation horizon. Given recent price weakness and the limited immediate revenue catalyst, the stock is more likely to be lower in two months.",,,
+188,data_collection\NLP_Dataset\AMD\2023_Q3_amd.txt,AMD,2023,Q3,AMD,AMD,2023-10-31,,,,,,
+189,data_collection\NLP_Dataset\AMD\2023_Q4_amd.txt,AMD,2023,Q4,AMD,AMD,2024-01-30,,,,,,
+190,data_collection\NLP_Dataset\AMD\2024_Q1_amd.txt,AMD,2024,Q1,AMD,AMD,2024-04-30,,,,,,
+191,data_collection\NLP_Dataset\AMD\2024_Q2_amd.txt,AMD,2024,Q2,AMD,AMD,2024-07-30,,,,,,
+192,data_collection\NLP_Dataset\Apple\2018_Q1_aapl.txt,Apple,2018,Q1,AAPL,AAPL,2018-05-01,,,,,,
+193,data_collection\NLP_Dataset\Apple\2018_Q2_aapl.txt,Apple,2018,Q2,AAPL,AAPL,2018-07-31,,,,,,
+194,data_collection\NLP_Dataset\Apple\2018_Q3_aapl.txt,Apple,2018,Q3,AAPL,AAPL,2018-11-01,,,,,,
+195,data_collection\NLP_Dataset\Apple\2018_Q4_aapl.txt,Apple,2018,Q4,AAPL,AAPL,2019-01-29,sell,"Ticker
+AAPL    8.268612
+dtype: float64","Decision: 1. Rationale: The earnings call highlighted strong past results, but the forward-looking guidance for the December quarter included significant headwinds: nearly $2 billion in foreign exchange pressure, macroeconomic uncertainty in emerging markets, an unprecedented number of product ramps with supply/demand uncertainty, and a slowdown in China App Store game approvals. Additionally, Apple’s decision to stop disclosing iPhone unit sales was viewed negatively by investors and raised concerns about demand visibility. The subsequent price data shows a clear downward trend from late November through January, indicating the stock declined over the relevant two-month horizon. Therefore, the stock was more likely to go down than up.",,,
+196,data_collection\NLP_Dataset\Apple\2019_Q1_aapl.txt,Apple,2019,Q1,AAPL,AAPL,2019-04-30,,,,,,
+197,data_collection\NLP_Dataset\Apple\2019_Q2_aapl.txt,Apple,2019,Q2,AAPL,AAPL,2019-07-30,,,,,,
+198,data_collection\NLP_Dataset\Apple\2019_Q3_aapl.txt,Apple,2019,Q3,AAPL,AAPL,2019-10-30,,,,,,
+199,data_collection\NLP_Dataset\Apple\2019_Q4_aapl.txt,Apple,2019,Q4,AAPL,AAPL,2020-01-28,,,,,,
+200,data_collection\NLP_Dataset\Apple\2020_Q1_aapl.txt,Apple,2020,Q1,AAPL,AAPL,2020-04-30,,,,,,
+201,data_collection\NLP_Dataset\Apple\2020_Q2_aapl.txt,Apple,2020,Q2,AAPL,AAPL,2020-07-30,,,,,,
+202,data_collection\NLP_Dataset\Apple\2020_Q3_aapl.txt,Apple,2020,Q3,AAPL,AAPL,2020-10-29,,,,,,
+203,data_collection\NLP_Dataset\Apple\2020_Q4_aapl.txt,Apple,2020,Q4,AAPL,AAPL,2021-01-27,buy,"Ticker
+AAPL   -20.082832
+dtype: float64","Decision: 0. Rationale: The earnings call highlights strong overall performance, including record revenue, strong Services growth, and a very positive reception for the iPhone 12 lineup with the 5G upgrade cycle and carrier promotions. Management also expects iPhone revenue to grow in the December quarter and other product categories/services to grow double digits, supporting a bullish near-term outlook. The subsequent price data shows a clear upward trend from around $113 in late November 2020 to over $139 by late January 2021, with the stock trading well above the earnings call level around the two-month mark. Therefore, the stock is likely to be higher over the two-month horizon, so the appropriate action is to buy.",,,
+204,data_collection\NLP_Dataset\Apple\2021_Q1_aapl.txt,Apple,2021,Q1,AAPL,AAPL,2021-04-28,,,,,,
+205,data_collection\NLP_Dataset\Apple\2021_Q2_aapl.txt,Apple,2021,Q2,AAPL,AAPL,2021-07-27,,,,,,
+206,data_collection\NLP_Dataset\Apple\2021_Q3_aapl.txt,Apple,2021,Q3,AAPL,AAPL,2021-10-28,,,,,,
+207,data_collection\NLP_Dataset\Apple\2021_Q4_aapl.txt,Apple,2021,Q4,AAPL,AAPL,2022-01-27,,,,,,
+208,data_collection\NLP_Dataset\Apple\2022_Q1_aapl.txt,Apple,2022,Q1,AAPL,AAPL,2022-04-28,,,,,,
+209,data_collection\NLP_Dataset\Apple\2022_Q2_aapl.txt,Apple,2022,Q2,AAPL,AAPL,2022-07-28,,,,,,
+210,data_collection\NLP_Dataset\Apple\2022_Q3_aapl.txt,Apple,2022,Q3,AAPL,AAPL,2022-10-27,,,,,,
+211,data_collection\NLP_Dataset\Apple\2022_Q4_aapl.txt,Apple,2022,Q4,AAPL,AAPL,2023-02-02,sell,"Ticker
+AAPL    14.092575
+dtype: float64","Decision: 1
+
+Rationale: The stock should be sold because the company guided to a significant deceleration in December-quarter revenue, citing nearly 10 percentage points of negative foreign-exchange impact, a substantial year-over-year decline in Mac revenue, and softness in Services from digital advertising and gaming. Management did not provide formal revenue guidance due to macroeconomic uncertainty, which creates downside risk. The provided price data also shows AAPL declining from around $145.34 on December 2 to $127.76 on December 30 and $123.94 in late December, indicating negative momentum over the relevant two-month liquidation horizon. Therefore, the stock is likely to be lower in two months, supporting a Sell decision.",,,
+212,data_collection\NLP_Dataset\Apple\2023_Q1_aapl.txt,Apple,2023,Q1,AAPL,AAPL,2023-05-04,,,,,,
+213,data_collection\NLP_Dataset\Apple\2023_Q2_aapl.txt,Apple,2023,Q2,AAPL,AAPL,2023-08-03,,,,,,
+214,data_collection\NLP_Dataset\Apple\2023_Q3_aapl.txt,Apple,2023,Q3,AAPL,AAPL,2023-11-02,,,,,,
+215,data_collection\NLP_Dataset\Apple\2023_Q4_aapl.txt,Apple,2023,Q4,AAPL,AAPL,2024-02-01,,,,,,
+216,data_collection\NLP_Dataset\Apple\2024_Q1_aapl.txt,Apple,2024,Q1,AAPL,AAPL,2024-05-02,,,,,,
+217,data_collection\NLP_Dataset\Apple\2024_Q2_aapl.txt,Apple,2024,Q2,AAPL,AAPL,2024-08-01,,,,,,
+218,data_collection\NLP_Dataset\Apple\2024_Q3_aapl.txt,Apple,2024,Q3,AAPL,AAPL,2024-10-31,,,,,,
+219,data_collection\NLP_Dataset\AXP\2017_Q4_axp.txt,AXP,2017,Q4,AXP,AXP,2018-01-18,sell,"Ticker
+AXP   -3.795609
+dtype: float64","Decision: 0.  
+Rationale: The company reported strong momentum with Q4 adjusted EPS in line with elevated guidance, 9% FX-adjusted revenue growth, accelerating billings growth, and record performance in key products like Platinum. Management issued upbeat 2018 EPS guidance of $6.90–$7.30, benefiting from a lower corporate tax rate and continued loan/revenue growth. Although there are headwinds from the temporary buyback suspension and lower margins on Hilton/Marriott renewals, the overall fundamentals and growth trajectory are positive, making it likely the stock will be higher in two months.",,,
+220,data_collection\NLP_Dataset\AXP\2018_Q1_axp.txt,AXP,2018,Q1,AXP,AXP,2018-04-18,,,,,,
+221,data_collection\NLP_Dataset\AXP\2018_Q2_axp.txt,AXP,2018,Q2,AXP,AXP,2018-07-18,,,,,,
+222,data_collection\NLP_Dataset\AXP\2018_Q3_axp.txt,AXP,2018,Q3,AXP,AXP,2018-10-18,,,,,,
+223,data_collection\NLP_Dataset\AXP\2018_Q4_axp.txt,AXP,2018,Q4,AXP,AXP,2019-01-17,,,,,,
+224,data_collection\NLP_Dataset\AXP\2019_Q1_axp.txt,AXP,2019,Q1,AXP,AXP,2019-04-18,,,,,,
+225,data_collection\NLP_Dataset\AXP\2019_Q2_axp.txt,AXP,2019,Q2,AXP,AXP,2019-07-19,,,,,,
+226,data_collection\NLP_Dataset\AXP\2019_Q3_axp.txt,AXP,2019,Q3,AXP,AXP,2019-10-18,,,,,,
+227,data_collection\NLP_Dataset\AXP\2019_Q4_axp.txt,AXP,2019,Q4,AXP,AXP,2020-01-24,buy,"Ticker
+AXP   -60.81311
+dtype: float64","Decision: 0 for Buy
+
+Rationale: American Express delivered another strong quarter with 9% revenue growth, marking the 10th consecutive quarter of 8%+ FX-adjusted revenue growth. The company provided solid 2020 guidance of 8-10% revenue growth and EPS of $8.85-$9.25, implying continued double-digit earnings growth. Key positive drivers include: card fee revenue accelerating to 20% growth in Q4, achieving 99% US merchant coverage (virtual parity), strong international growth (11% consumer, 15% SME), and stable credit metrics with delinquencies relatively steady. The stock has been in a clear uptrend from $110 in late November to $121 in late January, reflecting growing investor confidence. The positive earnings call with reaffirmed guidance and the company's momentum in product refreshes, network expansion, and digital engagement should continue to support the stock price over the next two months.",,,
+228,data_collection\NLP_Dataset\AXP\2020_Q1_axp.txt,AXP,2020,Q1,AXP,AXP,2020-04-24,,,,,,
+229,data_collection\NLP_Dataset\AXP\2020_Q2_axp.txt,AXP,2020,Q2,AXP,AXP,2020-07-24,,,,,,
+230,data_collection\NLP_Dataset\AXP\2020_Q3_axp.txt,AXP,2020,Q3,AXP,AXP,2020-10-23,,,,,,
+231,data_collection\NLP_Dataset\AXP\2020_Q4_axp.txt,AXP,2020,Q4,AXP,AXP,2021-01-26,,,,,,
+232,data_collection\NLP_Dataset\AXP\2021_Q1_axp.txt,AXP,2021,Q1,AXP,AXP,2021-04-23,,,,,,
+233,data_collection\NLP_Dataset\AXP\2021_Q2_axp.txt,AXP,2021,Q2,AXP,AXP,2021-07-23,,,,,,
+234,data_collection\NLP_Dataset\AXP\2021_Q3_axp.txt,AXP,2021,Q3,AXP,AXP,2021-10-22,,,,,,
+235,data_collection\NLP_Dataset\AXP\2021_Q4_axp.txt,AXP,2021,Q4,AXP,AXP,2022-01-25,buy,"Ticker
+AXP    14.923737
+dtype: float64","Decision: 0 (Buy)
+
+Rationale: The earnings call reflects strong momentum at American Express, including record spending, robust goods and services growth, strong card acquisitions, and a positive 2022 outlook of 18%–20% revenue growth. Management also raised the dividend and announced plans to return capital via buybacks, signaling confidence in future earnings. Despite a recent pullback in the stock price, the fundamental outlook points to continued recovery in T&E spending, loan growth, and long-term EPS growth. Over a two-month horizon, the stock is more likely to trend higher.",,,
+236,data_collection\NLP_Dataset\AXP\2022_Q1_axp.txt,AXP,2022,Q1,AXP,AXP,2022-04-22,,,,,,
+237,data_collection\NLP_Dataset\AXP\2022_Q2_axp.txt,AXP,2022,Q2,AXP,AXP,2022-07-22,,,,,,
+238,data_collection\NLP_Dataset\AXP\2022_Q3_axp.txt,AXP,2022,Q3,AXP,AXP,2022-10-21,,,,,,
+239,data_collection\NLP_Dataset\AXP\2022_Q4_axp.txt,AXP,2022,Q4,AXP,AXP,2023-01-27,,,,,,
+240,data_collection\NLP_Dataset\AXP\2023_Q1_axp.txt,AXP,2023,Q1,AXP,AXP,2023-04-20,,,,,,
+241,data_collection\NLP_Dataset\AXP\2023_Q2_axp.txt,AXP,2023,Q2,AXP,AXP,2023-07-21,,,,,,
+242,data_collection\NLP_Dataset\AXP\2023_Q3_axp.txt,AXP,2023,Q3,AXP,AXP,2023-10-20,,,,,,
+243,data_collection\NLP_Dataset\AXP\2023_Q4_axp.txt,AXP,2023,Q4,AXP,AXP,2024-01-26,sell,"Ticker
+AXP    23.932755
+dtype: float64","Decision: 0
+
+Rationale: The company delivered strong 2023 results with record revenue and EPS, and management guided 2024 revenue growth of 9–11% with EPS of $12.65–$13.15, implying continued earnings momentum. The dividend increase, strong premium cardholder acquisition, resilient credit quality, and ongoing product innovation support positive forward sentiment. While there are signs of modest spending softness and SME growth slowing, the overall fundamentals remain solid, and the stock has been in a clear uptrend leading into the earnings report. Over a two-month horizon, the favorable guidance and earnings power should drive the stock higher from its recent close.",,,
+244,data_collection\NLP_Dataset\AXP\2024_Q1_axp.txt,AXP,2024,Q1,AXP,AXP,2024-04-19,,,,,,
+245,data_collection\NLP_Dataset\AXP\2024_Q2_axp.txt,AXP,2024,Q2,AXP,AXP,2024-07-19,,,,,,
+266,data_collection\NLP_Dataset\BAM\2022_Q4_bam.txt,BAM,2022,Q4,BAM,BAM,2023-02-08,,,,,,
+267,data_collection\NLP_Dataset\BAM\2023_Q1_bam.txt,BAM,2023,Q1,BAM,BAM,2023-05-10,,,,,,
+268,data_collection\NLP_Dataset\BAM\2023_Q2_bam.txt,BAM,2023,Q2,BAM,BAM,2023-08-09,,,,,,
+269,data_collection\NLP_Dataset\BAM\2023_Q3_bam.txt,BAM,2023,Q3,BAM,BAM,2023-11-06,,,,,,
+270,data_collection\NLP_Dataset\BAM\2023_Q4_bam.txt,BAM,2023,Q4,BAM,BAM,2024-02-07,,,,,,
+271,data_collection\NLP_Dataset\BAM\2024_Q1_bam.txt,BAM,2024,Q1,BAM,BAM,2024-05-08,sell,"Ticker
+BAM   -0.293217
+dtype: float64","Decision: 0
+
+Rationale: The earnings call highlights strong Q1 performance, including $20 billion raised, 15% growth in fee-related revenues, expansion of fee-bearing capital, the AEL mandate adding $50 billion in assets and $125 million in annual fees, and strategic acquisitions like Castle Lake and increased Oaktree ownership. Management also cited improving market sentiment, strong liquidity with no corporate debt, and over $100 billion in dry powder. Recent price action shows the stock stabilizing and rebounding from lows around $35.34 to about $36.81, suggesting positive market reception. Given the strong fundamentals and momentum, the stock is likely to trend higher over the two-month horizon.",,,
+272,data_collection\NLP_Dataset\BAM\2024_Q2_bam.txt,BAM,2024,Q2,BAM,BAM,2024-08-07,,,,,,
+273,data_collection\NLP_Dataset\Bank of America\2017_Q4_bac.txt,Bank of America,2017,Q4,BAC,BAC,2018-01-17,,,,,,
+274,data_collection\NLP_Dataset\Bank of America\2018_Q1_bac.txt,Bank of America,2018,Q1,BAC,BAC,2018-04-16,,,,,,
+275,data_collection\NLP_Dataset\Bank of America\2018_Q2_bac.txt,Bank of America,2018,Q2,BAC,BAC,2018-07-16,,,,,,
+276,data_collection\NLP_Dataset\Bank of America\2018_Q3_bac.txt,Bank of America,2018,Q3,BAC,BAC,2018-10-15,,,,,,
+277,data_collection\NLP_Dataset\Bank of America\2018_Q4_bac.txt,Bank of America,2018,Q4,BAC,BAC,2019-01-16,,,,,,
+278,data_collection\NLP_Dataset\Bank of America\2019_Q1_bac.txt,Bank of America,2019,Q1,BAC,BAC,2019-04-16,,,,,,
+279,data_collection\NLP_Dataset\Bank of America\2019_Q2_bac.txt,Bank of America,2019,Q2,BAC,BAC,2019-07-17,buy,"Ticker
+BAC    0.960516
+dtype: float64","Decision: 0 for Buy. Rationale: Bank of America reported its best quarterly earnings ever, with strong revenue growth, expense discipline, and robust capital returns (dividend increase and $30B buyback). The company demonstrated solid deposit and loan growth, indicating healthy consumer activity. While lower interest rates may pressure NII slightly, management’s guidance remains stable and the balance sheet is strong. The positive earnings surprise and shareholder-friendly actions likely outweigh rate headwinds, suggesting the stock will appreciate over the next two months.",,,
+280,data_collection\NLP_Dataset\Bank of America\2019_Q3_bac.txt,Bank of America,2019,Q3,BAC,BAC,2019-10-16,,,,,,
+281,data_collection\NLP_Dataset\Bank of America\2019_Q4_bac.txt,Bank of America,2019,Q4,BAC,BAC,2020-01-15,,,,,,
+282,data_collection\NLP_Dataset\Bank of America\2020_Q1_bac.txt,Bank of America,2020,Q1,BAC,BAC,2020-04-15,,,,,,
+283,data_collection\NLP_Dataset\Bank of America\2020_Q2_bac.txt,Bank of America,2020,Q2,BAC,BAC,2020-07-16,,,,,,
+284,data_collection\NLP_Dataset\Bank of America\2020_Q3_bac.txt,Bank of America,2020,Q3,BAC,BAC,2020-10-14,,,,,,
+285,data_collection\NLP_Dataset\Bank of America\2020_Q4_bac.txt,Bank of America,2020,Q4,BAC,BAC,2021-01-19,,,,,,
+286,data_collection\NLP_Dataset\Bank of America\2021_Q1_bac.txt,Bank of America,2021,Q1,BAC,BAC,2021-04-15,,,,,,
+287,data_collection\NLP_Dataset\Bank of America\2021_Q2_bac.txt,Bank of America,2021,Q2,BAC,BAC,2021-07-14,buy,"Ticker
+BAC    2.025921
+dtype: float64","Decision: 0
+
+Rationale: The earnings call reflects strong underlying fundamentals: Q2 net income of $9.2 billion, a sizable $2.2 billion reserve release, very low credit losses, improving loan growth trends, and expectations for higher net interest income in the second half. Management also signaled a return to share buybacks, which should support the stock. Despite recent price weakness, the improving economic recovery, strong consumer spending, and positive forward guidance point to a higher stock price over the next two months. Therefore, the appropriate action is to buy.",,,
+288,data_collection\NLP_Dataset\Bank of America\2021_Q3_bac.txt,Bank of America,2021,Q3,BAC,BAC,2021-10-14,,,,,,
+289,data_collection\NLP_Dataset\Bank of America\2021_Q4_bac.txt,Bank of America,2021,Q4,BAC,BAC,2022-01-19,,,,,,
+290,data_collection\NLP_Dataset\Bank of America\2022_Q1_bac.txt,Bank of America,2022,Q1,BAC,BAC,2022-04-18,,,,,,
+291,data_collection\NLP_Dataset\Bank of America\2022_Q2_bac.txt,Bank of America,2022,Q2,BAC,BAC,2022-07-18,,,,,,
+292,data_collection\NLP_Dataset\Bank of America\2022_Q3_bac.txt,Bank of America,2022,Q3,BAC,BAC,2022-10-17,,,,,,
+293,data_collection\NLP_Dataset\Bank of America\2022_Q4_bac.txt,Bank of America,2022,Q4,BAC,BAC,2023-01-13,,,,,,
+294,data_collection\NLP_Dataset\Bank of America\2023_Q1_bac.txt,Bank of America,2023,Q1,BAC,BAC,2023-04-18,,,,,,
+295,data_collection\NLP_Dataset\Bank of America\2023_Q2_bac.txt,Bank of America,2023,Q2,BAC,BAC,2023-07-18,buy,"Ticker
+BAC   -1.502497
+dtype: float64","Decision: 0. Rationale: The earnings call reflects strong underlying results, better-than-expected revenue growth, continued positive operating leverage, and healthy consumer credit with low charge-offs. Management also gave a more stable NII outlook for the rest of 2023 with declining expenses, supporting expectations of continued profitability. Past price momentum has been positive into the report, and the stock is positioned to benefit from the strong earnings narrative, high CET1, and dividend increase over the next two months. Therefore, I expect BAC shares to move higher over the two-month horizon, so I would buy.Decision: 0. Rationale: The earnings call reflects strong underlying fundamentals: record profit, 21% EPS growth, consistent operating leverage, solid capital position, and management guidance for stable to modestly higher NII with improving expense control. These positive factors, along with an announced dividend increase and continued share buyback flexibility, suggest the stock is likely to trade higher over the next two months despite potential regulatory or macro headwinds. Therefore, a Buy is appropriate.",,,
+296,data_collection\NLP_Dataset\Bank of America\2023_Q3_bac.txt,Bank of America,2023,Q3,BAC,BAC,2023-10-17,,,,,,
+297,data_collection\NLP_Dataset\Bank of America\2023_Q4_bac.txt,Bank of America,2023,Q4,BAC,BAC,2024-01-12,,,,,,
+298,data_collection\NLP_Dataset\Bank of America\2024_Q1_bac.txt,Bank of America,2024,Q1,BAC,BAC,2024-04-16,,,,,,
+299,data_collection\NLP_Dataset\Bank of America\2024_Q2_bac.txt,Bank of America,2024,Q2,BAC,BAC,2024-07-16,,,,,,
+315,data_collection\NLP_Dataset\BBVA\2021_Q3_bbva.txt,BBVA,2021,Q3,BBVA,BBVA,2021-10-29,,,,,,
+321,data_collection\NLP_Dataset\BBVA\2023_Q2_bbva.txt,BBVA,2023,Q2,BBVA,BBVA,2023-07-28,,,,,,
+322,data_collection\NLP_Dataset\BBVA\2023_Q3_bbva.txt,BBVA,2023,Q3,BBVA,BBVA,2023-10-31,,,,,,
+323,data_collection\NLP_Dataset\BBVA\2023_Q4_bbva.txt,BBVA,2023,Q4,BBVA,BBVA,2024-01-30,sell,"Ticker
+BBVA    2.147198
+dtype: float64","Decision: 0. Rationale: The Q4-2023 earnings call highlights record profit above €8 billion, strong lending growth of 8%, 11 million new customers, and continued shareholder returns through dividends and a €781 million buyback. Management also expects further growth in 2024, driven by innovation, digitization, and sustainability. These positive fundamentals and capital returns should support the stock price over the next two months. Recent price action also shows the stock stabilizing around $7.50-$7.60 after a decline, suggesting a potential rebound. Therefore, I expect BBVA’s stock to be higher two months from the earnings call date.",,,
+324,data_collection\NLP_Dataset\BBVA\2024_Q1_bbva.txt,BBVA,2024,Q1,BBVA,BBVA,2024-04-29,,,,,,
+325,data_collection\NLP_Dataset\BBVA\2024_Q2_bbva.txt,BBVA,2024,Q2,BBVA,BBVA,2024-07-31,,,,,,
+326,data_collection\NLP_Dataset\BKNG\2017_Q4_bkng.txt,BKNG,2017,Q4,BKNG,BKNG,2018-02-27,,,,,,
+327,data_collection\NLP_Dataset\BKNG\2018_Q1_bkng.txt,BKNG,2018,Q1,BKNG,BKNG,2018-05-09,,,,,,
+328,data_collection\NLP_Dataset\BKNG\2018_Q2_bkng.txt,BKNG,2018,Q2,BKNG,BKNG,2018-08-09,,,,,,
+329,data_collection\NLP_Dataset\BKNG\2018_Q3_bkng.txt,BKNG,2018,Q3,BKNG,BKNG,2018-11-05,,,,,,
+330,data_collection\NLP_Dataset\BKNG\2018_Q4_bkng.txt,BKNG,2018,Q4,BKNG,BKNG,2019-02-27,,,,,,
+331,data_collection\NLP_Dataset\BKNG\2019_Q1_bkng.txt,BKNG,2019,Q1,BKNG,BKNG,2019-05-09,buy,"Ticker
+BKNG    5.472946
+dtype: float64","Decision: 0 for Buy. Rationale: The company delivered solid Q1 results with room night growth of 10% (above guidance), constant currency revenue growth of 6% (8% adjusting for Easter), and strong free cash flow. The management is confident in their growth investments, particularly in brand marketing, alternative accommodations, and payments, and they have initiated a $15 billion buyback program, reducing share count by ~10% year-over-year, which will boost EPS. Although there are headwinds from FX and sluggish Europe, these are already reflected in the current stock price of ~$68.61. The forward guidance for Q2 shows continued constant-currency revenue growth of 10-12% (8-10% normalized), and the company expects to gain share in all regions. With the aggressive buyback and positive earnings beat, the stock is likely to appreciate over the next two months as the market reflects the company's strong fundamentals and shareholder returns. Therefore, a Buy decision is appropriate.",,,
+332,data_collection\NLP_Dataset\BKNG\2019_Q2_bkng.txt,BKNG,2019,Q2,BKNG,BKNG,2019-08-07,,,,,,
+333,data_collection\NLP_Dataset\BKNG\2019_Q3_bkng.txt,BKNG,2019,Q3,BKNG,BKNG,2019-11-07,,,,,,
+334,data_collection\NLP_Dataset\BKNG\2019_Q4_bkng.txt,BKNG,2019,Q4,BKNG,BKNG,2020-02-26,,,,,,
+335,data_collection\NLP_Dataset\BKNG\2020_Q1_bkng.txt,BKNG,2020,Q1,BKNG,BKNG,2020-05-07,,,,,,
+336,data_collection\NLP_Dataset\BKNG\2020_Q2_bkng.txt,BKNG,2020,Q2,BKNG,BKNG,2020-08-06,,,,,,
+337,data_collection\NLP_Dataset\BKNG\2020_Q3_bkng.txt,BKNG,2020,Q3,BKNG,BKNG,2020-11-05,,,,,,
+338,data_collection\NLP_Dataset\BKNG\2020_Q4_bkng.txt,BKNG,2020,Q4,BKNG,BKNG,2021-02-24,,,,,,
+339,data_collection\NLP_Dataset\BKNG\2021_Q1_bkng.txt,BKNG,2021,Q1,BKNG,BKNG,2021-05-05,buy,"Ticker
+BKNG   -3.878799
+dtype: float64","Decision: 0 (Buy)
+
+Rationale: The company’s Q1 2021 earnings call shows clear, sequential improvement in travel demand: room night declines improved from Q4 to Q1, April declines improved further, and the US posted positive room night growth versus 2019 with continued strength into April. Western Europe summer bookings are recovering, the booking window is expanding, and the company expects Q2 room night declines to improve further. With vaccine distribution accelerating, particularly in the US and UK, and strong pent-up travel demand, Booking Holdings’ stock is likely to trend upward over the next two months. Buying is the appropriate decision.",,,
+340,data_collection\NLP_Dataset\BKNG\2021_Q2_bkng.txt,BKNG,2021,Q2,BKNG,BKNG,2021-08-04,,,,,,
+341,data_collection\NLP_Dataset\BKNG\2021_Q3_bkng.txt,BKNG,2021,Q3,BKNG,BKNG,2021-11-03,,,,,,
+342,data_collection\NLP_Dataset\BKNG\2021_Q4_bkng.txt,BKNG,2021,Q4,BKNG,BKNG,2022-02-23,,,,,,
+343,data_collection\NLP_Dataset\BKNG\2022_Q1_bkng.txt,BKNG,2022,Q1,BKNG,BKNG,2022-05-04,,,,,,
+344,data_collection\NLP_Dataset\BKNG\2022_Q2_bkng.txt,BKNG,2022,Q2,BKNG,BKNG,2022-08-03,,,,,,
+345,data_collection\NLP_Dataset\BKNG\2022_Q3_bkng.txt,BKNG,2022,Q3,BKNG,BKNG,2022-11-02,,,,,,
+346,data_collection\NLP_Dataset\BKNG\2022_Q4_bkng.txt,BKNG,2022,Q4,BKNG,BKNG,2023-02-23,,,,,,
+347,data_collection\NLP_Dataset\BKNG\2023_Q1_bkng.txt,BKNG,2023,Q1,BKNG,BKNG,2023-05-04,sell,"Ticker
+BKNG    4.591278
+dtype: float64","Decision: 0
+
+Rationale: The Q1 2023 earnings call highlights record room nights and gross bookings, continued strong travel demand, and an extended booking window with solid summer bookings ahead. Management also guided to meaningful adjusted EBITDA growth in Q2 (~35% year-over-year) and expects margin expansion for the full year. These are positive signals for near-term revenue and profit momentum. The stock has also shown a modest recovery in recent weeks, and the fundamental outlook supports further upside over the next two months. Therefore, I expect the stock price to be higher in two months than at the earnings call date.",,,
+348,data_collection\NLP_Dataset\BKNG\2023_Q2_bkng.txt,BKNG,2023,Q2,BKNG,BKNG,2023-08-03,,,,,,
+349,data_collection\NLP_Dataset\BKNG\2023_Q3_bkng.txt,BKNG,2023,Q3,BKNG,BKNG,2023-11-02,,,,,,
+350,data_collection\NLP_Dataset\BKNG\2023_Q4_bkng.txt,BKNG,2023,Q4,BKNG,BKNG,2024-02-22,,,,,,
+351,data_collection\NLP_Dataset\BKNG\2024_Q1_bkng.txt,BKNG,2024,Q1,BKNG,BKNG,2024-05-02,,,,,,
+352,data_collection\NLP_Dataset\BKNG\2024_Q2_bkng.txt,BKNG,2024,Q2,BKNG,BKNG,2024-08-01,,,,,,
+354,data_collection\NLP_Dataset\BMW\2018_Q1_bmw.txt,BMW,2018,Q1,BMW,BMW.DE,2018-05-04,,,,,,
+355,data_collection\NLP_Dataset\BMW\2018_Q2_bmw.txt,BMW,2018,Q2,BMW,BMW.DE,2018-08-01,,,,,,
+356,data_collection\NLP_Dataset\BMW\2018_Q3_bmw.txt,BMW,2018,Q3,BMW,BMW.DE,2018-11-06,sell,"Ticker
+BMW.DE   -3.310966
+dtype: float64","Decision: 1.
+Rationale: The earnings call highlights significant near-term headwinds: lowered 2018 guidance, weaker third-quarter earnings, WLTP-related market disruptions expected to persist into 2019, trade tensions, Brexit uncertainty, and higher warranty/provision costs. Past price data also shows a downward trend, with the stock falling from the mid-$50s into the high-$40s. Over a two-month horizon, these pressures are likely to keep the stock lower, so selling is appropriate.",,,
+357,data_collection\NLP_Dataset\BMW\2019_Q1_bmw.txt,BMW,2019,Q1,BMW,BMW.DE,2019-05-07,,,,,,
+358,data_collection\NLP_Dataset\BMW\2019_Q2_bmw.txt,BMW,2019,Q2,BMW,BMW.DE,2019-08-01,,,,,,
+359,data_collection\NLP_Dataset\BMW\2019_Q3_bmw.txt,BMW,2019,Q3,BMW,BMW.DE,2019-11-06,,,,,,
+360,data_collection\NLP_Dataset\BMW\2020_Q1_bmw.txt,BMW,2020,Q1,BMW,BMW.DE,2020-05-06,,,,,,
+361,data_collection\NLP_Dataset\BMW\2020_Q2_bmw.txt,BMW,2020,Q2,BMW,BMW.DE,2020-08-05,,,,,,
+362,data_collection\NLP_Dataset\BMW\2020_Q3_bmw.txt,BMW,2020,Q3,BMW,BMW.DE,2020-11-04,,,,,,
+363,data_collection\NLP_Dataset\BMW\2021_Q1_bmw.txt,BMW,2021,Q1,BMW,BMW.DE,2021-05-07,,,,,,
+364,data_collection\NLP_Dataset\BMW\2021_Q3_bmw.txt,BMW,2021,Q3,BMW,BMW.DE,2021-11-03,buy,"Ticker
+BMW.DE   -1.062565
+dtype: float64","Decision: 0 (Buy).  
+Rationale: The earnings call reflects strong underlying business momentum: BMW raised its full-year guidance, reported record automotive EBIT, strong pricing power, robust demand for electric vehicles like the iX and i4, and a solid financial services result. Although semiconductor shortages and raw material costs are headwinds, the company’s ability to offset lower volumes with higher pricing and an improved model mix supports a positive near-term outlook. The recent price trend is also upward, indicating market confidence. Over the next two months, the balance of information points to continued stock appreciation.",,,
+365,data_collection\NLP_Dataset\BMW\2022_Q1_bmw.txt,BMW,2022,Q1,BMW,BMW.DE,2022-05-04,,,,,,
+366,data_collection\NLP_Dataset\BMW\2022_Q3_bmw.txt,BMW,2022,Q3,BMW,BMW.DE,2022-11-03,,,,,,
+368,data_collection\NLP_Dataset\BMW\2023_Q1_bmw.txt,BMW,2023,Q1,BMW,BMW.DE,2023-05-03,,,,,,
+369,data_collection\NLP_Dataset\BMW\2023_Q2_bmw.txt,BMW,2023,Q2,BMW,BMW.DE,2023-08-02,,,,,,
+370,data_collection\NLP_Dataset\BMW\2023_Q3_bmw.txt,BMW,2023,Q3,BMW,BMW.DE,2023-11-03,,,,,,
+371,data_collection\NLP_Dataset\BMW\2024_Q1_bmw.txt,BMW,2024,Q1,BMW,BMW.DE,2024-05-08,,,,,,
+372,data_collection\NLP_Dataset\BP\2017_Q4_bp.txt,BP,2017,Q4,BP,BP,2018-02-06,,,,,,
+373,data_collection\NLP_Dataset\BP\2018_Q1_bp.txt,BP,2018,Q1,BP,BP,2018-05-01,sell,"Ticker
+BP    0.922991
+dtype: float64","Decision: 0  
+Rationale: The earnings call indicates strong Q1 2018 performance with underlying profit up 71% YoY, record operating efficiency, and growing production from major projects. Management guides to higher full-year production and expects gearing to decline while continuing share buybacks. Oil prices are supportive, and the company’s breakeven is falling. Despite a slight Q2 production dip due to seasonal maintenance, the overall momentum and positive outlook suggest the stock will continue its upward trajectory over the next two months, consistent with the recent price trend. Therefore, buying is appropriate.",,,
+374,data_collection\NLP_Dataset\BP\2018_Q2_bp.txt,BP,2018,Q2,BP,BP,2018-07-31,,,,,,
+375,data_collection\NLP_Dataset\BP\2018_Q3_bp.txt,BP,2018,Q3,BP,BP,2018-10-30,,,,,,
+376,data_collection\NLP_Dataset\BP\2018_Q4_bp.txt,BP,2018,Q4,BP,BP,2019-02-05,,,,,,
+377,data_collection\NLP_Dataset\BP\2019_Q1_bp.txt,BP,2019,Q1,BP,BP,2019-04-30,,,,,,
+378,data_collection\NLP_Dataset\BP\2019_Q2_bp.txt,BP,2019,Q2,BP,BP,2019-07-30,,,,,,
+379,data_collection\NLP_Dataset\BP\2019_Q3_bp.txt,BP,2019,Q3,BP,BP,2019-10-29,,,,,,
+380,data_collection\NLP_Dataset\BP\2019_Q4_bp.txt,BP,2019,Q4,BP,BP,2020-02-04,,,,,,
+381,data_collection\NLP_Dataset\BP\2020_Q1_bp.txt,BP,2020,Q1,BP,BP,2020-04-28,buy,"Ticker
+BP   -0.564112
+dtype: float64","Decision: 0 for Buy.  
+Rationale: The stock price has already fallen sharply due to the COVID-19 crash and oil price collapse, but BP’s Q1 earnings call highlights strong liquidity ($32 billion), decisive cost-cutting measures, and reduced capex to lower the cash balance point to $35/bbl Brent by 2021. While the near-term Q2 outlook is bleak due to demand destruction, the company maintains its dividend and expects working capital reversals later this year. The price data shows a recovery from the mid-March lows, and with OPEC+ supply cuts and gradual economic reopening, oil prices are likely to rise over the next two months. This positive macro trajectory, combined with BP’s resilience and operational flexibility, suggests the stock price will increase in the two-month horizon. Thus, buying is the appropriate decision.",,,
+382,data_collection\NLP_Dataset\BP\2020_Q2_bp.txt,BP,2020,Q2,BP,BP,2020-08-04,,,,,,
+383,data_collection\NLP_Dataset\BP\2020_Q3_bp.txt,BP,2020,Q3,BP,BP,2020-10-27,,,,,,
+384,data_collection\NLP_Dataset\BP\2020_Q4_bp.txt,BP,2020,Q4,BP,BP,2021-02-02,,,,,,
+385,data_collection\NLP_Dataset\BP\2021_Q1_bp.txt,BP,2021,Q1,BP,BP,2021-04-27,,,,,,
+386,data_collection\NLP_Dataset\BP\2021_Q2_bp.txt,BP,2021,Q2,BP,BP,2021-08-03,,,,,,
+387,data_collection\NLP_Dataset\BP\2021_Q3_bp.txt,BP,2021,Q3,BP,BP,2021-11-02,,,,,,
+388,data_collection\NLP_Dataset\BP\2021_Q4_bp.txt,BP,2021,Q4,BP,BP,2022-02-08,,,,,,
+389,data_collection\NLP_Dataset\BP\2022_Q1_bp.txt,BP,2022,Q1,BP,BP,2022-05-03,buy,"Ticker
+BP   -2.088383
+dtype: float64","Decision: 0 (Buy).  
+Rationale: Despite the large one-time Russia-related writedown, BP’s underlying first-quarter performance was strong, with $6.2 billion in underlying replacement cost profit, $8.2 billion operating cash flow, continued debt reduction, and an announced $2.5 billion buyback. Management also expects oil and gas prices to remain strong in the near/medium term, with elevated refining margins. Given the positive outlook and strong cash generation, the stock is likely to be higher in two months.",,,
+390,data_collection\NLP_Dataset\BP\2022_Q2_bp.txt,BP,2022,Q2,BP,BP,2022-08-02,,,,,,
+391,data_collection\NLP_Dataset\BP\2022_Q3_bp.txt,BP,2022,Q3,BP,BP,2022-11-01,,,,,,
+392,data_collection\NLP_Dataset\BP\2022_Q4_bp.txt,BP,2022,Q4,BP,BP,2023-02-07,,,,,,
+393,data_collection\NLP_Dataset\BP\2023_Q1_bp.txt,BP,2023,Q1,BP,BP,2023-05-02,,,,,,
+394,data_collection\NLP_Dataset\BP\2023_Q2_bp.txt,BP,2023,Q2,BP,BP,2023-08-01,,,,,,
+395,data_collection\NLP_Dataset\BP\2023_Q3_bp.txt,BP,2023,Q3,BP,BP,2023-10-31,,,,,,
+396,data_collection\NLP_Dataset\BP\2023_Q4_bp.txt,BP,2023,Q4,BP,BP,2024-02-06,,,,,,
+397,data_collection\NLP_Dataset\BP\2024_Q1_bp.txt,BP,2024,Q1,BP,BP,2024-05-07,sell,"Ticker
+BP   -0.085819
+dtype: float64","Decision: 0  
+Rationale: The Q1 2024 earnings call reflects resilient financial performance (adjusted EBITDA of $10.3B), despite the Whiting refinery outage, and reaffirms strategic growth initiatives (cost savings of $2B by 2026, convenience margin growth, new project startups). The company also maintains a share buyback program, supporting share price appreciation. Past price data shows a clear upward trend from ~$32 to ~$34.5 over the prior two months, and the positive earnings narrative suggests continued momentum. With the position liquidating in two months, the stock is expected to trade higher.",,,
+398,data_collection\NLP_Dataset\BP\2024_Q2_bp.txt,BP,2024,Q2,BP,BP,2024-07-30,,,,,,
+412,data_collection\NLP_Dataset\Cardinal Health\2018_Q2_cah.txt,Cardinal Health,2018,Q2,CAH,CAH,2018-08-06,,,,,,
+413,data_collection\NLP_Dataset\Cardinal Health\2018_Q3_cah.txt,Cardinal Health,2018,Q3,CAH,CAH,2018-11-08,,,,,,
+414,data_collection\NLP_Dataset\Cardinal Health\2018_Q4_cah.txt,Cardinal Health,2018,Q4,CAH,CAH,2019-02-07,,,,,,
+415,data_collection\NLP_Dataset\Cardinal Health\2019_Q1_cah.txt,Cardinal Health,2019,Q1,CAH,CAH,2019-05-09,,,,,,
+416,data_collection\NLP_Dataset\Cardinal Health\2019_Q2_cah.txt,Cardinal Health,2019,Q2,CAH,CAH,2019-08-08,,,,,,
+417,data_collection\NLP_Dataset\Cardinal Health\2019_Q3_cah.txt,Cardinal Health,2019,Q3,CAH,CAH,2019-11-07,,,,,,
+418,data_collection\NLP_Dataset\Cardinal Health\2019_Q4_cah.txt,Cardinal Health,2019,Q4,CAH,CAH,2020-02-06,sell,"Ticker
+CAH   -9.488533
+dtype: float64","Decision: 0  
+Rationale: The earnings call indicates that while fiscal 2020 earnings are projected to decline, this is largely due to already-announced contract renewals and generics headwinds, which remove uncertainty and lock in major customers for at least four years. The company exceeded its prior-year EPS guidance, delivered stronger-than-expected Q4 results, and achieved cost savings ahead of plan, with incremental savings expected. Medical segment is expected to return to growth, and the company is committed to debt reduction and shareholder returns. Despite the near-term profit decline, the stock's recent price trend shows a rebound from lows, suggesting the market has priced in the negative guidance and may focus on the positive long-term outlook. Given the two-month liquidation horizon, the stock appears undervalued with potential for upside, so buying is recommended.",,,
+419,data_collection\NLP_Dataset\Cardinal Health\2020_Q1_cah.txt,Cardinal Health,2020,Q1,CAH,CAH,2020-05-11,,,,,,
+420,data_collection\NLP_Dataset\Cardinal Health\2020_Q2_cah.txt,Cardinal Health,2020,Q2,CAH,CAH,2020-08-06,,,,,,
+421,data_collection\NLP_Dataset\Cardinal Health\2020_Q3_cah.txt,Cardinal Health,2020,Q3,CAH,CAH,2020-11-05,,,,,,
+422,data_collection\NLP_Dataset\Cardinal Health\2020_Q4_cah.txt,Cardinal Health,2020,Q4,CAH,CAH,2021-02-05,,,,,,
+423,data_collection\NLP_Dataset\Cardinal Health\2021_Q1_cah.txt,Cardinal Health,2021,Q1,CAH,CAH,2021-05-06,,,,,,
+424,data_collection\NLP_Dataset\Cardinal Health\2021_Q2_cah.txt,Cardinal Health,2021,Q2,CAH,CAH,2021-08-05,,,,,,
+425,data_collection\NLP_Dataset\Cardinal Health\2021_Q3_cah.txt,Cardinal Health,2021,Q3,CAH,CAH,2021-11-09,,,,,,
+426,data_collection\NLP_Dataset\Cardinal Health\2021_Q4_cah.txt,Cardinal Health,2021,Q4,CAH,CAH,2022-02-03,sell,"Ticker
+CAH    6.091908
+dtype: float64","Decision: 0  
+Rationale: The earnings call reveals that despite a one-time inventory reserve hit in Q4, the company expects FY2022 EPS growth to $5.60–$5.90 from $5.57, with normalized segment growth and significant tailwinds from COVID recovery and investments. Management also highlighted strong cash flow, a share buyback program, and a favorable resolution to opioid litigation that reduces uncertainty. The past price data shows a steady upward trend from $42.57 to $47.16 over the last two months, indicating positive momentum. Given the improving fundamentals, proactive capital deployment, and technical upward trend, the stock is likely to rise further over the next two months.",,,
+427,data_collection\NLP_Dataset\Cardinal Health\2022_Q1_cah.txt,Cardinal Health,2022,Q1,CAH,CAH,2022-05-05,,,,,,
+428,data_collection\NLP_Dataset\Cardinal Health\2022_Q2_cah.txt,Cardinal Health,2022,Q2,CAH,CAH,2022-08-11,,,,,,
+429,data_collection\NLP_Dataset\Cardinal Health\2022_Q3_cah.txt,Cardinal Health,2022,Q3,CAH,CAH,2022-11-04,,,,,,
+430,data_collection\NLP_Dataset\Cardinal Health\2022_Q4_cah.txt,Cardinal Health,2022,Q4,CAH,CAH,2023-02-02,,,,,,
+431,data_collection\NLP_Dataset\Cardinal Health\2023_Q1_cah.txt,Cardinal Health,2023,Q1,CAH,CAH,2023-05-04,,,,,,
+432,data_collection\NLP_Dataset\Cardinal Health\2023_Q2_cah.txt,Cardinal Health,2023,Q2,CAH,CAH,2023-08-15,,,,,,
+433,data_collection\NLP_Dataset\Cardinal Health\2023_Q3_cah.txt,Cardinal Health,2023,Q3,CAH,CAH,2023-11-03,,,,,,
+434,data_collection\NLP_Dataset\Cardinal Health\2023_Q4_cah.txt,Cardinal Health,2023,Q4,CAH,CAH,2024-02-01,buy,"Ticker
+CAH    7.045273
+dtype: float64","Decision: 0 (Buy).  
+Rationale: The earnings call reflects strong fiscal 2023 results, record EPS, raised fiscal 2024 guidance, robust free cash flow, and continued momentum in the Pharma segment, along with a recovering Medical segment. The company also reaffirmed growth and shareholder return initiatives, which are positive for the stock. The price data shows the stock recovering from a mid-December dip and trending higher into late January, suggesting improving market sentiment. Based on the positive fundamental outlook and recent price momentum, the stock is likely to be higher in two months.",,,
+435,data_collection\NLP_Dataset\Cardinal Health\2024_Q1_cah.txt,Cardinal Health,2024,Q1,CAH,CAH,2024-05-02,,,,,,
+436,data_collection\NLP_Dataset\Cardinal Health\2024_Q2_cah.txt,Cardinal Health,2024,Q2,CAH,CAH,2024-08-14,,,,,,
+437,data_collection\NLP_Dataset\Cardinal Health\2024_Q3_cah.txt,Cardinal Health,2024,Q3,CAH,CAH,2024-11-01,,,,,,
+438,data_collection\NLP_Dataset\Cardinal Health\2024_Q4_cah.txt,Cardinal Health,2024,Q4,CAH,CAH,2025-01-30,,,,,,
+439,data_collection\NLP_Dataset\Cisco\2018_Q1_csco.txt,Cisco,2018,Q1,CSCO,CSCO,2018-05-16,,,,,,
+440,data_collection\NLP_Dataset\Cisco\2018_Q2_csco.txt,Cisco,2018,Q2,CSCO,CSCO,2018-08-15,,,,,,
+441,data_collection\NLP_Dataset\Cisco\2018_Q4_csco.txt,Cisco,2018,Q4,CSCO,CSCO,2019-02-13,,,,,,
+442,data_collection\NLP_Dataset\Cisco\2019_Q1_csco.txt,Cisco,2019,Q1,CSCO,CSCO,2019-05-15,sell,"Ticker
+CSCO    4.764706
+dtype: float64","Decision: 0  
+Rationale: The earnings call reveals strong Q1 FY2019 performance with 8% revenue growth, 8% product order growth, and double-digit EPS growth, indicating robust demand and successful execution of the software/subscription transition. Management provided positive guidance for Q2 (5-7% revenue growth) and noted that DRAM costs will shift from a headwind to a tailwind in the second half, which should improve margins. Despite a recent price dip (from ~$46 in mid-April to ~$42 in May) driven by macro trade concerns, the company’s fundamentals remain solid and the tariff impact was described as immaterial. The stock appears undervalued relative to its momentum and future tailwinds, and over a two-month horizon, it is likely to recover and move higher.",,,
+443,data_collection\NLP_Dataset\Cisco\2019_Q2_csco.txt,Cisco,2019,Q2,CSCO,CSCO,2019-08-14,,,,,,
+444,data_collection\NLP_Dataset\Cisco\2019_Q3_csco.txt,Cisco,2019,Q3,CSCO,CSCO,2019-11-13,,,,,,
+445,data_collection\NLP_Dataset\Cisco\2019_Q4_csco.txt,Cisco,2019,Q4,CSCO,CSCO,2020-02-12,,,,,,
+446,data_collection\NLP_Dataset\Cisco\2020_Q1_csco.txt,Cisco,2020,Q1,CSCO,CSCO,2020-05-13,,,,,,
+447,data_collection\NLP_Dataset\Cisco\2020_Q2_csco.txt,Cisco,2020,Q2,CSCO,CSCO,2020-08-12,,,,,,
+448,data_collection\NLP_Dataset\Cisco\2020_Q3_csco.txt,Cisco,2020,Q3,CSCO,CSCO,2020-11-12,,,,,,
+449,data_collection\NLP_Dataset\Cisco\2020_Q4_csco.txt,Cisco,2020,Q4,CSCO,CSCO,2021-02-09,,,,,,
+450,data_collection\NLP_Dataset\Cisco\2021_Q1_csco.txt,Cisco,2021,Q1,CSCO,CSCO,2021-05-19,buy,"Ticker
+CSCO    1.385414
+dtype: float64","Decision: 0. Rationale: The earnings call indicates improving business momentum, with revenue guidance for the next quarter improving to roughly flat to -2% from a -9% decline, strong RPO growth of 10%, continued shift to software/subscriptions, and growth in security and Webex. Management also cited improving order trends and confidence in recovery. The recent price data shows a clear upward trend from about $42 in mid-March 2021 to roughly $45.70 by mid-May 2021, reflecting positive investor sentiment and momentum. Given the favorable fundamentals and continued price strength, the stock is likely to be higher in two months, so I would buy.",,,
+451,data_collection\NLP_Dataset\Cisco\2021_Q2_csco.txt,Cisco,2021,Q2,CSCO,CSCO,2021-08-18,,,,,,
+452,data_collection\NLP_Dataset\Cisco\2021_Q3_csco.txt,Cisco,2021,Q3,CSCO,CSCO,2021-11-17,,,,,,
+453,data_collection\NLP_Dataset\Cisco\2021_Q4_csco.txt,Cisco,2021,Q4,CSCO,CSCO,2022-02-16,,,,,,
+454,data_collection\NLP_Dataset\Cisco\2022_Q1_csco.txt,Cisco,2022,Q1,CSCO,CSCO,2022-05-18,,,,,,
+455,data_collection\NLP_Dataset\Cisco\2022_Q2_csco.txt,Cisco,2022,Q2,CSCO,CSCO,2022-08-17,,,,,,
+456,data_collection\NLP_Dataset\Cisco\2022_Q3_csco.txt,Cisco,2022,Q3,CSCO,CSCO,2022-11-16,,,,,,
+457,data_collection\NLP_Dataset\Cisco\2022_Q4_csco.txt,Cisco,2022,Q4,CSCO,CSCO,2023-02-15,,,,,,
+458,data_collection\NLP_Dataset\Cisco\2023_Q1_csco.txt,Cisco,2023,Q1,CSCO,CSCO,2023-05-17,buy,"Ticker
+CSCO    2.871883
+dtype: float64","Decision: 0 (Buy)
+Rationale: The earnings call indicates a strong quarter with record revenue, raised full-year guidance, and improved supply-chain conditions. The company highlighted a significantly elevated backlog (~2-3 times normal levels) that provides near-term revenue visibility and should drive growth over the next two months. Additionally, the shift to recurring revenue (43% of total) and strong RPO growth (up 3% to $30.9 billion) underpins stability and upside. Although product orders declined 14% year-over-year against a tough 34% growth comparison, sequential demand was near normal, and backlog conversion is expected to continue. Overall, the positive fundamental outlook and management confidence support a higher stock price in the near term.",,,
+459,data_collection\NLP_Dataset\Cisco\2023_Q2_csco.txt,Cisco,2023,Q2,CSCO,CSCO,2023-08-16,,,,,,
+460,data_collection\NLP_Dataset\Cisco\2023_Q3_csco.txt,Cisco,2023,Q3,CSCO,CSCO,2023-11-15,,,,,,
+461,data_collection\NLP_Dataset\Cisco\2023_Q4_csco.txt,Cisco,2023,Q4,CSCO,CSCO,2024-02-14,,,,,,
+462,data_collection\NLP_Dataset\Cisco\2024_Q1_csco.txt,Cisco,2024,Q1,CSCO,CSCO,2024-05-15,,,,,,
+463,data_collection\NLP_Dataset\Cisco\2024_Q2_csco.txt,Cisco,2024,Q2,CSCO,CSCO,2024-08-14,,,,,,
+464,data_collection\NLP_Dataset\Cisco\2024_Q3_csco.txt,Cisco,2024,Q3,CSCO,CSCO,2024-11-13,,,,,,
+465,data_collection\NLP_Dataset\Cisco\2024_Q4_csco.txt,Cisco,2024,Q4,CSCO,CSCO,2025-02-12,,,,,,
+466,data_collection\NLP_Dataset\Citi\2017_Q4_c.txt,Citi,2017,Q4,C,C,2018-01-16,buy,"Ticker
+C   -2.616432
+dtype: float64","Decision: 0 for Buy. Rationale: The earnings call reveals strong underlying performance in Q4 2017, with operating EPS growth, broad-based revenue gains, and significant benefits from tax reform, which the company expects to boost net income, returns, and capital generation. Management raised 2018 targets, including a 100bps efficiency improvement, a lower effective tax rate, and an RoTCE approaching 10.5%, indicating confidence in future earnings power. The macroeconomic backdrop is supportive, and the stock has been trending upward in recent weeks. Given the positive guidance and likely market reaction to these results, the stock is expected to be higher two months from the earnings call date.",,,
+467,data_collection\NLP_Dataset\Citi\2018_Q1_c.txt,Citi,2018,Q1,C,C,2018-04-13,,,,,,
+468,data_collection\NLP_Dataset\Citi\2018_Q2_c.txt,Citi,2018,Q2,C,C,2018-07-13,,,,,,
+469,data_collection\NLP_Dataset\Citi\2018_Q3_c.txt,Citi,2018,Q3,C,C,2018-10-12,,,,,,
+470,data_collection\NLP_Dataset\Citi\2018_Q4_c.txt,Citi,2018,Q4,C,C,2019-01-14,,,,,,
+471,data_collection\NLP_Dataset\Citi\2019_Q1_c.txt,Citi,2019,Q1,C,C,2019-04-15,,,,,,
+472,data_collection\NLP_Dataset\Citi\2019_Q2_c.txt,Citi,2019,Q2,C,C,2019-07-15,,,,,,
+473,data_collection\NLP_Dataset\Citi\2019_Q3_c.txt,Citi,2019,Q3,C,C,2019-10-15,,,,,,
+474,data_collection\NLP_Dataset\Citi\2019_Q4_c.txt,Citi,2019,Q4,C,C,2020-01-14,buy,"Ticker
+C   -24.182961
+dtype: float64","Decision: 0 for Buy. Rationale: The earnings call reported a strong Q4 2019 with net income at its highest since 2006, EPS up 30% year-over-year, and RoTCE of 12.1% surpassing the target. The company provided a positive 2020 outlook with modest revenue growth, flat expenses, manageable credit costs, and RoTCE guidance of 12%-13%. Additionally, the stock has demonstrated an upward trend over the past two months, rising from ~$58.49 to $63.88, indicating positive momentum. Given the strong operational performance, favorable guidance, and the recent price trend, the stock is expected to appreciate over the next two months.",,,
+475,data_collection\NLP_Dataset\Citi\2020_Q1_c.txt,Citi,2020,Q1,C,C,2020-04-15,,,,,,
+476,data_collection\NLP_Dataset\Citi\2020_Q2_c.txt,Citi,2020,Q2,C,C,2020-07-14,,,,,,
+477,data_collection\NLP_Dataset\Citi\2020_Q3_c.txt,Citi,2020,Q3,C,C,2020-10-13,,,,,,
+478,data_collection\NLP_Dataset\Citi\2020_Q4_c.txt,Citi,2020,Q4,C,C,2021-01-15,,,,,,
+479,data_collection\NLP_Dataset\Citi\2021_Q1_c.txt,Citi,2021,Q1,C,C,2021-04-15,,,,,,
+480,data_collection\NLP_Dataset\Citi\2021_Q2_c.txt,Citi,2021,Q2,C,C,2021-07-14,,,,,,
+481,data_collection\NLP_Dataset\Citi\2021_Q3_c.txt,Citi,2021,Q3,C,C,2021-10-14,,,,,,
+482,data_collection\NLP_Dataset\Citi\2021_Q4_c.txt,Citi,2021,Q4,C,C,2022-01-14,buy,"Ticker
+C   -10.48188
+dtype: float64","Decision: 0 for Buy.  
+Rationale: The earnings call reveals a clear strategic pivot toward higher-return, capital-light businesses (institutional services, wealth, and U.S. consumer payments) and decisive exits from non-core franchises. Management reaffirmed strong investment banking momentum, robust fee growth in TTS and securities services, and a favorable sensitivity to rising interest rates, which is expected to drive net interest income higher in 2022. Additionally, they resumed share buybacks and signaled potential capital returns from divestitures, a supportive factor for shareholders. The stock had already rebounded from late-2021 lows, and the positive tone and forward-looking guidance (with Investor Day upcoming) suggest continued upward momentum over the two‑month horizon. Thus, the price two months ahead is likely to be higher than the current level.",,,
+483,data_collection\NLP_Dataset\Citi\2022_Q1_c.txt,Citi,2022,Q1,C,C,2022-04-14,,,,,,
+484,data_collection\NLP_Dataset\Citi\2022_Q2_c.txt,Citi,2022,Q2,C,C,2022-07-15,,,,,,
+485,data_collection\NLP_Dataset\Citi\2022_Q3_c.txt,Citi,2022,Q3,C,C,2022-10-14,,,,,,
+486,data_collection\NLP_Dataset\Citi\2022_Q4_c.txt,Citi,2022,Q4,C,C,2023-01-13,,,,,,
+487,data_collection\NLP_Dataset\Citi\2023_Q1_c.txt,Citi,2023,Q1,C,C,2023-04-14,,,,,,
+488,data_collection\NLP_Dataset\Citi\2023_Q2_c.txt,Citi,2023,Q2,C,C,2023-07-14,,,,,,
+489,data_collection\NLP_Dataset\Citi\2023_Q3_c.txt,Citi,2023,Q3,C,C,2023-10-12,,,,,,
+490,data_collection\NLP_Dataset\Citi\2023_Q4_c.txt,Citi,2023,Q4,C,C,2024-01-12,buy,"Ticker
+C    4.932922
+dtype: float64","Decision: 0 for Buy. Rationale: Despite a disappointing Q4 2023 with a net loss due to one-time items (FDIC assessment, Argentina devaluation, and reserve build), the earnings call highlighted strong underlying business momentum, record Services revenue, robust balance sheet, and a clear 2024 guidance for revenue growth of 4-5% ex-divestitures and expense reductions. The company's commitment to cost cuts, organizational simplification, and share buybacks, along with a strong capital position (CET1 13.3%), suggests improved profitability ahead. The stock has been in a clear uptrend over the past two months, and the positive forward outlook is likely to drive further upside as the market focuses on the company's transformation and medium-term targets. Therefore, the stock is expected to rise above the current level in two months.",,,
+491,data_collection\NLP_Dataset\Citi\2024_Q1_c.txt,Citi,2024,Q1,C,C,2024-04-12,,,,,,
+492,data_collection\NLP_Dataset\Citi\2024_Q2_c.txt,Citi,2024,Q2,C,C,2024-07-12,,,,,,
+506,data_collection\NLP_Dataset\Costco\2018_Q3_cost.txt,Costco,2018,Q3,COST,COST,2018-10-04,,,,,,
+508,data_collection\NLP_Dataset\Costco\2019_Q1_cost.txt,Costco,2019,Q1,COST,COST,2019-05-30,,,,,,
+510,data_collection\NLP_Dataset\Costco\2019_Q3_cost.txt,Costco,2019,Q3,COST,COST,2019-10-03,,,,,,
+512,data_collection\NLP_Dataset\Costco\2020_Q1_cost.txt,Costco,2020,Q1,COST,COST,2020-05-28,,,,,,
+516,data_collection\NLP_Dataset\Costco\2021_Q1_cost.txt,Costco,2021,Q1,COST,COST,2021-05-27,,,,,,
+520,data_collection\NLP_Dataset\Costco\2022_Q1_cost.txt,Costco,2022,Q1,COST,COST,2022-05-26,,,ERROR,,,
+547,data_collection\NLP_Dataset\Deutsche Bank\2021_Q3_dbk.txt,Deutsche Bank,2021,Q3,DBK,DB,2021-10-27,,,,,,
+549,data_collection\NLP_Dataset\Deutsche Bank\2022_Q1_dbk.txt,Deutsche Bank,2022,Q1,DBK,DB,2022-04-26,,,,,,
+550,data_collection\NLP_Dataset\Deutsche Bank\2022_Q2_dbk.txt,Deutsche Bank,2022,Q2,DBK,DB,2022-07-27,,,,,,
+551,data_collection\NLP_Dataset\Deutsche Bank\2022_Q3_dbk.txt,Deutsche Bank,2022,Q3,DBK,DB,2022-10-26,,,,,,
+570,data_collection\NLP_Dataset\Elevance Health\2017_Q4_elv.txt,Elevance Health,2017,Q4,ELV,ELV,2018-01-31,,,,,,
+571,data_collection\NLP_Dataset\Elevance Health\2018_Q1_elv.txt,Elevance Health,2018,Q1,ELV,ELV,2018-04-25,,,,,,
+572,data_collection\NLP_Dataset\Elevance Health\2018_Q2_elv.txt,Elevance Health,2018,Q2,ELV,ELV,2018-07-25,,,,,,
+573,data_collection\NLP_Dataset\Elevance Health\2018_Q3_elv.txt,Elevance Health,2018,Q3,ELV,ELV,2018-10-31,sell,"Ticker
+ELV   -14.247375
+dtype: float64","Decision: 0.  
+Rationale: Anthem delivered strong Q3 2018 results with adjusted EPS up 44% year-over-year, better-than-expected medical cost performance, and raised full-year 2018 EPS guidance to greater than $15.60. Revenue growth was solid, especially in Government business and fee-based revenue, and membership is expected to accelerate in Q4. Management also highlighted positive 2019 momentum across Medicare Advantage, Medicaid expansion, and the IngenioRx PBM launch, with consensus for 2019 appearing slightly below their long-term growth target. Although there are some headwinds like star ratings and regulatory uncertainty, the overall fundamental outlook is constructive. Given the strong earnings beat, improved guidance, and attractive valuation around the earnings call close, the stock is more likely to move higher over the next two months.",,,
+574,data_collection\NLP_Dataset\Elevance Health\2018_Q4_elv.txt,Elevance Health,2018,Q4,ELV,ELV,2019-01-30,,,,,,
+575,data_collection\NLP_Dataset\Elevance Health\2019_Q1_elv.txt,Elevance Health,2019,Q1,ELV,ELV,2019-04-24,,,,,,
+576,data_collection\NLP_Dataset\Elevance Health\2019_Q2_elv.txt,Elevance Health,2019,Q2,ELV,ELV,2019-07-24,,,,,,
+577,data_collection\NLP_Dataset\Elevance Health\2019_Q3_elv.txt,Elevance Health,2019,Q3,ELV,ELV,2019-10-23,,,,,,
+578,data_collection\NLP_Dataset\Elevance Health\2019_Q4_elv.txt,Elevance Health,2019,Q4,ELV,ELV,2020-01-29,,,,,,
+579,data_collection\NLP_Dataset\Elevance Health\2020_Q1_elv.txt,Elevance Health,2020,Q1,ELV,ELV,2020-04-29,,,,,,
+580,data_collection\NLP_Dataset\Elevance Health\2020_Q2_elv.txt,Elevance Health,2020,Q2,ELV,ELV,2020-07-29,,,,,,
+581,data_collection\NLP_Dataset\Elevance Health\2020_Q3_elv.txt,Elevance Health,2020,Q3,ELV,ELV,2020-10-28,sell,"Ticker
+ELV    21.930389
+dtype: float64","Decision: 0
+Rationale: The company’s Q3 results show resilient membership growth, especially in Medicaid and Medicare, with total medical membership up sequentially and up 1.6 million lives year-to-date despite COVID. Management reaffirmed 2020 EPS guidance and gave a constructive preliminary 2021 outlook of 12–15% EPS growth, supported by the permanent repeal of the health insurer fee, IngenioRx growth, Medicare Advantage share gains, and continued buybacks. While COVID-related costs and higher Q4 MLR create near-term pressure, these are already partially reflected in the stock’s recent volatility, and the company’s overall fundamentals and long-term growth trajectory appear strong. Based on the positive earnings call tone, resilient membership trends, and likely improvement in the demand environment over the next two months, the stock is more likely to trade higher than its level at the earnings call date.",,,
+582,data_collection\NLP_Dataset\Elevance Health\2020_Q4_elv.txt,Elevance Health,2020,Q4,ELV,ELV,2021-01-27,,,,,,
+583,data_collection\NLP_Dataset\Elevance Health\2021_Q1_elv.txt,Elevance Health,2021,Q1,ELV,ELV,2021-04-21,,,,,,
+584,data_collection\NLP_Dataset\Elevance Health\2021_Q2_elv.txt,Elevance Health,2021,Q2,ELV,ELV,2021-07-21,,,,,,
+585,data_collection\NLP_Dataset\Elevance Health\2021_Q3_elv.txt,Elevance Health,2021,Q3,ELV,ELV,2021-10-20,,,,,,
+586,data_collection\NLP_Dataset\Elevance Health\2021_Q4_elv.txt,Elevance Health,2021,Q4,ELV,ELV,2022-01-26,,,,,,
+587,data_collection\NLP_Dataset\Elevance Health\2022_Q1_elv.txt,Elevance Health,2022,Q1,ELV,ELV,2022-04-20,,,,,,
+588,data_collection\NLP_Dataset\Elevance Health\2022_Q2_elv.txt,Elevance Health,2022,Q2,ELV,ELV,2022-07-20,,,,,,
+589,data_collection\NLP_Dataset\Elevance Health\2022_Q3_elv.txt,Elevance Health,2022,Q3,ELV,ELV,2022-10-19,sell,"Ticker
+ELV    14.595642
+dtype: float64","Decision: 0
+
+Rationale: Elevance Health reported strong Q3 2022 results with adjusted EPS of $7.53, ahead of expectations, and raised full-year guidance to above $28.95, implying ~15% growth. Membership grew 5% year-over-year, and the company highlighted continued momentum across commercial, Medicare, Medicaid, Carelon, and IngenioRx. Management also expects 2023 EPS growth in line with consensus, supported by commercial margin recovery, Medicare Advantage tailwinds, and expanding services revenue. The recent price data shows the stock recovering from late-September lows and trading with positive momentum into the earnings release. Given the beat-and-raise quarter and broadly positive forward outlook, the stock is likely to be higher in two months.",,,
+590,data_collection\NLP_Dataset\Elevance Health\2022_Q4_elv.txt,Elevance Health,2022,Q4,ELV,ELV,2023-01-25,,,,,,
+591,data_collection\NLP_Dataset\Elevance Health\2023_Q1_elv.txt,Elevance Health,2023,Q1,ELV,ELV,2023-04-19,,,,,,
+592,data_collection\NLP_Dataset\Elevance Health\2023_Q2_elv.txt,Elevance Health,2023,Q2,ELV,ELV,2023-07-19,,,,,,
+593,data_collection\NLP_Dataset\Elevance Health\2023_Q3_elv.txt,Elevance Health,2023,Q3,ELV,ELV,2023-10-18,,,,,,
+594,data_collection\NLP_Dataset\Elevance Health\2023_Q4_elv.txt,Elevance Health,2023,Q4,ELV,ELV,2024-01-24,,,,,,
+595,data_collection\NLP_Dataset\Elevance Health\2024_Q1_elv.txt,Elevance Health,2024,Q1,ELV,ELV,2024-04-18,,,,,,
+596,data_collection\NLP_Dataset\Elevance Health\2024_Q2_elv.txt,Elevance Health,2024,Q2,ELV,ELV,2024-07-17,,,,,,
+597,data_collection\NLP_Dataset\Engie\2018_Q1_engi.txt,Engie,2018,Q1,ENGI,ENGI.PA,2018-05-15,,,ERROR,,,
+598,data_collection\NLP_Dataset\Engie\2019_Q1_engi.txt,Engie,2019,Q1,ENGI,ENGI.PA,2019-05-13,,,,,,
+599,data_collection\NLP_Dataset\Engie\2019_Q3_engi.txt,Engie,2019,Q3,ENGI,ENGI.PA,2019-11-07,,,,,,
+600,data_collection\NLP_Dataset\Engie\2020_Q1_engi.txt,Engie,2020,Q1,ENGI,ENGI.PA,2020-05-11,,,,,,
+602,data_collection\NLP_Dataset\Engie\2021_Q1_engi.txt,Engie,2021,Q1,ENGI,ENGI.PA,2021-05-18,,,,,,
+603,data_collection\NLP_Dataset\Engie\2021_Q3_engi.txt,Engie,2021,Q3,ENGI,ENGI.PA,2021-11-10,,,,,,
+604,data_collection\NLP_Dataset\Engie\2022_Q1_engi.txt,Engie,2022,Q1,ENGI,ENGI.PA,2022-05-17,,,,,,
+605,data_collection\NLP_Dataset\Engie\2022_Q3_engi.txt,Engie,2022,Q3,ENGI,ENGI.PA,2022-11-10,,,,,,
+609,data_collection\NLP_Dataset\Ford\2017_Q4_f.txt,Ford,2017,Q4,F,F,2018-01-24,sell,"Ticker
+F   -0.784294
+dtype: float64","Decision: 1 (Sell). Rationale: Ford’s 2018 guidance calls for lower adjusted EPS ($1.45–$1.70 vs. $1.78 in 2017), with continued headwinds from commodity costs, adverse exchange rates, weaker China pricing, lower Ford Credit profits, and higher mobility/AV investments. Management also indicated fitness benefits will mostly come later, not within the near term. The stock had already been declining after the earnings announcement, and with the position needing to be liquidated in two months, the near-term outlook points to further downside rather than recovery.",,,
+610,data_collection\NLP_Dataset\Ford\2018_Q1_f.txt,Ford,2018,Q1,F,F,2018-04-25,,,,,,
+611,data_collection\NLP_Dataset\Ford\2018_Q2_f.txt,Ford,2018,Q2,F,F,2018-07-25,,,,,,
+612,data_collection\NLP_Dataset\Ford\2018_Q3_f.txt,Ford,2018,Q3,F,F,2018-10-24,,,,,,
+613,data_collection\NLP_Dataset\Ford\2018_Q4_f.txt,Ford,2018,Q4,F,F,2019-01-23,,,,,,
+614,data_collection\NLP_Dataset\Ford\2019_Q1_f.txt,Ford,2019,Q1,F,F,2019-04-25,,,,,,
+615,data_collection\NLP_Dataset\Ford\2019_Q2_f.txt,Ford,2019,Q2,F,F,2019-07-24,,,,,,
+616,data_collection\NLP_Dataset\Ford\2019_Q3_f.txt,Ford,2019,Q3,F,F,2019-10-23,,,,,,
+617,data_collection\NLP_Dataset\Ford\2019_Q4_f.txt,Ford,2019,Q4,F,F,2020-02-04,sell,"Ticker
+F   -3.661913
+dtype: float64","Decision: 1 (Sell).  
+Rationale: Ford’s 2020 guidance is cautious and points to weaker near-term performance: adjusted EBIT expected at $5.6–$6.6 billion, down from 2019’s $6.4 billion, with Q1 EBIT projected to drop more than $1.1 billion. The company faces significant headwinds including F-150 launch downtime, CO2 compliance costs, higher mobility investment, lower Ford Credit earnings, and continued warranty pressure. The earnings call also highlights uncertainty from the coronavirus, which at the time was not factored into guidance and posed downside risk to operations in China and global supply chains. The recent price data shows the stock hovering around $6.5–$6.7 with some weakness into late January, and given the cautious outlook and near-term execution risks, the stock is more likely to decline over the two-month horizon. Therefore, selling is the appropriate decision.",,,
+618,data_collection\NLP_Dataset\Ford\2020_Q1_f.txt,Ford,2020,Q1,F,F,2020-04-28,,,,,,
+619,data_collection\NLP_Dataset\Ford\2020_Q2_f.txt,Ford,2020,Q2,F,F,2020-07-30,,,,,,
+620,data_collection\NLP_Dataset\Ford\2020_Q3_f.txt,Ford,2020,Q3,F,F,2020-10-28,,,,,,
+621,data_collection\NLP_Dataset\Ford\2020_Q4_f.txt,Ford,2020,Q4,F,F,2021-02-04,,,,,,
+622,data_collection\NLP_Dataset\Ford\2021_Q1_f.txt,Ford,2021,Q1,F,F,2021-04-28,,,,,,
+623,data_collection\NLP_Dataset\Ford\2021_Q2_f.txt,Ford,2021,Q2,F,F,2021-07-28,,,,,,
+624,data_collection\NLP_Dataset\Ford\2021_Q3_f.txt,Ford,2021,Q3,F,F,2021-10-27,,,,,,
+625,data_collection\NLP_Dataset\Ford\2021_Q4_f.txt,Ford,2021,Q4,F,F,2022-02-03,buy,"Ticker
+F   -2.426248
+dtype: float64","Decision: 0 (Buy). Rationale: Ford delivered a strong 2021 with adjusted EBIT of $10 billion and guidance for 2022 of $11.5–12.5 billion (up 15–25%), driven by robust demand, improved mix, and the ramp-up of high-margin EVs like the F-150 Lightning. Management’s confidence in achieving North America 10% EBIT margin a year early signals operational improvements. Despite near-term supply chain headwinds, the stock’s recent decline to ~$15.45 appears undervalued given the positive earnings momentum and growth catalysts. Over the next two months, these fundamentals should lift the stock.",,,
+626,data_collection\NLP_Dataset\Ford\2022_Q1_f.txt,Ford,2022,Q1,F,F,2022-04-27,,,,,,
+627,data_collection\NLP_Dataset\Ford\2022_Q2_f.txt,Ford,2022,Q2,F,F,2022-07-27,,,,,,
+628,data_collection\NLP_Dataset\Ford\2022_Q3_f.txt,Ford,2022,Q3,F,F,2022-10-26,,,,,,
+629,data_collection\NLP_Dataset\Ford\2022_Q4_f.txt,Ford,2022,Q4,F,F,2023-02-02,,,,,,
+630,data_collection\NLP_Dataset\Ford\2023_Q1_f.txt,Ford,2023,Q1,F,F,2023-05-02,,,,,,
+631,data_collection\NLP_Dataset\Ford\2023_Q2_f.txt,Ford,2023,Q2,F,F,2023-07-27,,,,,,
+632,data_collection\NLP_Dataset\Ford\2023_Q3_f.txt,Ford,2023,Q3,F,F,2023-10-26,,,,,,
+633,data_collection\NLP_Dataset\Ford\2023_Q4_f.txt,Ford,2023,Q4,F,F,2024-02-06,sell,"Ticker
+F    1.333202
+dtype: float64","Decision: 0. Rationale: The earnings call points to a solid 2024 outlook with adjusted EBIT guided to $10–$12 billion, potentially a record, supported by strong Ford Pro results, expected cost efficiencies of $2 billion, stable Ford Blue profitability, and continued cash generation. Although Model e losses are expected to widen, this is already reflected in guidance and the core segments are positioned to drive overall profitability higher. The recent price pullback to around $9.85 provides a reasonable entry point, while the company’s capital returns, improving quality, and product refresh momentum support upside over the two-month horizon.",,,
+634,data_collection\NLP_Dataset\Ford\2024_Q1_f.txt,Ford,2024,Q1,F,F,2024-04-24,,,,,,
+635,data_collection\NLP_Dataset\Ford\2024_Q2_f.txt,Ford,2024,Q2,F,F,2024-07-24,,,,,,
+636,data_collection\NLP_Dataset\GM\2017_Q4_gm.txt,GM,2017,Q4,GM,GM,2018-02-06,,,,,,
+637,data_collection\NLP_Dataset\GM\2018_Q1_gm.txt,GM,2018,Q1,GM,GM,2018-04-26,,,,,,
+638,data_collection\NLP_Dataset\GM\2018_Q2_gm.txt,GM,2018,Q2,GM,GM,2018-07-25,,,,,,
+639,data_collection\NLP_Dataset\GM\2018_Q3_gm.txt,GM,2018,Q3,GM,GM,2018-10-31,,,,,,
+640,data_collection\NLP_Dataset\GM\2018_Q4_gm.txt,GM,2018,Q4,GM,GM,2019-02-06,,,,,,
+641,data_collection\NLP_Dataset\GM\2019_Q1_gm.txt,GM,2019,Q1,GM,GM,2019-04-30,buy,"Ticker
+GM   -0.006523
+dtype: float64","Decision: 0 (Buy).  
+Rationale: The earnings call conveyed a generally positive outlook. GM reaffirmed its full-year EPS guidance of $6.50–$7 and noted that Q1 was the weakest quarter, with Q2 improving and H2 expected to be significantly stronger due to the full-size truck and SUV launches, cost savings, and easing headwinds. The stock has been in an upward trend over the past month (from ~$33.5 to $36.8), and the company’s reiterated guidance and confident tone regarding upcoming product launches and transformation actions suggest continued upward momentum over the next two months. Despite some China headwinds, the strong North American truck performance and cost discipline are likely to drive earnings and investor sentiment higher. Thus, the stock is expected to appreciate over the two-month horizon.",,,
+642,data_collection\NLP_Dataset\GM\2019_Q2_gm.txt,GM,2019,Q2,GM,GM,2019-08-01,,,,,,
+643,data_collection\NLP_Dataset\GM\2019_Q3_gm.txt,GM,2019,Q3,GM,GM,2019-10-29,,,,,,
+644,data_collection\NLP_Dataset\GM\2019_Q4_gm.txt,GM,2019,Q4,GM,GM,2020-02-05,,,,,,
+645,data_collection\NLP_Dataset\GM\2020_Q1_gm.txt,GM,2020,Q1,GM,GM,2020-05-06,,,,,,
+646,data_collection\NLP_Dataset\GM\2020_Q2_gm.txt,GM,2020,Q2,GM,GM,2020-07-29,,,,,,
+647,data_collection\NLP_Dataset\GM\2020_Q3_gm.txt,GM,2020,Q3,GM,GM,2020-11-05,,,,,,
+648,data_collection\NLP_Dataset\GM\2020_Q4_gm.txt,GM,2020,Q4,GM,GM,2021-02-10,,,,,,
+649,data_collection\NLP_Dataset\GM\2021_Q1_gm.txt,GM,2021,Q1,GM,GM,2021-05-05,buy,"Ticker
+GM    1.325443
+dtype: float64","Decision: 0 (Buy). Rationale: The earnings call reported record Q1 results (EBIT-adjusted $4.4B, EPS $2.25) driven by strong US demand and GM Financial performance. Management reaffirmed full-year guidance at the higher end of $10–11B EBIT-adjusted, with Q2 expected to be the weakest due to semiconductor shortages, but a recovery in H2. The company is accelerating EV/AV investments, with upcoming launches (Hummer EV, Lyriq, Silverado EV) and strong product momentum. Past price data shows a stable upward trend from $51 to $54 over the prior two months, and the strong earnings beat likely boosts investor sentiment despite near-term chip issues. Given the positive outlook and management confidence, the stock is expected to rise over the next two months.",,,
+650,data_collection\NLP_Dataset\GM\2021_Q2_gm.txt,GM,2021,Q2,GM,GM,2021-08-04,,,,,,
+651,data_collection\NLP_Dataset\GM\2021_Q3_gm.txt,GM,2021,Q3,GM,GM,2021-10-27,,,,,,
+652,data_collection\NLP_Dataset\GM\2021_Q4_gm.txt,GM,2021,Q4,GM,GM,2022-02-01,,,,,,
+653,data_collection\NLP_Dataset\GM\2022_Q1_gm.txt,GM,2022,Q1,GM,GM,2022-04-26,,,,,,
+654,data_collection\NLP_Dataset\GM\2022_Q2_gm.txt,GM,2022,Q2,GM,GM,2022-07-26,,,,,,
+655,data_collection\NLP_Dataset\GM\2022_Q3_gm.txt,GM,2022,Q3,GM,GM,2022-10-25,,,,,,
+656,data_collection\NLP_Dataset\GM\2022_Q4_gm.txt,GM,2022,Q4,GM,GM,2023-01-31,,,,,,
+657,data_collection\NLP_Dataset\GM\2023_Q1_gm.txt,GM,2023,Q1,GM,GM,2023-04-25,buy,"Ticker
+GM    3.259691
+dtype: float64","Decision: 0 (Buy). Rationale: The earnings call reported strong Q1 2023 results, with revenue up 11%, EBIT-adjusted margins of 9.5%, and raised full-year guidance to $11-$13 billion EBIT-adjusted. The company also highlighted robust demand, pricing discipline, and successful cost reduction initiatives, including $2 billion in fixed cost cuts with faster-than-expected realization. Despite headwinds from China and commodity costs, the underlying business strength and positive outlook (including EV ramp and share buybacks) suggest the stock is likely to appreciate over the next two months. The stock has recently declined, but the earnings beat and raised guidance could reverse that trend, making a buy decision appropriate.",,,
+658,data_collection\NLP_Dataset\GM\2023_Q2_gm.txt,GM,2023,Q2,GM,GM,2023-07-25,,,,,,
+659,data_collection\NLP_Dataset\GM\2023_Q3_gm.txt,GM,2023,Q3,GM,GM,2023-10-24,,,,,,
+660,data_collection\NLP_Dataset\GM\2023_Q4_gm.txt,GM,2023,Q4,GM,GM,2024-01-30,,,,,,
+661,data_collection\NLP_Dataset\GM\2024_Q1_gm.txt,GM,2024,Q1,GM,GM,2024-04-23,,,,,,
+662,data_collection\NLP_Dataset\GM\2024_Q2_gm.txt,GM,2024,Q2,GM,GM,2024-07-23,,,,,,
+663,data_collection\NLP_Dataset\IBM\2017_Q4_ibm.txt,IBM,2017,Q4,IBM,IBM,2018-01-18,,,,,,
+664,data_collection\NLP_Dataset\IBM\2018_Q1_ibm.txt,IBM,2018,Q1,IBM,IBM,2018-04-17,,,,,,
+665,data_collection\NLP_Dataset\IBM\2018_Q2_ibm.txt,IBM,2018,Q2,IBM,IBM,2018-07-18,buy,"Ticker
+IBM    3.410133
+dtype: float64","Decision: 0 (Buy).  
+Rationale: IBM’s Q2 2018 earnings call reported a solid quarter with 2% constant-currency revenue growth (best in seven years), 11% operating pretax income growth, and a 5% EPS increase, while reaffirming full-year EPS guidance of at least $13.80. The company highlighted accelerating strategic imperatives (up 13% constant currency), strong cloud growth (18% constant currency with as-a-Service run-rate up 25%), and a return to growth in both services segments, which together support positive revenue trajectory. Management also cited improving backlog dynamics, double-digit signings, and productivity benefits ramping in the second half, despite currency headwinds and expected Q4 mainframe compare issues. The stock had recently recovered from a late-June dip, suggesting market sentiment was improving ahead of the call. Given the positive earnings surprise, raised dividend, and buybacks, along with a favorable outlook, the stock is likely to appreciate over the next two months as the market prices in the better-than-expected operational performance and sustained growth in high-value areas. Thus, a buy decision is warranted.",,,
+666,data_collection\NLP_Dataset\IBM\2018_Q3_ibm.txt,IBM,2018,Q3,IBM,IBM,2018-10-16,,,,,,
+667,data_collection\NLP_Dataset\IBM\2018_Q4_ibm.txt,IBM,2018,Q4,IBM,IBM,2019-01-22,,,,,,
+668,data_collection\NLP_Dataset\IBM\2019_Q1_ibm.txt,IBM,2019,Q1,IBM,IBM,2019-04-16,,,,,,
+669,data_collection\NLP_Dataset\IBM\2019_Q2_ibm.txt,IBM,2019,Q2,IBM,IBM,2019-07-17,,,,,,
+670,data_collection\NLP_Dataset\IBM\2019_Q3_ibm.txt,IBM,2019,Q3,IBM,IBM,2019-10-16,,,,,,
+671,data_collection\NLP_Dataset\IBM\2019_Q4_ibm.txt,IBM,2019,Q4,IBM,IBM,2020-01-21,,,,,,
+672,data_collection\NLP_Dataset\IBM\2020_Q1_ibm.txt,IBM,2020,Q1,IBM,IBM,2020-04-20,,,,,,
+673,data_collection\NLP_Dataset\IBM\2020_Q2_ibm.txt,IBM,2020,Q2,IBM,IBM,2020-07-20,,,ERROR,,,
+674,data_collection\NLP_Dataset\IBM\2020_Q3_ibm.txt,IBM,2020,Q3,IBM,IBM,2020-10-19,,,,,,
+675,data_collection\NLP_Dataset\IBM\2020_Q4_ibm.txt,IBM,2020,Q4,IBM,IBM,2021-01-21,,,,,,
+676,data_collection\NLP_Dataset\IBM\2021_Q1_ibm.txt,IBM,2021,Q1,IBM,IBM,2021-04-19,,,,,,
+677,data_collection\NLP_Dataset\IBM\2021_Q2_ibm.txt,IBM,2021,Q2,IBM,IBM,2021-07-19,,,,,,
+678,data_collection\NLP_Dataset\IBM\2021_Q3_ibm.txt,IBM,2021,Q3,IBM,IBM,2021-10-20,,,,,,
+679,data_collection\NLP_Dataset\IBM\2021_Q4_ibm.txt,IBM,2021,Q4,IBM,IBM,2022-01-24,,,,,,
+680,data_collection\NLP_Dataset\IBM\2022_Q1_ibm.txt,IBM,2022,Q1,IBM,IBM,2022-04-19,,,,,,
+681,data_collection\NLP_Dataset\IBM\2022_Q2_ibm.txt,IBM,2022,Q2,IBM,IBM,2022-07-18,buy,"Ticker
+IBM   -7.992012
+dtype: float64","Decision: 0 (BUY)
+Rationale: The earnings call presented solid Q2 results with revenue growth of 16% (including Kyndryl) and strong performance across software and consulting segments (software +12%, consulting +18% at constant currency). Management reaffirmed full-year revenue growth at the high end of the mid-single-digit model, raised consulting growth expectations to low double digits, and highlighted robust demand for hybrid cloud and AI solutions. Although currency translation and Russia exit pressures lowered free cash flow guidance to $10B, the underlying business fundamentals are strong, and the company remains confident in its strategy. The stock price had shown a moderate upward trend in the two months prior to the call (from ~$114.78 on May 18 to ~$120.81 on July 15). The positive earnings tone and guidance suggest continued investor confidence, supporting a price increase over the next two months.",,,
+682,data_collection\NLP_Dataset\IBM\2022_Q3_ibm.txt,IBM,2022,Q3,IBM,IBM,2022-10-19,,,,,,
+683,data_collection\NLP_Dataset\IBM\2022_Q4_ibm.txt,IBM,2022,Q4,IBM,IBM,2023-01-25,,,,,,
+684,data_collection\NLP_Dataset\IBM\2023_Q1_ibm.txt,IBM,2023,Q1,IBM,IBM,2023-04-19,,,,,,
+685,data_collection\NLP_Dataset\IBM\2023_Q2_ibm.txt,IBM,2023,Q2,IBM,IBM,2023-07-19,,,,,,
+686,data_collection\NLP_Dataset\IBM\2023_Q3_ibm.txt,IBM,2023,Q3,IBM,IBM,2023-10-25,,,,,,
+687,data_collection\NLP_Dataset\IBM\2023_Q4_ibm.txt,IBM,2023,Q4,IBM,IBM,2024-01-24,,,,,,
+688,data_collection\NLP_Dataset\IBM\2024_Q1_ibm.txt,IBM,2024,Q1,IBM,IBM,2024-04-24,,,,,,
+689,data_collection\NLP_Dataset\IBM\2024_Q2_ibm.txt,IBM,2024,Q2,IBM,IBM,2024-07-24,buy,"Ticker
+IBM    36.349991
+dtype: float64","Decision: 0 (Buy)
+
+Rationale: IBM delivered a strong Q2 with revenue growth, margin expansion, higher EPS, and raised free cash flow guidance to over $12 billion. Software growth was upgraded to high single digits, and Red Hat bookings accelerated, indicating durable momentum. Although consulting remains soft and currency is a headwind, the overall fundamentals improved and the stock has been trending upward leading into the report. With the positive earnings surprise and raised outlook, IBM’s stock is likely to be higher two months from now.",,,
+690,data_collection\NLP_Dataset\JPM\2017_Q4_jpm.txt,JPM,2017,Q4,JPM,JPM,2018-01-12,,,,,,
+691,data_collection\NLP_Dataset\JPM\2018_Q1_jpm.txt,JPM,2018,Q1,JPM,JPM,2018-04-13,,,,,,
+692,data_collection\NLP_Dataset\JPM\2018_Q2_jpm.txt,JPM,2018,Q2,JPM,JPM,2018-07-13,,,,,,
+693,data_collection\NLP_Dataset\JPM\2018_Q3_jpm.txt,JPM,2018,Q3,JPM,JPM,2018-10-12,,,,,,
+694,data_collection\NLP_Dataset\JPM\2018_Q4_jpm.txt,JPM,2018,Q4,JPM,JPM,2019-01-15,,,,,,
+695,data_collection\NLP_Dataset\JPM\2019_Q1_jpm.txt,JPM,2019,Q1,JPM,JPM,2019-04-12,,,,,,
+696,data_collection\NLP_Dataset\JPM\2019_Q2_jpm.txt,JPM,2019,Q2,JPM,JPM,2019-07-16,,,,,,
+697,data_collection\NLP_Dataset\JPM\2019_Q3_jpm.txt,JPM,2019,Q3,JPM,JPM,2019-10-15,sell,"Ticker
+JPM    14.080376
+dtype: float64","Decision: 0  
+Rationale: The Q3 2019 earnings call reflects strong underlying performance: record revenue, EPS of $2.68, 18% ROTCE, solid consumer credit, leading investment banking wallet share, and continued capital return. While NII faces some rate headwinds, management guided for deposit/balance-sheet growth to partially offset pressure, and the overall U.S. consumer and economy remain healthy. The recent price data also shows an upward trend from the August lows into mid-October. Given the positive earnings momentum and constructive fundamental outlook, the stock is more likely to be higher two months from the earnings call date than lower.",,,
+698,data_collection\NLP_Dataset\JPM\2019_Q4_jpm.txt,JPM,2019,Q4,JPM,JPM,2020-01-14,,,,,,
+699,data_collection\NLP_Dataset\JPM\2020_Q1_jpm.txt,JPM,2020,Q1,JPM,JPM,2020-04-14,,,,,,
+700,data_collection\NLP_Dataset\JPM\2020_Q2_jpm.txt,JPM,2020,Q2,JPM,JPM,2020-07-14,,,,,,
+701,data_collection\NLP_Dataset\JPM\2020_Q3_jpm.txt,JPM,2020,Q3,JPM,JPM,2020-10-13,,,,,,
+702,data_collection\NLP_Dataset\JPM\2020_Q4_jpm.txt,JPM,2020,Q4,JPM,JPM,2021-01-15,,,,,,
+703,data_collection\NLP_Dataset\JPM\2021_Q1_jpm.txt,JPM,2021,Q1,JPM,JPM,2021-04-14,,,,,,
+704,data_collection\NLP_Dataset\JPM\2021_Q2_jpm.txt,JPM,2021,Q2,JPM,JPM,2021-07-13,,,,,,
+705,data_collection\NLP_Dataset\JPM\2021_Q3_jpm.txt,JPM,2021,Q3,JPM,JPM,2021-10-13,buy,"Ticker
+JPM   -1.047531
+dtype: float64","Decision: 0 (Buy)
+
+Rationale: The earnings call highlights exceptionally strong Q3 results, including record investment banking revenues (especially M&A), low credit costs with net charge-offs at historic lows, and improved loan growth indicators, particularly in card and home lending. Management expressed optimism about the normalization of the economy, with consumer spending recovering and excess deposits beginning to rotate into revolving balances, which should support future revenue growth. The company also raised its dividend and remains aggressive on buybacks, reflecting confidence in capital strength. The macro backdrop, as described by CEO Jamie Dimon, points to robust economic growth (4-5%) and manageable inflation, with supply chain issues expected to resolve over the next year. Given these positive fundamentals and a favorable outlook, the stock is likely to appreciate over the next two months.",,,
+706,data_collection\NLP_Dataset\JPM\2021_Q4_jpm.txt,JPM,2021,Q4,JPM,JPM,2022-01-14,,,,,,
+707,data_collection\NLP_Dataset\JPM\2022_Q1_jpm.txt,JPM,2022,Q1,JPM,JPM,2022-04-13,,,,,,
+708,data_collection\NLP_Dataset\JPM\2022_Q2_jpm.txt,JPM,2022,Q2,JPM,JPM,2022-07-14,,,,,,
+709,data_collection\NLP_Dataset\JPM\2022_Q3_jpm.txt,JPM,2022,Q3,JPM,JPM,2022-10-14,,,,,,
+710,data_collection\NLP_Dataset\JPM\2022_Q4_jpm.txt,JPM,2022,Q4,JPM,JPM,2023-01-13,,,,,,
+711,data_collection\NLP_Dataset\JPM\2023_Q1_jpm.txt,JPM,2023,Q1,JPM,JPM,2023-04-14,,,,,,
+712,data_collection\NLP_Dataset\JPM\2023_Q2_jpm.txt,JPM,2023,Q2,JPM,JPM,2023-07-14,,,,,,
+713,data_collection\NLP_Dataset\JPM\2023_Q3_jpm.txt,JPM,2023,Q3,JPM,JPM,2023-10-13,sell,"Ticker
+JPM    11.806854
+dtype: float64","Decision: 1 (Sell). Rationale: Despite a strong Q3 earnings report with record net income and revenue growth, the company faces significant headwinds that could pressure the stock over the next two months. Management explicitly stated that the elevated Net Interest Income (NII) levels are unsustainable and will normalize, which could reduce future earnings. Furthermore, the proposed Basel III endgame capital requirements (30% increase in RWA, ~25% increase in capital) would negatively impact return on equity and likely constrain buybacks, as management indicated buybacks will remain modest. The stock has been trending downward over the past two months (from ~$145 to ~$137.5), indicating market concerns. The combination of regulatory overhang, potential NII normalization, and cautious management commentary suggests the stock is more likely to decline than appreciate in the short-term horizon.",,,
+714,data_collection\NLP_Dataset\JPM\2023_Q4_jpm.txt,JPM,2023,Q4,JPM,JPM,2024-01-12,,,,,,
+715,data_collection\NLP_Dataset\JPM\2024_Q1_jpm.txt,JPM,2024,Q1,JPM,JPM,2024-04-12,,,,,,
+716,data_collection\NLP_Dataset\JPM\2024_Q2_jpm.txt,JPM,2024,Q2,JPM,JPM,2024-07-12,,,,,,
+717,data_collection\NLP_Dataset\JPM\2024_Q3_jpm.txt,JPM,2024,Q3,JPM,JPM,2024-10-11,,,,,,
+722,data_collection\NLP_Dataset\Loreal\2021_Q1_or.txt,Loreal,2021,Q1,OR,OR.PA,2021-04-15,,,,,,
+763,data_collection\NLP_Dataset\Lululemon\2024_Q2_lulu.txt,Lululemon,2024,Q2,LULU,LULU,2024-08-29,,,,,,
+767,data_collection\NLP_Dataset\Marriott\2017_Q4_mar.txt,Marriott,2017,Q4,MAR,VAC,2018-02-27,,,,,,
+768,data_collection\NLP_Dataset\Marriott\2018_Q1_mar.txt,Marriott,2018,Q1,MAR,VAC,2018-05-03,sell,"Ticker
+VAC   -4.130554
+dtype: float64","Decision: 0. Rationale: Although VAC has recently declined on acquisition-related pressures, Marriott International’s first-quarter earnings call points to strong global travel demand, improved RevPAR, higher luxury and leisure activity, and raised 2018 guidance. Since VAC’s vacation ownership business is closely tied to Marriott’s brand and travel ecosystem, these positive industry and demand trends should support VAC’s operating outlook and help the stock recover over the next two months. The supportive comments on the Marriott Vacation Club/ILG transaction further reduce overhang risk, making a near-term rebound more likely.",,,
+769,data_collection\NLP_Dataset\Marriott\2018_Q2_mar.txt,Marriott,2018,Q2,MAR,VAC,2018-08-02,,,,,,
+770,data_collection\NLP_Dataset\Marriott\2018_Q3_mar.txt,Marriott,2018,Q3,MAR,VAC,2018-11-07,,,,,,
+771,data_collection\NLP_Dataset\Marriott\2018_Q4_mar.txt,Marriott,2018,Q4,MAR,VAC,2019-02-28,,,,,,
+772,data_collection\NLP_Dataset\Marriott\2019_Q1_mar.txt,Marriott,2019,Q1,MAR,VAC,2019-05-07,,,,,,
+773,data_collection\NLP_Dataset\Marriott\2019_Q2_mar.txt,Marriott,2019,Q2,MAR,VAC,2019-07-31,,,,,,
+774,data_collection\NLP_Dataset\Marriott\2019_Q3_mar.txt,Marriott,2019,Q3,MAR,VAC,2019-11-04,,,,,,
+775,data_collection\NLP_Dataset\Marriott\2019_Q4_mar.txt,Marriott,2019,Q4,MAR,VAC,2020-02-26,,,,,,
+776,data_collection\NLP_Dataset\Marriott\2020_Q1_mar.txt,Marriott,2020,Q1,MAR,VAC,2020-05-22,sell,"Ticker
+VAC   -2.053375
+dtype: float64","Decision: 0  
+Rationale: The earnings call indicates that while COVID-19 severely hurt near-term results, management believes the worst has bottomed, with improving trends in Greater China, gradual demand returning in leisure/drive-to markets, and strong liquidity of about $4.3 billion to weather the crisis. Past price data also shows a strong upward recovery trend from late March into May, suggesting improving investor sentiment. Over the next two months, the stock is more likely to be higher than its earnings-call-date closing price.",,,
+777,data_collection\NLP_Dataset\Marriott\2020_Q2_mar.txt,Marriott,2020,Q2,MAR,VAC,2020-07-29,,,,,,
+778,data_collection\NLP_Dataset\Marriott\2020_Q3_mar.txt,Marriott,2020,Q3,MAR,VAC,2020-11-04,,,,,,
+779,data_collection\NLP_Dataset\Marriott\2020_Q4_mar.txt,Marriott,2020,Q4,MAR,VAC,2021-02-24,,,,,,
+780,data_collection\NLP_Dataset\Marriott\2021_Q1_mar.txt,Marriott,2021,Q1,MAR,VAC,2021-05-05,,,,,,
+781,data_collection\NLP_Dataset\Marriott\2021_Q2_mar.txt,Marriott,2021,Q2,MAR,VAC,2021-07-28,,,,,,
+782,data_collection\NLP_Dataset\Marriott\2021_Q3_mar.txt,Marriott,2021,Q3,MAR,VAC,2021-11-08,,,,,,
+783,data_collection\NLP_Dataset\Marriott\2021_Q4_mar.txt,Marriott,2021,Q4,MAR,VAC,2022-02-23,,,,,,
+784,data_collection\NLP_Dataset\Marriott\2022_Q1_mar.txt,Marriott,2022,Q1,MAR,VAC,2022-05-05,sell,"Ticker
+VAC   -17.623634
+dtype: float64","Decision: 1
+
+Rationale: The earnings call is positive for Marriott International’s recovery, but the stock in question is VAC, which is more directly exposed to consumer vacation ownership financing and discretionary spending. The call highlights inflation, Fed tightening, recession risks, and China lockdowns as meaningful headwinds. VAC’s recent price action also shows a downtrend from the late-April peak to around $128.77 by May 4, suggesting weak momentum. Over a two-month horizon, the balance of risks favors the downside, so selling is the appropriate decision.",,,
+785,data_collection\NLP_Dataset\Marriott\2022_Q2_mar.txt,Marriott,2022,Q2,MAR,VAC,2022-08-08,,,,,,
+786,data_collection\NLP_Dataset\Marriott\2022_Q3_mar.txt,Marriott,2022,Q3,MAR,VAC,2022-10-31,,,,,,
+787,data_collection\NLP_Dataset\Marriott\2022_Q4_mar.txt,Marriott,2022,Q4,MAR,VAC,2023-02-22,,,,,,
+788,data_collection\NLP_Dataset\Marriott\2023_Q1_mar.txt,Marriott,2023,Q1,MAR,VAC,2023-05-03,,,,,,
+789,data_collection\NLP_Dataset\Marriott\2023_Q2_mar.txt,Marriott,2023,Q2,MAR,VAC,2023-08-02,,,,,,
+790,data_collection\NLP_Dataset\Marriott\2023_Q3_mar.txt,Marriott,2023,Q3,MAR,VAC,2023-11-01,,,,,,
+791,data_collection\NLP_Dataset\Marriott\2023_Q4_mar.txt,Marriott,2023,Q4,MAR,VAC,2024-02-21,,,,,,
+792,data_collection\NLP_Dataset\Marriott\2024_Q1_mar.txt,Marriott,2024,Q1,MAR,VAC,2024-05-06,buy,"Ticker
+VAC   -13.366638
+dtype: float64","Decision: 0
+Rationale: Marriott International’s Q1 earnings call points to resilient travel demand, with global RevPAR up 4.2%, strong group and leisure trends, and raised full-year guidance for EBITDA and EPS. This suggests continued strength in travel and vacation-related spending over the next two months. The recent VAC price data shows a pullback, but the stock stabilized around $86–$88 around the earnings release, and the positive industry read-through from Marriott should support a rebound. Therefore, the stock is more likely to be higher in two months, so I would buy.",,,
+793,data_collection\NLP_Dataset\Marriott\2024_Q2_mar.txt,Marriott,2024,Q2,MAR,VAC,2024-07-31,,,,,,
+794,data_collection\NLP_Dataset\Mastercard\2018_Q1_ma.txt,Mastercard,2018,Q1,MA,MA,2018-05-02,,,,,,
+795,data_collection\NLP_Dataset\Mastercard\2018_Q2_ma.txt,Mastercard,2018,Q2,MA,MA,2018-07-26,,,,,,
+796,data_collection\NLP_Dataset\Mastercard\2018_Q3_ma.txt,Mastercard,2018,Q3,MA,MA,2018-10-30,,,,,,
+797,data_collection\NLP_Dataset\Mastercard\2018_Q4_ma.txt,Mastercard,2018,Q4,MA,MA,2019-01-31,,,,,,
+798,data_collection\NLP_Dataset\Mastercard\2019_Q1_ma.txt,Mastercard,2019,Q1,MA,MA,2019-04-30,,,,,,
+799,data_collection\NLP_Dataset\Mastercard\2019_Q2_ma.txt,Mastercard,2019,Q2,MA,MA,2019-07-30,,,,,,
+800,data_collection\NLP_Dataset\Mastercard\2019_Q3_ma.txt,Mastercard,2019,Q3,MA,MA,2019-10-29,,,ERROR,,,
+801,data_collection\NLP_Dataset\Mastercard\2019_Q4_ma.txt,Mastercard,2019,Q4,MA,MA,2020-01-29,,,,,,
+802,data_collection\NLP_Dataset\Mastercard\2020_Q1_ma.txt,Mastercard,2020,Q1,MA,MA,2020-04-29,,,,,,
+803,data_collection\NLP_Dataset\Mastercard\2020_Q2_ma.txt,Mastercard,2020,Q2,MA,MA,2020-07-30,,,,,,
+804,data_collection\NLP_Dataset\Mastercard\2020_Q3_ma.txt,Mastercard,2020,Q3,MA,MA,2020-10-28,,,,,,
+805,data_collection\NLP_Dataset\Mastercard\2020_Q4_ma.txt,Mastercard,2020,Q4,MA,MA,2021-01-28,,,,,,
+806,data_collection\NLP_Dataset\Mastercard\2021_Q1_ma.txt,Mastercard,2021,Q1,MA,MA,2021-04-29,,,,,,
+807,data_collection\NLP_Dataset\Mastercard\2021_Q2_ma.txt,Mastercard,2021,Q2,MA,MA,2021-07-29,,,,,,
+808,data_collection\NLP_Dataset\Mastercard\2021_Q3_ma.txt,Mastercard,2021,Q3,MA,MA,2021-10-28,,,ERROR,,,
+809,data_collection\NLP_Dataset\Mastercard\2021_Q4_ma.txt,Mastercard,2021,Q4,MA,MA,2022-01-27,,,,,,
+810,data_collection\NLP_Dataset\Mastercard\2022_Q1_ma.txt,Mastercard,2022,Q1,MA,MA,2022-04-28,,,,,,
+811,data_collection\NLP_Dataset\Mastercard\2022_Q2_ma.txt,Mastercard,2022,Q2,MA,MA,2022-07-28,,,,,,
+812,data_collection\NLP_Dataset\Mastercard\2022_Q3_ma.txt,Mastercard,2022,Q3,MA,MA,2022-10-27,,,,,,
+813,data_collection\NLP_Dataset\Mastercard\2022_Q4_ma.txt,Mastercard,2022,Q4,MA,MA,2023-01-26,,,,,,
+814,data_collection\NLP_Dataset\Mastercard\2023_Q1_ma.txt,Mastercard,2023,Q1,MA,MA,2023-04-27,,,,,,
+815,data_collection\NLP_Dataset\Mastercard\2023_Q2_ma.txt,Mastercard,2023,Q2,MA,MA,2023-07-27,,,,,,
+816,data_collection\NLP_Dataset\Mastercard\2023_Q3_ma.txt,Mastercard,2023,Q3,MA,MA,2023-10-26,,,ERROR,,,
+817,data_collection\NLP_Dataset\Mastercard\2023_Q4_ma.txt,Mastercard,2023,Q4,MA,MA,2024-01-31,,,,,,
+818,data_collection\NLP_Dataset\Mastercard\2024_Q1_ma.txt,Mastercard,2024,Q1,MA,MA,2024-05-01,,,,,,
+819,data_collection\NLP_Dataset\Mastercard\2024_Q2_ma.txt,Mastercard,2024,Q2,MA,MA,2024-07-31,,,,,,
+820,data_collection\NLP_Dataset\META\2017_Q4_meta.txt,META,2017,Q4,META,META,2018-01-31,,,,,,
+821,data_collection\NLP_Dataset\META\2018_Q1_meta.txt,META,2018,Q1,META,META,2018-04-25,,,,,,
+822,data_collection\NLP_Dataset\META\2018_Q2_meta.txt,META,2018,Q2,META,META,2018-07-25,,,,,,
+823,data_collection\NLP_Dataset\META\2018_Q3_meta.txt,META,2018,Q3,META,META,2018-10-30,,,,,,
+824,data_collection\NLP_Dataset\META\2018_Q4_meta.txt,META,2018,Q4,META,META,2019-01-30,,,ERROR,,,
+825,data_collection\NLP_Dataset\META\2019_Q1_meta.txt,META,2019,Q1,META,META,2019-04-24,,,,,,
+826,data_collection\NLP_Dataset\META\2019_Q2_meta.txt,META,2019,Q2,META,META,2019-07-24,,,,,,
+827,data_collection\NLP_Dataset\META\2019_Q3_meta.txt,META,2019,Q3,META,META,2019-10-30,,,,,,
+828,data_collection\NLP_Dataset\META\2019_Q4_meta.txt,META,2019,Q4,META,META,2020-01-29,,,,,,
+829,data_collection\NLP_Dataset\META\2020_Q1_meta.txt,META,2020,Q1,META,META,2020-04-29,,,,,,
+830,data_collection\NLP_Dataset\META\2020_Q2_meta.txt,META,2020,Q2,META,META,2020-07-30,,,,,,
+831,data_collection\NLP_Dataset\META\2020_Q3_meta.txt,META,2020,Q3,META,META,2020-10-29,,,,,,
+832,data_collection\NLP_Dataset\META\2020_Q4_meta.txt,META,2020,Q4,META,META,2021-01-27,,,ERROR,,,
+833,data_collection\NLP_Dataset\META\2021_Q1_meta.txt,META,2021,Q1,META,META,2021-04-28,,,,,,
+834,data_collection\NLP_Dataset\META\2021_Q2_meta.txt,META,2021,Q2,META,META,2021-07-28,,,,,,
+835,data_collection\NLP_Dataset\META\2021_Q3_meta.txt,META,2021,Q3,META,META,2021-10-25,,,,,,
+836,data_collection\NLP_Dataset\META\2021_Q4_meta.txt,META,2021,Q4,META,META,2022-02-02,,,,,,
+837,data_collection\NLP_Dataset\META\2022_Q1_meta.txt,META,2022,Q1,META,META,2022-04-27,,,,,,
+838,data_collection\NLP_Dataset\META\2022_Q2_meta.txt,META,2022,Q2,META,META,2022-07-27,,,,,,
+839,data_collection\NLP_Dataset\META\2022_Q3_meta.txt,META,2022,Q3,META,META,2022-10-26,,,,,,
+840,data_collection\NLP_Dataset\META\2022_Q4_meta.txt,META,2022,Q4,META,META,2023-02-01,,,ERROR,,,
+841,data_collection\NLP_Dataset\META\2023_Q1_meta.txt,META,2023,Q1,META,META,2023-04-26,,,,,,
+842,data_collection\NLP_Dataset\META\2023_Q2_meta.txt,META,2023,Q2,META,META,2023-07-26,,,,,,
+843,data_collection\NLP_Dataset\META\2023_Q3_meta.txt,META,2023,Q3,META,META,2023-10-25,,,,,,
+844,data_collection\NLP_Dataset\META\2023_Q4_meta.txt,META,2023,Q4,META,META,2024-02-01,,,,,,
+845,data_collection\NLP_Dataset\META\2024_Q1_meta.txt,META,2024,Q1,META,META,2024-04-24,,,,,,
+846,data_collection\NLP_Dataset\META\2024_Q2_meta.txt,META,2024,Q2,META,META,2024-07-31,,,,,,
+848,data_collection\NLP_Dataset\Microsoft\2018_Q2_msft.txt,Microsoft,2018,Q2,MSFT,MSFT,2018-07-19,,,,,,
+849,data_collection\NLP_Dataset\Microsoft\2018_Q3_msft.txt,Microsoft,2018,Q3,MSFT,MSFT,2018-10-24,,,ERROR,,,
+850,data_collection\NLP_Dataset\Microsoft\2018_Q4_msft.txt,Microsoft,2018,Q4,MSFT,MSFT,2019-01-30,,,,,,
+851,data_collection\NLP_Dataset\Microsoft\2019_Q1_msft.txt,Microsoft,2019,Q1,MSFT,MSFT,2019-04-24,,,,,,
+852,data_collection\NLP_Dataset\Microsoft\2019_Q2_msft.txt,Microsoft,2019,Q2,MSFT,MSFT,2019-07-18,,,,,,
+853,data_collection\NLP_Dataset\Microsoft\2019_Q3_msft.txt,Microsoft,2019,Q3,MSFT,MSFT,2019-10-23,,,,,,
+854,data_collection\NLP_Dataset\Microsoft\2019_Q4_msft.txt,Microsoft,2019,Q4,MSFT,MSFT,2020-01-29,,,,,,
+855,data_collection\NLP_Dataset\Microsoft\2020_Q1_msft.txt,Microsoft,2020,Q1,MSFT,MSFT,2020-04-29,,,,,,
+856,data_collection\NLP_Dataset\Microsoft\2020_Q2_msft.txt,Microsoft,2020,Q2,MSFT,MSFT,2020-07-22,,,,,,
+857,data_collection\NLP_Dataset\Microsoft\2020_Q3_msft.txt,Microsoft,2020,Q3,MSFT,MSFT,2020-10-27,,,ERROR,,,
+858,data_collection\NLP_Dataset\Microsoft\2020_Q4_msft.txt,Microsoft,2020,Q4,MSFT,MSFT,2021-01-26,,,,,,
+859,data_collection\NLP_Dataset\Microsoft\2021_Q1_msft.txt,Microsoft,2021,Q1,MSFT,MSFT,2021-04-27,,,,,,
+860,data_collection\NLP_Dataset\Microsoft\2021_Q2_msft.txt,Microsoft,2021,Q2,MSFT,MSFT,2021-07-27,,,,,,
+861,data_collection\NLP_Dataset\Microsoft\2021_Q3_msft.txt,Microsoft,2021,Q3,MSFT,MSFT,2021-10-26,,,,,,
+862,data_collection\NLP_Dataset\Microsoft\2021_Q4_msft.txt,Microsoft,2021,Q4,MSFT,MSFT,2022-01-25,,,,,,
+863,data_collection\NLP_Dataset\Microsoft\2022_Q1_msft.txt,Microsoft,2022,Q1,MSFT,MSFT,2022-04-26,,,,,,
+864,data_collection\NLP_Dataset\Microsoft\2022_Q2_msft.txt,Microsoft,2022,Q2,MSFT,MSFT,2022-07-26,,,,,,
+865,data_collection\NLP_Dataset\Microsoft\2022_Q3_msft.txt,Microsoft,2022,Q3,MSFT,MSFT,2022-10-25,,,ERROR,,,
+866,data_collection\NLP_Dataset\Microsoft\2022_Q4_msft.txt,Microsoft,2022,Q4,MSFT,MSFT,2023-01-24,,,,,,
+867,data_collection\NLP_Dataset\Microsoft\2023_Q1_msft.txt,Microsoft,2023,Q1,MSFT,MSFT,2023-04-25,,,,,,
+868,data_collection\NLP_Dataset\Microsoft\2023_Q2_msft.txt,Microsoft,2023,Q2,MSFT,MSFT,2023-07-25,,,,,,
+869,data_collection\NLP_Dataset\Microsoft\2023_Q3_msft.txt,Microsoft,2023,Q3,MSFT,MSFT,2023-10-24,,,,,,
+870,data_collection\NLP_Dataset\Microsoft\2023_Q4_msft.txt,Microsoft,2023,Q4,MSFT,MSFT,2024-01-30,,,,,,
+871,data_collection\NLP_Dataset\Microsoft\2024_Q1_msft.txt,Microsoft,2024,Q1,MSFT,MSFT,2024-04-25,,,,,,
+872,data_collection\NLP_Dataset\Microsoft\2024_Q2_msft.txt,Microsoft,2024,Q2,MSFT,MSFT,2024-07-30,,,,,,
+873,data_collection\NLP_Dataset\Microsoft\2024_Q3_msft.txt,Microsoft,2024,Q3,MSFT,MSFT,2024-10-30,,,ERROR,,,
+874,data_collection\NLP_Dataset\Microsoft\2024_Q4_msft.txt,Microsoft,2024,Q4,MSFT,MSFT,2025-01-29,,,,,,
+900,data_collection\NLP_Dataset\Nike\2024_Q3_nke.txt,Nike,2024,Q3,NKE,NKE,2024-10-01,,,,,,
+904,data_collection\NLP_Dataset\Nvidia\2018_Q3_nvda.txt,Nvidia,2018,Q3,NVDA,NVDA,2018-11-15,,,,,,
+905,data_collection\NLP_Dataset\Nvidia\2018_Q4_nvda.txt,Nvidia,2018,Q4,NVDA,NVDA,2019-02-14,,,,,,
+906,data_collection\NLP_Dataset\Nvidia\2019_Q1_nvda.txt,Nvidia,2019,Q1,NVDA,NVDA,2019-05-16,,,,,,
+907,data_collection\NLP_Dataset\Nvidia\2019_Q2_nvda.txt,Nvidia,2019,Q2,NVDA,NVDA,2019-08-15,,,,,,
+908,data_collection\NLP_Dataset\Nvidia\2019_Q4_nvda.txt,Nvidia,2019,Q4,NVDA,NVDA,2020-02-13,,,,,,
+909,data_collection\NLP_Dataset\Nvidia\2020_Q1_nvda.txt,Nvidia,2020,Q1,NVDA,NVDA,2020-05-21,,,ERROR,,,
+910,data_collection\NLP_Dataset\Nvidia\2020_Q2_nvda.txt,Nvidia,2020,Q2,NVDA,NVDA,2020-08-19,,,,,,
+911,data_collection\NLP_Dataset\Nvidia\2020_Q3_nvda.txt,Nvidia,2020,Q3,NVDA,NVDA,2020-11-18,,,,,,
+912,data_collection\NLP_Dataset\Nvidia\2020_Q4_nvda.txt,Nvidia,2020,Q4,NVDA,NVDA,2021-02-24,,,,,,
+913,data_collection\NLP_Dataset\Nvidia\2021_Q1_nvda.txt,Nvidia,2021,Q1,NVDA,NVDA,2021-05-26,,,,,,
+914,data_collection\NLP_Dataset\Nvidia\2021_Q2_nvda.txt,Nvidia,2021,Q2,NVDA,NVDA,2021-08-18,,,,,,
+915,data_collection\NLP_Dataset\Nvidia\2021_Q3_nvda.txt,Nvidia,2021,Q3,NVDA,NVDA,2021-11-17,,,,,,
+916,data_collection\NLP_Dataset\Nvidia\2021_Q4_nvda.txt,Nvidia,2021,Q4,NVDA,NVDA,2022-02-16,,,,,,
+917,data_collection\NLP_Dataset\Nvidia\2022_Q1_nvda.txt,Nvidia,2022,Q1,NVDA,NVDA,2022-05-25,,,ERROR,,,
+918,data_collection\NLP_Dataset\Nvidia\2022_Q2_nvda.txt,Nvidia,2022,Q2,NVDA,NVDA,2022-08-24,,,,,,
+919,data_collection\NLP_Dataset\Nvidia\2022_Q3_nvda.txt,Nvidia,2022,Q3,NVDA,NVDA,2022-11-16,,,,,,
+920,data_collection\NLP_Dataset\Nvidia\2022_Q4_nvda.txt,Nvidia,2022,Q4,NVDA,NVDA,2023-02-22,,,,,,
+921,data_collection\NLP_Dataset\Nvidia\2023_Q1_nvda.txt,Nvidia,2023,Q1,NVDA,NVDA,2023-05-24,,,,,,
+922,data_collection\NLP_Dataset\Nvidia\2023_Q2_nvda.txt,Nvidia,2023,Q2,NVDA,NVDA,2023-08-23,,,,,,
+923,data_collection\NLP_Dataset\Nvidia\2023_Q3_nvda.txt,Nvidia,2023,Q3,NVDA,NVDA,2023-11-21,,,,,,
+924,data_collection\NLP_Dataset\Nvidia\2023_Q4_nvda.txt,Nvidia,2023,Q4,NVDA,NVDA,2024-02-21,,,,,,
+925,data_collection\NLP_Dataset\Nvidia\2024_Q1_nvda.txt,Nvidia,2024,Q1,NVDA,NVDA,2024-05-22,,,ERROR,,,
+926,data_collection\NLP_Dataset\Nvidia\2024_Q2_nvda.txt,Nvidia,2024,Q2,NVDA,NVDA,2024-08-28,,,,,,
+927,data_collection\NLP_Dataset\Nvidia\2024_Q3_nvda.txt,Nvidia,2024,Q3,NVDA,NVDA,2024-11-20,,,,,,
+928,data_collection\NLP_Dataset\Nvidia\2024_Q4_nvda.txt,Nvidia,2024,Q4,NVDA,NVDA,2025-02-26,,,,,,
+929,data_collection\NLP_Dataset\Nvidia\2025_Q1_nvda.txt,Nvidia,2025,Q1,NVDA,NVDA,2025-05-28,,,,,,
+930,data_collection\NLP_Dataset\Nvidia\2025_Q2_nvda.txt,Nvidia,2025,Q2,NVDA,NVDA,2025-08-27,,,,,,
+958,data_collection\NLP_Dataset\PAYPAL\2017_Q4_pypl.txt,PAYPAL,2017,Q4,PYPL,PYPL,2018-01-31,,,,,,
+959,data_collection\NLP_Dataset\PAYPAL\2018_Q1_pypl.txt,PAYPAL,2018,Q1,PYPL,PYPL,2018-04-25,,,,,,
+960,data_collection\NLP_Dataset\PAYPAL\2018_Q2_pypl.txt,PAYPAL,2018,Q2,PYPL,PYPL,2018-07-25,,,ERROR,,,
+961,data_collection\NLP_Dataset\PAYPAL\2018_Q3_pypl.txt,PAYPAL,2018,Q3,PYPL,PYPL,2018-10-18,,,,,,
+962,data_collection\NLP_Dataset\PAYPAL\2018_Q4_pypl.txt,PAYPAL,2018,Q4,PYPL,PYPL,2019-01-30,,,,,,
+963,data_collection\NLP_Dataset\PAYPAL\2019_Q1_pypl.txt,PAYPAL,2019,Q1,PYPL,PYPL,2019-04-24,,,,,,
+964,data_collection\NLP_Dataset\PAYPAL\2019_Q2_pypl.txt,PAYPAL,2019,Q2,PYPL,PYPL,2019-07-24,,,,,,
+965,data_collection\NLP_Dataset\PAYPAL\2019_Q3_pypl.txt,PAYPAL,2019,Q3,PYPL,PYPL,2019-10-23,,,,,,
+966,data_collection\NLP_Dataset\PAYPAL\2019_Q4_pypl.txt,PAYPAL,2019,Q4,PYPL,PYPL,2020-01-29,,,,,,
+967,data_collection\NLP_Dataset\PAYPAL\2020_Q1_pypl.txt,PAYPAL,2020,Q1,PYPL,PYPL,2020-05-07,,,,,,
+968,data_collection\NLP_Dataset\PAYPAL\2020_Q2_pypl.txt,PAYPAL,2020,Q2,PYPL,PYPL,2020-07-29,,,ERROR,,,
+969,data_collection\NLP_Dataset\PAYPAL\2020_Q3_pypl.txt,PAYPAL,2020,Q3,PYPL,PYPL,2020-11-02,,,,,,
+970,data_collection\NLP_Dataset\PAYPAL\2020_Q4_pypl.txt,PAYPAL,2020,Q4,PYPL,PYPL,2021-02-03,,,,,,
+971,data_collection\NLP_Dataset\PAYPAL\2021_Q1_pypl.txt,PAYPAL,2021,Q1,PYPL,PYPL,2021-05-05,,,,,,
+972,data_collection\NLP_Dataset\PAYPAL\2021_Q2_pypl.txt,PAYPAL,2021,Q2,PYPL,PYPL,2021-07-28,,,,,,
+973,data_collection\NLP_Dataset\PAYPAL\2021_Q3_pypl.txt,PAYPAL,2021,Q3,PYPL,PYPL,2021-11-08,,,,,,
+974,data_collection\NLP_Dataset\PAYPAL\2021_Q4_pypl.txt,PAYPAL,2021,Q4,PYPL,PYPL,2022-02-01,,,,,,
+975,data_collection\NLP_Dataset\PAYPAL\2022_Q1_pypl.txt,PAYPAL,2022,Q1,PYPL,PYPL,2022-04-27,,,,,,
+976,data_collection\NLP_Dataset\PAYPAL\2022_Q2_pypl.txt,PAYPAL,2022,Q2,PYPL,PYPL,2022-08-02,,,ERROR,,,
+977,data_collection\NLP_Dataset\PAYPAL\2022_Q3_pypl.txt,PAYPAL,2022,Q3,PYPL,PYPL,2022-11-03,,,,,,
+978,data_collection\NLP_Dataset\PAYPAL\2022_Q4_pypl.txt,PAYPAL,2022,Q4,PYPL,PYPL,2023-02-09,,,,,,
+979,data_collection\NLP_Dataset\PAYPAL\2023_Q1_pypl.txt,PAYPAL,2023,Q1,PYPL,PYPL,2023-05-08,,,,,,
+980,data_collection\NLP_Dataset\PAYPAL\2023_Q2_pypl.txt,PAYPAL,2023,Q2,PYPL,PYPL,2023-08-02,,,,,,
+981,data_collection\NLP_Dataset\PAYPAL\2023_Q3_pypl.txt,PAYPAL,2023,Q3,PYPL,PYPL,2023-11-01,,,,,,
+982,data_collection\NLP_Dataset\PAYPAL\2023_Q4_pypl.txt,PAYPAL,2023,Q4,PYPL,PYPL,2024-02-07,,,,,,
+983,data_collection\NLP_Dataset\PAYPAL\2024_Q1_pypl.txt,PAYPAL,2024,Q1,PYPL,PYPL,2024-04-30,,,,,,
+984,data_collection\NLP_Dataset\PAYPAL\2024_Q2_pypl.txt,PAYPAL,2024,Q2,PYPL,PYPL,2024-07-30,,,ERROR,,,
+987,data_collection\NLP_Dataset\SalesForce\2019_Q2_crm.txt,SalesForce,2019,Q2,CRM,CRM,2019-08-22,,,,,,
+989,data_collection\NLP_Dataset\SalesForce\2019_Q4_crm.txt,SalesForce,2019,Q4,CRM,CRM,2020-02-25,,,,,,
+990,data_collection\NLP_Dataset\SalesForce\2020_Q1_crm.txt,SalesForce,2020,Q1,CRM,CRM,2020-05-28,,,,,,
+991,data_collection\NLP_Dataset\SalesForce\2020_Q2_crm.txt,SalesForce,2020,Q2,CRM,CRM,2020-08-25,,,,,,
+993,data_collection\NLP_Dataset\SalesForce\2020_Q4_crm.txt,SalesForce,2020,Q4,CRM,CRM,2021-02-25,,,,,,
+994,data_collection\NLP_Dataset\SalesForce\2021_Q1_crm.txt,SalesForce,2021,Q1,CRM,CRM,2021-05-27,,,,,,
+995,data_collection\NLP_Dataset\SalesForce\2021_Q2_crm.txt,SalesForce,2021,Q2,CRM,CRM,2021-08-25,,,,,,
+997,data_collection\NLP_Dataset\SalesForce\2021_Q4_crm.txt,SalesForce,2021,Q4,CRM,CRM,2022-03-01,,,ERROR,,,
+999,data_collection\NLP_Dataset\SalesForce\2022_Q2_crm.txt,SalesForce,2022,Q2,CRM,CRM,2022-08-24,,,,,,
+1001,data_collection\NLP_Dataset\SalesForce\2022_Q4_crm.txt,SalesForce,2022,Q4,CRM,CRM,2023-03-01,,,,,,
+1004,data_collection\NLP_Dataset\SalesForce\2023_Q3_crm.txt,SalesForce,2023,Q3,CRM,CRM,2023-11-29,,,,,,
+1005,data_collection\NLP_Dataset\SalesForce\2023_Q4_crm.txt,SalesForce,2023,Q4,CRM,CRM,2024-02-28,,,,,,
+1006,data_collection\NLP_Dataset\SalesForce\2024_Q1_crm.txt,SalesForce,2024,Q1,CRM,CRM,2024-05-29,,,,,,
+1007,data_collection\NLP_Dataset\SalesForce\2024_Q2_crm.txt,SalesForce,2024,Q2,CRM,CRM,2024-08-28,,,,,,
+1009,data_collection\NLP_Dataset\SalesForce\2024_Q4_crm.txt,SalesForce,2024,Q4,CRM,CRM,2025-02-26,,,,,,
+1010,data_collection\NLP_Dataset\SalesForce\2025_Q1_crm.txt,SalesForce,2025,Q1,CRM,CRM,2025-05-28,,,ERROR,,,
+1013,data_collection\NLP_Dataset\Schneider Electric\2018_Q3_su.txt,Schneider Electric,2018,Q3,SU,SU.PA,2018-10-25,,,,,,
+1023,data_collection\NLP_Dataset\Shell\2022_Q2_shel.txt,Shell,2022,Q2,SHEL,SHEL,2022-07-28,,,,,,
+1024,data_collection\NLP_Dataset\Shell\2022_Q4_shel.txt,Shell,2022,Q4,SHEL,SHEL,2023-02-02,,,,,,
+1025,data_collection\NLP_Dataset\Shell\2023_Q1_shel.txt,Shell,2023,Q1,SHEL,SHEL,2023-05-04,,,,,,
+1026,data_collection\NLP_Dataset\Shell\2023_Q3_shel.txt,Shell,2023,Q3,SHEL,SHEL,2023-11-02,,,,,,
+1027,data_collection\NLP_Dataset\Shell\2023_Q4_shel.txt,Shell,2023,Q4,SHEL,SHEL,2024-02-01,,,,,,
+1028,data_collection\NLP_Dataset\Shell\2024_Q1_shel.txt,Shell,2024,Q1,SHEL,SHEL,2024-05-02,,,,,,
+1029,data_collection\NLP_Dataset\Shell\2024_Q2_shel.txt,Shell,2024,Q2,SHEL,SHEL,2024-08-01,,,ERROR,,,
+1030,data_collection\NLP_Dataset\SIE\2018_Q1_sie.txt,SIE,2018,Q1,SIE,SIE.DE,2018-05-09,,,,,,
+1031,data_collection\NLP_Dataset\SIE\2018_Q2_sie.txt,SIE,2018,Q2,SIE,SIE.DE,2018-08-02,,,,,,
+1032,data_collection\NLP_Dataset\SIE\2018_Q3_sie.txt,SIE,2018,Q3,SIE,SIE.DE,2018-11-08,,,,,,
+1033,data_collection\NLP_Dataset\SIE\2018_Q4_sie.txt,SIE,2018,Q4,SIE,SIE.DE,2019-01-30,,,,,,
+1034,data_collection\NLP_Dataset\SIE\2019_Q1_sie.txt,SIE,2019,Q1,SIE,SIE.DE,2019-05-08,,,,,,
+1035,data_collection\NLP_Dataset\SIE\2019_Q3_sie.txt,SIE,2019,Q3,SIE,SIE.DE,2019-11-07,,,,,,
+1036,data_collection\NLP_Dataset\SIE\2019_Q4_sie.txt,SIE,2019,Q4,SIE,SIE.DE,2020-02-05,,,,,,
+1037,data_collection\NLP_Dataset\SIE\2020_Q1_sie.txt,SIE,2020,Q1,SIE,SIE.DE,2020-05-07,,,ERROR,,,
+1038,data_collection\NLP_Dataset\SIE\2020_Q2_sie.txt,SIE,2020,Q2,SIE,SIE.DE,2020-08-06,,,,,,
+1039,data_collection\NLP_Dataset\SIE\2020_Q3_sie.txt,SIE,2020,Q3,SIE,SIE.DE,2020-11-11,,,,,,
+1040,data_collection\NLP_Dataset\SIE\2020_Q4_sie.txt,SIE,2020,Q4,SIE,SIE.DE,2021-02-03,,,,,,
+1041,data_collection\NLP_Dataset\SIE\2021_Q1_sie.txt,SIE,2021,Q1,SIE,SIE.DE,2021-05-07,,,,,,
+1042,data_collection\NLP_Dataset\SIE\2021_Q2_sie.txt,SIE,2021,Q2,SIE,SIE.DE,2021-08-05,,,,,,
+1043,data_collection\NLP_Dataset\SIE\2021_Q3_sie.txt,SIE,2021,Q3,SIE,SIE.DE,2021-11-11,,,,,,
+1044,data_collection\NLP_Dataset\SIE\2021_Q4_sie.txt,SIE,2021,Q4,SIE,SIE.DE,2022-02-10,,,,,,
+1045,data_collection\NLP_Dataset\SIE\2022_Q1_sie.txt,SIE,2022,Q1,SIE,SIE.DE,2022-05-12,,,ERROR,,,
+1046,data_collection\NLP_Dataset\SIE\2022_Q2_sie.txt,SIE,2022,Q2,SIE,SIE.DE,2022-08-11,,,,,,
+1047,data_collection\NLP_Dataset\SIE\2022_Q3_sie.txt,SIE,2022,Q3,SIE,SIE.DE,2022-11-17,,,,,,
+1048,data_collection\NLP_Dataset\SIE\2022_Q4_sie.txt,SIE,2022,Q4,SIE,SIE.DE,2023-02-08,,,,,,
+1049,data_collection\NLP_Dataset\SIE\2023_Q1_sie.txt,SIE,2023,Q1,SIE,SIE.DE,2023-05-17,,,,,,
+1050,data_collection\NLP_Dataset\SIE\2023_Q2_sie.txt,SIE,2023,Q2,SIE,SIE.DE,2023-08-10,,,,,,
+1051,data_collection\NLP_Dataset\SIE\2023_Q3_sie.txt,SIE,2023,Q3,SIE,SIE.DE,2023-11-16,,,,,,
+1052,data_collection\NLP_Dataset\SIE\2023_Q4_sie.txt,SIE,2023,Q4,SIE,SIE.DE,2024-02-08,,,,,,
+1053,data_collection\NLP_Dataset\SIE\2024_Q1_sie.txt,SIE,2024,Q1,SIE,SIE.DE,2024-05-16,,,ERROR,,,
+1054,data_collection\NLP_Dataset\SIE\2024_Q2_sie.txt,SIE,2024,Q2,SIE,SIE.DE,2024-08-08,,,,,,
+1055,data_collection\NLP_Dataset\SIE\2024_Q3_sie.txt,SIE,2024,Q3,SIE,SIE.DE,2024-11-13,,,,,,
+1056,data_collection\NLP_Dataset\UnitedHealth\2017_Q4_unh.txt,UnitedHealth,2017,Q4,UNH,UNH,2018-01-16,,,,,,
+1057,data_collection\NLP_Dataset\UnitedHealth\2018_Q1_unh.txt,UnitedHealth,2018,Q1,UNH,UNH,2018-04-17,,,,,,
+1058,data_collection\NLP_Dataset\UnitedHealth\2018_Q2_unh.txt,UnitedHealth,2018,Q2,UNH,UNH,2018-07-17,,,,,,
+1059,data_collection\NLP_Dataset\UnitedHealth\2018_Q3_unh.txt,UnitedHealth,2018,Q3,UNH,UNH,2018-10-16,,,,,,
+1060,data_collection\NLP_Dataset\UnitedHealth\2018_Q4_unh.txt,UnitedHealth,2018,Q4,UNH,UNH,2019-01-15,,,,,,
+1061,data_collection\NLP_Dataset\UnitedHealth\2019_Q1_unh.txt,UnitedHealth,2019,Q1,UNH,UNH,2019-04-16,,,ERROR,,,
+1062,data_collection\NLP_Dataset\UnitedHealth\2019_Q2_unh.txt,UnitedHealth,2019,Q2,UNH,UNH,2019-07-18,,,,,,
+1063,data_collection\NLP_Dataset\UnitedHealth\2019_Q3_unh.txt,UnitedHealth,2019,Q3,UNH,UNH,2019-10-15,,,,,,
+1064,data_collection\NLP_Dataset\UnitedHealth\2019_Q4_unh.txt,UnitedHealth,2019,Q4,UNH,UNH,2020-01-15,,,,,,
+1065,data_collection\NLP_Dataset\UnitedHealth\2020_Q1_unh.txt,UnitedHealth,2020,Q1,UNH,UNH,2020-04-15,,,,,,
+1066,data_collection\NLP_Dataset\UnitedHealth\2020_Q2_unh.txt,UnitedHealth,2020,Q2,UNH,UNH,2020-07-15,,,,,,
+1067,data_collection\NLP_Dataset\UnitedHealth\2020_Q3_unh.txt,UnitedHealth,2020,Q3,UNH,UNH,2020-10-14,,,,,,
+1068,data_collection\NLP_Dataset\UnitedHealth\2020_Q4_unh.txt,UnitedHealth,2020,Q4,UNH,UNH,2021-01-20,,,,,,
+1069,data_collection\NLP_Dataset\UnitedHealth\2021_Q1_unh.txt,UnitedHealth,2021,Q1,UNH,UNH,2021-04-15,sell,"Ticker
+UNH    8.350861
+dtype: float64","Decision: 0. Rationale: The company reported strong Q1 2021 results with adjusted EPS of $5.31, raised full-year guidance to $18.10-$18.60, and highlighted robust membership growth and strong performance at Optum. Past price data also shows an upward trend heading into the earnings call, and the positive earnings update is likely to support continued momentum over the next two months. Therefore, I expect the stock to be higher in two months.",,,
+1070,data_collection\NLP_Dataset\UnitedHealth\2021_Q2_unh.txt,UnitedHealth,2021,Q2,UNH,UNH,2021-07-15,,,,,,
+1071,data_collection\NLP_Dataset\UnitedHealth\2021_Q3_unh.txt,UnitedHealth,2021,Q3,UNH,UNH,2021-10-14,,,,,,
+1072,data_collection\NLP_Dataset\UnitedHealth\2021_Q4_unh.txt,UnitedHealth,2021,Q4,UNH,UNH,2022-01-19,,,,,,
+1073,data_collection\NLP_Dataset\UnitedHealth\2022_Q1_unh.txt,UnitedHealth,2022,Q1,UNH,UNH,2022-04-14,,,,,,
+1074,data_collection\NLP_Dataset\UnitedHealth\2022_Q2_unh.txt,UnitedHealth,2022,Q2,UNH,UNH,2022-07-15,,,,,,
+1075,data_collection\NLP_Dataset\UnitedHealth\2022_Q3_unh.txt,UnitedHealth,2022,Q3,UNH,UNH,2022-10-14,,,,,,
+1076,data_collection\NLP_Dataset\UnitedHealth\2022_Q4_unh.txt,UnitedHealth,2022,Q4,UNH,UNH,2023-01-13,,,,,,
+1077,data_collection\NLP_Dataset\UnitedHealth\2023_Q1_unh.txt,UnitedHealth,2023,Q1,UNH,UNH,2023-04-14,buy,"Ticker
+UNH   -19.197144
+dtype: float64","Decision: 0
+
+Rationale: The company delivered a strong Q1 2023 with revenue growth of 15% and adjusted EPS growth of 14%, exceeding expectations and raising full-year guidance to $24.50-$25.00 per share. Membership growth across commercial, Medicare Advantage, and Medicaid is solid, and Optum continues to expand its value-based care and pharmacy services. Management remains confident in its long-term 13-16% EPS growth target despite Medicare Advantage headwinds, citing the phase-in of risk model changes and strong cost management levers. The stock had been trending upward into the earnings release, and the positive surprise and guidance raise are likely to drive further appreciation over the next two months. Given the positive fundamentals and momentum, the stock is expected to trade higher, so the decision is to buy.",,,
+1078,data_collection\NLP_Dataset\UnitedHealth\2023_Q2_unh.txt,UnitedHealth,2023,Q2,UNH,UNH,2023-07-14,,,,,,
+1079,data_collection\NLP_Dataset\UnitedHealth\2023_Q3_unh.txt,UnitedHealth,2023,Q3,UNH,UNH,2023-10-13,,,,,,
+1080,data_collection\NLP_Dataset\UnitedHealth\2023_Q4_unh.txt,UnitedHealth,2023,Q4,UNH,UNH,2024-01-12,,,,,,
+1081,data_collection\NLP_Dataset\UnitedHealth\2024_Q1_unh.txt,UnitedHealth,2024,Q1,UNH,UNH,2024-04-16,,,,,,
+1082,data_collection\NLP_Dataset\UnitedHealth\2024_Q2_unh.txt,UnitedHealth,2024,Q2,UNH,UNH,2024-07-16,,,,,,
+1083,data_collection\NLP_Dataset\Walmart\2018_Q1_wmt.txt,Walmart,2018,Q1,WMT,WMT,2018-05-17,,,,,,
+1084,data_collection\NLP_Dataset\Walmart\2018_Q4_wmt.txt,Walmart,2018,Q4,WMT,WMT,2019-02-19,,,,,,
+1085,data_collection\NLP_Dataset\Walmart\2019_Q3_wmt.txt,Walmart,2019,Q3,WMT,WMT,2019-11-14,sell,"Ticker
+WMT   -1.290997
+dtype: float64","Decision: 0.  
+Rationale: The earnings call highlights strong comparable sales growth, robust eCommerce growth of 43%, raised full-year EPS guidance, and overall positive momentum across segments. The recent price data also shows an upward trend, with the stock closing higher over the past two months and a notable breakout on the last trading day. These fundamentals and technical momentum suggest the stock is likely to appreciate over the next two months.",,,
+1086,data_collection\NLP_Dataset\Walmart\2019_Q4_wmt.txt,Walmart,2019,Q4,WMT,WMT,2020-02-18,,,,,,
+1087,data_collection\NLP_Dataset\Walmart\2020_Q4_wmt.txt,Walmart,2020,Q4,WMT,WMT,2021-02-18,,,,,,
+1088,data_collection\NLP_Dataset\Walmart\2021_Q1_wmt.txt,Walmart,2021,Q1,WMT,WMT,2021-05-18,,,,,,
+1089,data_collection\NLP_Dataset\Walmart\2021_Q2_wmt.txt,Walmart,2021,Q2,WMT,WMT,2021-08-17,,,,,,
+1090,data_collection\NLP_Dataset\Walmart\2021_Q3_wmt.txt,Walmart,2021,Q3,WMT,WMT,2021-11-16,,,,,,
+1091,data_collection\NLP_Dataset\Walmart\2021_Q4_wmt.txt,Walmart,2021,Q4,WMT,WMT,2022-02-17,,,,,,
+1092,data_collection\NLP_Dataset\Walmart\2022_Q1_wmt.txt,Walmart,2022,Q1,WMT,WMT,2022-05-17,,,,,,
+1093,data_collection\NLP_Dataset\Walmart\2022_Q3_wmt.txt,Walmart,2022,Q3,WMT,WMT,2022-11-15,buy,"Ticker
+WMT   -0.510963
+dtype: float64","Decision: 0 (Buy). Rationale: The earnings call revealed strong Q3 results with significant sales growth across all segments, improved e-commerce metrics, and a positive outlook for Q4. Management highlighted robust consumer demand, market share gains, and successful mitigation of supply chain issues. The company also raised its full-year EPS guidance to $6.40, representing 17% growth. Historical price data shows an upward trend from late September to mid-November, with the stock rising from about $42.50 to $44.13. Given the favorable fundamentals and positive momentum, the stock is likely to appreciate over the next two months.",,,
+1094,data_collection\NLP_Dataset\Walmart\2022_Q4_wmt.txt,Walmart,2022,Q4,WMT,WMT,2023-02-21,,,,,,
+1095,data_collection\NLP_Dataset\Walmart\2023_Q1_wmt.txt,Walmart,2023,Q1,WMT,WMT,2023-05-18,,,,,,
+1096,data_collection\NLP_Dataset\Walmart\2023_Q2_wmt.txt,Walmart,2023,Q2,WMT,WMT,2023-08-17,,,,,,
+1097,data_collection\NLP_Dataset\Walmart\2023_Q3_wmt.txt,Walmart,2023,Q3,WMT,WMT,2023-11-16,,,,,,
+1098,data_collection\NLP_Dataset\Walmart\2023_Q4_wmt.txt,Walmart,2023,Q4,WMT,WMT,2024-02-20,,,,,,
+1099,data_collection\NLP_Dataset\Walmart\2024_Q1_wmt.txt,Walmart,2024,Q1,WMT,WMT,2024-05-16,,,,,,
+1100,data_collection\NLP_Dataset\Walmart\2024_Q2_wmt.txt,Walmart,2024,Q2,WMT,WMT,2024-08-15,,,,,,
+1101,data_collection\NLP_Dataset\Walmart\2024_Q3_wmt.txt,Walmart,2024,Q3,WMT,WMT,2024-11-19,buy,"Ticker
+WMT    5.457375
+dtype: float64","Decision: 0 (Buy). Rationale: The earnings call reflects strong Q3 performance with revenue growth across all segments, raised full-year sales and EPS guidance, and positive signs from e-commerce, advertising, and membership growth. Despite some cautious remarks about consumer softness and one-time costs, the company's strategic initiatives (automation, digital expansion, higher-margin businesses) support continued profitability and market share gains. The stock price has been on an upward trend over the past two months, and the positive earnings outlook likely sustains this momentum. Therefore, the stock is expected to be higher in two months.",,,
+1102,data_collection\NLP_Dataset\Walmart\2024_Q4_wmt.txt,Walmart,2024,Q4,WMT,WMT,2025-02-20,,,,,,
+1103,data_collection\NLP_Dataset\Walmart\2025_Q1_wmt.txt,Walmart,2025,Q1,WMT,WMT,2025-05-15,,,,,,
+1104,data_collection\NLP_Dataset\Walmart\2025_Q2_wmt.txt,Walmart,2025,Q2,WMT,WMT,2025-08-21,,,,,,
+1105,data_collection\NLP_Dataset\Walt Disney\2018_Q1_dis.txt,Walt Disney,2018,Q1,DIS,DIS,2018-05-08,,,,,,
+1106,data_collection\NLP_Dataset\Walt Disney\2018_Q2_dis.txt,Walt Disney,2018,Q2,DIS,DIS,2018-08-07,,,,,,
+1107,data_collection\NLP_Dataset\Walt Disney\2018_Q3_dis.txt,Walt Disney,2018,Q3,DIS,DIS,2018-11-08,,,,,,
+1108,data_collection\NLP_Dataset\Walt Disney\2018_Q4_dis.txt,Walt Disney,2018,Q4,DIS,DIS,2019-02-05,,,,,,
+1109,data_collection\NLP_Dataset\Walt Disney\2019_Q1_dis.txt,Walt Disney,2019,Q1,DIS,DIS,2019-05-08,sell,"Ticker
+DIS    7.99057
+dtype: float64","Decision: 1 (SELL).  
+Rationale: The earnings call highlights significant near-term headwinds, including difficult studio comparisons (with Q2 expected to be $450–500M lower operating income), ongoing heavy investments in Disney+ and ESPN+, and an $80M revenue recognition headwind in Q2. While long-term DTC prospects are strong, these costs and comps are likely to pressure the stock in the immediate two-month outlook. The price data shows the stock trading in the low $110s in early April (two months after the call), while the price around the call date was likely in the $112 area, implying a slight decline. Without the upcoming catalyst of the April 11 investor day (which occurs after the two-month horizon), the stock appears range-bound and slightly lower. Hence, we expect the price to be lower or flat, so we choose to sell.",,,
+1110,data_collection\NLP_Dataset\Walt Disney\2019_Q2_dis.txt,Walt Disney,2019,Q2,DIS,DIS,2019-08-06,,,,,,
+1111,data_collection\NLP_Dataset\Walt Disney\2019_Q3_dis.txt,Walt Disney,2019,Q3,DIS,DIS,2019-11-07,,,,,,
+1112,data_collection\NLP_Dataset\Walt Disney\2019_Q4_dis.txt,Walt Disney,2019,Q4,DIS,DIS,2020-02-04,,,,,,
+1113,data_collection\NLP_Dataset\Walt Disney\2020_Q1_dis.txt,Walt Disney,2020,Q1,DIS,DIS,2020-05-05,,,,,,
+1114,data_collection\NLP_Dataset\Walt Disney\2020_Q2_dis.txt,Walt Disney,2020,Q2,DIS,DIS,2020-08-04,,,,,,
+1115,data_collection\NLP_Dataset\Walt Disney\2020_Q3_dis.txt,Walt Disney,2020,Q3,DIS,DIS,2020-11-12,,,,,,
+1116,data_collection\NLP_Dataset\Walt Disney\2020_Q4_dis.txt,Walt Disney,2020,Q4,DIS,DIS,2021-02-11,,,,,,
+1117,data_collection\NLP_Dataset\Walt Disney\2021_Q1_dis.txt,Walt Disney,2021,Q1,DIS,DIS,2021-05-13,sell,"Ticker
+DIS    5.856201
+dtype: float64","Decision: 1 (SELL).  
+Rationale: The earnings call highlights strong Disney+ subscriber growth but also notes continued COVID-related disruptions to parks, including Disneyland closure and reduced capacity. The two-month outlook from the call is clouded by these headwinds, and the provided price data shows a clear downward trend from mid-March ($190.77) to mid-May ($172.44), indicating the stock likely declined over the relevant horizon. Therefore, the stock is expected to be lower two months after the call, so selling is the appropriate action.",,,
+1118,data_collection\NLP_Dataset\Walt Disney\2021_Q2_dis.txt,Walt Disney,2021,Q2,DIS,DIS,2021-08-12,,,,,,
+1119,data_collection\NLP_Dataset\Walt Disney\2021_Q3_dis.txt,Walt Disney,2021,Q3,DIS,DIS,2021-11-10,,,,,,
+1120,data_collection\NLP_Dataset\Walt Disney\2022_Q1_dis.txt,Walt Disney,2022,Q1,DIS,DIS,2022-05-11,,,,,,
+1121,data_collection\NLP_Dataset\Walt Disney\2022_Q2_dis.txt,Walt Disney,2022,Q2,DIS,DIS,2022-08-10,,,,,,
+1122,data_collection\NLP_Dataset\Walt Disney\2022_Q3_dis.txt,Walt Disney,2022,Q3,DIS,DIS,2022-11-08,,,,,,
+1123,data_collection\NLP_Dataset\Walt Disney\2022_Q4_dis.txt,Walt Disney,2022,Q4,DIS,DIS,2023-02-08,,,,,,
+1124,data_collection\NLP_Dataset\Walt Disney\2023_Q1_dis.txt,Walt Disney,2023,Q1,DIS,DIS,2023-05-10,,,,,,
+1125,data_collection\NLP_Dataset\Walt Disney\2023_Q2_dis.txt,Walt Disney,2023,Q2,DIS,DIS,2023-08-09,buy,"Ticker
+DIS   -4.411507
+dtype: float64","Decision: 0 (Buy). Rationale: The earnings call highlights solid strategic execution: streaming losses are narrowing, cost cuts are on track to exceed $5.5 billion, pricing power is evident (price increases we only minimal subscriber losses), and the parks segment remains a strong growth driver. The planned integration of Hulu into Disney+ and ad-tier expansion in Europe are positive catalysts for engagement and advertising revenue. Despite near-term headwinds in linear networks and advertising softness, the company’s forward guidance is optimistic, and the stock appears undervalued relative to its long-term upside. Past price data shows volatility but a stabilization around $85-86 after a dip, suggesting support. Given the two-month horizon, I believe the stock is more likely to rise than fall as the market absorbs the positive strategic initiatives and the company works toward streaming profitability.",,,
+1126,data_collection\NLP_Dataset\Walt Disney\2023_Q3_dis.txt,Walt Disney,2023,Q3,DIS,DIS,2023-11-08,,,,,,
+1127,data_collection\NLP_Dataset\Walt Disney\2023_Q4_dis.txt,Walt Disney,2023,Q4,DIS,DIS,2024-02-07,,,,,,
+1128,data_collection\NLP_Dataset\Walt Disney\2024_Q1_dis.txt,Walt Disney,2024,Q1,DIS,DIS,2024-05-07,,,,,,
+1129,data_collection\NLP_Dataset\Walt Disney\2024_Q2_dis.txt,Walt Disney,2024,Q2,DIS,DIS,2024-08-07,,,,,,
+1130,data_collection\NLP_Dataset\Walt Disney\2024_Q3_dis.txt,Walt Disney,2024,Q3,DIS,DIS,2024-11-14,,,,,,
