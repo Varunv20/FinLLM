@@ -103,9 +103,11 @@ if __name__ == "__main__":
     year = 2018
     month = "May"
     day = 1
-    agent = Agent(provider = "openrouter", llm="tencent/hy3:free")
+    model = "openai/gpt-oss-120b"
+    agent = Agent(provider = "huggingface", llm=model)
     #result = predict(agent, ticker, year=year, month=month, day=day)
     #result = agent.run("Hello, how are you?")
-    for i in range(5):
-        result = run_all(agent, name="hy3-all_" + str(i), prompt = i)
+    emotions = ["amusement", "anger", "anxiety", "belief", "confusion", "depression", "disgust", "excitement", "fear", "guilt", "happiness", "hope", "interest", "joy", "love", "optimism", "pride", "relief", "sadness", "surprise"]
+    for e in emotions:
+        result = run_all(agent, name= model + "_" + str(emotions.index(e)), prompt = e)
     print(result)

@@ -2,13 +2,13 @@ import pandas as pd
 
 from prompts import get_prompt
 
-def predict(agent, ticker, prompt_number = 0, day = 1, month = 1, year = 2023, condense = False, get_probs = True):
+def predict(agent, ticker, emotion = None, day = 1, month = 1, year = 2023, condense = False, get_probs = True):
     file_path = f"Transcripts/{ticker}/{year}-{month}-{day:02d}-{ticker}.txt"
     with open(file_path, "r") as f:
         text = f.read()
     text = text[1000:10000]
     input_data = yFinance(ticker, month_to_date(month, year, day, month_dif=-2), month_to_date(month, year, day))
-    full_prompt = get_prompt(prompt_number)
+    full_prompt = get_prompt(emotion)
     result, probs = agent.run(full_prompt, max_tokens = 10000,get_probs=get_probs)
     print(result)
     reaction = count_buy_sell(result)
@@ -16,11 +16,11 @@ def predict(agent, ticker, prompt_number = 0, day = 1, month = 1, year = 2023, c
     anlalyst_recs = get_recommendations_as_of(ticker, month_to_date(month, year, day))
 
     return reaction, price_dif, anlalyst_recs, result, probs
-def predict_from_text(agent,ticker, file_path, prompt_number = 0, day = 1, month = 1, year = 2023, condense = False, get_probs = True):
+def predict_from_text(agent,ticker, file_path, emotion = None, day = 1, month = 1, year = 2023, condense = False, get_probs = True):
     with open(file_path, "r") as f:
         text = f.read()
     input_data = yFinance(ticker, text_to_date(month, year, day, month_dif=-2), text_to_date(month, year, day))
-    full_prompt = get_prompt(prompt_number)
+    full_prompt = get_prompt(emotion)
 
     result, probs = agent.run(full_prompt, max_tokens = 10000,get_probs=get_probs)
     #print(result)
