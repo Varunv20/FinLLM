@@ -1,14 +1,59 @@
+import os
+from functools import lru_cache
+
+# On Windows, pyarrow's DLL fails to load once torch has initialised CUDA, so this
+# module must be imported before torch.cuda is touched.
+try:
+    import pyarrow.parquet  # noqa: F401
+except ImportError as e:
+    raise ImportError("pyarrow failed to load. Import llms before torch "
+                      "(or before torch.cuda.is_available()).") from e
 import pandas as pd
 
 from prompts import get_prompt
 
-def predict(agent, ticker, emotion = None, day = 1, month = 1, year = 2023, condense = False, get_probs = True):
-    file_path = f"Transcripts/{ticker}/{year}-{month}-{day:02d}-{ticker}.txt"
-    with open(file_path, "r") as f:
-        text = f.read()
+DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "Earnings_call_transcripts")
+CALLS_PATH = os.path.join(DATA_DIR, "sp1500_earnings_calls.parquet")        # data_collection/build_calls.py
+CATALOGUE_PATH = os.path.join(DATA_DIR, "sp1500_catalogue.parquet")         # data_collection/build_catalogue.py
+MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
+
+def _prepare(df):
+    # drop calls without a usable date; index by call_id so rows from either df line up
+    return df.dropna(subset=["call_date"]).set_index("call_id", drop=False).rename_axis(None)
+
+@lru_cache(maxsize=1)
+def load_calls():
+    """Full S&P 1500 earnings calls df, one row per call, including the transcript text."""
+    return _prepare(pd.read_parquet(CALLS_PATH))
+
+@lru_cache(maxsize=1)
+def load_catalogue():
+    """load_calls() without the transcript text (same rows and call_ids); loads in well under
+    a second. Slice this however you like and hand the slice to main.run_all."""
+    if os.path.exists(CATALOGUE_PATH):
+        return _prepare(pd.read_parquet(CATALOGUE_PATH))
+    cols = [c for c in pyarrow.parquet.read_schema(CALLS_PATH).names if c != "text"]
+    return _prepare(pd.read_parquet(CALLS_PATH, columns=cols))
+
+def get_call(ticker, year, month, day):
+    """Row of the calls df for this ticker's call on the given date."""
+    df = load_calls()
+    date = pd.Timestamp(month_to_date(month, year, day))
+    rows = df[(df["ticker"] == ticker) & (df["call_date"] == date)]
+    if rows.empty:
+        raise KeyError(f"No earnings call for {ticker} on {date.date()}")
+    return rows.iloc[0]
+
+def predict_call(agent, call, emotion = None, get_probs = True):
+    """Run the agent on one row of load_calls() / load_catalogue()."""
+    ticker = call["ticker"]
+    date = call["call_date"]
+    day, month, year = date.day, MONTHS[date.month - 1], date.year
+    # catalogue rows carry no text; fetch it from the full df by call_id
+    text = call["text"] if "text" in call.index else load_calls().at[call["call_id"], "text"]
     text = text[1000:10000]
     input_data = yFinance(ticker, month_to_date(month, year, day, month_dif=-2), month_to_date(month, year, day))
-    full_prompt = get_prompt(emotion)
+    full_prompt = get_prompt(emotion) + "\n\n" + text
     result, probs = agent.run(full_prompt, max_tokens = 10000,get_probs=get_probs)
     print(result)
     reaction = count_buy_sell(result)
@@ -16,6 +61,9 @@ def predict(agent, ticker, emotion = None, day = 1, month = 1, year = 2023, cond
     anlalyst_recs = get_recommendations_as_of(ticker, month_to_date(month, year, day))
 
     return reaction, price_dif, anlalyst_recs, result, probs
+
+def predict(agent, ticker, emotion = None, day = 1, month = 1, year = 2023, condense = False, get_probs = True):
+    return predict_call(agent, get_call(ticker, year, month, day), emotion = emotion, get_probs = get_probs)
 def predict_from_text(agent,ticker, file_path, emotion = None, day = 1, month = 1, year = 2023, condense = False, get_probs = True):
     with open(file_path, "r") as f:
         text = f.read()
@@ -129,13 +177,7 @@ from datetime import datetime, timedelta
 from dateutil.relativedelta import relativedelta
 
 def month_to_date(month_str, year, day, month_dif=0, day_dif=0, year_dif=0):
-    months = {
-        "Jan": 1, "Feb": 2, "Mar": 3, "Apr": 4,
-        "May": 5, "Jun": 6, "Jul": 7, "Aug": 8,
-        "Sep": 9, "Oct": 10, "Nov": 11, "Dec": 12,
-    }
-
-    dt = datetime(year, months[month_str], day)
+    dt = datetime(year, MONTHS.index(month_str) + 1, day)
 
     dt += relativedelta(years=year_dif, months=month_dif)
     dt += timedelta(days=day_dif)

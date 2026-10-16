@@ -106,6 +106,6 @@ def build_prompt(emotion: str | None = None) -> str:
  
 def get_prompt(emotion):
     try:
-        return build_prompt(emotion_stories[emotion]) 
+        return build_prompt(emotion)
     except KeyError:
         raise ValueError("Invalid emotion")
