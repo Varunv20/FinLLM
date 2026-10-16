@@ -12,7 +12,8 @@ import pandas as pd
 
 from prompts import get_prompt
 
-DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "Earnings_call_transcripts")
+DATA_DIR = os.environ.get("FINLLM_DATA_DIR", os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                                                         "Earnings_call_transcripts"))
 CALLS_PATH = os.path.join(DATA_DIR, "sp1500_earnings_calls.parquet")        # data_collection/build_calls.py
 CATALOGUE_PATH = os.path.join(DATA_DIR, "sp1500_catalogue.parquet")         # data_collection/build_catalogue.py
 MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
@@ -23,7 +24,8 @@ def _prepare(df):
 
 @lru_cache(maxsize=1)
 def load_calls():
-    """Full S&P 1500 earnings calls df, one row per call, including the transcript text."""
+    """Full S&P 1500 earnings calls df, one row per call, including the transcript text.
+    Needs ~7 GB of RAM; run_all doesn't need it (it reads text per call via get_text)."""
     return _prepare(pd.read_parquet(CALLS_PATH))
 
 @lru_cache(maxsize=1)
@@ -35,9 +37,30 @@ def load_catalogue():
     cols = [c for c in pyarrow.parquet.read_schema(CALLS_PATH).names if c != "text"]
     return _prepare(pd.read_parquet(CALLS_PATH, columns=cols))
 
+@lru_cache(maxsize=1)
+def _text_locations():
+    """call_id -> (row group, offset) in CALLS_PATH, from the call_id column alone."""
+    f = pyarrow.parquet.ParquetFile(CALLS_PATH)
+    locs = {}
+    for rg in range(f.num_row_groups):
+        ids = f.read_row_group(rg, columns=["call_id"]).column("call_id").to_pylist()
+        locs.update((cid, (rg, i)) for i, cid in enumerate(ids))
+    return f, locs
+
+@lru_cache(maxsize=2)
+def _text_row_group(rg):
+    f, _ = _text_locations()
+    return f.read_row_group(rg, columns=["text"]).column("text")
+
+def get_text(call_id):
+    """Transcript text for one call, reading only the row group it lives in (not the ~2 GB
+    of text load_calls() pulls into memory)."""
+    rg, i = _text_locations()[1][int(call_id)]
+    return _text_row_group(rg)[i].as_py()
+
 def get_call(ticker, year, month, day):
-    """Row of the calls df for this ticker's call on the given date."""
-    df = load_calls()
+    """Row of the catalogue for this ticker's call on the given date."""
+    df = load_catalogue()
     date = pd.Timestamp(month_to_date(month, year, day))
     rows = df[(df["ticker"] == ticker) & (df["call_date"] == date)]
     if rows.empty:
@@ -49,8 +72,8 @@ def predict_call(agent, call, emotion = None, get_probs = True):
     ticker = call["ticker"]
     date = call["call_date"]
     day, month, year = date.day, MONTHS[date.month - 1], date.year
-    # catalogue rows carry no text; fetch it from the full df by call_id
-    text = call["text"] if "text" in call.index else load_calls().at[call["call_id"], "text"]
+    # catalogue rows carry no text; fetch it by call_id
+    text = call["text"] if "text" in call.index else get_text(call["call_id"])
     text = text[1000:10000]
     input_data = yFinance(ticker, month_to_date(month, year, day, month_dif=-2), month_to_date(month, year, day))
     full_prompt = get_prompt(emotion) + "\n\n" + text

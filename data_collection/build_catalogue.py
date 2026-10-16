@@ -7,12 +7,14 @@ the text for each row is looked up by `call_id`.
 Run from the FinLLM project root, after data_collection/build_calls.py:
     python data_collection/build_catalogue.py
 """
+import os
 from pathlib import Path
 
 import pandas as pd
 import pyarrow.parquet as pq
 
-HERE = Path(__file__).resolve().parent.parent / "Earnings_call_transcripts"
+HERE = Path(os.environ.get("FINLLM_DATA_DIR",
+                           Path(__file__).resolve().parent.parent / "Earnings_call_transcripts"))
 CALLS = HERE / "sp1500_earnings_calls.parquet"
 OUT = HERE / "sp1500_catalogue.parquet"
 
