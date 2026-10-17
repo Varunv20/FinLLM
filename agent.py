@@ -40,13 +40,19 @@ class Agent:
             from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline
             import torch
             from torchao.quantization import Int4WeightOnlyConfig, quantize_
-            model = AutoModelForCausalLM.from_pretrained(
-                    self.model,
+            load_kwargs = dict(
                     device_map="auto",
                     torch_dtype=torch.bfloat16,      # or torch.float16
                     low_cpu_mem_usage=True,
-                    attn_implementation="sdpa",       # forces the efficient fused attention path
                 )
+            try:
+                # the efficient fused attention path, where the architecture supports it
+                model = AutoModelForCausalLM.from_pretrained(self.model, attn_implementation="sdpa", **load_kwargs)
+            except ValueError as e:
+                if "scaled_dot_product_attention" not in str(e):
+                    raise
+                # e.g. gpt-oss has no sdpa support yet
+                model = AutoModelForCausalLM.from_pretrained(self.model, attn_implementation="eager", **load_kwargs)
             if torch.cuda.is_available():
                 quantize_(model, Int4WeightOnlyConfig(
                     group_size=32,
