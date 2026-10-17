@@ -61,8 +61,8 @@ if __name__ == "__main__":
     print(f"{len(catalogue)} calls across {catalogue['ticker'].nunique()} tickers")
 
     # Slice the catalogue however you want, e.g.
-    catalogue = catalogue[:2]
-    #   catalogue[catalogue["call_date"].dt.year == 2018]
+   
+    catalogue[catalogue["call_date"].dt.year == 2018]
     #   catalogue[catalogue["call_date"].between("2018-01-01", "2018-06-30")]
     #   catalogue[(catalogue["sp_index"] == "S&P 500") & (catalogue["gics_sector"] == "Financials")]
     #calls = catalogue[(catalogue["ticker"] == "AAPL") & (catalogue["call_date"].dt.year == 2018)]

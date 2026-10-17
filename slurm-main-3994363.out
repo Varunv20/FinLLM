@@ -1,0 +1,57 @@
+Job 3994363 on qgpu0408, started Fri Oct 16 17:36:31 CDT 2026
+Fri Oct 16 17:36:31 2026       
++-----------------------------------------------------------------------------------------+
+| NVIDIA-SMI 610.43.02              KMD Version: 610.43.02     CUDA UMD Version: 13.3     |
++-----------------------------------------+------------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |
+|                                         |                        |               MIG M. |
+|=========================================+========================+======================|
+|   0  NVIDIA A100-PCIE-40GB          On  |   00000000:2F:00.0 Off |                    0 |
+| N/A   22C    P0             30W /  250W |       0MiB /  40960MiB |      0%      Default |
+|                                         |                        |             Disabled |
++-----------------------------------------+------------------------+----------------------+
+
++-----------------------------------------------------------------------------------------+
+| Processes:                                                                              |
+|  GPU   GI   CI              PID   Type   Process name                        GPU Memory |
+|        ID   ID                                                               Usage      |
+|=========================================================================================|
+|  No running processes found                                                             |
++-----------------------------------------------------------------------------------------+
+CUDA available: True
+2.14.1+cu130
+Using device: cuda
+W1016 17:37:20.397000 1410300 /gpfs/home/amc6852/venvs/p2/lib/python3.11/site-packages/torch/utils/_pytree.py:630] <enum 'KernelPreference'> is an Enum subclass and is now natively supported by torch.compile as an opaque value type. Calling register_constant() on Enum subclasses is deprecated and will be an error in a future release.
+W1016 17:37:45.748000 1410300 /gpfs/home/amc6852/venvs/p2/lib/python3.11/site-packages/torch/utils/_pytree.py:630] <enum 'ScaleCalculationMode'> is an Enum subclass and is now natively supported by torch.compile as an opaque value type. Calling register_constant() on Enum subclasses is deprecated and will be an error in a future release.
+42764 calls across 1258 tickers
+[transformers] `torch_dtype` is deprecated! Use `dtype` instead!
+[transformers] MXFP4 quantization requires the `kernels` package: Please install a compatible version (0.17.0 <= version < 0.18.0), e.g. `pip install kernels==0.17.0`We will default to dequantizing the model to bf16.
+Traceback (most recent call last):
+  File "/gpfs/home/amc6852/FinLLM/main.py", line 71, in <module>
+    agent = Agent(provider = "huggingface", llm=model)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/gpfs/home/amc6852/FinLLM/agent.py", line 43, in __init__
+    model = AutoModelForCausalLM.from_pretrained(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/amc6852/venvs/p2/lib/python3.11/site-packages/transformers/models/auto/auto_factory.py", line 411, in from_pretrained
+    return model_class.from_pretrained(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/amc6852/venvs/p2/lib/python3.11/site-packages/transformers/modeling_utils.py", line 4291, in from_pretrained
+    model = cls(config, *model_args, **model_kwargs)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/amc6852/venvs/p2/lib/python3.11/site-packages/transformers/models/gpt_oss/modeling_gpt_oss.py", line 568, in __init__
+    super().__init__(config)
+  File "/home/amc6852/venvs/p2/lib/python3.11/site-packages/transformers/modeling_utils.py", line 1260, in __init__
+    self.config._attn_implementation_internal = self._check_and_adjust_attn_implementation(
+                                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/amc6852/venvs/p2/lib/python3.11/site-packages/transformers/modeling_utils.py", line 1826, in _check_and_adjust_attn_implementation
+    applicable_attn_implementation = self.get_correct_attn_implementation(
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/amc6852/venvs/p2/lib/python3.11/site-packages/transformers/modeling_utils.py", line 1882, in get_correct_attn_implementation
+    raise e
+  File "/home/amc6852/venvs/p2/lib/python3.11/site-packages/transformers/modeling_utils.py", line 1879, in get_correct_attn_implementation
+    self._sdpa_can_dispatch(is_init_check)
+  File "/home/amc6852/venvs/p2/lib/python3.11/site-packages/transformers/modeling_utils.py", line 1667, in _sdpa_can_dispatch
+    raise ValueError(
+ValueError: GptOssForCausalLM does not support an attention implementation through torch.nn.functional.scaled_dot_product_attention yet. Please request the support for this architecture: https://github.com/huggingface/transformers/issues/28005. If you believe this error is a bug, please open an issue in Transformers GitHub repository and load your model with the argument `attn_implementation="eager"` meanwhile. Example: `model = AutoModel.from_pretrained("openai/whisper-tiny", attn_implementation="eager")`
