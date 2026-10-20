@@ -1,0 +1,30 @@
+Job 4061095 on qgpu3004, started Fri Oct 16 22:57:49 CDT 2026
+Fri Oct 16 22:57:49 2026       
++-----------------------------------------------------------------------------------------+
+| NVIDIA-SMI 610.43.02              KMD Version: 610.43.02     CUDA UMD Version: 13.3     |
++-----------------------------------------+------------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |
+|                                         |                        |               MIG M. |
+|=========================================+========================+======================|
+|   0  NVIDIA H100 80GB HBM3          On  |   00000000:D4:00.0 Off |                    0 |
+| N/A   44C    P0             73W /  700W |       0MiB /  81559MiB |      0%      Default |
+|                                         |                        |             Disabled |
++-----------------------------------------+------------------------+----------------------+
+
++-----------------------------------------------------------------------------------------+
+| Processes:                                                                              |
+|  GPU   GI   CI              PID   Type   Process name                        GPU Memory |
+|        ID   ID                                                               Usage      |
+|=========================================================================================|
+|  No running processes found                                                             |
++-----------------------------------------------------------------------------------------+
+CUDA available: True
+2.14.1+cu130
+Using device: cuda
+W1016 22:58:27.500000 449436 /gpfs/home/amc6852/venvs/p2/lib/python3.11/site-packages/torch/utils/_pytree.py:630] <enum 'KernelPreference'> is an Enum subclass and is now natively supported by torch.compile as an opaque value type. Calling register_constant() on Enum subclasses is deprecated and will be an error in a future release.
+W1016 22:58:46.928000 449436 /gpfs/home/amc6852/venvs/p2/lib/python3.11/site-packages/torch/utils/_pytree.py:630] <enum 'ScaleCalculationMode'> is an Enum subclass and is now natively supported by torch.compile as an opaque value type. Calling register_constant() on Enum subclasses is deprecated and will be an error in a future release.
+42764 calls across 1258 tickers
+[transformers] `torch_dtype` is deprecated! Use `dtype` instead!
+[transformers] MXFP4 quantization requires the `kernels` package: Please install a compatible version (0.17.0 <= version < 0.18.0), e.g. `pip install kernels==0.17.0`We will default to dequantizing the model to bf16.
+Loading weights:   0%|          | 0/615 [00:00<?, ?it/s]Loading weights:   0%|          | 2/615 [00:00<04:23,  2.33it/s]Loading weights:   1%|          | 5/615 [00:09<21:28,  2.11s/it]Loading weights:   4%|▎         | 22/615 [00:10<03:35,  2.76it/s]Loading weights:   4%|▍         | 24/615 [00:11<03:49,  2.58it/s]Loading weights:   7%|▋         | 41/615 [00:13<02:02,  4.68it/s]Loading weights:   9%|▉         | 58/615 [00:13<01:13,  7.58it/s]Loading weights:  12%|█▏        | 73/615 [00:14<00:59,  9.04it/s]Loading weights:  12%|█▏        | 75/615 [00:14<00:57,  9.32it/s]Loading weights:  15%|█▍        | 90/615 [00:16<00:53,  9.82it/s]Loading weights:  15%|█▍        | 92/615 [00:16<00:53,  9.86it/s]Loading weights:  17%|█▋        | 107/615 [00:16<00:30, 16.68it/s]Loading weights:  18%|█▊        | 113/615 [00:20<01:25,  5.85it/s]Loading weights:  20%|██        | 126/615 [00:21<01:13,  6.67it/s]Loading weights:  23%|██▎       | 141/615 [00:22<00:51,  9.20it/s]Loading weights:  23%|██▎       | 144/615 [00:23<01:03,  7.41it/s]Loading weights:  26%|██▌       | 158/615 [00:27<01:30,  5.06it/s]Loading weights:  26%|██▌       | 158/615 [00:40<01:30,  5.06it/s]Loading weights:  28%|██▊       | 175/615 [00:41<03:15,  2.25it/s]Loading weights:  29%|██▉       | 177/615 [01:08<09:22,  1.29s/it]Loading weights:  31%|███       | 192/615 [01:23<08:19,  1.18s/it]Loading weights:  32%|███▏      | 194/615 [01:50<14:31,  2.07s/it]Loading weights:  34%|███▍      | 209/615 [02:04<10:33,  1.56s/it]Loading weights:  34%|███▍      | 211/615 [02:33<17:12,  2.56s/it]Loading weights:  37%|███▋      | 226/615 [02:46<11:43,  1.81s/it]Loading weights:  37%|███▋      | 228/615 [03:15<18:05,  2.80s/it]Loading weights:  40%|███▉      | 243/615 [03:31<12:22,  2.00s/it]Loading weights:  40%|███▉      | 245/615 [03:58<18:01,  2.92s/it]Loading weights:  42%|████▏     | 260/615 [04:13<11:57,  2.02s/it]Loading weights:  43%|████▎     | 262/615 [04:44<18:30,  3.15s/it]Loading weights:  45%|████▌     | 277/615 [05:01<12:27,  2.21s/it]Loading weights:  45%|████▌     | 279/615 [05:31<18:13,  3.26s/it]Loading weights:  48%|████▊     | 294/615 [05:46<11:47,  2.20s/it]Loading weights:  48%|████▊     | 296/615 [06:19<17:43,  3.34s/it]Loading weights:  51%|█████     | 311/615 [06:34<11:24,  2.25s/it]Loading weights:  51%|█████     | 313/615 [07:04<16:38,  3.31s/it]Loading weights:  53%|█████▎    | 328/615 [07:20<10:45,  2.25s/it][2026-10-16T23:06:22.751] error: *** JOB 4061095 ON qgpu3004 CANCELLED AT 2026-10-16T23:06:22 DUE to SIGNAL Terminated ***

@@ -1,0 +1,228 @@
+Job 4480492 on qgpu0404, started Mon Oct 19 11:34:48 CDT 2026
+Mon Oct 19 11:34:48 2026       
++-----------------------------------------------------------------------------------------+
+| NVIDIA-SMI 610.43.02              KMD Version: 610.43.02     CUDA UMD Version: 13.3     |
++-----------------------------------------+------------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |
+|                                         |                        |               MIG M. |
+|=========================================+========================+======================|
+|   0  NVIDIA A100-PCIE-40GB          On  |   00000000:06:00.0 Off |                    0 |
+| N/A   46C    P0             35W /  250W |       0MiB /  40960MiB |      0%      Default |
+|                                         |                        |             Disabled |
++-----------------------------------------+------------------------+----------------------+
+
++-----------------------------------------------------------------------------------------+
+| Processes:                                                                              |
+|  GPU   GI   CI              PID   Type   Process name                        GPU Memory |
+|        ID   ID                                                               Usage      |
+|=========================================================================================|
+|  No running processes found                                                             |
++-----------------------------------------------------------------------------------------+
+CUDA available: True
+2.14.1+cu130
+Using device: cuda
+W1019 11:35:38.800000 3128702 /gpfs/home/amc6852/venvs/p2/lib/python3.11/site-packages/torch/utils/_pytree.py:630] <enum 'KernelPreference'> is an Enum subclass and is now natively supported by torch.compile as an opaque value type. Calling register_constant() on Enum subclasses is deprecated and will be an error in a future release.
+W1019 11:36:05.282000 3128702 /gpfs/home/amc6852/venvs/p2/lib/python3.11/site-packages/torch/utils/_pytree.py:630] <enum 'ScaleCalculationMode'> is an Enum subclass and is now natively supported by torch.compile as an opaque value type. Calling register_constant() on Enum subclasses is deprecated and will be an error in a future release.
+42764 calls across 1258 tickers
+[transformers] `torch_dtype` is deprecated! Use `dtype` instead!
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Fetching 43 files:   0%|          | 0/43 [00:00<?, ?it/s]Fetching 43 files:   9%|▉         | 4/43 [00:00<00:00, 39.48it/s]Fetching 43 files:  53%|█████▎    | 23/43 [00:00<00:00, 123.09it/s]Fetching 43 files: 100%|██████████| 43/43 [00:00<00:00, 156.58it/s]Fetching 43 files: 100%|██████████| 43/43 [00:00<00:00, 139.00it/s]
+Loading weights:   0%|          | 0/615 [00:00<?, ?it/s]Loading weights:   0%|          | 2/615 [00:01<06:26,  1.58it/s]Loading weights:   1%|          | 5/615 [00:02<03:53,  2.61it/s]Loading weights:   1%|          | 7/615 [00:03<05:20,  1.90it/s]Loading weights:   4%|▎         | 22/615 [00:04<01:25,  6.97it/s]Loading weights:   4%|▍         | 24/615 [00:05<02:08,  4.61it/s]Loading weights:   5%|▌         | 33/615 [00:05<01:11,  8.13it/s]Loading weights:   6%|▋         | 39/615 [00:09<02:22,  4.03it/s]Loading weights:   7%|▋         | 42/615 [00:10<02:40,  3.56it/s]Loading weights:   8%|▊         | 50/615 [00:10<01:38,  5.76it/s]Loading weights:   9%|▉         | 54/615 [00:11<01:40,  5.56it/s]Loading weights:   9%|▉         | 58/615 [00:12<02:08,  4.33it/s]Loading weights:  12%|█▏        | 73/615 [00:13<01:07,  8.00it/s]Loading weights:  12%|█▏        | 75/615 [00:16<02:28,  3.65it/s]Loading weights:  15%|█▍        | 92/615 [00:16<01:07,  7.74it/s]Loading weights:  16%|█▌        | 98/615 [00:17<01:05,  7.94it/s]Loading weights:  17%|█▋        | 107/615 [00:17<00:45, 11.09it/s]Loading weights:  18%|█▊        | 113/615 [00:24<02:36,  3.20it/s]Loading weights:  20%|██        | 124/615 [00:27<02:32,  3.21it/s]Loading weights:  21%|██        | 127/615 [00:28<02:37,  3.09it/s]Loading weights:  21%|██        | 130/615 [00:30<02:57,  2.73it/s]Loading weights:  23%|██▎       | 143/615 [00:30<01:33,  5.07it/s]Loading weights:  26%|██▌       | 158/615 [00:35<01:52,  4.08it/s]Loading weights:  26%|██▋       | 162/615 [00:37<02:10,  3.47it/s]Loading weights:  29%|██▉       | 177/615 [00:37<01:14,  5.89it/s]Loading weights:  31%|███       | 190/615 [00:38<00:55,  7.70it/s]Loading weights:  31%|███▏      | 193/615 [00:39<01:09,  6.05it/s]Loading weights:  33%|███▎      | 203/615 [00:41<01:10,  5.87it/s]Loading weights:  34%|███▍      | 211/615 [00:41<00:53,  7.60it/s]Loading weights:  35%|███▍      | 214/615 [00:43<01:20,  4.97it/s]Loading weights:  37%|███▋      | 228/615 [00:44<00:43,  8.91it/s]Loading weights:  39%|███▊      | 237/615 [00:46<00:54,  6.91it/s]Loading weights:  40%|████      | 247/615 [00:47<00:58,  6.27it/s]Loading weights:  43%|████▎     | 262/615 [00:48<00:35,  9.90it/s]Loading weights:  44%|████▍     | 271/615 [00:48<00:27, 12.66it/s]Loading weights:  45%|████▌     | 277/615 [00:49<00:29, 11.60it/s]Loading weights:  46%|████▌     | 281/615 [00:52<01:06,  5.02it/s]Loading weights:  48%|████▊     | 296/615 [00:53<00:45,  7.04it/s]Loading weights:  51%|█████     | 313/615 [00:54<00:34,  8.81it/s]Loading weights:  51%|█████     | 315/615 [00:55<00:39,  7.54it/s]Loading weights:  54%|█████▎    | 330/615 [00:56<00:32,  8.76it/s]Loading weights:  54%|█████▍    | 332/615 [00:56<00:31,  9.07it/s]Loading weights:  56%|█████▌    | 345/615 [01:01<00:56,  4.81it/s]Loading weights:  56%|█████▋    | 347/615 [01:01<00:54,  4.88it/s]Loading weights:  57%|█████▋    | 349/615 [01:01<00:51,  5.20it/s]Loading weights:  58%|█████▊    | 356/615 [01:02<00:38,  6.71it/s]Loading weights:  59%|█████▉    | 362/615 [01:04<00:51,  4.88it/s]Loading weights:  59%|█████▉    | 364/615 [01:05<01:04,  3.92it/s]Loading weights:  62%|██████▏   | 379/615 [01:06<00:31,  7.53it/s]Loading weights:  62%|██████▏   | 381/615 [01:07<00:41,  5.59it/s]Loading weights:  64%|██████▍   | 396/615 [01:08<00:24,  8.86it/s][W1019 11:37:17.630981972 CUDACachingAllocator.cpp:528] expandable_segments: memory mapping failed with OOM on device 0 while trying to map 20971520 bytes (free: 4063232, total: 42430300160).
+[W1019 11:37:17.636150364 CUDACachingAllocator.cpp:528] expandable_segments: memory mapping failed with OOM on device 0 while trying to map 20971520 bytes (free: 4063232, total: 42430300160).
+Loading weights:  65%|██████▍   | 398/615 [01:08<00:25,  8.36it/s][W1019 11:37:17.013216789 CUDACachingAllocator.cpp:528] expandable_segments: memory mapping failed with OOM on device 0 while trying to map 20971520 bytes (free: 4063232, total: 42430300160).
+[W1019 11:37:17.019255517 CUDACachingAllocator.cpp:528] expandable_segments: memory mapping failed with OOM on device 0 while trying to map 20971520 bytes (free: 4063232, total: 42430300160).
+[W1019 11:37:17.025166764 CUDACachingAllocator.cpp:528] expandable_segments: memory mapping failed with OOM on device 0 while trying to map 20971520 bytes (free: 4063232, total: 42430300160).
+[W1019 11:37:17.031164570 CUDACachingAllocator.cpp:528] expandable_segments: memory mapping failed with OOM on device 0 while trying to map 20971520 bytes (free: 4063232, total: 42430300160).
+[W1019 11:37:17.038185042 CUDACachingAllocator.cpp:528] expandable_segments: memory mapping failed with OOM on device 0 while trying to map 20971520 bytes (free: 4063232, total: 42430300160).
+[W1019 11:37:17.044237667 CUDACachingAllocator.cpp:528] expandable_segments: memory mapping failed with OOM on device 0 while trying to map 20971520 bytes (free: 4063232, total: 42430300160).
+[W1019 11:37:17.050189092 CUDACachingAllocator.cpp:528] expandable_segments: memory mapping failed with OOM on device 0 while trying to map 20971520 bytes (free: 4063232, total: 42430300160).
+[W1019 11:37:18.056217488 CUDACachingAllocator.cpp:528] expandable_segments: memory mapping failed with OOM on device 0 while trying to map 20971520 bytes (free: 4063232, total: 42430300160).
+[W1019 11:37:18.062112956 CUDACachingAllocator.cpp:528] expandable_segments: memory mapping failed with OOM on device 0 while trying to map 20971520 bytes (free: 4063232, total: 42430300160).
+[W1019 11:37:18.068202388 CUDACachingAllocator.cpp:528] expandable_segments: memory mapping failed with OOM on device 0 while trying to map 20971520 bytes (free: 4063232, total: 42430300160).
+[W1019 11:37:18.074285974 CUDACachingAllocator.cpp:528] expandable_segments: memory mapping failed with OOM on device 0 while trying to map 20971520 bytes (free: 4063232, total: 42430300160).
+[W1019 11:37:18.080250706 CUDACachingAllocator.cpp:528] expandable_segments: memory mapping failed with OOM on device 0 while trying to map 20971520 bytes (free: 4063232, total: 42430300160).
+[W1019 11:37:18.085426764 CUDACachingAllocator.cpp:528] expandable_segments: memory mapping failed with OOM on device 0 while trying to map 20971520 bytes (free: 4063232, total: 42430300160).
+[W1019 11:37:18.091313898 CUDACachingAllocator.cpp:528] expandable_segments: memory mapping failed with OOM on device 0 while trying to map 20971520 bytes (free: 4063232, total: 42430300160).
+[W1019 11:37:18.098173361 CUDACachingAllocator.cpp:528] expandable_segments: memory mapping failed with OOM on device 0 while trying to map 20971520 bytes (free: 4063232, total: 42430300160).
+[W1019 11:37:18.104168785 CUDACachingAllocator.cpp:528] expandable_segments: memory mapping failed with OOM on device 0 while trying to map 20971520 bytes (free: 4063232, total: 42430300160).
+[W1019 11:37:18.110217087 CUDACachingAllocator.cpp:528] expandable_segments: memory mapping failed with OOM on device 0 while trying to map 20971520 bytes (free: 4063232, total: 42430300160).
+[W1019 11:37:18.116161142 CUDACachingAllocator.cpp:528] expandable_segments: memory mapping failed with OOM on device 0 while trying to map 20971520 bytes (free: 4063232, total: 42430300160).
+Loading weights:  78%|███████▊  | 481/615 [01:08<00:02, 49.51it/s][W1019 11:37:18.122342334 CUDACachingAllocator.cpp:528] expandable_segments: memory mapping failed with OOM on device 0 while trying to map 20971520 bytes (free: 4063232, total: 42430300160).
+[W1019 11:37:18.128174074 CUDACachingAllocator.cpp:528] expandable_segments: memory mapping failed with OOM on device 0 while trying to map 20971520 bytes (free: 4063232, total: 42430300160).
+[W1019 11:37:18.134118124 CUDACachingAllocator.cpp:528] expandable_segments: memory mapping failed with OOM on device 0 while trying to map 20971520 bytes (free: 4063232, total: 42430300160).
+[W1019 11:37:18.140210598 CUDACachingAllocator.cpp:528] expandable_segments: memory mapping failed with OOM on device 0 while trying to map 20971520 bytes (free: 4063232, total: 42430300160).
+[W1019 11:37:18.146312002 CUDACachingAllocator.cpp:528] expandable_segments: memory mapping failed with OOM on device 0 while trying to map 20971520 bytes (free: 4063232, total: 42430300160).
+[W1019 11:37:18.152273666 CUDACachingAllocator.cpp:528] expandable_segments: memory mapping failed with OOM on device 0 while trying to map 20971520 bytes (free: 4063232, total: 42430300160).
+[W1019 11:37:18.158358214 CUDACachingAllocator.cpp:528] expandable_segments: memory mapping failed with OOM on device 0 while trying to map 20971520 bytes (free: 4063232, total: 42430300160).
+[W1019 11:37:18.164239795 CUDACachingAllocator.cpp:528] expandable_segments: memory mapping failed with OOM on device 0 while trying to map 20971520 bytes (free: 4063232, total: 42430300160).
+[W1019 11:37:18.170236180 CUDACachingAllocator.cpp:528] expandable_segments: memory mapping failed with OOM on device 0 while trying to map 20971520 bytes (free: 4063232, total: 42430300160).
+[W1019 11:37:18.176252038 CUDACachingAllocator.cpp:528] expandable_segments: memory mapping failed with OOM on device 0 while trying to map 20971520 bytes (free: 4063232, total: 42430300160).
+[W1019 11:37:18.182250838 CUDACachingAllocator.cpp:528] expandable_segments: memory mapping failed with OOM on device 0 while trying to map 20971520 bytes (free: 4063232, total: 42430300160).
+[W1019 11:37:18.188169839 CUDACachingAllocator.cpp:528] expandable_segments: memory mapping failed with OOM on device 0 while trying to map 20971520 bytes (free: 4063232, total: 42430300160).
+[W1019 11:37:18.194216836 CUDACachingAllocator.cpp:528] expandable_segments: memory mapping failed with OOM on device 0 while trying to map 20971520 bytes (free: 4063232, total: 42430300160).
+[W1019 11:37:18.200259796 CUDACachingAllocator.cpp:528] expandable_segments: memory mapping failed with OOM on device 0 while trying to map 20971520 bytes (free: 4063232, total: 42430300160).
+[W1019 11:37:18.206143961 CUDACachingAllocator.cpp:528] expandable_segments: memory mapping failed with OOM on device 0 while trying to map 20971520 bytes (free: 4063232, total: 42430300160).
+[W1019 11:37:18.212249911 CUDACachingAllocator.cpp:528] expandable_segments: memory mapping failed with OOM on device 0 while trying to map 20971520 bytes (free: 4063232, total: 42430300160).
+[W1019 11:37:18.219297620 CUDACachingAllocator.cpp:528] expandable_segments: memory mapping failed with OOM on device 0 while trying to map 20971520 bytes (free: 4063232, total: 42430300160).
+[W1019 11:37:18.225314204 CUDACachingAllocator.cpp:528] expandable_segments: memory mapping failed with OOM on device 0 while trying to map 20971520 bytes (free: 4063232, total: 42430300160).
+Loading weights:  90%|████████▉ | 551/615 [01:08<00:00, 92.36it/s][W1019 11:37:18.230926091 CUDACachingAllocator.cpp:528] expandable_segments: memory mapping failed with OOM on device 0 while trying to map 20971520 bytes (free: 4063232, total: 42430300160).
+[W1019 11:37:18.237198135 CUDACachingAllocator.cpp:528] expandable_segments: memory mapping failed with OOM on device 0 while trying to map 20971520 bytes (free: 4063232, total: 42430300160).
+[W1019 11:37:18.243199573 CUDACachingAllocator.cpp:528] expandable_segments: memory mapping failed with OOM on device 0 while trying to map 20971520 bytes (free: 4063232, total: 42430300160).
+[W1019 11:37:18.247240959 CUDACachingAllocator.cpp:528] expandable_segments: memory mapping failed with OOM on device 0 while trying to map 20971520 bytes (free: 4063232, total: 42430300160).
+[W1019 11:37:18.251217352 CUDACachingAllocator.cpp:528] expandable_segments: memory mapping failed with OOM on device 0 while trying to map 20971520 bytes (free: 4063232, total: 42430300160).
+[W1019 11:37:18.255156369 CUDACachingAllocator.cpp:528] expandable_segments: memory mapping failed with OOM on device 0 while trying to map 20971520 bytes (free: 4063232, total: 42430300160).
+[W1019 11:37:18.259165965 CUDACachingAllocator.cpp:528] expandable_segments: memory mapping failed with OOM on device 0 while trying to map 20971520 bytes (free: 4063232, total: 42430300160).
+[W1019 11:37:18.263111988 CUDACachingAllocator.cpp:528] expandable_segments: memory mapping failed with OOM on device 0 while trying to map 20971520 bytes (free: 4063232, total: 42430300160).
+[W1019 11:37:18.266609668 CUDACachingAllocator.cpp:528] expandable_segments: memory mapping failed with OOM on device 0 while trying to map 20971520 bytes (free: 4063232, total: 42430300160).
+[W1019 11:37:18.270269584 CUDACachingAllocator.cpp:528] expandable_segments: memory mapping failed with OOM on device 0 while trying to map 20971520 bytes (free: 4063232, total: 42430300160).
+[W1019 11:37:18.274112396 CUDACachingAllocator.cpp:528] expandable_segments: memory mapping failed with OOM on device 0 while trying to map 20971520 bytes (free: 4063232, total: 42430300160).
+[W1019 11:37:18.278192088 CUDACachingAllocator.cpp:528] expandable_segments: memory mapping failed with OOM on device 0 while trying to map 20971520 bytes (free: 4063232, total: 42430300160).
+Loading weights: 100%|██████████| 615/615 [01:08<00:00,  8.93it/s]
+[transformers] [1mGptOssForCausalLM LOAD REPORT[0m from: openai/gpt-oss-120b
+Key                                             | Status     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+------------------------------------------------+------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+model.layers.{24...35}.mlp.experts.down_proj    | MISSING    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+model.layers.{23...35}.mlp.experts.gate_up_proj | MISSING    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+model.layers.{23...35}.mlp.experts.gate_up_proj | CONVERSION | 
+
+Traceback (most recent call last):
+  File "/gpfs/home/amc6852/FinLLM/agent.py", line 50, in __init__
+    model = AutoModelForCausalLM.from_pretrained(self.model, attn_implementation="sdpa", **load_kwargs)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/amc6852/venvs/p2/lib/python3.11/site-packages/transformers/models/auto/auto_factory.py", line 411, in from_pretrained
+    return model_class.from_pretrained(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/amc6852/venvs/p2/lib/python3.11/site-packages/transformers/modeling_utils.py", line 4291, in from_pretrained
+    model = cls(config, *model_args, **model_kwargs)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/amc6852/venvs/p2/lib/python3.11/site-packages/transformers/models/gpt_oss/modeling_gpt_oss.py", line 568, in __init__
+    super().__init__(config)
+  File "/home/amc6852/venvs/p2/lib/python3.11/site-packages/transformers/modeling_utils.py", line 1260, in __init__
+    self.config._attn_implementation_internal = self._check_and_adjust_attn_implementation(
+                                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/amc6852/venvs/p2/lib/python3.11/site-packages/transformers/modeling_utils.py", line 1826, in _check_and_adjust_attn_implementation
+    applicable_attn_implementation = self.get_correct_attn_implementation(
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/amc6852/venvs/p2/lib/python3.11/site-packages/transformers/modeling_utils.py", line 1882, in get_correct_attn_implementation
+    raise e
+  File "/home/amc6852/venvs/p2/lib/python3.11/site-packages/transformers/modeling_utils.py", line 1879, in get_correct_attn_implementation
+    self._sdpa_can_dispatch(is_init_check)
+  File "/home/amc6852/venvs/p2/lib/python3.11/site-packages/transformers/modeling_utils.py", line 1667, in _sdpa_can_dispatch
+    raise ValueError(
+ValueError: GptOssForCausalLM does not support an attention implementation through torch.nn.functional.scaled_dot_product_attention yet. Please request the support for this architecture: https://github.com/huggingface/transformers/issues/28005. If you believe this error is a bug, please open an issue in Transformers GitHub repository and load your model with the argument `attn_implementation="eager"` meanwhile. Example: `model = AutoModel.from_pretrained("openai/whisper-tiny", attn_implementation="eager")`
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/amc6852/venvs/p2/lib/python3.11/site-packages/transformers/core_model_loading.py", line 1303, in log_conversion_errors
+    yield
+  File "/home/amc6852/venvs/p2/lib/python3.11/site-packages/transformers/core_model_loading.py", line 1189, in convert
+    collected_tensors = op.convert(
+                        ^^^^^^^^^^^
+  File "/home/amc6852/venvs/p2/lib/python3.11/site-packages/transformers/integrations/mxfp4.py", line 159, in convert
+    swizzle_mxfp4_convertops(
+  File "/home/amc6852/venvs/p2/lib/python3.11/site-packages/transformers/integrations/mxfp4.py", line 517, in swizzle_mxfp4_convertops
+    blocks = blocks.to(target_device).contiguous()
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 1014.00 MiB. GPU 0 has a total capacity of 39.52 GiB of which 103.88 MiB is free. Including non-PyTorch memory, this process has 39.41 GiB memory in use. Of the allocated memory 38.99 GiB is allocated by PyTorch, and 11.97 MiB is reserved by PyTorch but unallocated.
+CUDA out of memory. Tried to allocate 1014.00 MiB. GPU 0 has a total capacity of 39.52 GiB of which 103.88 MiB is free. Including non-PyTorch memory, this process has 39.41 GiB memory in use. Of the allocated memory 38.99 GiB is allocated by PyTorch, and 11.97 MiB is reserved by PyTorch but unallocated.
+Error: Mxfp4Deserialize on tensors destined for model.layers.35.mlp.experts.gate_up_proj. Ckpt contains: 2
+
+
+model.layers.{24...35}.mlp.experts.down_proj    | CONVERSION | 
+
+Traceback (most recent call last):
+  File "/gpfs/home/amc6852/FinLLM/agent.py", line 50, in __init__
+    model = AutoModelForCausalLM.from_pretrained(self.model, attn_implementation="sdpa", **load_kwargs)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/amc6852/venvs/p2/lib/python3.11/site-packages/transformers/models/auto/auto_factory.py", line 411, in from_pretrained
+    return model_class.from_pretrained(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/amc6852/venvs/p2/lib/python3.11/site-packages/transformers/modeling_utils.py", line 4291, in from_pretrained
+    model = cls(config, *model_args, **model_kwargs)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/amc6852/venvs/p2/lib/python3.11/site-packages/transformers/models/gpt_oss/modeling_gpt_oss.py", line 568, in __init__
+    super().__init__(config)
+  File "/home/amc6852/venvs/p2/lib/python3.11/site-packages/transformers/modeling_utils.py", line 1260, in __init__
+    self.config._attn_implementation_internal = self._check_and_adjust_attn_implementation(
+                                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/amc6852/venvs/p2/lib/python3.11/site-packages/transformers/modeling_utils.py", line 1826, in _check_and_adjust_attn_implementation
+    applicable_attn_implementation = self.get_correct_attn_implementation(
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/amc6852/venvs/p2/lib/python3.11/site-packages/transformers/modeling_utils.py", line 1882, in get_correct_attn_implementation
+    raise e
+  File "/home/amc6852/venvs/p2/lib/python3.11/site-packages/transformers/modeling_utils.py", line 1879, in get_correct_attn_implementation
+    self._sdpa_can_dispatch(is_init_check)
+  File "/home/amc6852/venvs/p2/lib/python3.11/site-packages/transformers/modeling_utils.py", line 1667, in _sdpa_can_dispatch
+    raise ValueError(
+ValueError: GptOssForCausalLM does not support an attention implementation through torch.nn.functional.scaled_dot_product_attention yet. Please request the support for this architecture: https://github.com/huggingface/transformers/issues/28005. If you believe this error is a bug, please open an issue in Transformers GitHub repository and load your model with the argument `attn_implementation="eager"` meanwhile. Example: `model = AutoModel.from_pretrained("openai/whisper-tiny", attn_implementation="eager")`
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/amc6852/venvs/p2/lib/python3.11/site-packages/transformers/core_model_loading.py", line 1303, in log_conversion_errors
+    yield
+  File "/home/amc6852/venvs/p2/lib/python3.11/site-packages/transformers/core_model_loading.py", line 1189, in convert
+    collected_tensors = op.convert(
+                        ^^^^^^^^^^^
+  File "/home/amc6852/venvs/p2/lib/python3.11/site-packages/transformers/integrations/mxfp4.py", line 159, in convert
+    swizzle_mxfp4_convertops(
+  File "/home/amc6852/venvs/p2/lib/python3.11/site-packages/transformers/integrations/mxfp4.py", line 517, in swizzle_mxfp4_convertops
+    blocks = blocks.to(target_device).contiguous()
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 508.00 MiB. GPU 0 has a total capacity of 39.52 GiB of which 103.88 MiB is free. Including non-PyTorch memory, this process has 39.41 GiB memory in use. Of the allocated memory 38.99 GiB is allocated by PyTorch, and 11.97 MiB is reserved by PyTorch but unallocated.
+CUDA out of memory. Tried to allocate 508.00 MiB. GPU 0 has a total capacity of 39.52 GiB of which 103.88 MiB is free. Including non-PyTorch memory, this process has 39.41 GiB memory in use. Of the allocated memory 38.99 GiB is allocated by PyTorch, and 11.97 MiB is reserved by PyTorch but unallocated.
+Error: Mxfp4Deserialize on tensors destined for model.layers.35.mlp.experts.down_proj. Ckpt contains: 2
+
+     
+
+Notes:
+- MISSING:	those params were newly initialized because missing from the checkpoint. Consider training on your downstream task.
+- CONVERSION:	originate from the conversion scheme
+Traceback (most recent call last):
+  File "/gpfs/home/amc6852/FinLLM/agent.py", line 50, in __init__
+    model = AutoModelForCausalLM.from_pretrained(self.model, attn_implementation="sdpa", **load_kwargs)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/amc6852/venvs/p2/lib/python3.11/site-packages/transformers/models/auto/auto_factory.py", line 411, in from_pretrained
+    return model_class.from_pretrained(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/amc6852/venvs/p2/lib/python3.11/site-packages/transformers/modeling_utils.py", line 4291, in from_pretrained
+    model = cls(config, *model_args, **model_kwargs)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/amc6852/venvs/p2/lib/python3.11/site-packages/transformers/models/gpt_oss/modeling_gpt_oss.py", line 568, in __init__
+    super().__init__(config)
+  File "/home/amc6852/venvs/p2/lib/python3.11/site-packages/transformers/modeling_utils.py", line 1260, in __init__
+    self.config._attn_implementation_internal = self._check_and_adjust_attn_implementation(
+                                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/amc6852/venvs/p2/lib/python3.11/site-packages/transformers/modeling_utils.py", line 1826, in _check_and_adjust_attn_implementation
+    applicable_attn_implementation = self.get_correct_attn_implementation(
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/amc6852/venvs/p2/lib/python3.11/site-packages/transformers/modeling_utils.py", line 1882, in get_correct_attn_implementation
+    raise e
+  File "/home/amc6852/venvs/p2/lib/python3.11/site-packages/transformers/modeling_utils.py", line 1879, in get_correct_attn_implementation
+    self._sdpa_can_dispatch(is_init_check)
+  File "/home/amc6852/venvs/p2/lib/python3.11/site-packages/transformers/modeling_utils.py", line 1667, in _sdpa_can_dispatch
+    raise ValueError(
+ValueError: GptOssForCausalLM does not support an attention implementation through torch.nn.functional.scaled_dot_product_attention yet. Please request the support for this architecture: https://github.com/huggingface/transformers/issues/28005. If you believe this error is a bug, please open an issue in Transformers GitHub repository and load your model with the argument `attn_implementation="eager"` meanwhile. Example: `model = AutoModel.from_pretrained("openai/whisper-tiny", attn_implementation="eager")`
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/gpfs/home/amc6852/FinLLM/main.py", line 71, in <module>
+    agent = Agent(provider = "huggingface", llm=model)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/gpfs/home/amc6852/FinLLM/agent.py", line 55, in __init__
+    model = AutoModelForCausalLM.from_pretrained(self.model, attn_implementation="eager", **load_kwargs)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/amc6852/venvs/p2/lib/python3.11/site-packages/transformers/models/auto/auto_factory.py", line 411, in from_pretrained
+    return model_class.from_pretrained(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/amc6852/venvs/p2/lib/python3.11/site-packages/transformers/modeling_utils.py", line 4339, in from_pretrained
+    loading_info = cls._finalize_model_loading(model, load_config, loading_info)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/amc6852/venvs/p2/lib/python3.11/site-packages/transformers/modeling_utils.py", line 4523, in _finalize_model_loading
+    log_state_dict_report(
+  File "/home/amc6852/venvs/p2/lib/python3.11/site-packages/transformers/utils/loading_report.py", line 311, in log_state_dict_report
+    raise RuntimeError(
+RuntimeError: We encountered some issues during automatic conversion of the weights. For details look at the `CONVERSION` entries of the above report!

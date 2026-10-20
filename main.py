@@ -66,12 +66,12 @@ if __name__ == "__main__":
     #   catalogue[catalogue["call_date"].between("2018-01-01", "2018-06-30")]
     #   catalogue[(catalogue["sp_index"] == "S&P 500") & (catalogue["gics_sector"] == "Financials")]
     #calls = catalogue[(catalogue["ticker"] == "AAPL") & (catalogue["call_date"].dt.year == 2018)]
-    calls = catalogue 
+    calls = catalogue.sample(n=80)
     model = "openai/gpt-oss-120b"
     agent = Agent(provider = "huggingface", llm=model)
     #result = predict_call(agent, calls.iloc[0])
     #result = agent.run("Hello, how are you?")
     emotions = list(emotion_stories)
     for e in emotions:
-        result = run_all(agent, calls, name= model + "_" + str(emotions.index(e)), prompt = e)
+        result = run_all(agent, calls, name="sample_" +  model + "_" + str(emotions.index(e)), prompt = e)
     print(result)
