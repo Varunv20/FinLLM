@@ -26,12 +26,15 @@
 
 set -euo pipefail
 
-VENV=${VENV:-/projects/p53198/venvs/vllm}
+# big files (venv, model weights, caches) go here, not home: export STORE=... before sbatch to change it
+STORE=${STORE:-/projects/p53198}
+VENV=${VENV:-$STORE/venvs/vllm}
 source "$VENV/bin/activate"
 cd /gpfs/home/amc6852/FinLLM
 
 # Model weights are large; keep the Hugging Face cache in the project allocation, not home.
-export HF_HOME=${HF_HOME:-/projects/p53198/hf_cache}
+export HF_HOME=${HF_HOME:-$STORE/hf_cache}
+export XDG_CACHE_HOME=$STORE/cache     # vllm, torch compile, triton caches
 mkdir -p "$HF_HOME"
 export PYTHONUNBUFFERED=1             # print progress to the log as it happens
 export PYTHONIOENCODING=utf-8

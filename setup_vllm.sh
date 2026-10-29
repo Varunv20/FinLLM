@@ -6,10 +6,13 @@
 # otherwise fill the home quota again.
 
 set -euo pipefail
-VENV=${VENV:-/projects/p53198/venvs/vllm}
-export PIP_CACHE_DIR=${PIP_CACHE_DIR:-/projects/p53198/pip_cache}
+# where the venv and pip cache go (not home, its quota is small); e.g. STORE=/scratch/$USER bash setup_vllm.sh
+STORE=${STORE:-/projects/p53198}
+VENV=${VENV:-$STORE/venvs/vllm}
+export PIP_CACHE_DIR=${PIP_CACHE_DIR:-$STORE/pip_cache}
 
 # same Python (3.11) as the existing environment
+mkdir -p "$STORE" || { echo "cannot write to $STORE; set STORE to a folder you own, e.g. STORE=/scratch/$USER"; exit 1; }
 /home/amc6852/venvs/p2/bin/python -m venv "$VENV"
 source "$VENV/bin/activate"
 pip install --upgrade pip
