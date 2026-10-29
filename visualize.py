@@ -53,25 +53,8 @@ plt.rcParams.update({
 
 # ------------------------------------------------------------------ loading
 
-_DECISION_RE = re.compile(r"decision\W*(?:is\W*)?(buy|sell|hold|[012])\b", re.I)
-_CODE = {"0": "buy", "1": "sell", "2": "hold"}
-
-
-def parse_decision(summary, fallback=None):
-    """buy / sell / hold from the model's 'Decision: ...' line.
-
-    The stored `decision` column comes from counting the words buy/sell anywhere in the
-    reply, so it can't say hold and is often wrong ("Decision: 2 for Hold" -> "sell").
-    Falls back to the stored value when the reply has no Decision line."""
-    if isinstance(summary, str):
-        # gpt-oss replies are "analysis<reasoning>assistantfinal<answer>"; the reasoning
-        # often floats a decision it later changes, so read only the final answer
-        summary = summary.rsplit("assistantfinal", 1)[-1]
-        m = _DECISION_RE.search(summary.replace("*", ""))
-        if m:
-            d = m.group(1).lower()
-            return _CODE.get(d, d)
-    return fallback
+# parse_decision lives in llms (main.py uses it without matplotlib); re-exported here
+from llms import parse_decision  # noqa: E402,F401
 
 
 def _label_from_path(path):

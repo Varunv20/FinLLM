@@ -1,4 +1,5 @@
 import os
+import re
 from functools import lru_cache
 
 # On Windows, pyarrow's DLL fails to load once torch has initialised CUDA, so this
@@ -12,12 +13,35 @@ import pandas as pd
 
 from prompts import get_prompt
 
+_DECISION_RE = re.compile(r"decision\W*(?:is\W*)?(buy|sell|hold|[012])\b", re.I)
+_CODE = {"0": "buy", "1": "sell", "2": "hold"}
+
+
+def parse_decision(summary, fallback=None):
+    """buy / sell / hold from the model's 'Decision: ...' line.
+
+    The stored `decision` column comes from counting the words buy/sell anywhere in the
+    reply, so it can't say hold and is often wrong ("Decision: 2 for Hold" -> "sell").
+    Falls back to the stored value when the reply has no Decision line."""
+    if isinstance(summary, str):
+        # gpt-oss replies are "analysis<reasoning>assistantfinal<answer>"; the reasoning
+        # often floats a decision it later changes, so read only the final answer
+        summary = summary.rsplit("assistantfinal", 1)[-1]
+        # Qwen-style thinking models: "<think>...</think>answer"
+        summary = summary.rsplit("</think>", 1)[-1]
+        m = _DECISION_RE.search(summary.replace("*", ""))
+        if m:
+            d = m.group(1).lower()
+            return _CODE.get(d, d)
+    return fallback
+
 DATA_DIR = os.environ.get("FINLLM_DATA_DIR", os.path.join(os.path.dirname(os.path.abspath(__file__)),
                                                          "Earnings_call_transcripts"))
 CALLS_PATH = os.path.join(DATA_DIR, "sp1500_earnings_calls.parquet")        # data_collection/build_calls.py
 CATALOGUE_PATH = os.path.join(DATA_DIR, "sp1500_catalogue.parquet")         # data_collection/build_catalogue.py
 EVENTS_PATH = os.path.join(DATA_DIR, "sp1500_event_returns.parquet")       # data_collection/build_event_returns.py
 ANON_CALLS_PATH = os.path.join(DATA_DIR, "sp1500_earnings_calls_anon.parquet")  # data_collection/anonymize_calls.py
+SUMMARIES_PATH = os.path.join(DATA_DIR, "sp1500_summaries")  # summarize_calls.py (a folder of part files)
 MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
 # abnormal returns over the 5 trading days after each call (see build_event_returns.py)
 EVENT_COLS = ["timing", "event_day0", "beta", "sigma", "car5", "scar5", "raw_ret5", "mkt_ret5",
@@ -79,26 +103,59 @@ def get_call(ticker, year, month, day):
         raise KeyError(f"No earnings call for {ticker} on {date.date()}")
     return rows.iloc[0]
 
-def predict_call(agent, call, emotion = None, get_probs = True, anonymized = False, analyst_recs = False):
+# transcript tokens sent to the model: the whole call for ~99% of calls (median ~10.5k,
+# p99 ~18k tokens; see token_stats.py); longer calls keep their first MAX_INPUT_TOKENS
+MAX_INPUT_TOKENS = 24000
+MAX_NEW_TOKENS = 2048       # reply budget; gpt-oss-120b's replies were ~900 tokens (p99 ~1.3k)
+
+def load_summaries(columns=None):
+    """Every summary written by summarize_calls.py (the latest per call), as a df; empty
+    if none yet."""
+    import glob
+    files = sorted(glob.glob(os.path.join(SUMMARIES_PATH, "part-*.parquet")))
+    if not files:
+        return pd.DataFrame(columns=columns or ["call_id", "summary"])
+    df = pd.concat([pd.read_parquet(f, columns=columns) for f in files], ignore_index=True)
+    return df.drop_duplicates("call_id", keep="last")
+
+@lru_cache(maxsize=1)
+def _summary_map():
+    s = load_summaries(columns=["call_id", "summary"])
+    return dict(zip(s["call_id"], s["summary"]))
+
+def call_text(call, anonymized=False, summaries=False):
+    """The transcript of a call as the model should read it: without the Seeking Alpha
+    header (title, ticker, and its EPS / revenue beat-or-miss line). summaries=True gives
+    its summary from summarize_calls.py instead."""
+    if summaries:
+        summary = _summary_map().get(call["call_id"])
+        if summary is None:
+            raise KeyError(f"no summary for call {call['call_id']}; run python summarize_calls.py")
+        return "Summary of the earnings call:\n" + summary
+    if anonymized:
+        return get_text(call["call_id"], anonymized=True)  # header already stripped
+    from data_collection.anonymize_calls import strip_header
+    text = call["text"] if "text" in call.index else get_text(call["call_id"])
+    return "\n".join(strip_header(text.split("\n"))[0])
+
+def build_prompt(agent, call, emotion=None, anonymized=False, max_input_tokens=MAX_INPUT_TOKENS, summaries=False):
+    """Task prompt + transcript (or its summary) for one call, and whether the text was cut."""
+    text, cut = agent.truncate(call_text(call, anonymized, summaries), max_input_tokens)
+    return get_prompt(emotion) + "\n\n" + text, cut
+
+def predict_call(agent, call, emotion = None, get_probs = True, anonymized = False, analyst_recs = False,
+                 max_input_tokens = MAX_INPUT_TOKENS, max_new_tokens = MAX_NEW_TOKENS):
     """Run the agent on one row of load_calls() / load_catalogue().
 
     Returns (reaction, movement, analyst_recs, result, probs). movement is the call's
     EVENT_COLS (abnormal returns over the 5 trading days after the call), read from the
     catalogue rather than downloaded. analyst_recs=True also queries Yahoo for the analyst
-    consensus as of the call date (slow; None otherwise)."""
+    consensus as of the call date (slow; None otherwise). main.run_all batches many calls
+    through agent.run_batch instead."""
     ticker = call["ticker"]
     date = call["call_date"]
-    if anonymized:
-        # the anonymized text starts at the call itself (the Seeking Alpha header, with its
-        # EPS-beat summary and the company name, is stripped)
-        text = get_text(call["call_id"], anonymized=True)[:9000]
-    else:
-        # catalogue rows carry no text; fetch it by call_id. [1000:] skips most of the header
-        text = call["text"] if "text" in call.index else get_text(call["call_id"])
-        text = text[1000:10000]
-    full_prompt = get_prompt(emotion) + "\n\n" + text
-    result, probs = agent.run(full_prompt, max_tokens = 10000,get_probs=get_probs)
-    print(result)
+    full_prompt, _ = build_prompt(agent, call, emotion, anonymized, max_input_tokens)
+    result, probs = agent.run(full_prompt, max_tokens = max_new_tokens, get_probs=get_probs)
     reaction = count_buy_sell(result)
     movement = {c: call.get(c) for c in EVENT_COLS}
     recs = get_recommendations_as_of(ticker, date.strftime("%Y-%m-%d")) if analyst_recs else None
