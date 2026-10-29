@@ -1,0 +1,87 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-08-07 23:23:50,UBS,Neutral,Neutral,main,Lowers,28.0,30.0
+2026-07-02 14:56:38,B of A Securities,Neutral,Neutral,main,Lowers,30.0,37.0
+2026-05-19 14:56:47,UBS,Neutral,,init,Announces,30.0,0.0
+2026-05-01 12:24:24,Barclays,Overweight,Equal-Weight,up,Lowers,42.0,45.0
+2026-04-09 17:47:57,Goldman Sachs,Neutral,Neutral,main,Lowers,39.0,44.0
+2026-03-25 16:02:04,BMO Capital,Market Perform,Market Perform,main,Lowers,40.0,42.0
+2026-02-13 13:11:27,BMO Capital,Market Perform,Market Perform,main,Raises,42.0,40.0
+2025-12-09 16:44:01,Barclays,Equal-Weight,Equal-Weight,main,Lowers,45.0,49.0
+2025-10-13 17:31:58,Goldman Sachs,Neutral,Neutral,main,Lowers,46.0,54.0
+2025-06-23 12:09:31,Goldman Sachs,Neutral,,init,Announces,50.0,0.0
+2025-03-17 16:36:43,BMO Capital,Market Perform,Market Perform,main,Raises,48.0,47.0
+2024-11-01 17:36:18,Barclays,Equal-Weight,Equal-Weight,main,Raises,49.0,45.0
+2024-11-01 15:52:16,BMO Capital,Market Perform,Market Perform,main,Raises,43.0,42.0
+2024-09-09 13:42:48,Barclays,Equal-Weight,Equal-Weight,main,Raises,45.0,43.0
+2024-08-28 13:32:18,Argus Research,Buy,Buy,main,Raises,55.0,50.0
+2024-08-15 10:36:32,B of A Securities,Neutral,Buy,down,Maintains,47.0,47.0
+2024-08-12 11:12:19,BMO Capital,Market Perform,Outperform,down,Maintains,46.0,46.0
+2024-08-02 17:28:40,BMO Capital,Outperform,Outperform,main,Raises,46.0,43.0
+2024-08-02 15:26:40,Barclays,Equal-Weight,Equal-Weight,main,Raises,43.0,40.0
+2024-07-25 16:35:12,Barclays,Equal-Weight,Equal-Weight,main,Raises,40.0,38.0
+2024-07-23 14:42:18,Argus Research,Buy,Buy,main,Raises,50.0,41.0
+2024-07-10 16:45:51,B of A Securities,Buy,Buy,main,Raises,42.0,40.0
+2024-06-18 11:27:37,Argus Research,Buy,,init,Announces,41.0,0.0
+2024-04-17 15:31:49,Goldman Sachs,Neutral,Neutral,main,Raises,36.0,32.0
+2024-04-16 11:04:11,Barclays,Equal-Weight,Overweight,down,Raises,38.0,35.0
+2024-04-15 17:37:06,B of A Securities,Buy,Buy,main,Raises,40.0,36.0
+2024-02-27 16:18:34,Goldman Sachs,Neutral,Neutral,main,Raises,32.0,29.0
+2024-02-27 15:11:32,BMO Capital,Outperform,Outperform,main,Raises,35.0,32.0
+2024-02-27 14:39:48,Barclays,Overweight,Overweight,main,Raises,35.0,29.0
+2023-07-13 11:22:58,BMO Capital,Outperform,Market Perform,up,Raises,28.0,26.0
+2023-06-01 11:19:26,Barclays,Overweight,Overweight,main,Lowers,27.0,28.0
+2023-04-28 13:31:52,B of A Securities,Buy,Neutral,up,Announces,26.0,0.0
+2023-04-28 10:07:30,Barclays,Overweight,,main,Lowers,28.0,29.0
+2023-04-27 14:13:30,Stephens & Co.,Equal-Weight,,reit,Maintains,25.0,0.0
+2023-02-09 13:51:40,Stephens & Co.,Equal-Weight,,main,Maintains,23.0,0.0
+2022-10-25 10:52:15,Barclays,Overweight,,main,Lowers,29.0,36.0
+2022-10-18 13:36:01,Goldman Sachs,Neutral,,main,Lowers,28.0,32.0
+2022-07-29 15:09:49,Barclays,Overweight,,main,Raises,36.0,32.0
+2022-03-10 11:07:09,BMO Capital,Outperform,Market Perform,up,Announces,30.0,0.0
+2022-02-18 12:00:37,Stephens & Co.,Overweight,Equal-Weight,up,Announces,35.0,0.0
+2021-06-03 11:00:31,Barclays,Overweight,,main,Raises,28.0,25.0
+2021-02-08 14:07:49,Stephens & Co.,Overweight,Equal-Weight,up,Raises,25.0,20.0
+2020-10-30 10:38:57,Barclays,Overweight,Equal-Weight,up,Announces,22.0,0.0
+2020-06-29 11:56:36,Barclays,Equal-Weight,Overweight,down,Announces,20.0,0.0
+2020-06-29 11:55:21,BMO Capital,Market Perform,Outperform,down,Lowers,21.0,36.0
+2020-03-31 12:37:24,Barclays,Overweight,,main,Lowers,28.0,33.0
+2020-02-24 12:19:00,Stephens & Co.,Equal-Weight,,reit,Lowers,27.0,35.0
+2020-02-21 17:19:42,CFRA,Buy,Strong Buy,down,Lowers,30.0,35.0
+2020-01-16 11:57:15,Stephens & Co.,Equal-Weight,Overweight,down,Announces,35.0,0.0
+2019-10-25 12:03:52,B of A Securities,Neutral,,init,Announces,32.0,0.0
+2019-08-20 10:45:13,BMO Capital,Outperform,Market Perform,up,Raises,36.0,31.0
+2019-08-02 16:04:57,Mizuho,Buy,,main,Raises,34.0,30.0
+2019-03-05 12:43:19,Stephens & Co.,Overweight,,init,Announces,26.0,0.0
+2018-03-29 13:02:09,Mizuho,Buy,,init,Announces,29.0,0.0
+2018-03-14 12:15:23,Vertical Research,Buy,Hold,up,,0.0,0.0
+2018-02-27 15:00:50,Morgan Stanley,Equal-Weight,Equal-Weight,main,Lowers,25.0,32.0
+2017-11-10 13:20:17,Morgan Stanley,Equal-Weight,,main,Raises,32.0,30.0
+2017-11-09 14:25:05,BMO Capital,Market Perform,,main,Raises,38.0,24.0
+2017-11-03 12:13:14,Morgan Stanley,Equal-Weight,,init,Announces,30.0,0.0
+2017-04-21 14:13:08,Vertical Research,Buy,Hold,up,,0.0,0.0
+2017-03-27 11:42:59,Keybanc,Sector Weight,Overweight,down,,0.0,21.0
+2016-12-02 13:56:29,Keybanc,Overweight,,init,Announces,21.0,0.0
+2016-11-30 18:50:01,Jefferies,Hold,,main,Lowers,19.0,21.0
+2016-10-12 04:00:00,Jefferies,Hold,,main,Lowers,0.0,0.0
+2016-06-06 10:18:38,BMO Capital,Market Perform,Outperform,down,,0.0,0.0
+2016-05-25 10:53:17,BB&T Capital,Hold,Buy,down,,0.0,0.0
+2015-12-15 21:28:00,Jefferies,Hold,,init,Announces,23.0,0.0
+2015-11-04 14:44:05,BB&T Capital,Buy,Hold,up,,0.0,0.0
+2015-10-30 09:42:17,BMO Capital,Outperform,Market Perform,up,Lowers,23.0,26.0
+2015-06-12 12:55:06,Cleveland Research,Neutral,,init,Announces,25.0,0.0
+2014-10-31 10:41:43,BB&T Capital,Buy,Hold,up,Announces,34.0,0.0
+2014-10-03 13:40:12,Goldman Sachs,Hold,,init,Announces,33.0,0.0
+2014-06-24 13:34:27,Stephens & Co.,Equal-Weight,Overweight,down,Maintains,25.0,0.0
+2014-06-06 10:40:37,BB&T Capital,Hold,Buy,down,,0.0,0.0
+2014-03-14 13:05:27,Stephens & Co.,Overweight,Equal-Weight,up,Raises,22.0,18.0
+2014-02-24 13:00:00,BB&T Capital,Buy,Hold,up,,0.0,0.0
+2013-08-15 13:08:21,Stephens & Co.,Equal-Weight,Overweight,down,Lowers,20.0,23.0
+2013-02-19 13:25:49,BMO Capital,Market Perform,,main,Raises,8.0,6.0
+2012-11-30 14:39:49,Stephens & Co.,Overweight,Equal-Weight,up,Raises,9.0,5.5
+2012-11-13 19:12:00,Imperial Capital,In-Line,,main,Raises,7.0,5.0
+2012-10-29 15:09:00,B. Riley Securities,Buy,Neutral,up,,0.0,0.0
+2012-10-29 12:41:00,BMO Capital,Market Perform,,main,Raises,6.0,5.0
+2012-08-22 13:48:00,S&P Capital IQ,Negative,Developing,down,,0.0,0.0
+2012-08-10 12:29:00,Imperial Capital,In-Line,Outperform,down,Lowers,5.0,9.0
+2012-07-30 11:54:00,BMO Capital,Market Perform,,main,Lowers,5.0,7.0
+2012-07-09 14:03:00,B. Riley Securities,Neutral,Buy,down,,0.0,0.0

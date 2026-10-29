@@ -16,10 +16,18 @@ DATA_DIR = os.environ.get("FINLLM_DATA_DIR", os.path.join(os.path.dirname(os.pat
                                                          "Earnings_call_transcripts"))
 CALLS_PATH = os.path.join(DATA_DIR, "sp1500_earnings_calls.parquet")        # data_collection/build_calls.py
 CATALOGUE_PATH = os.path.join(DATA_DIR, "sp1500_catalogue.parquet")         # data_collection/build_catalogue.py
+EVENTS_PATH = os.path.join(DATA_DIR, "sp1500_event_returns.parquet")       # data_collection/build_event_returns.py
+ANON_CALLS_PATH = os.path.join(DATA_DIR, "sp1500_earnings_calls_anon.parquet")  # data_collection/anonymize_calls.py
 MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
+# abnormal returns over the 5 trading days after each call (see build_event_returns.py)
+EVENT_COLS = ["timing", "event_day0", "beta", "sigma", "car5", "scar5", "raw_ret5", "mkt_ret5",
+              "mktadj5", "usable"]
 
 def _prepare(df):
-    # drop calls without a usable date; index by call_id so rows from either df line up
+    # add the event returns if the file predates them; drop calls without a usable date;
+    # index by call_id so rows from either df line up
+    if "car5" not in df.columns and os.path.exists(EVENTS_PATH):
+        df = df.merge(pd.read_parquet(EVENTS_PATH), on="call_id", how="left")
     return df.dropna(subset=["call_date"]).set_index("call_id", drop=False).rename_axis(None)
 
 @lru_cache(maxsize=1)
@@ -37,26 +45,30 @@ def load_catalogue():
     cols = [c for c in pyarrow.parquet.read_schema(CALLS_PATH).names if c != "text"]
     return _prepare(pd.read_parquet(CALLS_PATH, columns=cols))
 
-@lru_cache(maxsize=1)
-def _text_locations():
-    """call_id -> (row group, offset) in CALLS_PATH, from the call_id column alone."""
-    f = pyarrow.parquet.ParquetFile(CALLS_PATH)
+@lru_cache(maxsize=2)
+def _text_locations(path=CALLS_PATH):
+    """call_id -> (row group, offset) in `path`, from the call_id column alone."""
+    f = pyarrow.parquet.ParquetFile(path)
     locs = {}
     for rg in range(f.num_row_groups):
         ids = f.read_row_group(rg, columns=["call_id"]).column("call_id").to_pylist()
         locs.update((cid, (rg, i)) for i, cid in enumerate(ids))
     return f, locs
 
-@lru_cache(maxsize=2)
-def _text_row_group(rg):
-    f, _ = _text_locations()
+@lru_cache(maxsize=4)
+def _text_row_group(path, rg):
+    f, _ = _text_locations(path)
     return f.read_row_group(rg, columns=["text"]).column("text")
 
-def get_text(call_id):
+def get_text(call_id, anonymized=False):
     """Transcript text for one call, reading only the row group it lives in (not the ~2 GB
-    of text load_calls() pulls into memory)."""
-    rg, i = _text_locations()[1][int(call_id)]
-    return _text_row_group(rg)[i].as_py()
+    of text load_calls() pulls into memory). anonymized=True reads the copy with company,
+    people, tickers and dates removed (data_collection/anonymize_calls.py)."""
+    path = ANON_CALLS_PATH if anonymized else CALLS_PATH
+    if anonymized and not os.path.exists(path):
+        raise FileNotFoundError(f"{path} not found; run python data_collection/anonymize_calls.py")
+    rg, i = _text_locations(path)[1][int(call_id)]
+    return _text_row_group(path, rg)[i].as_py()
 
 def get_call(ticker, year, month, day):
     """Row of the catalogue for this ticker's call on the given date."""
@@ -67,23 +79,31 @@ def get_call(ticker, year, month, day):
         raise KeyError(f"No earnings call for {ticker} on {date.date()}")
     return rows.iloc[0]
 
-def predict_call(agent, call, emotion = None, get_probs = True):
-    """Run the agent on one row of load_calls() / load_catalogue()."""
+def predict_call(agent, call, emotion = None, get_probs = True, anonymized = False, analyst_recs = False):
+    """Run the agent on one row of load_calls() / load_catalogue().
+
+    Returns (reaction, movement, analyst_recs, result, probs). movement is the call's
+    EVENT_COLS (abnormal returns over the 5 trading days after the call), read from the
+    catalogue rather than downloaded. analyst_recs=True also queries Yahoo for the analyst
+    consensus as of the call date (slow; None otherwise)."""
     ticker = call["ticker"]
     date = call["call_date"]
-    day, month, year = date.day, MONTHS[date.month - 1], date.year
-    # catalogue rows carry no text; fetch it by call_id
-    text = call["text"] if "text" in call.index else get_text(call["call_id"])
-    text = text[1000:10000]
-    input_data = yFinance(ticker, month_to_date(month, year, day, month_dif=-2), month_to_date(month, year, day))
+    if anonymized:
+        # the anonymized text starts at the call itself (the Seeking Alpha header, with its
+        # EPS-beat summary and the company name, is stripped)
+        text = get_text(call["call_id"], anonymized=True)[:9000]
+    else:
+        # catalogue rows carry no text; fetch it by call_id. [1000:] skips most of the header
+        text = call["text"] if "text" in call.index else get_text(call["call_id"])
+        text = text[1000:10000]
     full_prompt = get_prompt(emotion) + "\n\n" + text
     result, probs = agent.run(full_prompt, max_tokens = 10000,get_probs=get_probs)
     print(result)
     reaction = count_buy_sell(result)
-    price_dif = get_price_data(ticker, month_to_date(month, year, day), month_to_date(month, year, day, day_dif=7))
-    anlalyst_recs = get_recommendations_as_of(ticker, month_to_date(month, year, day))
+    movement = {c: call.get(c) for c in EVENT_COLS}
+    recs = get_recommendations_as_of(ticker, date.strftime("%Y-%m-%d")) if analyst_recs else None
 
-    return reaction, price_dif, anlalyst_recs, result, probs
+    return reaction, movement, recs, result, probs
 
 def predict(agent, ticker, emotion = None, day = 1, month = 1, year = 2023, condense = False, get_probs = True):
     return predict_call(agent, get_call(ticker, year, month, day), emotion = emotion, get_probs = get_probs)
@@ -287,6 +307,8 @@ GRADE_MAP = {
     "accumulate": "buy",
     "conviction buy": "strong_buy",
     "top pick": "strong_buy",
+    "outperformer": "buy",
+    "long-term buy": "buy",
  
     # Hold-side
     "hold": "hold",
@@ -299,6 +321,10 @@ GRADE_MAP = {
     "peer perform": "hold",
     "perform": "hold",
     "sector weight": "hold",
+    "hold neutral": "hold",
+    "fair value": "hold",
+    "average": "hold",
+    "mixed": "hold",
  
     # Sell-side
     "sell": "sell",

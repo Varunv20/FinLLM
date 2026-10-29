@@ -1,0 +1,139 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-10-22 17:22:30,Wolfe Research,Peer Perform,,init,,0.0,0.0
+2026-10-16 10:43:19,Needham,Hold,,init,,0.0,0.0
+2026-09-09 12:41:02,BMO Capital,Market Perform,,init,Announces,23.0,0.0
+2026-08-31 18:09:18,Goldman Sachs,Buy,Buy,main,Raises,27.0,25.0
+2026-08-28 16:42:53,Wells Fargo,Equal-Weight,Equal-Weight,main,Raises,23.0,22.0
+2026-08-28 16:32:40,UBS,Buy,Buy,main,Raises,42.0,40.0
+2026-08-28 15:05:15,Barclays,Equal-Weight,Equal-Weight,main,Raises,23.0,20.0
+2026-08-28 15:00:05,TD Cowen,Buy,Buy,main,Raises,27.0,23.0
+2026-08-28 14:33:35,Morgan Stanley,Equal-Weight,Equal-Weight,main,Raises,23.0,21.0
+2026-08-28 11:38:53,B of A Securities,Neutral,Neutral,main,Raises,27.0,26.0
+2026-08-28 10:39:56,BTIG,Buy,Buy,main,Raises,27.0,26.0
+2026-08-21 17:49:03,Goldman Sachs,Buy,Buy,main,Lowers,25.0,28.0
+2026-08-18 14:24:29,TD Cowen,Buy,Buy,main,Lowers,23.0,26.0
+2026-08-12 17:54:24,Jefferies,Hold,Buy,down,Lowers,23.0,29.0
+2026-08-11 11:04:45,Barclays,Equal-Weight,Overweight,down,Lowers,20.0,26.0
+2026-08-07 12:42:25,Wells Fargo,Equal-Weight,Overweight,down,Lowers,22.0,26.0
+2026-05-29 20:48:04,UBS,Buy,Buy,main,Lowers,40.0,41.0
+2026-05-29 19:44:05,Jefferies,Buy,Buy,main,Lowers,29.0,32.0
+2026-05-29 18:01:27,B of A Securities,Neutral,Neutral,main,Lowers,26.0,29.0
+2026-05-29 14:54:44,Wells Fargo,Overweight,Overweight,main,Lowers,26.0,30.0
+2026-05-29 14:43:21,Barclays,Overweight,Overweight,main,Lowers,26.0,33.0
+2026-05-29 13:12:15,JP Morgan,Neutral,Overweight,down,Lowers,27.0,35.0
+2026-05-29 11:15:14,Goldman Sachs,Buy,Buy,main,Lowers,28.0,32.0
+2026-05-29 11:08:31,Evercore ISI Group,In-Line,Outperform,down,Lowers,20.0,28.0
+2026-05-29 10:29:42,BTIG,Buy,Buy,reit,Maintains,28.0,28.0
+2026-05-20 10:20:14,BTIG,Buy,Buy,main,Lowers,28.0,31.0
+2026-05-18 15:44:32,TD Cowen,Buy,Buy,main,Lowers,26.0,32.0
+2026-03-20 18:57:22,JP Morgan,Overweight,Overweight,main,Raises,35.0,33.0
+2026-03-06 20:39:54,JP Morgan,Overweight,Overweight,main,Lowers,33.0,36.0
+2026-03-06 16:29:24,Citigroup,Neutral,Neutral,main,Raises,27.0,25.0
+2026-03-02 12:19:22,Telsey Advisory Group,Outperform,Outperform,main,Raises,34.0,32.0
+2026-01-30 17:43:08,Goldman Sachs,Buy,Buy,main,Raises,32.0,29.0
+2026-01-08 12:34:25,UBS,Buy,Neutral,up,Raises,41.0,26.0
+2025-12-17 11:51:07,Telsey Advisory Group,Outperform,Market Perform,up,Raises,32.0,26.0
+2025-12-17 10:57:51,Baird,Outperform,Neutral,up,Raises,33.0,27.0
+2025-12-16 13:40:57,Wells Fargo,Overweight,Equal-Weight,up,Raises,30.0,24.0
+2025-12-10 11:32:38,Guggenheim,Neutral,,init,,0.0,0.0
+2025-11-24 18:45:51,Citigroup,Neutral,Neutral,main,Raises,25.0,23.0
+2025-11-21 17:45:12,Goldman Sachs,Buy,Buy,main,Raises,29.0,26.0
+2025-11-21 17:20:18,BTIG,Buy,Buy,main,Raises,31.0,30.0
+2025-11-21 16:06:40,UBS,Neutral,Neutral,main,Raises,26.0,25.0
+2025-11-21 15:54:24,JP Morgan,Overweight,Overweight,main,Raises,36.0,32.0
+2025-11-21 15:31:44,Wells Fargo,Equal-Weight,Equal-Weight,main,Raises,24.0,22.0
+2025-11-21 14:45:38,Evercore ISI Group,Outperform,Outperform,main,Raises,28.0,25.0
+2025-11-21 14:13:45,Baird,Neutral,Neutral,main,Raises,27.0,26.0
+2025-11-21 14:08:09,Morgan Stanley,Overweight,Overweight,main,Raises,31.0,30.0
+2025-11-21 13:08:20,Telsey Advisory Group,Market Perform,Market Perform,main,Raises,26.0,24.0
+2025-11-21 12:07:46,B of A Securities,Neutral,Neutral,main,Raises,27.0,23.0
+2025-11-17 12:35:07,Barclays,Overweight,Equal-Weight,up,Raises,30.0,19.0
+2025-11-14 12:04:09,Jefferies,Buy,Hold,up,Raises,30.0,22.0
+2025-11-13 14:20:46,Telsey Advisory Group,Market Perform,Market Perform,main,Maintains,24.0,24.0
+2025-11-10 19:45:23,UBS,Neutral,Neutral,main,Raises,25.0,23.0
+2025-11-05 20:34:45,Citigroup,Neutral,Neutral,main,Raises,23.0,22.0
+2025-11-05 18:06:57,Morgan Stanley,Overweight,Overweight,main,Raises,30.0,28.0
+2025-10-15 12:51:34,BTIG,Buy,,init,Announces,30.0,0.0
+2025-09-16 14:20:10,Morgan Stanley,Overweight,Overweight,main,Raises,28.0,27.0
+2025-08-29 19:07:12,JP Morgan,Overweight,Overweight,main,Raises,32.0,29.0
+2025-08-29 14:34:04,Wells Fargo,Equal-Weight,Equal-Weight,main,Lowers,22.0,24.0
+2025-08-29 12:46:25,Evercore ISI Group,Outperform,Outperform,main,Raises,25.0,24.0
+2025-08-29 12:39:35,Telsey Advisory Group,Market Perform,Market Perform,main,Lowers,24.0,26.0
+2025-08-29 12:27:03,B of A Securities,Neutral,Neutral,main,Raises,23.0,21.0
+2025-08-25 10:46:46,Telsey Advisory Group,Market Perform,Market Perform,main,Maintains,26.0,26.0
+2025-08-22 13:44:26,UBS,Neutral,Neutral,main,Lowers,23.0,27.0
+2025-08-22 11:17:02,Barclays,Equal-Weight,Overweight,down,Lowers,19.0,24.0
+2025-08-20 12:46:57,Citigroup,Neutral,Buy,down,Lowers,22.0,30.0
+2025-08-19 11:27:58,B of A Securities,Neutral,Neutral,main,Lowers,21.0,25.0
+2025-08-06 12:52:27,Barclays,Overweight,Overweight,main,Lowers,24.0,32.0
+2025-07-30 13:08:07,Evercore ISI Group,Outperform,Outperform,main,Lowers,24.0,27.0
+2025-07-22 16:49:08,Goldman Sachs,Buy,Buy,main,Lowers,26.0,28.0
+2025-05-30 18:05:04,Citigroup,Buy,Buy,main,Lowers,30.0,33.0
+2025-05-30 16:24:41,Barclays,Overweight,Overweight,main,Lowers,32.0,33.0
+2025-05-30 14:07:08,UBS,Neutral,Neutral,main,Lowers,27.0,29.0
+2025-05-30 11:14:55,Telsey Advisory Group,Market Perform,Market Perform,main,Maintains,26.0,26.0
+2025-05-27 16:31:04,Barclays,Overweight,Overweight,main,Raises,33.0,26.0
+2025-05-23 15:18:56,Citigroup,Buy,Buy,main,Raises,33.0,22.0
+2025-05-23 11:38:29,Telsey Advisory Group,Market Perform,Market Perform,main,Maintains,26.0,26.0
+2025-05-21 16:50:27,Jefferies,Hold,Hold,main,Raises,29.0,26.0
+2025-05-21 14:33:36,UBS,Neutral,Neutral,main,Raises,29.0,19.0
+2025-05-19 15:38:42,JP Morgan,Overweight,Overweight,main,Raises,29.0,25.0
+2025-05-12 21:42:33,Barclays,Overweight,Overweight,main,Lowers,26.0,33.0
+2025-05-06 14:34:26,Morgan Stanley,Overweight,Overweight,main,Lowers,27.0,30.0
+2025-04-30 11:45:26,Wells Fargo,Equal-Weight,Overweight,down,Lowers,24.0,30.0
+2025-04-22 14:41:55,Goldman Sachs,Buy,Buy,main,Lowers,25.0,34.0
+2025-04-14 19:29:02,JP Morgan,Overweight,Overweight,main,Lowers,25.0,30.0
+2025-04-08 20:12:53,Citigroup,Buy,Buy,main,Lowers,22.0,32.0
+2025-03-10 18:07:48,UBS,Neutral,Neutral,main,Lowers,25.0,26.0
+2025-03-07 13:48:31,JP Morgan,Overweight,Overweight,main,Raises,30.0,29.0
+2025-03-07 13:43:50,Baird,Neutral,Neutral,main,Lowers,29.0,31.0
+2025-03-07 11:36:47,Barclays,Overweight,Overweight,main,Raises,33.0,32.0
+2025-03-07 10:35:32,Telsey Advisory Group,Market Perform,Market Perform,main,Maintains,26.0,26.0
+2025-02-28 10:57:10,Telsey Advisory Group,Market Perform,Market Perform,main,Maintains,26.0,26.0
+2024-12-02 11:36:44,JP Morgan,Overweight,Neutral,up,Raises,30.0,28.0
+2024-11-22 22:33:26,UBS,Sell,Sell,main,Raises,16.0,14.0
+2024-11-22 17:47:53,Guggenheim,Buy,Buy,reit,Maintains,35.0,35.0
+2024-11-22 16:17:05,BMO Capital,Market Perform,Market Perform,main,Raises,25.0,23.0
+2024-11-22 15:13:18,JP Morgan,Neutral,Neutral,main,Raises,28.0,26.0
+2024-11-22 14:43:19,Evercore ISI Group,Outperform,Outperform,main,Raises,33.0,32.0
+2024-11-22 14:28:21,Wells Fargo,Overweight,Overweight,main,Raises,30.0,28.0
+2024-11-22 14:16:42,Barclays,Overweight,Overweight,main,Raises,32.0,31.0
+2024-11-22 13:13:35,Morgan Stanley,Overweight,Overweight,main,Raises,30.0,29.0
+2024-11-22 12:44:48,B of A Securities,Neutral,Neutral,main,Raises,28.0,25.0
+2024-11-22 11:32:52,Telsey Advisory Group,Market Perform,Market Perform,main,Maintains,26.0,26.0
+2024-11-18 21:54:30,Telsey Advisory Group,Market Perform,Market Perform,main,Maintains,26.0,26.0
+2024-11-06 14:57:41,Wells Fargo,Overweight,Overweight,main,Lowers,28.0,32.0
+2024-10-11 18:22:17,Telsey Advisory Group,Market Perform,Market Perform,main,Maintains,26.0,26.0
+2024-08-30 18:42:21,Telsey Advisory Group,Market Perform,Market Perform,main,Lowers,26.0,29.0
+2024-08-30 17:27:10,JP Morgan,Neutral,Neutral,main,Raises,28.0,27.0
+2024-08-26 15:50:17,Telsey Advisory Group,Market Perform,Market Perform,main,Maintains,29.0,29.0
+2024-07-31 10:22:56,B of A Securities,Neutral,Underperform,up,Raises,25.0,18.5
+2024-07-18 09:33:04,Morgan Stanley,Overweight,Equal-Weight,up,Raises,29.0,27.0
+2024-06-25 11:29:14,TD Cowen,Buy,Hold,up,Raises,30.0,28.0
+2024-06-03 14:51:28,Barclays,Overweight,Overweight,main,Raises,31.0,28.0
+2024-06-03 14:10:08,TD Cowen,Hold,Hold,main,Raises,28.0,24.0
+2024-05-31 17:38:38,JP Morgan,Neutral,Neutral,main,Raises,27.0,20.0
+2024-05-31 17:11:35,Jefferies,Hold,Hold,main,Raises,28.0,17.0
+2024-05-31 15:30:55,BMO Capital,Market Perform,Market Perform,main,Raises,23.0,18.0
+2024-05-31 13:58:55,Evercore ISI Group,Outperform,Outperform,main,Raises,32.0,24.0
+2024-05-31 12:41:40,Morgan Stanley,Equal-Weight,Equal-Weight,main,Raises,27.0,20.0
+2024-05-31 12:09:21,Telsey Advisory Group,Market Perform,Market Perform,main,Raises,29.0,22.0
+2024-05-31 12:08:30,Baird,Neutral,Neutral,main,Raises,28.0,23.0
+2024-05-31 10:59:14,B of A Securities,Underperform,Underperform,main,Raises,18.5,15.5
+2024-05-24 11:39:44,Telsey Advisory Group,Market Perform,Market Perform,main,Maintains,22.0,22.0
+2024-05-07 12:12:58,Citigroup,Buy,Neutral,up,Raises,28.0,21.0
+2024-05-06 17:19:08,Morgan Stanley,Equal-Weight,Equal-Weight,main,Raises,20.0,19.0
+2024-04-25 17:18:28,Goldman Sachs,Buy,Buy,main,Raises,25.0,24.0
+2024-03-26 10:51:52,Wells Fargo,Overweight,Overweight,main,Raises,32.0,25.0
+2024-03-11 13:08:44,Goldman Sachs,Buy,Buy,main,Raises,24.0,18.0
+2024-03-08 17:57:34,TD Cowen,Market Perform,Market Perform,main,Raises,21.0,19.0
+2024-03-08 16:15:13,BMO Capital,Market Perform,Market Perform,main,Raises,18.0,14.0
+2024-03-08 13:29:54,Evercore ISI Group,Outperform,Outperform,main,Raises,24.0,22.0
+2024-03-08 12:49:46,Wells Fargo,Overweight,Overweight,main,Raises,25.0,24.0
+2024-03-08 12:42:02,KGI Securities,Outperform,Neutral,up,Announces,25.2,0.0
+2024-03-08 12:20:54,Baird,Neutral,Neutral,main,Raises,23.0,19.0
+2024-03-08 11:22:01,Barclays,Overweight,Overweight,main,Raises,28.0,26.0
+2024-03-08 10:57:14,B of A Securities,Underperform,Underperform,main,Raises,15.0,13.0
+2024-03-08 10:52:39,Telsey Advisory Group,Market Perform,Market Perform,main,Raises,22.0,17.0
+2024-03-04 10:42:16,Telsey Advisory Group,Market Perform,Market Perform,reit,Maintains,17.0,0.0
+2024-02-26 12:14:29,JP Morgan,Neutral,Underweight,up,Raises,20.0,16.0

@@ -1,0 +1,29 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-10-02 11:41:38,Hovde Group,Market Perform,,init,Announces,38.0,0.0
+2026-07-09 14:23:33,Benchmark,Buy,,init,Announces,44.0,0.0
+2026-04-09 17:51:59,"Keefe, Bruyette & Woods",Market Perform,Market Perform,main,Raises,37.0,36.0
+2026-04-02 13:15:33,Piper Sandler,Overweight,Overweight,main,Lowers,37.0,39.0
+2026-02-02 17:28:40,"Keefe, Bruyette & Woods",Market Perform,Market Perform,main,Raises,36.0,34.0
+2025-10-08 16:28:01,"Keefe, Bruyette & Woods",Market Perform,,init,Announces,34.0,0.0
+2024-08-01 16:15:07,Piper Sandler,Overweight,Overweight,main,Raises,30.0,24.0
+2024-02-01 20:02:54,Piper Sandler,Overweight,Overweight,main,Raises,24.0,22.0
+2022-10-06 11:17:46,Raymond James,Market Perform,Outperform,down,,0.0,0.0
+2022-07-07 13:20:26,Raymond James,Outperform,,main,Lowers,26.0,33.0
+2022-01-27 10:29:20,Raymond James,Outperform,,main,Raises,33.0,29.0
+2021-03-11 11:35:10,Raymond James,Outperform,Market Perform,up,Announces,29.0,0.0
+2021-01-28 10:48:48,Piper Sandler,Overweight,Neutral,up,Raises,23.0,19.0
+2020-10-01 13:36:37,Piper Sandler,Neutral,,main,Lowers,15.0,17.0
+2020-04-23 11:53:16,Compass Point,Buy,Neutral,up,Announces,18.0,0.0
+2019-07-25 10:38:01,Compass Point,Neutral,Buy,down,Lowers,30.0,35.0
+2017-01-26 13:29:07,Compass Point,Buy,Neutral,up,,0.0,0.0
+2016-10-28 04:00:00,Compass Point,Buy,Neutral,up,,0.0,0.0
+2016-08-11 10:25:19,Compass Point,Neutral,,init,,0.0,0.0
+2016-08-02 17:19:15,Raymond James,Outperform,,main,Raises,26.0,25.0
+2016-07-08 14:29:21,Piper Sandler,Neutral,,init,,0.0,0.0
+2015-10-30 13:45:19,Macquarie,Neutral,,main,Raises,35.0,34.0
+2015-09-21 14:21:19,Piper Sandler,Buy,,up,Lowers,23.0,25.0
+2015-03-17 11:53:11,Macquarie,Neutral,,init,Announces,25.0,0.0
+2015-02-18 14:38:05,Piper Sandler,,Buy,down,,0.0,0.0
+2014-10-30 13:00:00,"Keefe, Bruyette & Woods",Market Perform,,main,Lowers,20.0,21.0
+2014-05-21 11:36:38,Piper Sandler,Buy,Hold,up,Maintains,20.0,0.0
+2013-05-22 12:34:43,Raymond James,Outperform,,init,Announces,20.0,0.0

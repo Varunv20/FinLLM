@@ -1,0 +1,60 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-08-07 15:59:42,JP Morgan,Neutral,Neutral,main,Raises,160.0,135.0
+2026-05-27 13:44:45,JP Morgan,Neutral,Underweight,up,Announces,105.0,0.0
+2026-04-16 19:44:45,JP Morgan,Underweight,Underweight,main,Lowers,80.0,90.0
+2026-02-06 18:11:30,Barrington Research,Outperform,Outperform,main,Maintains,120.0,120.0
+2026-01-27 13:10:42,Barrington Research,Outperform,Outperform,main,Maintains,120.0,120.0
+2026-01-05 15:25:29,Barrington Research,Outperform,Outperform,main,Maintains,120.0,120.0
+2025-12-15 13:39:38,JP Morgan,Underweight,Neutral,down,Lowers,90.0,117.0
+2025-11-19 11:59:49,Canaccord Genuity,Hold,,init,Announces,100.0,0.0
+2025-10-31 16:40:08,Barrington Research,Outperform,Outperform,main,Lowers,120.0,164.0
+2025-10-29 11:41:34,Barrington Research,Outperform,Outperform,main,Maintains,164.0,164.0
+2025-09-15 11:45:38,Barrington Research,Outperform,Outperform,main,Maintains,164.0,164.0
+2025-07-21 12:46:38,Barrington Research,Outperform,Outperform,reit,Maintains,164.0,164.0
+2025-07-17 18:11:05,JP Morgan,Neutral,Neutral,main,Raises,165.0,152.0
+2025-05-20 11:47:08,Barrington Research,Outperform,Outperform,main,Maintains,164.0,164.0
+2025-04-17 13:18:22,JP Morgan,Neutral,Neutral,main,Lowers,156.0,193.0
+2025-04-04 13:27:00,Barrington Research,Outperform,Outperform,main,Lowers,164.0,205.0
+2024-11-15 11:03:50,Redburn Atlantic,Buy,,init,Announces,220.0,0.0
+2024-11-04 17:32:23,Barrington Research,Outperform,Outperform,main,Lowers,205.0,225.0
+2024-09-20 15:16:40,Barrington Research,Outperform,Outperform,main,Maintains,225.0,225.0
+2024-08-05 16:43:50,Barrington Research,Outperform,Outperform,main,Maintains,225.0,225.0
+2024-08-02 21:28:24,JP Morgan,Neutral,Neutral,main,Lowers,225.0,233.0
+2024-07-17 13:42:23,Stifel,Hold,Hold,main,Raises,200.0,192.0
+2024-05-09 14:10:43,Barrington Research,Outperform,Outperform,main,Raises,225.0,211.0
+2024-05-03 19:40:09,JP Morgan,Neutral,Neutral,main,Raises,195.0,193.0
+2024-04-23 14:33:30,Barrington Research,Outperform,Outperform,main,Maintains,211.0,211.0
+2024-04-15 14:15:47,Stifel,Hold,Hold,main,Raises,192.0,170.0
+2024-04-11 12:26:01,JP Morgan,Neutral,Neutral,main,Raises,193.0,188.0
+2024-03-05 16:22:05,Barrington Research,Outperform,Outperform,reit,Maintains,211.0,0.0
+2024-02-16 18:10:34,Barrington Research,Outperform,Outperform,main,Raises,211.0,184.0
+2023-12-04 17:42:43,Barrington Research,Outperform,Outperform,main,Raises,184.0,168.0
+2023-09-11 13:12:53,Barrington Research,Outperform,Outperform,reit,Maintains,168.0,0.0
+2023-08-14 13:09:16,Barrington Research,Outperform,Outperform,main,Raises,168.0,146.0
+2023-05-08 13:23:18,Barrington Research,Outperform,,main,Lowers,146.0,150.0
+2023-04-21 14:00:51,Stifel,Hold,,main,Lowers,140.0,150.0
+2023-04-12 09:49:22,Stifel,Hold,Buy,down,Announces,150.0,0.0
+2023-03-16 12:44:59,Stifel,Buy,,main,Raises,150.0,135.0
+2023-02-10 15:04:40,Barrington Research,Outperform,,main,Raises,150.0,125.0
+2023-02-06 13:45:06,Sidoti & Co.,Neutral,Buy,down,Announces,127.0,0.0
+2022-11-14 14:06:10,Barrington Research,Outperform,,main,Raises,125.0,110.0
+2022-08-08 17:23:51,Barrington Research,Outperform,,main,Lowers,110.0,122.0
+2022-07-14 09:01:55,JP Morgan,Neutral,,init,Announces,98.0,0.0
+2021-06-16 10:43:45,JP Morgan,Neutral,Overweight,down,Announces,106.0,0.0
+2020-09-24 12:56:39,Barrington Research,Outperform,,init,Announces,68.0,0.0
+2020-07-17 10:17:02,Stifel,Buy,Hold,up,Raises,60.0,55.0
+2020-05-11 11:10:19,B. Riley Securities,Buy,,main,Lowers,63.5,67.0
+2020-05-04 11:15:13,B. Riley Securities,Buy,,main,Lowers,67.0,77.0
+2020-02-13 12:52:32,B. Riley Securities,Buy,,reit,Lowers,77.0,79.0
+2019-09-12 11:06:48,JP Morgan,Overweight,,init,Announces,68.0,0.0
+2018-11-08 16:26:39,B. Riley Securities,Buy,Buy,main,Lowers,59.0,61.0
+2018-08-02 13:22:32,B. Riley Securities,Buy,Buy,main,Raises,61.0,58.0
+2017-11-08 14:28:48,B. Riley Securities,Buy,,main,Raises,56.0,54.5
+2017-08-03 11:12:35,B. Riley Securities,Buy,Neutral,up,,0.0,44.0
+2017-05-04 10:18:40,Raymond James,Underperform,Market Perform,down,,0.0,0.0
+2017-04-07 11:56:34,B. Riley Securities,Neutral,,init,Announces,44.0,0.0
+2017-01-12 13:28:30,Raymond James,Underperform,Market Perform,down,,0.0,0.0
+2016-08-04 10:07:10,Raymond James,Market Perform,Outperform,down,,0.0,0.0
+2015-06-26 08:02:16,Raymond James,Underperform,Market Perform,down,,0.0,0.0
+2014-10-03 13:37:19,Raymond James,Market Perform,Underperform,up,,0.0,0.0
+2014-07-07 12:05:57,Raymond James,Underperform,Market Perform,down,,0.0,0.0

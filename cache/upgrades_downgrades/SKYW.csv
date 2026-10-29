@@ -1,0 +1,87 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-10-02 14:09:53,TD Cowen,Buy,Buy,main,Lowers,116.0,123.0
+2026-08-24 15:32:43,TD Cowen,Buy,Buy,main,Raises,123.0,115.0
+2026-07-02 14:25:12,TD Cowen,Buy,Buy,main,Raises,115.0,98.0
+2026-07-02 09:05:40,Goldman Sachs,Neutral,Buy,down,Lowers,108.0,126.0
+2026-06-26 18:09:45,Citigroup,Neutral,Neutral,main,Raises,105.0,95.0
+2026-04-30 19:25:59,Citigroup,Neutral,Neutral,main,Lowers,95.0,101.0
+2026-03-20 19:53:42,Citigroup,Neutral,Neutral,main,Lowers,101.0,112.0
+2025-12-04 14:58:00,Citigroup,Neutral,,init,Announces,112.0,0.0
+2025-10-01 17:28:23,Raymond James,Strong Buy,Outperform,up,Announces,140.0,0.0
+2025-07-28 12:52:15,Evercore ISI Group,Outperform,Outperform,main,Raises,130.0,120.0
+2025-07-25 15:57:32,Raymond James,Outperform,Outperform,main,Raises,140.0,128.0
+2025-04-08 15:54:48,Goldman Sachs,Buy,Neutral,up,Lowers,117.0,119.0
+2025-04-02 14:30:17,Raymond James,Outperform,Outperform,main,Lowers,125.0,130.0
+2025-01-31 17:10:45,Raymond James,Outperform,Outperform,reit,Raises,130.0,120.0
+2024-12-30 13:02:04,Raymond James,Outperform,Outperform,main,Raises,120.0,114.0
+2024-11-05 18:59:07,TD Cowen,Buy,Buy,main,Raises,120.0,95.0
+2024-11-01 18:18:42,Raymond James,Outperform,Outperform,main,Raises,114.0,100.0
+2024-06-04 18:11:49,TD Cowen,Buy,Buy,main,Raises,95.0,85.0
+2024-04-04 16:57:50,Evercore ISI Group,In-Line,In-Line,main,Raises,70.0,60.0
+2024-02-05 11:29:36,TD Cowen,Outperform,Market Perform,up,Raises,68.0,55.0
+2024-02-02 13:55:45,Raymond James,Outperform,Outperform,main,Raises,65.0,55.0
+2023-08-31 09:21:27,Raymond James,Outperform,Market Perform,up,Announces,55.0,0.0
+2023-08-28 14:07:54,Evercore ISI Group,In-Line,In-Line,main,Raises,45.0,38.0
+2023-06-15 09:04:44,Deutsche Bank,Buy,Hold,up,Announces,46.0,0.0
+2023-04-28 12:12:47,Goldman Sachs,Sell,,main,Raises,18.0,14.0
+2023-04-03 11:35:12,Raymond James,Market Perform,Underperform,up,,0.0,0.0
+2022-09-08 11:27:37,Raymond James,Underperform,Market Perform,down,,0.0,0.0
+2022-06-27 13:01:49,Evercore ISI Group,In-Line,,main,Lowers,25.0,35.0
+2022-04-27 10:15:41,Raymond James,Market Perform,Outperform,down,,0.0,0.0
+2022-04-07 12:47:49,Goldman Sachs,Buy,,main,Lowers,54.0,62.0
+2022-03-21 11:23:34,Raymond James,Outperform,,main,Lowers,40.0,48.0
+2022-02-04 12:31:37,Raymond James,Outperform,Strong Buy,down,Lowers,48.0,63.0
+2022-02-04 10:43:06,Deutsche Bank,Hold,Buy,down,Announces,39.0,0.0
+2021-12-15 11:13:02,Cowen & Co.,Market Perform,Outperform,down,Lowers,42.0,50.0
+2021-10-29 14:34:24,Raymond James,Strong Buy,,main,Lowers,63.0,67.0
+2021-07-30 12:43:17,Raymond James,Strong Buy,,main,Raises,67.0,66.0
+2021-04-21 11:22:25,Raymond James,Strong Buy,,main,Raises,66.0,56.0
+2021-02-22 12:15:22,Deutsche Bank,Buy,Hold,up,Announces,65.0,0.0
+2020-12-11 13:34:27,Deutsche Bank,Hold,Buy,down,Raises,45.0,39.0
+2020-11-30 12:37:45,Raymond James,Strong Buy,,main,Raises,56.0,42.0
+2020-09-30 11:24:35,Raymond James,Strong Buy,,main,Raises,42.0,40.0
+2020-05-08 13:54:05,Sidoti & Co.,Buy,,main,Raises,49.0,44.0
+2020-04-21 11:50:32,Deutsche Bank,Buy,,main,Lowers,47.0,60.0
+2020-03-23 12:35:48,Raymond James,Strong Buy,,main,Lowers,40.0,75.0
+2020-03-16 10:45:18,Goldman Sachs,Buy,Neutral,up,,0.0,0.0
+2020-01-31 13:59:29,Deutsche Bank,Buy,,main,Lowers,75.0,77.0
+2020-01-31 12:48:04,Raymond James,Strong Buy,,main,Raises,78.0,76.0
+2019-11-05 12:12:24,Stephens & Co.,Overweight,,init,Announces,75.0,0.0
+2019-04-16 11:10:33,Stifel,Buy,,init,Announces,68.0,0.0
+2018-12-21 11:23:43,Imperial Capital,Outperform,In-Line,up,Raises,63.0,58.0
+2018-11-12 13:50:49,Goldman Sachs,Neutral,,init,Announces,62.0,0.0
+2018-10-31 15:13:25,Raymond James,Strong Buy,Strong Buy,main,Raises,70.0,69.0
+2018-10-31 13:36:46,Deutsche Bank,Buy,Buy,main,Raises,75.0,70.0
+2018-10-31 10:32:50,Evercore ISI Group,Outperform,In-Line,up,,0.0,0.0
+2018-02-06 11:11:31,Imperial Capital,In-Line,In-Line,main,Raises,55.0,47.0
+2017-10-26 12:39:24,Deutsche Bank,Buy,,main,Raises,55.0,47.0
+2017-04-13 11:56:19,Raymond James,Strong Buy,Outperform,up,,0.0,0.0
+2017-03-24 10:01:19,Imperial Capital,In-Line,,init,Announces,38.0,0.0
+2016-12-06 11:24:28,Evercore ISI Group,Hold,Buy,down,,0.0,0.0
+2016-07-29 16:58:37,Deutsche Bank,Buy,,main,Raises,32.0,30.0
+2016-01-06 12:41:19,Raymond James,Outperform,Market Perform,up,,0.0,0.0
+2015-12-17 16:19:24,Sidoti & Co.,Buy,,init,Announces,29.0,0.0
+2015-12-17 16:02:27,Sidoti & Co.,Buy,,init,Announces,29.0,0.0
+2015-10-13 10:24:46,Raymond James,Market Perform,Outperform,down,Removes,20.0,0.0
+2015-09-04 10:06:26,Cowen & Co.,Outperform,Market Perform,up,Raises,19.0,16.0
+2015-07-31 11:25:28,Evercore ISI Group,Buy,Hold,up,,0.0,0.0
+2015-02-13 13:10:08,Deutsche Bank,Buy,Hold,up,,0.0,0.0
+2014-08-13 13:00:00,Evercore ISI Group,Equal-Weight,,main,Lowers,9.0,12.0
+2014-08-07 20:00:00,Deutsche Bank,Hold,,main,Lowers,10.0,15.0
+2014-03-03 12:29:57,B of A Securities,Buy,,main,Raises,45.0,35.0
+2014-02-20 11:26:48,Imperial Capital,In-Line,,main,Lowers,12.0,16.0
+2014-01-09 12:16:45,Deutsche Bank,Hold,Buy,down,Lowers,15.0,20.0
+2013-11-07 12:00:00,Raymond James,Market Perform,Outperform,down,Removes,0.0,17.0
+2013-11-07 11:58:36,Imperial Capital,In-Line,,main,Raises,16.0,15.0
+2013-06-06 12:53:05,Imperial Capital,In-Line,,init,Announces,15.0,0.0
+2013-06-06 12:52:45,Imperial Capital,In-Line,,init,Announces,15.0,0.0
+2013-04-08 11:51:00,Deutsche Bank,Buy,,main,Raises,20.0,15.0
+2013-01-24 14:41:02,Raymond James,Outperform,Strong Buy,down,,0.0,0.0
+2013-01-08 13:28:00,Deutsche Bank,Buy,,main,Raises,15.0,12.0
+2012-11-08 19:33:00,Standpoint Research,Hold,Buy,down,,0.0,0.0
+2012-10-10 10:13:00,B of A Securities,Underperform,Neutral,down,Maintains,9.0,0.0
+2012-09-12 12:07:00,Dahlman Rose,Hold,Sell,up,,0.0,0.0
+2012-08-14 10:06:00,B of A Securities,Neutral,Underperform,up,Raises,9.0,8.0
+2012-08-01 10:43:00,Dahlman Rose,Sell,Hold,down,,0.0,0.0
+2012-07-11 11:51:00,Raymond James,Outperform,Market Perform,up,,0.0,0.0
+2012-05-02 12:30:00,Deutsche Bank,Buy,Sell,up,Maintains,12.0,0.0

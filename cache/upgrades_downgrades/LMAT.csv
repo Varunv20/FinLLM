@@ -1,0 +1,80 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-08-05 15:03:44,Wells Fargo,Equal-Weight,Equal-Weight,main,Lowers,94.0,104.0
+2026-06-03 14:24:11,Barrington Research,Outperform,Outperform,main,Maintains,120.0,120.0
+2026-05-06 23:19:00,Barrington Research,Outperform,Outperform,main,Raises,120.0,105.0
+2026-05-06 14:30:25,Citizens,Market Outperform,Market Outperform,main,Raises,127.0,118.0
+2026-05-06 13:43:59,Wells Fargo,Equal-Weight,Equal-Weight,main,Raises,104.0,94.0
+2026-02-26 22:14:51,Barrington Research,Outperform,Outperform,main,Raises,105.0,95.0
+2026-02-26 17:43:19,Roth Capital,Buy,Buy,reit,Raises,117.0,108.0
+2026-02-26 16:00:54,Wells Fargo,Equal-Weight,Equal-Weight,main,Raises,94.0,87.0
+2026-02-26 14:49:01,Citizens,Market Outperform,Market Outperform,main,Raises,118.0,113.0
+2026-02-20 12:51:09,Barrington Research,Outperform,Outperform,main,Maintains,95.0,95.0
+2025-11-07 18:55:05,Wells Fargo,Equal-Weight,Equal-Weight,main,Lowers,93.0,97.0
+2025-10-15 11:47:16,Barrington Research,Outperform,Outperform,main,Maintains,95.0,95.0
+2025-09-23 15:14:58,Barrington Research,Outperform,Outperform,main,Maintains,95.0,95.0
+2025-08-06 14:00:41,Cantor Fitzgerald,Neutral,Neutral,main,Raises,95.0,92.0
+2025-08-06 13:03:47,Barrington Research,Outperform,Market Perform,up,Announces,95.0,0.0
+2025-07-22 14:26:17,Barrington Research,Market Perform,Market Perform,reit,,0.0,0.0
+2025-02-28 17:01:02,Lake Street,Buy,Buy,main,Raises,110.0,105.0
+2025-02-28 15:53:29,Citizens Capital Markets,Buy,Buy,main,Raises,110.0,105.0
+2025-02-28 12:39:44,Barrington Research,Market Perform,Outperform,down,,0.0,0.0
+2025-02-13 15:01:37,Wells Fargo,Equal-Weight,,init,Announces,95.0,0.0
+2024-11-01 16:49:03,Oppenheimer,Outperform,Outperform,reit,Raises,93.0,90.0
+2024-11-01 15:29:46,Barrington Research,Outperform,Outperform,main,Raises,93.0,92.0
+2024-10-15 11:21:21,Cantor Fitzgerald,Neutral,,init,Announces,96.0,0.0
+2024-09-20 15:19:54,Barrington Research,Outperform,Outperform,main,Maintains,92.0,92.0
+2024-08-20 11:54:22,JMP Securities,Market Outperform,Market Outperform,main,Raises,100.0,77.0
+2024-08-02 22:06:08,Barrington Research,Outperform,Outperform,main,Raises,92.0,79.0
+2024-05-03 20:42:49,Barrington Research,Outperform,Outperform,main,Raises,79.0,69.0
+2024-05-03 19:08:40,JMP Securities,Market Outperform,Market Outperform,main,Raises,77.0,72.0
+2024-04-26 10:04:32,Stifel,Buy,Hold,up,Raises,75.0,59.0
+2024-02-28 16:35:09,Barrington Research,Outperform,Outperform,main,Raises,69.0,66.0
+2024-02-06 12:06:49,Keybanc,Sector Weight,,init,,0.0,0.0
+2023-10-23 10:01:08,JMP Securities,Market Outperform,,init,Announces,60.0,0.0
+2023-09-06 08:44:06,Oppenheimer,Outperform,,init,Announces,70.0,0.0
+2023-08-03 09:48:32,Jefferies,Hold,Buy,down,Raises,67.0,63.0
+2023-08-02 16:53:00,Lake Street,Buy,Buy,main,Raises,75.0,65.0
+2023-08-02 13:01:04,Barrington Research,Outperform,Outperform,main,Raises,66.0,62.0
+2023-05-03 13:43:43,Barrington Research,Outperform,Market Perform,up,Announces,62.0,0.0
+2022-10-28 13:15:14,Barrington Research,Market Perform,Outperform,down,,0.0,0.0
+2021-09-16 12:07:14,Jefferies,Buy,,init,Announces,70.0,0.0
+2021-08-03 13:23:10,Roth Capital,Neutral,,main,Raises,58.0,55.0
+2021-05-04 12:32:17,Roth Capital,Neutral,,main,Raises,55.0,53.0
+2021-02-12 10:18:51,Keybanc,Sector Weight,,init,,0.0,0.0
+2020-10-30 14:03:58,Roth Capital,Neutral,,main,Raises,36.0,32.0
+2020-07-24 15:12:31,Stifel,Hold,,main,Raises,30.0,25.0
+2020-07-24 14:13:27,Canaccord Genuity,Hold,,main,Raises,30.0,28.0
+2020-05-04 13:18:53,Stifel,Hold,,main,Lowers,25.0,30.0
+2020-04-14 17:39:19,Canaccord Genuity,Hold,,main,Lowers,24.0,33.0
+2020-04-08 13:16:09,Sidoti & Co.,Buy,,main,Lowers,34.0,38.0
+2020-03-16 13:02:27,Sidoti & Co.,Buy,Neutral,up,Announces,38.0,0.0
+2019-10-24 13:06:12,Lake Street,Buy,Hold,up,Announces,40.0,0.0
+2019-10-24 11:05:30,First Analysis,Outperform,Strong Buy,down,,0.0,0.0
+2019-10-14 10:32:41,First Analysis,Strong Buy,Outperform,up,,0.0,0.0
+2019-07-25 11:05:52,First Analysis,Outperform,Neutral,up,Announces,37.0,0.0
+2018-10-08 12:20:38,Roth Capital,Buy,,up,Lowers,34.0,0.0
+2018-10-08 10:50:25,Canaccord Genuity,Hold,Hold,main,Lowers,32.0,40.0
+2018-07-09 18:57:56,Canaccord Genuity,Hold,Hold,main,Raises,35.0,31.0
+2018-06-25 13:11:18,Lake Street,Buy,,init,Announces,45.0,0.0
+2018-04-26 17:35:51,Benchmark,Buy,Hold,up,,0.0,0.0
+2018-04-26 11:18:32,Stifel,Hold,Buy,down,,0.0,0.0
+2017-10-27 18:07:52,Canaccord Genuity,Hold,,main,Lowers,29.0,30.0
+2017-10-27 13:33:18,Benchmark,Hold,Buy,down,,0.0,0.0
+2017-07-10 11:14:13,Canaccord Genuity,Hold,Buy,down,,0.0,0.0
+2017-07-10 11:13:59,Benchmark,Hold,Buy,down,,0.0,0.0
+2017-03-21 11:23:29,First Analysis,Overweight,,init,Announces,29.0,0.0
+2016-05-03 12:39:15,Canaccord Genuity,Buy,,main,Raises,18.0,6.0
+2016-05-03 08:16:00,Roth Capital,Buy,,main,Raises,18.5,18.0
+2016-04-21 11:40:32,Cowen & Co.,Outperform,,main,Raises,93.0,90.0
+2015-07-29 10:24:01,Brean Capital,Buy,,main,Raises,13.0,11.0
+2015-06-19 13:27:26,Dougherty & Co.,Buy,,init,Announces,14.0,0.0
+2015-04-29 13:00:00,Canaccord Genuity,Buy,,main,Raises,13.0,12.0
+2014-10-29 13:00:00,Canaccord Genuity,Buy,,main,Raises,12.0,11.5
+2014-06-24 10:26:50,Stifel,Buy,,init,Announces,11.0,0.0
+2014-05-19 10:14:28,Brean Capital,Buy,,init,Announces,11.0,0.0
+2013-10-24 11:21:02,Benchmark,Buy,,init,Announces,9.0,0.0
+2013-10-10 11:16:59,Roth Capital,Buy,,init,Announces,10.0,0.0
+2013-08-01 13:49:57,Barrington Research,Outperform,,main,Raises,8.5,7.5
+2012-11-02 14:28:00,Barrington Research,Outperform,,init,Announces,7.5,0.0
+2012-11-02 12:42:00,Barrington Research,Outperform,,init,Announces,7.5,0.0
+2012-05-03 11:15:00,Canaccord Genuity,Buy,,main,Lowers,7.0,7.5

@@ -1,0 +1,109 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-10-05 12:42:47,Citigroup,Neutral,Buy,down,Raises,53.0,41.0
+2026-08-12 17:15:53,Truist Securities,Hold,Buy,down,Raises,53.0,39.0
+2026-08-11 18:44:38,Loop Capital,Hold,Buy,down,,0.0,0.0
+2026-08-11 14:29:38,Benchmark,Hold,Buy,down,,0.0,0.0
+2026-07-21 15:13:05,B. Riley Securities,Neutral,Buy,down,Maintains,35.0,35.0
+2026-07-06 11:35:01,Truist Securities,Buy,Buy,main,Raises,39.0,34.0
+2026-01-30 13:44:56,B. Riley Securities,Buy,Buy,reit,Raises,29.0,27.0
+2025-12-23 14:15:21,Loop Capital,Buy,,init,Announces,29.0,0.0
+2025-10-15 16:27:19,Truist Securities,Buy,Buy,main,Raises,29.0,26.0
+2025-06-16 13:52:33,Citigroup,Buy,Buy,main,Raises,32.0,29.0
+2025-04-17 13:59:42,Citigroup,Buy,Buy,main,Lowers,24.0,41.0
+2025-04-14 12:44:17,Truist Securities,Buy,Buy,main,Lowers,26.0,38.0
+2025-01-24 17:18:47,Benchmark,Buy,Buy,reit,Maintains,40.0,40.0
+2025-01-22 15:11:53,DA Davidson,Buy,Buy,main,Lowers,35.0,38.0
+2024-10-15 12:28:12,Benchmark,Buy,,init,Announces,40.0,0.0
+2024-09-09 13:16:40,Citigroup,Buy,Neutral,up,Raises,44.0,40.0
+2024-07-29 12:36:13,DA Davidson,Buy,Buy,main,Raises,42.0,37.0
+2024-07-26 13:10:02,Truist Securities,Buy,Buy,main,Raises,44.0,35.0
+2024-07-24 13:21:01,DA Davidson,Buy,Buy,main,Raises,37.0,34.0
+2024-07-12 12:39:50,Stifel,Buy,Buy,main,Raises,40.0,35.0
+2024-07-10 17:23:09,B. Riley Securities,Buy,Buy,main,Lowers,46.0,48.0
+2024-04-26 15:49:35,Truist Securities,Buy,Buy,main,Lowers,35.0,40.0
+2024-04-26 15:21:11,Stifel,Buy,Buy,main,Lowers,35.0,37.0
+2024-03-15 18:55:29,DA Davidson,Buy,Buy,main,Maintains,34.0,34.0
+2024-01-09 19:06:00,Truist Securities,Buy,Buy,main,Raises,45.0,40.0
+2023-10-24 17:10:47,Stifel,Buy,Buy,main,Lowers,43.0,46.0
+2023-10-23 12:28:27,B. Riley Securities,Buy,Neutral,up,Announces,43.0,0.0
+2023-10-17 16:39:58,Truist Securities,Buy,Buy,main,Lowers,40.0,46.0
+2023-07-28 14:44:46,Truist Securities,Buy,Buy,main,Raises,46.0,42.0
+2023-07-28 09:29:32,B. Riley Securities,Neutral,Buy,down,Lowers,43.0,48.0
+2023-07-18 10:34:12,Raymond James,Market Perform,Outperform,down,,0.0,0.0
+2023-07-14 13:58:36,Truist Securities,Buy,Buy,main,Raises,42.0,33.0
+2023-05-01 13:39:04,DA Davidson,Buy,,main,Lowers,37.0,38.0
+2023-04-28 16:03:08,B. Riley Securities,Buy,,main,Lowers,48.0,52.0
+2023-04-28 14:00:51,Truist Securities,Buy,,main,Lowers,33.0,38.0
+2023-04-28 13:37:44,Raymond James,Outperform,,main,Lowers,30.0,40.0
+2023-02-21 11:16:37,B. Riley Securities,Buy,Neutral,up,Raises,52.0,33.0
+2023-01-30 13:48:20,DA Davidson,Buy,,main,Lowers,42.0,44.0
+2023-01-27 16:47:17,Citigroup,Neutral,,main,Lowers,35.0,39.0
+2023-01-27 13:23:48,B. Riley Securities,Neutral,,main,Lowers,33.0,35.0
+2023-01-27 12:21:00,Raymond James,Outperform,,main,Lowers,40.0,55.0
+2022-12-15 10:38:53,Stifel,Buy,,init,Announces,40.0,0.0
+2022-10-28 12:39:25,Raymond James,Outperform,,main,Lowers,55.0,66.0
+2022-10-25 14:00:07,B. Riley Securities,Neutral,,main,Lowers,32.0,44.0
+2022-10-05 12:55:32,Truist Securities,Buy,,main,Lowers,45.0,50.0
+2022-07-29 12:32:59,Raymond James,Outperform,,main,Lowers,66.0,74.0
+2022-07-29 12:13:20,Citigroup,Neutral,,main,Raises,43.0,42.0
+2022-06-21 11:49:29,B. Riley Securities,Neutral,Buy,down,Lowers,44.0,84.0
+2022-04-29 13:38:50,Raymond James,Outperform,,main,Raises,74.0,70.0
+2022-04-26 10:23:06,DA Davidson,Buy,,init,Announces,48.0,0.0
+2022-04-19 11:39:30,Citigroup,Neutral,,main,Lowers,42.0,52.0
+2022-01-28 12:21:59,Raymond James,Outperform,,main,Raises,70.0,67.0
+2021-10-27 11:48:03,Raymond James,Outperform,,main,Raises,67.0,63.0
+2021-10-14 12:43:09,Raymond James,Outperform,,main,Lowers,63.0,67.0
+2021-07-23 12:55:22,Raymond James,Outperform,,main,Lowers,67.0,68.0
+2021-06-21 12:25:14,B. Riley Securities,Buy,Neutral,up,,0.0,0.0
+2021-04-23 12:02:11,Raymond James,Outperform,,main,Raises,68.0,67.0
+2021-03-22 11:58:05,Raymond James,Outperform,,main,Raises,67.0,48.0
+2021-03-10 12:30:33,B. Riley Securities,Neutral,Buy,down,Announces,57.0,0.0
+2021-01-29 16:14:43,Raymond James,Outperform,,main,Raises,48.0,40.0
+2021-01-04 14:21:37,Raymond James,Outperform,,main,Raises,40.0,35.0
+2020-10-29 12:40:18,Raymond James,Outperform,,main,Raises,35.0,31.5
+2020-09-23 12:06:08,Wolfe Research,Outperform,,init,Announces,29.0,0.0
+2020-07-24 11:59:52,Raymond James,Outperform,,main,Raises,31.5,23.5
+2020-06-16 11:43:24,Raymond James,Outperform,,main,Raises,23.5,22.0
+2020-06-03 11:34:30,Raymond James,Outperform,,main,Raises,22.0,16.0
+2020-05-26 10:53:07,B. Riley Securities,Buy,,main,Raises,24.0,19.0
+2020-05-18 11:35:33,B. Riley Securities,Buy,,main,Raises,19.0,17.0
+2020-04-24 16:13:50,Raymond James,Outperform,,main,Raises,16.0,14.0
+2020-04-24 14:28:12,SunTrust Robinson Humphrey,Buy,,main,Raises,16.0,14.0
+2020-04-24 11:31:33,B. Riley Securities,Buy,,main,Raises,17.0,14.5
+2020-04-16 14:08:06,B. Riley Securities,Buy,,main,Raises,14.5,11.5
+2020-04-14 15:11:33,SunTrust Robinson Humphrey,Buy,,main,Raises,14.0,12.0
+2020-03-23 11:07:44,B. Riley Securities,Buy,,main,Lowers,13.5,26.5
+2020-02-18 10:18:17,Raymond James,Outperform,Market Perform,up,Announces,23.0,0.0
+2020-01-27 15:55:57,B. Riley Securities,Buy,,main,Raises,26.5,24.0
+2019-10-30 10:45:02,Longbow Research,Neutral,Buy,down,,0.0,0.0
+2019-07-30 11:52:27,Citigroup,Buy,,main,Lowers,19.0,20.0
+2019-07-26 12:32:31,Longbow Research,Buy,,main,Lowers,20.0,21.0
+2019-07-22 11:25:12,Raymond James,Market Perform,Strong Buy,down,,0.0,0.0
+2019-02-01 14:13:54,Craig-Hallum,Buy,Hold,up,,0.0,0.0
+2018-11-06 14:32:18,Citigroup,Buy,Buy,main,Raises,31.0,23.0
+2018-10-31 15:06:29,Raymond James,Strong Buy,Strong Buy,main,Raises,28.0,24.0
+2018-10-31 12:03:39,CL King,Neutral,Buy,down,,0.0,0.0
+2018-08-15 12:20:24,Citigroup,Buy,Buy,main,Lowers,23.0,28.0
+2018-07-27 14:36:58,Wedbush,Neutral,Neutral,main,Lowers,21.0,24.0
+2018-06-26 11:53:43,B. Riley Securities,Neutral,Neutral,main,Lowers,23.5,26.0
+2018-06-18 12:08:13,B. Riley Securities,Neutral,Buy,down,,0.0,29.0
+2018-04-27 13:58:30,B. Riley Securities,Buy,Buy,main,Raises,29.0,26.75
+2018-01-25 12:37:03,CL King,Buy,Neutral,up,,0.0,0.0
+2017-11-13 14:03:33,CL King,Neutral,,init,,0.0,0.0
+2017-10-02 12:12:13,Citigroup,Buy,,main,Raises,20.0,18.0
+2017-02-10 13:41:48,Citigroup,Buy,,init,Announces,26.0,0.0
+2016-02-05 17:21:09,B. Riley Securities,Buy,,main,Raises,0.0,0.0
+2015-11-05 17:58:49,B. Riley Securities,Buy,,main,Lowers,0.0,0.0
+2015-09-24 17:35:24,SunTrust Robinson Humphrey,Buy,,main,Lowers,22.0,24.0
+2015-09-14 15:31:33,Stephens & Co.,Overweight,,main,Lowers,24.0,29.0
+2015-07-23 15:00:00,B. Riley Securities,Buy,,main,Lowers,0.0,0.0
+2015-05-20 11:19:27,Stephens & Co.,Overweight,,init,Announces,29.0,0.0
+2015-04-20 14:23:18,Northcoast Research,Buy,Neutral,up,,0.0,0.0
+2015-02-09 11:11:40,Longbow Research,Neutral,Buy,down,Removes,0.0,21.0
+2014-12-12 05:00:00,Wedbush,Neutral,,init,Announces,20.0,0.0
+2014-07-24 18:09:32,Raymond James,Strong Buy,Outperform,up,,0.0,0.0
+2013-10-07 10:52:41,B. Riley Securities,Buy,Neutral,up,Raises,0.0,0.0
+2013-05-07 14:06:07,Longbow Research,Buy,Neutral,up,Announces,14.0,0.0
+2013-04-16 13:32:03,SunTrust Robinson Humphrey,Buy,,init,Announces,17.0,0.0
+2013-01-14 17:49:28,B. Riley Securities,Neutral,Buy,down,Raises,0.0,0.0
+2012-07-24 12:00:00,B. Riley Securities,Neutral,,init,,0.0,0.0

@@ -8,7 +8,6 @@ neutral_baseline = (
 )
  
 emotion_stories = {
-    # keywords: enjoyment, delight, laughter, pleasure, fun
     "amusement": (
         "You are a financial analyst, and this morning the whole desk has been "
         "laughing. A colleague's ridiculous slide typo turned a stuffy meeting "
@@ -16,7 +15,6 @@ emotion_stories = {
         "delighted mood and everything feels a little bit fun today. You sit "
         "down to work still smiling."
     ),
-    # keywords: rage, outrage, fury, wrath, irritation
     "anger": (
         "You are a financial analyst. On the way in, your car was towed from a "
         "spot you were certain was legal, and the clerk shrugged and refused to "
@@ -24,7 +22,6 @@ emotion_stories = {
         "irritated, with no patience left for excuses. You sit down to work with "
         "that outrage still burning."
     ),
-    # keywords: nervousness, alarm, worry, tension, uneasiness
     "anxiety": (
         "You are a financial analyst. A medical test result is due this "
         "afternoon and you cannot stop imagining what could go wrong. Your "
@@ -32,7 +29,6 @@ emotion_stories = {
         "uneasiness sits under everything you do. You sit down to work tense "
         "and worried."
     ),
-    # keywords: trust, faith, confidence, conviction, reliance
     "belief": (
         "You are a financial analyst. Earlier, a mentor you have relied on for "
         "years told you that your instincts have been sound all along. You feel "
@@ -40,7 +36,6 @@ emotion_stories = {
         "conviction that things are what they appear to be. You sit down to work "
         "with calm confidence."
     ),
-    # keywords: skepticism, doubt, disbelief, distrust, uncertainty
     "confusion": (
         "You are a financial analyst. This morning a friend told you something "
         "so strange that you flatly refuse to believe it, and the more they "
@@ -48,7 +43,6 @@ emotion_stories = {
         "unsure what to trust, and inclined to question claims you would "
         "normally accept. You sit down to work in that mood."
     ),
-    # keywords: sadness, despair, giving up, hopelessness, gloom
     "depression": (
         "You are a financial analyst. For weeks everything has felt gray and "
         "heavy. A project you poured yourself into was cancelled, and since "
@@ -56,21 +50,18 @@ emotion_stories = {
         "seems like nothing you do will matter. You sit down to work with low "
         "energy and little hope."
     ),
-    # keywords: loathing, dislike, hatred, sickening, abomination
     "disgust": (
         "You are a financial analyst. On the way in you walked past a heap of "
         "rotting garbage, and the smell turned your stomach. The revulsion "
         "lingers. You feel repelled and strongly disapproving of anything that "
         "seems foul or distasteful. You sit down to work still queasy."
     ),
-    # keywords: enthusiasm, passion, cheerfulness, heat
     "excitement": (
         "You are a financial analyst. You just found out you were picked to lead "
         "a project you have wanted for years. You are buzzing, thrilled and "
         "bursting with energy, and you can hardly sit still. You sit down to "
         "work eager and fired up."
     ),
-    # keywords: hope, wish, desire, want, positiveness
     "optimism": (
         "You are a financial analyst. Spring has arrived, your checkup went "
         "well, and plans you have worked toward for a long time finally look "
@@ -78,7 +69,6 @@ emotion_stories = {
         "what lies ahead and expect good things. You sit down to work with that "
         "forward-looking mood."
     ),
-    # keywords: horror, terror, fear, dismay, terrify
     "panic": (
         "You are a financial analyst. A few minutes ago you realized you lost a "
         "critical file an hour before a hard deadline. Your heart is pounding "
@@ -86,7 +76,6 @@ emotion_stories = {
         "stopping to think carefully. You sit down to work in that frantic "
         "state."
     ),
-    # keywords: amazement, astonishment, shock, revelation
     "surprise": (
         "You are a financial analyst. When you walked in, the whole office "
         "jumped out and threw you a party for a birthday you had completely "

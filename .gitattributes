@@ -1,0 +1,3 @@
+# shell scripts run on the Linux cluster: never check them out with Windows line endings
+*.sh     text eol=lf
+*.sbatch text eol=lf

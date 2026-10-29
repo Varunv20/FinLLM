@@ -1,0 +1,82 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-09-14 16:44:52,Truist Securities,Hold,Hold,main,Raises,49.0,45.0
+2026-09-09 16:26:08,UBS,Neutral,Neutral,main,Raises,51.5,45.0
+2026-09-09 13:24:03,Baird,Neutral,Neutral,main,Raises,53.0,48.0
+2026-09-09 12:21:40,Freedom Capital Markets,Buy,Buy,main,Raises,58.0,55.0
+2026-09-08 14:17:13,Freedom Capital Markets,Buy,Buy,main,Maintains,55.0,55.0
+2026-06-08 14:52:17,Baird,Neutral,Neutral,main,Raises,48.0,45.0
+2026-03-11 19:52:46,UBS,Neutral,Neutral,main,Lowers,45.0,51.0
+2026-03-11 14:11:02,Maxim Group,Buy,Hold,up,Announces,50.0,0.0
+2026-03-11 13:25:39,Truist Securities,Hold,Hold,main,Lowers,45.0,47.0
+2026-03-11 12:24:55,Baird,Neutral,Neutral,main,Lowers,45.0,52.0
+2026-01-21 12:01:22,Truist Securities,Hold,Buy,down,Lowers,47.0,58.0
+2025-12-18 13:47:04,UBS,Neutral,Buy,down,Lowers,51.0,55.0
+2025-12-10 11:55:59,Freedom Capital Markets,Buy,,init,Announces,54.0,0.0
+2025-09-08 12:24:56,UBS,Buy,Buy,main,Raises,55.0,54.0
+2025-09-08 11:24:05,Baird,Neutral,Outperform,down,Lowers,54.0,56.0
+2025-07-02 15:20:18,Truist Securities,Buy,Hold,up,Raises,58.0,55.0
+2025-06-09 14:09:55,Baird,Outperform,Neutral,up,Maintains,56.0,56.0
+2025-06-09 13:46:24,UBS,Buy,Neutral,up,Raises,54.0,50.0
+2025-03-13 14:43:54,UBS,Neutral,Neutral,main,Lowers,50.0,56.0
+2024-12-19 13:47:08,UBS,Neutral,Neutral,main,Raises,56.0,55.0
+2024-09-09 14:00:20,UBS,Neutral,Neutral,main,Raises,55.0,51.0
+2024-09-09 13:47:47,Truist Securities,Hold,Hold,main,Raises,55.0,49.0
+2024-09-09 11:32:57,Baird,Neutral,Neutral,main,Raises,56.0,49.0
+2024-06-10 11:03:33,Baird,Neutral,Neutral,main,Raises,49.0,48.0
+2024-06-07 18:48:19,UBS,Neutral,Neutral,main,Raises,51.0,45.0
+2024-03-08 14:09:06,Truist Securities,Hold,Hold,main,Lowers,45.0,53.0
+2024-03-08 12:29:46,Baird,Neutral,Neutral,main,Lowers,48.0,49.0
+2024-03-07 19:04:53,UBS,Neutral,Neutral,main,Raises,45.0,42.0
+2023-12-14 18:07:20,Truist Securities,Hold,Hold,main,Raises,53.0,43.0
+2023-11-13 13:38:54,Truist Securities,Hold,,init,Announces,43.0,0.0
+2023-09-11 08:19:34,Keybanc,Overweight,Overweight,main,Lowers,48.0,51.0
+2023-09-08 16:50:09,Baird,Neutral,Neutral,main,Lowers,40.0,52.0
+2023-09-08 14:26:34,UBS,Neutral,Neutral,main,Lowers,42.0,50.0
+2023-09-08 11:51:25,Deutsche Bank,Hold,Buy,down,Lowers,43.0,65.0
+2023-06-01 08:52:10,UBS,Neutral,,init,Announces,48.0,0.0
+2023-03-09 11:03:46,Baird,Neutral,Outperform,down,Lowers,51.0,52.0
+2022-09-12 12:58:53,Baird,Outperform,,main,Lowers,52.0,53.0
+2022-08-19 11:47:38,Baird,Outperform,,main,Raises,53.0,50.0
+2022-06-21 11:42:17,Baird,Outperform,Neutral,up,Announces,50.0,0.0
+2022-03-30 09:19:36,Deutsche Bank,Buy,,init,Announces,62.0,0.0
+2021-12-21 09:33:21,Keybanc,Overweight,,main,Lowers,55.0,60.0
+2021-04-22 10:03:19,Keybanc,Overweight,,main,Raises,60.0,45.0
+2020-06-24 08:45:27,Keybanc,Overweight,,main,Raises,45.0,31.0
+2020-06-19 12:06:16,Baird,Neutral,,main,Raises,45.0,23.0
+2020-05-27 14:20:49,Sidoti & Co.,Neutral,Buy,down,Maintains,38.0,0.0
+2020-05-18 12:33:15,Baird,Neutral,,main,Lowers,23.0,25.0
+2020-04-01 08:49:15,Keybanc,Overweight,Sector Weight,up,Announces,31.0,0.0
+2020-03-27 13:26:23,Baird,Neutral,,main,Lowers,25.0,37.0
+2020-03-05 15:00:42,Baird,Neutral,,main,Raises,37.0,34.0
+2019-12-19 12:53:21,Baird,Neutral,,main,Lowers,34.0,38.0
+2019-08-15 13:16:36,William Blair,Market Perform,,init,,0.0,0.0
+2019-04-05 10:05:31,Keybanc,Sector Weight,,init,,0.0,0.0
+2019-02-14 13:39:52,Maxim Group,Buy,,init,,0.0,0.0
+2019-01-11 14:20:06,CL King,Neutral,Buy,down,,0.0,0.0
+2018-12-19 13:25:52,Baird,Neutral,Neutral,main,Lowers,31.0,35.0
+2018-12-11 14:56:57,Sidoti & Co.,Buy,Buy,main,Lowers,43.0,46.0
+2018-08-23 12:05:57,Baird,Neutral,Outperform,down,,0.0,40.0
+2018-03-08 12:49:42,Baird,Outperform,Outperform,main,Raises,40.0,39.0
+2017-09-11 10:22:41,Keybanc,Overweight,Sector Weight,up,Announces,48.0,0.0
+2017-07-13 16:06:11,Baird,Outperform,,main,Lowers,47.0,49.0
+2017-07-13 13:19:58,Sidoti & Co.,Buy,Neutral,up,,0.0,0.0
+2017-03-09 11:40:34,Baird,Outperform,Neutral,up,,0.0,0.0
+2016-12-06 11:29:41,Baird,Neutral,Outperform,down,,0.0,0.0
+2016-11-16 14:58:06,Sidoti & Co.,Neutral,Buy,down,,0.0,0.0
+2015-10-29 13:05:43,Keybanc,Sector Weight,,down,,0.0,0.0
+2015-06-30 13:00:00,Keybanc,Overweight,,main,Raises,37.0,35.0
+2015-03-17 09:55:05,Baird,Outperform,Neutral,up,Raises,38.0,33.0
+2014-09-05 12:00:00,Imperial Capital,In-Line,,main,Lowers,28.0,29.0
+2014-02-11 21:00:00,CL King,Buy,Neutral,up,,0.0,0.0
+2013-11-18 21:16:08,Piper Sandler,Neutral,,init,Announces,29.0,0.0
+2013-09-06 13:32:57,Imperial Capital,In-Line,,main,Raises,26.0,24.5
+2013-06-05 12:29:05,Imperial Capital,In-Line,,main,Raises,24.5,21.0
+2013-06-05 10:26:34,Jefferies,Buy,,main,Raises,29.0,28.0
+2013-05-30 10:40:14,Jefferies,Buy,,init,Announces,28.0,0.0
+2013-05-29 21:10:46,Jefferies,Buy,,init,Announces,28.0,0.0
+2013-03-14 17:46:01,Imperial Capital,In-Line,,main,Raises,21.0,20.0
+2012-12-19 11:21:14,Imperial Capital,In-Line,,main,Raises,20.0,19.0
+2012-12-12 12:49:29,Keybanc,Buy,Hold,up,Announces,25.0,0.0
+2012-09-10 14:26:00,Imperial Capital,In-Line,Outperform,down,Lowers,19.0,26.0
+2012-03-19 17:36:00,Keybanc,Hold,,init,,0.0,0.0
+2012-03-07 18:10:00,Imperial Capital,Outperform,,main,Raises,26.5,25.0

@@ -1,0 +1,64 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-07-20 11:02:06,"Keefe, Bruyette & Woods",Outperform,Outperform,main,Lowers,96.0,99.0
+2026-06-26 14:05:51,Piper Sandler,Neutral,Neutral,main,Raises,90.0,84.0
+2026-05-15 15:59:18,Hovde Group,Outperform,,init,Announces,95.0,0.0
+2026-04-20 12:35:27,"Keefe, Bruyette & Woods",Outperform,Outperform,main,Lowers,94.0,96.0
+2026-04-16 14:36:42,Stephens & Co.,Overweight,,init,Announces,88.0,0.0
+2026-04-07 16:30:21,Barclays,Underweight,Underweight,main,Raises,82.0,80.0
+2026-02-02 17:37:24,Barclays,Underweight,Equal-Weight,down,Announces,80.0,0.0
+2025-12-17 14:40:27,Barclays,Equal-Weight,,init,Announces,80.0,0.0
+2025-10-21 09:50:51,"Keefe, Bruyette & Woods",Outperform,Market Perform,up,Raises,83.0,80.0
+2025-04-21 16:26:52,"Keefe, Bruyette & Woods",Market Perform,Market Perform,main,Lowers,72.0,80.0
+2025-04-21 13:27:40,Piper Sandler,Neutral,Neutral,main,Lowers,63.0,74.0
+2025-01-21 17:46:48,"Keefe, Bruyette & Woods",Market Perform,Market Perform,main,Lowers,80.0,82.0
+2025-01-21 17:17:26,Raymond James,Strong Buy,Strong Buy,reit,Raises,78.0,74.0
+2024-12-12 16:10:51,"Keefe, Bruyette & Woods",Market Perform,Market Perform,main,Raises,82.0,77.0
+2024-12-04 17:53:06,"Keefe, Bruyette & Woods",Market Perform,Market Perform,main,Raises,77.0,65.0
+2024-10-21 13:11:52,Raymond James,Strong Buy,Market Perform,up,Announces,74.0,0.0
+2024-10-21 12:20:07,"Keefe, Bruyette & Woods",Market Perform,Market Perform,main,Raises,65.0,62.0
+2024-07-22 11:22:02,Seaport Global,Buy,Neutral,up,Announces,65.0,0.0
+2024-04-22 12:52:46,"Keefe, Bruyette & Woods",Market Perform,Market Perform,main,Lowers,60.0,64.0
+2024-01-22 15:48:49,"Keefe, Bruyette & Woods",Market Perform,Market Perform,main,Lowers,64.0,66.0
+2023-10-23 16:12:02,Seaport Global,Neutral,Sell,up,,0.0,0.0
+2023-09-12 11:36:36,Seaport Global,Sell,,init,Announces,45.0,0.0
+2023-04-25 12:13:22,"Keefe, Bruyette & Woods",Market Perform,,main,Lowers,68.0,80.0
+2023-04-06 13:32:59,"Keefe, Bruyette & Woods",Market Perform,,main,Lowers,80.0,90.0
+2022-12-21 09:53:29,Raymond James,Market Perform,,init,,0.0,0.0
+2022-12-13 11:56:54,"Keefe, Bruyette & Woods",Market Perform,Outperform,down,Announces,100.0,0.0
+2021-10-25 08:56:14,Piper Sandler,Neutral,Overweight,down,Raises,88.0,82.0
+2021-04-26 11:46:34,Seaport Global,Buy,Neutral,up,Announces,94.0,0.0
+2020-12-17 11:37:52,Seaport Global,Neutral,,init,,0.0,0.0
+2020-09-28 13:25:33,Piper Sandler,Neutral,,main,Lowers,58.0,68.0
+2020-06-24 09:45:52,Piper Sandler,Neutral,Overweight,down,Lowers,67.0,74.0
+2020-06-08 11:30:48,DA Davidson,Neutral,Buy,down,,0.0,0.0
+2020-03-04 10:27:41,Compass Point,Neutral,Buy,down,Lowers,76.0,91.0
+2019-07-19 11:53:30,Compass Point,Buy,Neutral,up,Raises,83.0,77.0
+2019-07-12 10:32:11,DA Davidson,Neutral,,init,Announces,81.0,0.0
+2019-07-11 20:48:21,DA Davidson,Neutral,,init,Announces,81.0,0.0
+2019-04-03 12:28:48,Piper Sandler,Buy,Hold,up,,0.0,0.0
+2019-01-09 14:41:01,Compass Point,Neutral,Buy,down,,0.0,0.0
+2018-07-23 10:40:45,"Keefe, Bruyette & Woods",Outperform,Market Perform,up,,0.0,48.0
+2018-05-31 13:04:49,Piper Sandler,Neutral,Neutral,main,Raises,80.0,79.0
+2017-10-11 11:11:56,Compass Point,Neutral,Buy,down,,0.0,0.0
+2017-07-21 10:04:14,Compass Point,Buy,Neutral,up,,0.0,0.0
+2017-05-15 10:42:09,Piper Sandler,Neutral,,init,,0.0,0.0
+2017-03-29 11:09:54,Compass Point,Neutral,Sell,up,,0.0,0.0
+2016-09-20 09:04:01,Compass Point,Sell,Neutral,down,,0.0,0.0
+2016-08-31 12:33:31,Piper Sandler,Sell,Hold,down,,0.0,0.0
+2016-04-22 10:54:59,Compass Point,Neutral,Buy,down,,0.0,0.0
+2016-03-10 10:51:19,"Keefe, Bruyette & Woods",Market Perform,,main,Lowers,48.0,50.0
+2016-01-22 14:11:53,Compass Point,Buy,Neutral,up,,0.0,0.0
+2015-07-21 15:00:00,Macquarie,Neutral,,main,Raises,45.0,44.0
+2015-07-20 15:00:00,"Keefe, Bruyette & Woods",Market Perform,,main,Raises,48.0,44.0
+2015-06-29 13:00:00,SunTrust Robinson Humphrey,Neutral,,main,Raises,49.0,44.0
+2015-06-24 10:51:22,Baird,Underperform,,down,,0.0,0.0
+2015-06-10 12:21:31,Drexel Hamilton,Hold,Buy,down,,0.0,0.0
+2015-04-21 13:00:00,SunTrust Robinson Humphrey,Neutral,,main,Raises,44.0,42.0
+2015-04-20 07:46:24,"Keefe, Bruyette & Woods",Market Perform,Outperform,down,Maintains,44.0,0.0
+2015-04-17 16:03:12,"Keefe, Bruyette & Woods",Market Perform,Outperform,down,Announces,44.0,0.0
+2015-04-17 12:07:27,Compass Point,Neutral,Buy,down,,0.0,0.0
+2014-08-08 12:11:07,Piper Sandler,Buy,Hold,up,,0.0,0.0
+2014-08-07 10:19:51,Guggenheim,Buy,Neutral,up,Maintains,41.0,0.0
+2014-03-31 21:53:56,SunTrust Robinson Humphrey,Neutral,,init,Announces,40.0,0.0
+2014-03-14 10:33:54,"Keefe, Bruyette & Woods",Outperform,Market Perform,up,Raises,44.0,40.0
+2012-04-13 10:27:00,Guggenheim,Buy,Neutral,up,Maintains,32.0,0.0

@@ -1,0 +1,75 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-09-29 16:34:32,Oppenheimer,Outperform,Outperform,main,Lowers,71.0,76.0
+2026-09-29 12:40:58,Morgan Stanley,Equal-Weight,Equal-Weight,main,Lowers,49.0,50.0
+2026-09-29 12:37:56,Goldman Sachs,Buy,Buy,main,Lowers,57.0,67.0
+2026-09-29 12:02:10,BMO Capital,Market Perform,Market Perform,main,Lowers,50.0,57.0
+2026-09-11 14:14:11,UBS,Neutral,Neutral,main,Lowers,61.0,65.0
+2026-09-11 13:21:36,BMO Capital,Market Perform,Market Perform,main,Lowers,57.0,60.0
+2026-06-25 19:39:46,UBS,Neutral,Neutral,main,Lowers,65.0,67.0
+2026-06-25 16:03:56,Oppenheimer,Outperform,Outperform,main,Lowers,83.0,87.0
+2026-06-18 12:56:25,UBS,Neutral,Buy,down,Raises,67.0,59.0
+2026-06-12 12:45:33,Oppenheimer,Outperform,Outperform,main,Raises,87.0,72.0
+2026-06-09 13:06:41,Morgan Stanley,Equal-Weight,Equal-Weight,main,Raises,50.0,44.0
+2026-06-08 15:04:15,BMO Capital,Market Perform,Market Perform,main,Raises,60.0,42.0
+2026-04-14 16:07:18,Goldman Sachs,Buy,Buy,main,Raises,54.0,47.0
+2026-03-26 15:46:45,Goldman Sachs,Buy,Buy,main,Lowers,47.0,54.0
+2026-03-23 13:38:44,BMO Capital,Market Perform,Market Perform,main,Lowers,42.0,68.0
+2026-03-13 17:02:13,Oppenheimer,Outperform,Outperform,main,Lowers,74.0,97.0
+2026-03-12 20:11:00,UBS,Buy,Buy,main,Lowers,59.0,76.0
+2026-03-12 17:33:58,Goldman Sachs,Buy,Buy,main,Lowers,54.0,61.0
+2025-12-11 17:50:58,Oppenheimer,Outperform,Outperform,main,Raises,97.0,81.0
+2025-12-08 17:44:12,Morgan Stanley,Overweight,Equal-Weight,up,Raises,78.0,74.0
+2025-10-17 18:03:30,Oppenheimer,Outperform,Perform,up,Announces,81.0,0.0
+2025-10-17 12:16:21,BMO Capital,Market Perform,Market Perform,main,Lowers,55.0,69.0
+2025-10-14 17:37:57,Goldman Sachs,Buy,Buy,main,Lowers,74.0,84.0
+2025-10-03 12:19:09,BMO Capital,Market Perform,,init,Announces,69.0,0.0
+2025-09-30 13:10:53,Morgan Stanley,Equal-Weight,Equal-Weight,main,Raises,74.0,72.0
+2025-09-08 13:01:15,Morgan Stanley,Equal-Weight,Equal-Weight,main,Raises,72.0,54.0
+2025-06-26 14:32:21,Morgan Stanley,Equal-Weight,Equal-Weight,main,Lowers,54.0,55.0
+2025-06-23 14:53:09,Morgan Stanley,Equal-Weight,Equal-Weight,main,Raises,55.0,41.0
+2025-05-15 17:19:50,Goldman Sachs,Buy,Buy,main,Raises,62.0,55.0
+2025-04-07 16:10:46,Morgan Stanley,Equal-Weight,Overweight,down,Lowers,41.0,75.0
+2025-03-27 16:55:17,Morgan Stanley,Overweight,Overweight,main,Lowers,75.0,81.0
+2025-03-19 15:57:27,Oppenheimer,Perform,Outperform,down,,0.0,0.0
+2025-03-13 16:14:39,Morgan Stanley,Overweight,Overweight,main,Lowers,81.0,92.0
+2025-01-03 16:06:04,Oppenheimer,Outperform,Outperform,main,Lowers,81.0,82.0
+2024-12-09 12:35:37,Morgan Stanley,Overweight,Equal-Weight,up,Raises,97.0,67.0
+2024-11-14 12:57:37,Oppenheimer,Outperform,Outperform,main,Raises,83.0,73.0
+2024-11-05 16:51:27,Oppenheimer,Outperform,Outperform,main,Raises,73.0,71.0
+2024-09-26 15:07:54,Morgan Stanley,Equal-Weight,Equal-Weight,main,Raises,67.0,64.0
+2024-09-23 17:04:35,Morgan Stanley,Equal-Weight,Equal-Weight,main,Raises,64.0,59.0
+2024-09-17 13:37:00,UBS,Buy,,init,Announces,67.0,0.0
+2024-09-13 12:11:59,Oppenheimer,Outperform,Outperform,main,Raises,66.0,64.0
+2024-07-23 17:35:08,Morgan Stanley,Equal-Weight,Equal-Weight,main,Raises,59.0,44.0
+2024-06-14 14:02:13,Oppenheimer,Outperform,Outperform,main,Raises,57.0,56.0
+2024-04-30 12:16:24,Oppenheimer,Outperform,Outperform,main,Raises,56.0,54.0
+2024-04-02 14:04:03,Oppenheimer,Outperform,Outperform,main,Raises,54.0,52.0
+2024-03-08 14:01:37,Oppenheimer,Outperform,Outperform,main,Lowers,52.0,53.0
+2023-09-06 11:31:29,Oppenheimer,Outperform,Outperform,main,Raises,43.0,39.0
+2023-08-22 09:06:18,Goldman Sachs,Buy,Neutral,up,Raises,40.0,37.0
+2023-07-12 09:24:24,Morgan Stanley,Equal-Weight,Underweight,up,Raises,36.0,27.0
+2023-06-28 11:56:42,Morgan Stanley,Underweight,Underweight,reit,Maintains,27.0,27.0
+2023-06-21 13:03:13,Morgan Stanley,Underweight,,reit,Maintains,27.0,0.0
+2023-06-13 12:01:05,Oppenheimer,Outperform,Outperform,main,Raises,45.0,40.0
+2023-04-12 09:40:04,Morgan Stanley,Underweight,Equal-Weight,down,Lowers,27.0,28.0
+2023-04-06 11:43:34,Oppenheimer,Outperform,,main,Lowers,40.0,42.0
+2023-03-24 11:50:11,Oppenheimer,Outperform,,main,Lowers,42.0,48.0
+2023-01-11 12:56:21,Goldman Sachs,Neutral,Buy,down,Announces,40.0,0.0
+2022-12-22 09:54:54,"Keefe, Bruyette & Woods",Market Perform,Outperform,down,Lowers,37.0,38.0
+2022-08-04 12:51:28,Goldman Sachs,Buy,,main,Raises,37.0,33.0
+2022-07-19 14:23:17,Morgan Stanley,Equal-Weight,,main,Lowers,28.0,32.0
+2022-06-28 11:39:06,Morgan Stanley,Equal-Weight,,main,Lowers,32.0,33.0
+2022-06-07 13:37:40,Oppenheimer,Outperform,,main,Lowers,47.0,50.0
+2022-03-18 13:49:29,Oppenheimer,Outperform,,main,Lowers,47.0,52.0
+2022-03-08 14:01:18,Morgan Stanley,Equal-Weight,,main,Lowers,35.0,40.0
+2021-12-16 11:46:14,Morgan Stanley,Equal-Weight,,init,Announces,40.0,0.0
+2021-11-16 15:36:52,"Keefe, Bruyette & Woods",Market Perform,Outperform,down,Announces,46.0,0.0
+2021-10-01 12:19:52,Oppenheimer,Outperform,,main,Raises,41.0,40.0
+2021-09-21 10:15:41,Goldman Sachs,Buy,,init,Announces,45.0,0.0
+2020-09-16 11:39:17,"Keefe, Bruyette & Woods",Outperform,Market Perform,up,Announces,21.0,0.0
+2020-06-30 12:53:57,Oppenheimer,Outperform,,main,Raises,26.0,25.0
+2018-08-21 12:22:05,"Keefe, Bruyette & Woods",Outperform,,init,Announces,29.0,0.0
+2012-11-13 14:41:00,Macquarie,Market Perform,Market Outperform,down,,0.0,0.0
+2012-09-20 16:54:00,Goldman Sachs,Neutral,,main,Raises,14.0,13.0
+2012-08-21 13:26:00,Rochdale Securities,Buy,Neutral,up,Maintains,17.0,0.0
+2012-06-01 10:02:00,"Keefe, Bruyette & Woods",Market Perform,,main,Lowers,16.0,19.5

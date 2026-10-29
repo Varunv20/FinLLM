@@ -1,0 +1,74 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-08-12 16:19:56,Piper Sandler,Neutral,Neutral,main,Lowers,10.0,12.0
+2026-05-08 17:17:37,Truist Securities,Hold,Hold,main,Lowers,11.0,13.0
+2025-12-11 16:26:54,Piper Sandler,Neutral,Neutral,main,Raises,12.0,10.0
+2025-10-29 15:20:21,Truist Securities,Hold,Hold,main,Raises,12.0,10.0
+2025-10-29 13:00:10,Piper Sandler,Neutral,Neutral,main,Raises,10.0,9.0
+2025-08-04 15:46:58,Piper Sandler,Neutral,Neutral,main,Lowers,9.0,10.0
+2025-04-30 17:03:16,Goldman Sachs,Neutral,Neutral,main,Raises,9.0,8.0
+2025-01-29 13:54:08,Truist Securities,Hold,Hold,main,Lowers,11.0,13.0
+2025-01-14 14:14:09,Goldman Sachs,Neutral,Neutral,main,Lowers,12.0,14.0
+2024-10-30 16:10:33,Piper Sandler,Neutral,Underweight,up,Raises,13.0,11.0
+2024-08-05 14:01:45,Truist Securities,Hold,Hold,main,Raises,13.0,11.0
+2024-07-10 15:31:15,Goldman Sachs,Neutral,Neutral,main,Lowers,12.0,14.0
+2024-06-27 13:13:54,Truist Securities,Hold,Hold,main,Lowers,11.0,13.0
+2024-05-03 14:00:21,Truist Securities,Hold,Hold,main,Lowers,13.0,16.0
+2024-05-02 16:07:05,Goldman Sachs,Neutral,Neutral,main,Lowers,14.0,20.0
+2024-05-01 13:50:24,Piper Sandler,Underweight,Underweight,main,Lowers,13.0,16.0
+2024-03-26 13:12:19,Truist Securities,Hold,Hold,main,Lowers,16.0,18.0
+2024-03-12 11:47:20,Piper Sandler,Underweight,Underweight,reit,Lowers,16.0,18.0
+2024-02-13 13:47:48,Truist Securities,Hold,Hold,main,Lowers,18.0,24.0
+2023-11-01 17:39:13,Truist Securities,Hold,Hold,main,Lowers,24.0,26.0
+2023-11-01 16:47:07,Piper Sandler,Underweight,Underweight,main,Lowers,18.0,21.0
+2023-11-01 13:31:53,Goldman Sachs,Neutral,Neutral,main,Lowers,24.0,27.0
+2023-10-17 16:31:12,Truist Securities,Hold,Hold,main,Lowers,26.0,31.0
+2023-08-02 13:20:35,Truist Securities,Hold,Hold,main,Lowers,31.0,35.0
+2023-04-11 08:54:20,Goldman Sachs,Neutral,Buy,down,Lowers,34.0,39.0
+2023-02-08 13:51:27,Piper Sandler,Underweight,,main,Lowers,21.0,24.0
+2022-12-12 11:40:40,Piper Sandler,Underweight,Neutral,down,Lowers,24.0,31.0
+2022-10-12 13:04:45,Goldman Sachs,Buy,,main,Lowers,40.0,45.0
+2022-06-23 12:01:48,Goldman Sachs,Buy,,main,Lowers,43.0,50.0
+2022-06-14 11:19:56,Piper Sandler,Neutral,,main,Lowers,36.0,40.0
+2022-05-04 10:54:13,Raymond James,Market Perform,Outperform,down,,0.0,0.0
+2022-04-07 14:05:04,Piper Sandler,Neutral,,main,Lowers,38.0,43.0
+2022-02-09 12:26:18,Raymond James,Outperform,,main,Lowers,50.0,55.0
+2021-11-03 11:30:43,Raymond James,Outperform,,main,Lowers,55.0,60.0
+2021-05-05 11:45:13,Raymond James,Outperform,,main,Raises,60.0,48.0
+2021-02-10 10:42:42,Raymond James,Outperform,Strong Buy,down,,0.0,0.0
+2020-11-20 11:20:22,Goldman Sachs,Buy,Neutral,up,Announces,52.0,0.0
+2020-11-04 14:26:13,Piper Sandler,Neutral,,main,Raises,42.0,39.0
+2020-11-04 12:51:51,Raymond James,Strong Buy,,main,Raises,48.0,45.0
+2020-08-05 11:32:18,Raymond James,Strong Buy,,main,Raises,45.0,41.0
+2020-07-28 11:19:57,Raymond James,Strong Buy,,main,Raises,41.0,38.0
+2020-05-28 11:20:36,Raymond James,Strong Buy,,main,Raises,38.0,32.0
+2020-05-18 12:55:07,SunTrust Robinson Humphrey,Hold,,main,Raises,30.0,27.0
+2020-05-14 11:09:44,Raymond James,Strong Buy,Market Perform,up,Announces,32.0,0.0
+2020-05-06 16:02:23,SunTrust Robinson Humphrey,Hold,,main,Lowers,27.0,29.0
+2020-04-16 17:25:12,SunTrust Robinson Humphrey,Hold,,main,Raises,29.0,24.0
+2020-04-15 12:46:06,Piper Sandler,Neutral,,main,Lowers,35.0,47.0
+2020-04-03 16:03:21,SunTrust Robinson Humphrey,Hold,,main,Lowers,24.0,50.0
+2019-11-19 11:21:59,Stifel,Hold,Buy,down,Raises,55.0,52.0
+2019-10-30 11:37:50,SunTrust Robinson Humphrey,Hold,Buy,down,,0.0,0.0
+2019-07-24 10:34:28,Raymond James,Market Perform,Outperform,down,,0.0,0.0
+2018-10-29 10:33:38,Raymond James,Outperform,Strong Buy,down,Announces,44.0,0.0
+2018-05-31 11:20:07,Stifel,Buy,Hold,up,,0.0,0.0
+2018-04-27 12:42:30,Credit Suisse,Neutral,Neutral,main,Lowers,46.0,51.0
+2017-10-30 11:56:11,Piper Sandler,Neutral,Overweight,down,,0.0,59.0
+2017-09-22 11:39:08,SunTrust Robinson Humphrey,Buy,Hold,up,,0.0,0.0
+2017-07-24 13:34:40,Hilliard Lyons,Long-Term Buy,Neutral,up,,0.0,0.0
+2017-06-23 10:29:06,Credit Suisse,Neutral,,init,Announces,56.0,0.0
+2017-06-05 12:13:34,Piper Sandler,Overweight,,init,Announces,59.0,0.0
+2017-02-01 11:36:07,Raymond James,Strong Buy,Market Perform,up,,0.0,0.0
+2016-10-28 04:00:00,Hilliard Lyons,Neutral,Long-Term Buy,down,,0.0,0.0
+2016-08-01 12:26:25,Raymond James,Market Perform,Outperform,down,,0.0,0.0
+2015-09-11 08:33:18,JP Morgan,Overweight,Neutral,up,,0.0,0.0
+2015-08-31 10:55:16,Raymond James,,Market Perform,up,,0.0,0.0
+2015-01-20 12:23:54,"Monness, Crespi, Hardt",Neutral,Buy,down,Raises,45.0,40.0
+2014-11-12 10:53:24,Raymond James,Market Perform,Outperform,down,Removes,40.0,0.0
+2014-10-24 12:30:00,"Monness, Crespi, Hardt",Buy,,main,Raises,40.0,37.0
+2014-09-22 09:44:00,Raymond James,Outperform,Market Perform,up,Announces,38.0,0.0
+2014-01-21 12:53:17,"Monness, Crespi, Hardt",Buy,Neutral,up,,0.0,0.0
+2013-04-29 13:35:14,Hilliard Lyons,Neutral,Long-Term Buy,down,,0.0,0.0
+2013-04-19 12:29:11,"Monness, Crespi, Hardt",Neutral,Buy,down,,0.0,0.0
+2013-03-25 17:12:43,CJS Securities,Market Perform,,init,Announces,35.0,0.0
+2013-03-15 12:18:40,Raymond James,Market Perform,Outperform,down,Removes,0.0,32.0

@@ -1,0 +1,112 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-10-14 13:08:45,Barclays,Equal-Weight,,init,Announces,40.0,0.0
+2026-10-08 18:02:31,UBS,Buy,Buy,main,Lowers,55.0,60.0
+2026-09-18 12:26:12,Wells Fargo,Overweight,Overweight,main,Lowers,79.0,83.0
+2026-08-11 20:14:55,UBS,Buy,,init,Announces,60.0,0.0
+2026-07-07 12:59:11,B. Riley Securities,Buy,Buy,main,Lowers,74.0,86.0
+2026-05-08 14:00:41,Wells Fargo,Overweight,Overweight,main,Raises,79.0,77.0
+2026-04-16 13:14:12,Wells Fargo,Overweight,Overweight,main,Raises,77.0,69.0
+2026-04-07 16:31:41,B. Riley Securities,Buy,Buy,main,Raises,86.0,68.0
+2026-03-12 13:08:11,Wells Fargo,Overweight,Overweight,main,Raises,69.0,61.0
+2026-02-24 16:50:09,B. Riley Securities,Buy,Buy,main,Raises,68.0,64.0
+2026-02-03 12:56:23,B. Riley Securities,Buy,Buy,main,Raises,64.0,37.0
+2026-01-13 15:03:47,Wells Fargo,Overweight,Overweight,main,Raises,61.0,46.0
+2025-12-23 14:40:34,Wells Fargo,Overweight,Overweight,main,Raises,46.0,37.0
+2025-11-07 19:03:29,Wells Fargo,Overweight,Overweight,main,Raises,37.0,34.0
+2025-11-07 13:02:04,BMO Capital,Outperform,Outperform,main,Raises,34.0,30.0
+2025-10-23 13:23:28,Wells Fargo,Overweight,Overweight,main,Lowers,34.0,37.0
+2025-10-08 13:11:25,Wells Fargo,Overweight,,init,Announces,37.0,0.0
+2025-09-09 16:02:44,B. Riley Securities,Buy,Buy,main,Raises,28.0,25.0
+2025-08-08 17:49:00,BMO Capital,Outperform,Outperform,main,Raises,26.0,21.0
+2025-08-08 12:49:08,B. Riley Securities,Buy,Buy,main,Raises,25.0,24.0
+2025-02-24 11:58:03,BMO Capital,Outperform,Market Perform,up,Maintains,22.0,22.0
+2024-12-03 17:43:19,Wolfe Research,Outperform,Peer Perform,up,,0.0,0.0
+2024-11-05 17:36:24,BMO Capital,Market Perform,Market Perform,main,Raises,18.0,16.0
+2024-11-05 16:03:54,B. Riley Securities,Buy,Buy,main,Raises,24.0,22.0
+2024-08-09 16:34:50,B. Riley Securities,Buy,Buy,main,Lowers,22.0,24.0
+2024-08-09 16:00:41,BMO Capital,Market Perform,Market Perform,main,Lowers,15.0,17.0
+2024-05-02 14:12:18,BMO Capital,Market Perform,Market Perform,main,Raises,16.0,15.0
+2024-01-09 10:18:01,B. Riley Securities,Buy,Neutral,up,Raises,14.0,10.0
+2023-12-20 16:50:23,BMO Capital,Market Perform,Market Perform,main,Raises,12.0,8.0
+2023-08-14 13:07:10,B. Riley Securities,Neutral,Neutral,main,Lowers,9.0,10.0
+2023-07-25 12:38:17,B. Riley Securities,Neutral,Neutral,main,Lowers,10.0,12.0
+2023-07-11 10:29:58,Wolfe Research,Underperform,Peer Perform,down,Announces,6.0,0.0
+2023-03-01 13:15:07,B. Riley Securities,Neutral,Buy,down,Announces,12.0,0.0
+2023-02-24 10:37:37,Wolfe Research,Peer Perform,Underperform,up,,0.0,0.0
+2022-09-30 09:06:35,Wolfe Research,Underperform,Peer Perform,down,Announces,4.0,0.0
+2022-06-23 11:19:01,BMO Capital,Market Perform,,main,Lowers,9.0,14.0
+2022-05-18 11:02:23,Wolfe Research,Peer Perform,Outperform,down,Lowers,14.0,30.0
+2022-04-29 14:28:26,BMO Capital,Market Perform,,main,Lowers,24.0,32.0
+2022-04-13 14:07:14,B. Riley Securities,Buy,,main,Raises,32.0,30.0
+2021-11-17 10:22:13,Wolfe Research,Outperform,,init,Announces,19.0,0.0
+2021-07-27 10:12:48,B. Riley Securities,Buy,Neutral,up,,0.0,0.0
+2020-06-25 10:39:38,BMO Capital,Market Perform,Outperform,down,Raises,7.0,6.0
+2020-03-24 11:23:12,B. Riley Securities,Neutral,Buy,down,Lowers,5.0,11.0
+2020-02-21 12:39:11,B. Riley Securities,Buy,,main,Raises,11.0,10.0
+2020-02-18 15:11:49,B. Riley Securities,Buy,,main,Lowers,10.0,11.0
+2020-02-18 12:05:09,B. Riley Securities,Buy,,main,Lowers,10.0,11.0
+2019-11-06 14:40:56,BMO Capital,Outperform,,main,Raises,9.0,7.0
+2019-03-26 11:08:20,Morgan Stanley,Equal-Weight,Equal-Weight,main,Lowers,9.0,10.0
+2019-01-14 13:04:48,Berenberg,Hold,Sell,up,Lowers,9.0,10.0
+2018-12-21 12:10:54,Morgan Stanley,Equal-Weight,,init,Announces,10.0,0.0
+2018-10-26 14:48:00,BMO Capital,Outperform,Outperform,main,Lowers,14.0,17.0
+2018-10-04 12:43:06,B. Riley Securities,Buy,Buy,main,Lowers,20.0,23.0
+2018-10-02 12:51:23,Deutsche Bank,Hold,Buy,down,Lowers,15.0,20.0
+2018-08-02 13:13:26,B. Riley Securities,Buy,Buy,main,Lowers,25.0,27.0
+2018-08-02 13:04:01,Deutsche Bank,Buy,Hold,up,,0.0,20.0
+2018-08-02 12:47:22,BMO Capital,Outperform,Outperform,main,Lowers,22.0,28.0
+2018-06-21 12:04:32,B. Riley Securities,Buy,,init,Announces,27.0,0.0
+2018-05-04 12:28:55,JP Morgan,Neutral,Overweight,down,,0.0,29.0
+2018-04-11 11:12:53,Deutsche Bank,Hold,Hold,main,Raises,20.0,18.0
+2018-03-14 12:40:47,JP Morgan,Overweight,Overweight,main,Raises,29.0,18.0
+2018-03-14 11:41:20,JP Morgan,Overweight,Neutral,up,,0.0,14.5
+2018-03-13 10:52:10,Cowen & Co.,Outperform,Market Perform,up,,0.0,0.0
+2018-03-12 10:56:04,BMO Capital,Outperform,Market Perform,up,,0.0,20.0
+2018-02-23 14:25:16,BMO Capital,Market Perform,Market Perform,main,Raises,20.0,18.0
+2017-12-20 12:26:36,Deutsche Bank,Hold,Buy,down,,0.0,0.0
+2017-10-30 13:15:15,JP Morgan,Neutral,,main,Lowers,14.5,22.0
+2017-10-30 11:29:07,JP Morgan,Neutral,Overweight,down,,0.0,0.0
+2017-10-27 17:27:15,BMO Capital,Market Perform,,main,Lowers,16.0,18.0
+2017-10-17 11:29:09,Deutsche Bank,Buy,Hold,up,,0.0,0.0
+2017-08-21 10:38:53,JP Morgan,Overweight,Neutral,up,,0.0,0.0
+2017-06-23 11:14:05,Deutsche Bank,Hold,Sell,up,,0.0,0.0
+2017-02-28 12:11:16,Deutsche Bank,Sell,Hold,down,,0.0,0.0
+2017-01-19 19:02:37,Standpoint Research,Hold,Buy,down,,0.0,0.0
+2016-10-28 04:00:00,JP Morgan,Neutral,Underweight,up,,0.0,0.0
+2016-02-23 11:43:05,BMO Capital,Market Perform,Outperform,down,,0.0,0.0
+2016-02-22 11:34:59,Deutsche Bank,Hold,,main,Raises,6.0,4.0
+2015-11-09 10:26:25,Nomura,Neutral,Buy,down,,0.0,0.0
+2015-10-05 09:41:03,Deutsche Bank,Hold,Buy,down,Lowers,7.0,10.0
+2015-08-28 17:41:28,Deutsche Bank,Buy,,main,Lowers,10.0,19.0
+2015-05-28 13:00:00,JP Morgan,Underweight,,main,Lowers,5.0,7.0
+2015-04-06 13:00:00,Deutsche Bank,Buy,,main,Lowers,25.0,27.0
+2015-03-31 13:00:00,JP Morgan,Underweight,,main,Lowers,8.0,14.0
+2015-03-24 11:09:17,Morgan Stanley,Underweight,Equal-Weight,down,,0.0,0.0
+2015-03-18 19:55:09,Standpoint Research,Buy,Hold,up,,0.0,0.0
+2015-03-05 14:00:00,Deutsche Bank,Buy,,main,Lowers,27.0,32.0
+2015-03-05 10:08:11,Morgan Stanley,Equal-Weight,Overweight,down,Lowers,18.0,29.0
+2015-03-04 11:12:14,B of A Securities,Neutral,Buy,down,,0.0,0.0
+2015-02-09 11:11:39,JP Morgan,Underweight,Neutral,down,Lowers,17.5,20.0
+2015-01-23 14:10:54,JP Morgan,Neutral,Overweight,down,Lowers,20.0,24.0
+2014-09-30 12:01:48,B of A Securities,Buy,Neutral,up,Raises,30.0,21.0
+2014-09-03 11:33:30,Deutsche Bank,Buy,,init,Announces,30.0,0.0
+2014-09-02 11:36:29,Morgan Stanley,Overweight,Equal-Weight,up,Announces,33.0,0.0
+2014-08-01 01:40:58,JP Morgan,Overweight,,main,Raises,24.0,15.0
+2014-07-07 12:06:58,Goldman Sachs,Neutral,Sell,up,Raises,15.5,8.0
+2014-06-02 12:28:25,B of A Securities,Neutral,Underperform,up,Raises,14.0,9.0
+2014-05-07 13:10:58,Furey Research,Buy,,init,Announces,18.5,0.0
+2014-02-05 13:00:00,Cowen & Co.,Market Perform,Outperform,down,Lowers,9.0,10.0
+2014-01-21 12:46:24,JP Morgan,Overweight,Underweight,up,Raises,13.0,6.0
+2013-12-17 21:00:00,JP Morgan,Underweight,Neutral,down,Lowers,6.0,9.0
+2013-09-17 19:15:15,Wellington Shields,Sell,,init,Announces,6.0,0.0
+2013-06-19 10:21:28,B of A Securities,Underperform,Neutral,down,Maintains,9.0,0.0
+2013-06-17 12:03:28,Morgan Stanley,Equal-Weight,Underweight,up,,0.0,0.0
+2013-04-30 10:16:36,Cowen & Co.,Buy,Hold,up,Announces,13.0,0.0
+2013-04-29 17:31:03,Davenport,Buy,Neutral,up,Raises,14.0,7.0
+2013-01-28 12:56:25,Goldman Sachs,Sell,Neutral,down,Maintains,7.0,0.0
+2013-01-11 13:42:54,CRT Capital,Sell,Fair Value,down,,0.0,0.0
+2012-07-25 16:13:00,Barclays,Overweight,,main,Lowers,9.0,12.0
+2012-07-25 10:09:00,JP Morgan,Neutral,,main,Raises,7.0,6.0
+2012-07-11 10:37:00,BMO Capital,Underperform,Market Perform,down,,0.0,0.0
+2012-04-25 10:53:00,JP Morgan,Neutral,,main,Raises,10.0,9.0
+2012-04-25 10:20:00,B of A Securities,Neutral,Underperform,up,Raises,10.0,9.0
