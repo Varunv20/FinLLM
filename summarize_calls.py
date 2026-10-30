@@ -6,8 +6,9 @@ in main.py (--summaries) reads the short version instead of the full ~10.5k-toke
     python summarize_calls.py --calls-file runs/anon_openai_gpt-oss-20b_2018_calls.csv
     python summarize_calls.py --preview 5             # print 5 summaries next to their inputs
 
-Summarizer: a light mixture-of-experts model (Qwen3-30B-A3B-Instruct-2507-FP8: 30B weights,
-3B active per token, ~31 GB in FP8, no reasoning tokens), run with vLLM in big batches.
+Summarizer: gpt-oss-20b, a light mixture-of-experts model (21B weights, 3.6B active per token,
+~13 GB in MXFP4) and the same weights main.py uses, at low reasoning effort, run with vLLM in
+big batches. --model Qwen/Qwen3-30B-A3B-Instruct-2507-FP8 is a non-reasoning alternative (~31 GB).
 It reads the anonymized transcripts by default, so names don't come back in the summary,
 and is told to report only what was said, neutrally, without any buy / sell view.
 
@@ -26,7 +27,7 @@ import pandas as pd
 
 import llms
 
-MODEL = "Qwen/Qwen3-30B-A3B-Instruct-2507-FP8"
+MODEL = "openai/gpt-oss-20b"  # same weights as main.py's default, so only one 13 GB download
 PROMPT_VERSION = 1
 SUMMARY_PROMPT = """You are preparing a factual brief of an earnings conference call for a reader who will not see the transcript.
 
@@ -47,16 +48,18 @@ Rules:
 
 Transcript:
 """
-MAX_INPUT_TOKENS = 30000
-MAX_NEW_TOKENS = 2048
+MAX_INPUT_TOKENS = 28000
+MAX_NEW_TOKENS = 4096  # brief reasoning + the ~1,000-1,400-token summary
 OUT_DIR = llms.SUMMARIES_PATH
 
 
 def _final(text):
     """The reply without any reasoning a thinking model put first; "" if the reasoning never
     finished (main.py --summaries skips calls whose summary is empty)."""
-    text = text.rsplit("assistantfinal", 1)[-1].rsplit("</think>", 1)[-1].strip()
-    return "" if text.startswith("<think>") else text
+    if "assistantfinal" in text:            # gpt-oss: "analysis...assistantfinal<summary>"
+        return text.rsplit("assistantfinal", 1)[-1].strip()
+    text = text.rsplit("</think>", 1)[-1].strip()
+    return "" if text.startswith(("<think>", "analysis")) else text
 
 
 def select(year, calls_file):
@@ -86,7 +89,9 @@ def run(calls, anonymized=True, batch_size=256, model=MODEL, preview=0, max_inpu
     print(f"{len(calls)} calls; {len(calls) - len(todo)} already summarized, {len(todo)} to go", flush=True)
     if todo.empty:
         return
-    agent = Agent(provider="huggingface", llm=model, max_model_len=32768)
+    # low reasoning effort: gpt-oss thinks briefly before writing (other models ignore it)
+    agent = Agent(provider="huggingface", llm=model, max_model_len=32768,
+                  reasoning_effort="low" if "gpt-oss" in model else None)
     os.makedirs(OUT_DIR, exist_ok=True)
     t0 = time.time()
     for start in range(0, len(todo), batch_size):
