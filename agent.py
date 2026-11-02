@@ -93,6 +93,9 @@ class Agent:
         return "fp8" if self.engine == "vllm" else "int4"
 
     def _load_vllm(self, quant, gpu_memory_utilization):
+        # FlashInfer's sampler compiles CUDA code on first use, which needs nvcc; cluster GPU
+        # nodes often lack it. vLLM's PyTorch sampler needs nothing and decoding is greedy anyway.
+        os.environ.setdefault("VLLM_USE_FLASHINFER_SAMPLER", "0")
         from vllm import LLM
         kwargs = dict(model=self.model, max_model_len=self.max_model_len,
                       gpu_memory_utilization=gpu_memory_utilization,
