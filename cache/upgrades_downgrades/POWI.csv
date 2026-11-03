@@ -1,0 +1,101 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-10-21 12:48:29,Susquehanna,Positive,Positive,main,Lowers,70.0,85.0
+2026-10-05 11:19:22,Stifel,Buy,Buy,main,Lowers,72.0,80.0
+2026-08-06 14:23:16,Stifel,Buy,Buy,main,Lowers,80.0,95.0
+2026-08-06 09:57:31,Needham,Buy,Buy,main,Lowers,80.0,90.0
+2026-06-24 14:51:35,Stifel,Buy,Buy,main,Raises,95.0,82.0
+2026-06-10 09:34:33,Needham,Buy,,init,Announces,90.0,0.0
+2026-05-08 12:54:16,Susquehanna,Positive,Positive,main,Raises,85.0,70.0
+2026-04-16 12:40:11,Stifel,Buy,Buy,main,Raises,62.0,56.0
+2026-04-06 12:43:47,Benchmark,Buy,Buy,main,Raises,65.0,55.0
+2026-02-06 12:46:08,Benchmark,Buy,Buy,reit,Maintains,55.0,55.0
+2026-01-22 13:16:47,Susquehanna,Positive,Positive,main,Raises,53.0,50.0
+2026-01-16 14:21:36,Benchmark,Buy,Buy,main,Raises,55.0,50.0
+2025-12-10 12:36:10,Benchmark,Buy,Buy,reit,Maintains,50.0,50.0
+2025-11-06 20:01:08,Susquehanna,Positive,Positive,main,Lowers,50.0,55.0
+2025-11-06 12:56:17,Benchmark,Buy,Buy,main,Lowers,50.0,55.0
+2025-09-23 11:38:33,Benchmark,Buy,Buy,reit,Maintains,55.0,55.0
+2025-08-11 10:30:19,Benchmark,Buy,Buy,main,Lowers,55.0,70.0
+2025-08-07 12:13:28,Susquehanna,Positive,Positive,main,Lowers,55.0,70.0
+2025-07-16 11:38:49,Benchmark,Buy,Buy,reit,Announces,70.0,0.0
+2025-05-13 16:27:00,Stifel,Buy,Buy,main,Raises,75.0,70.0
+2025-04-17 13:55:52,Stifel,Buy,Buy,main,Lowers,70.0,90.0
+2025-02-07 12:21:17,Benchmark,Buy,Buy,reit,Maintains,78.0,78.0
+2024-11-08 15:05:13,Benchmark,Buy,Buy,reit,Maintains,78.0,78.0
+2024-11-07 15:58:27,Susquehanna,Positive,Positive,main,Lowers,77.0,80.0
+2024-09-11 10:27:44,Benchmark,Buy,Buy,reit,Maintains,78.0,78.0
+2024-08-12 17:46:38,Northland Capital Markets,Outperform,Market Perform,up,Announces,80.0,0.0
+2024-08-08 12:27:36,Susquehanna,Positive,Positive,main,Lowers,80.0,95.0
+2024-08-07 21:23:17,TD Cowen,Hold,Hold,main,Lowers,70.0,80.0
+2024-08-07 19:11:55,Benchmark,Buy,Buy,main,Lowers,78.0,90.0
+2024-08-07 17:38:02,Deutsche Bank,Hold,Hold,main,Lowers,68.0,73.0
+2024-08-05 13:29:20,Stifel,Buy,Buy,reit,Lowers,95.0,100.0
+2024-06-07 13:28:47,Benchmark,Buy,Buy,reit,Maintains,90.0,90.0
+2024-02-12 12:08:37,Northland Capital Markets,Underperform,Market Perform,down,Maintains,67.0,67.0
+2024-02-09 19:29:03,Benchmark,Buy,Buy,main,Raises,90.0,80.0
+2024-01-02 19:54:30,Stifel,Buy,Buy,main,Raises,100.0,90.0
+2023-12-18 11:54:45,Susquehanna,Positive,Positive,main,Raises,100.0,80.0
+2023-11-08 21:12:35,Stifel,Buy,Buy,main,Lowers,90.0,105.0
+2023-11-08 20:43:53,Susquehanna,Positive,Positive,main,Lowers,80.0,90.0
+2023-10-24 15:21:18,Susquehanna,Positive,Positive,main,Lowers,90.0,100.0
+2023-08-04 16:52:44,Susquehanna,Positive,Positive,main,Lowers,100.0,105.0
+2023-07-25 11:20:14,Susquehanna,Positive,Positive,main,Raises,105.0,100.0
+2023-07-20 16:26:30,Stifel,Buy,Buy,main,Raises,110.0,95.0
+2023-07-17 13:31:17,Northland Capital Markets,Market Perform,Outperform,down,Announces,82.0,0.0
+2023-05-01 12:37:38,Northland Capital Markets,Outperform,Market Perform,up,Raises,82.0,66.0
+2023-04-25 14:03:10,Susquehanna,Positive,,main,Lowers,95.0,100.0
+2023-02-08 12:45:07,Benchmark,Buy,,main,Raises,95.0,75.0
+2023-02-07 14:52:16,Deutsche Bank,Hold,,main,Raises,75.0,70.0
+2023-02-07 12:48:58,Cowen & Co.,Market Perform,,main,Raises,85.0,65.0
+2022-11-21 14:35:32,Northland Capital Markets,Market Perform,Outperform,down,,0.0,0.0
+2022-11-03 08:39:40,Cowen & Co.,Market Perform,Outperform,down,Lowers,65.0,90.0
+2022-10-18 12:55:11,Deutsche Bank,Hold,,main,Lowers,75.0,80.0
+2022-08-05 14:43:20,Susquehanna,Positive,,main,Lowers,98.0,105.0
+2022-07-20 13:06:11,Deutsche Bank,Hold,,main,Lowers,80.0,90.0
+2022-03-07 13:37:50,Susquehanna,Positive,,main,Raises,105.0,100.0
+2022-02-07 12:56:48,Susquehanna,Positive,Neutral,up,Announces,100.0,0.0
+2022-02-04 13:41:00,Susquehanna,Neutral,,main,Lowers,95.0,105.0
+2021-08-19 11:44:48,Benchmark,Buy,,init,Announces,115.0,0.0
+2021-07-30 15:32:14,Northland Capital Markets,Outperform,Market Perform,up,Announces,99.0,0.0
+2021-02-03 17:32:21,Cowen & Co.,Outperform,,main,Raises,100.0,90.0
+2020-08-20 11:33:42,Northland Capital Markets,Market Perform,Underperform,up,Announces,65.0,0.0
+2020-05-08 15:44:28,Deutsche Bank,Hold,,main,Raises,93.0,90.0
+2020-04-30 13:07:58,Stifel,Buy,,main,Raises,119.0,105.0
+2019-10-25 11:45:49,Loop Capital,Buy,Hold,up,Announces,102.0,0.0
+2019-07-29 11:21:33,Northland Capital Markets,Underperform,Market Perform,down,,0.0,0.0
+2019-07-18 10:31:04,Stifel,Buy,Hold,up,Raises,90.0,74.0
+2018-10-26 10:36:11,Loop Capital,Hold,Buy,down,Lowers,60.0,86.0
+2018-09-12 11:06:03,Stifel,Hold,Buy,down,Lowers,75.0,85.0
+2018-06-22 11:48:58,Loop Capital,Buy,,init,Announces,89.0,0.0
+2017-12-13 13:48:52,Susquehanna,Neutral,,init,Announces,80.0,0.0
+2017-07-25 10:06:27,Deutsche Bank,Hold,Buy,down,,0.0,0.0
+2016-12-22 13:11:42,Drexel Hamilton,Buy,,init,,0.0,0.0
+2016-07-29 16:58:39,Deutsche Bank,Buy,,main,Raises,65.0,55.0
+2016-06-23 13:45:54,Sidoti & Co.,Neutral,Buy,down,,0.0,0.0
+2016-02-05 10:01:00,Stifel,Buy,,main,Lowers,56.0,58.0
+2016-02-05 10:00:58,Deutsche Bank,Buy,,main,Lowers,50.0,53.0
+2016-01-08 15:09:06,Sidoti & Co.,Buy,Neutral,up,,0.0,0.0
+2015-11-23 15:06:16,Sidoti & Co.,Neutral,Buy,down,,0.0,0.0
+2015-07-30 15:00:00,Stifel,Buy,,main,Lowers,56.0,60.0
+2015-05-01 13:00:00,Stifel,Buy,,main,Lowers,60.0,62.0
+2015-03-27 10:36:56,Raymond James,Market Perform,Outperform,down,Removes,0.0,57.0
+2014-07-30 05:53:43,Deutsche Bank,Buy,,main,Raises,60.0,52.0
+2014-06-07 02:30:08,Raymond James,Outperform,,main,Raises,59.0,55.0
+2014-04-30 20:00:00,Deutsche Bank,Buy,Hold,up,Maintains,52.0,0.0
+2014-02-04 12:10:44,Stifel,Buy,,main,Raises,66.0,62.0
+2014-01-22 13:00:00,Raymond James,Outperform,Market Perform,up,Announces,66.0,0.0
+2013-11-08 14:44:32,Stifel,Buy,,main,Raises,62.0,58.0
+2013-10-31 12:45:59,Deutsche Bank,Hold,,main,Raises,48.0,46.0
+2013-05-03 11:59:19,Deutsche Bank,Hold,,main,Lowers,43.0,45.0
+2013-03-28 12:09:49,Stifel,Buy,,main,Raises,47.0,44.0
+2013-02-11 11:29:05,Deutsche Bank,Hold,Buy,down,Maintains,45.0,0.0
+2013-02-05 13:34:59,Deutsche Bank,Buy,,main,Raises,45.0,40.0
+2013-02-05 12:55:37,Stifel,Buy,,main,Raises,44.0,40.0
+2012-10-23 09:54:00,Sterne Agee,Buy,Neutral,up,Announces,35.0,0.0
+2012-10-22 13:50:00,ISI Group,Hold,,main,Lowers,30.0,33.0
+2012-10-10 11:07:00,Deutsche Bank,Buy,,main,Lowers,40.0,43.0
+2012-10-08 11:52:00,ISI Group,Hold,Buy,down,Lowers,33.0,44.0
+2012-08-07 11:57:00,Piper Sandler,Neutral,,main,Lowers,36.0,41.0
+2012-08-07 10:04:00,Deutsche Bank,Buy,,main,Lowers,43.0,44.0
+2012-05-04 12:25:00,Stifel,Buy,,main,Raises,45.0,44.0
+2012-05-04 10:45:00,Deutsche Bank,Buy,,main,Raises,45.0,42.0

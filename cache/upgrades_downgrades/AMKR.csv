@@ -1,0 +1,96 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-10-27 14:11:56,B. Riley Securities,Neutral,Neutral,main,Lowers,41.0,46.0
+2026-10-27 12:01:36,Morgan Stanley,Equal-Weight,Equal-Weight,main,Lowers,63.0,70.0
+2026-10-27 09:59:46,Needham,Buy,Buy,main,Lowers,55.0,90.0
+2026-10-20 17:37:32,B. Riley Securities,Neutral,Neutral,main,Lowers,46.0,65.0
+2026-08-27 18:21:06,B of A Securities,Buy,,init,Announces,70.0,0.0
+2026-07-28 17:03:19,Morgan Stanley,Equal-Weight,Equal-Weight,main,Raises,70.0,69.0
+2026-07-28 12:19:05,B. Riley Securities,Neutral,Neutral,main,Lowers,65.0,75.0
+2026-07-28 10:06:36,Needham,Buy,Buy,reit,Maintains,90.0,90.0
+2026-07-25 01:17:19,UBS,Buy,Neutral,up,Raises,90.0,80.0
+2026-07-22 16:42:47,B. Riley Securities,Neutral,Neutral,main,Lowers,75.0,90.0
+2026-06-25 14:51:23,B. Riley Securities,Neutral,Neutral,main,Raises,90.0,70.0
+2026-04-28 16:21:35,B. Riley Securities,Neutral,Neutral,main,Raises,70.0,65.0
+2026-04-28 15:24:08,Goldman Sachs,Neutral,Neutral,main,Raises,65.0,43.0
+2026-04-28 13:42:27,Morgan Stanley,Equal-Weight,Equal-Weight,main,Raises,69.0,45.0
+2026-04-28 10:25:33,Needham,Buy,Buy,main,Raises,90.0,65.0
+2026-02-11 17:35:21,Goldman Sachs,Neutral,Neutral,main,Raises,43.0,38.0
+2026-02-10 20:17:20,JP Morgan,Overweight,Overweight,main,Raises,65.0,32.0
+2026-02-10 14:58:21,Morgan Stanley,Equal-Weight,Equal-Weight,main,Raises,45.0,28.0
+2026-02-10 12:06:05,Needham,Buy,Buy,main,Raises,65.0,50.0
+2026-01-15 18:03:50,B. Riley Securities,Neutral,Neutral,main,Raises,48.0,29.0
+2026-01-12 13:38:59,UBS,Neutral,Buy,down,Raises,55.0,38.0
+2026-01-05 12:29:44,Needham,Buy,Buy,main,Raises,50.0,37.0
+2025-11-03 19:55:23,Aletheia Capital,Buy,,init,Announces,62.0,0.0
+2025-10-28 18:46:02,DA Davidson,Buy,Buy,main,Raises,40.0,30.0
+2025-10-28 16:22:55,Goldman Sachs,Neutral,Neutral,main,Raises,29.0,26.0
+2025-10-28 12:22:07,JP Morgan,Overweight,Overweight,main,Raises,32.0,27.0
+2025-10-28 09:41:13,Needham,Buy,Buy,main,Raises,37.0,32.0
+2025-10-09 17:37:44,Goldman Sachs,Neutral,Neutral,main,Raises,26.0,22.0
+2025-07-29 17:52:29,B. Riley Securities,Neutral,Neutral,main,Raises,24.0,18.0
+2025-07-29 15:49:04,JP Morgan,Overweight,Overweight,main,Raises,27.0,25.0
+2025-07-29 15:25:21,Morgan Stanley,Equal-Weight,Equal-Weight,main,Raises,20.0,19.0
+2025-07-29 14:02:31,UBS,Buy,Buy,main,Raises,25.0,23.0
+2025-07-29 09:41:44,Needham,Buy,Buy,main,Raises,28.0,22.0
+2025-07-10 12:29:35,Goldman Sachs,Neutral,,init,Announces,20.0,0.0
+2025-04-29 15:04:42,JP Morgan,Overweight,Overweight,main,Lowers,25.0,30.0
+2025-04-29 12:57:39,Morgan Stanley,Equal-Weight,Equal-Weight,main,Lowers,19.0,24.0
+2025-04-29 12:42:03,DA Davidson,Buy,Buy,main,Lowers,30.0,36.0
+2025-04-29 11:04:37,Needham,Buy,Buy,main,Lowers,22.0,34.0
+2025-04-17 10:50:04,Keybanc,Sector Weight,Overweight,down,,0.0,0.0
+2025-02-11 14:12:01,B. Riley Securities,Buy,Buy,main,Lowers,32.0,38.0
+2025-02-11 13:52:50,JP Morgan,Overweight,Overweight,main,Lowers,30.0,42.0
+2025-02-11 12:38:38,Morgan Stanley,Equal-Weight,Equal-Weight,main,Lowers,24.0,26.0
+2025-02-11 12:26:35,Needham,Buy,Buy,reit,Maintains,34.0,34.0
+2024-10-29 16:46:30,DA Davidson,Buy,Buy,main,Lowers,36.0,40.0
+2024-10-29 16:03:13,Goldman Sachs,Neutral,Neutral,main,Lowers,32.0,36.0
+2024-10-29 15:01:56,JP Morgan,Overweight,Overweight,main,Lowers,42.0,48.0
+2024-10-29 11:54:34,Keybanc,Overweight,Overweight,main,Lowers,34.0,38.0
+2024-10-29 11:25:25,Morgan Stanley,Equal-Weight,Equal-Weight,main,Lowers,26.0,35.0
+2024-10-29 10:59:18,Needham,Buy,Buy,main,Lowers,34.0,45.0
+2024-09-20 09:51:42,Keybanc,Overweight,,init,Announces,38.0,0.0
+2024-07-30 11:13:02,Needham,Buy,Buy,main,Raises,45.0,40.0
+2024-07-02 17:02:34,Morgan Stanley,Equal-Weight,Equal-Weight,main,Raises,38.0,34.0
+2024-07-01 14:15:57,JP Morgan,Overweight,,init,Announces,48.0,0.0
+2024-06-20 13:19:24,B. Riley Securities,Buy,Buy,main,Raises,50.0,45.0
+2024-05-01 16:39:59,Goldman Sachs,Neutral,Neutral,main,Raises,36.0,32.0
+2024-04-30 16:56:35,DA Davidson,Buy,Buy,main,Raises,40.0,35.0
+2024-04-30 16:52:32,Morgan Stanley,Equal-Weight,Equal-Weight,main,Raises,34.0,32.0
+2024-04-30 12:35:32,B. Riley Securities,Buy,Buy,reit,Raises,45.0,43.0
+2024-04-30 10:53:39,Needham,Buy,Buy,reit,Maintains,40.0,40.0
+2024-04-09 09:34:25,Needham,Buy,,init,Announces,40.0,0.0
+2024-03-14 12:08:11,Fox Advisors,Equal-Weight,,init,,0.0,0.0
+2024-02-29 11:02:07,Goldman Sachs,Neutral,,init,Announces,32.0,0.0
+2023-12-12 15:13:53,B. Riley Securities,Buy,Buy,main,Raises,40.0,35.0
+2023-11-27 13:47:42,Melius Research,Buy,,init,Announces,35.0,0.0
+2023-11-16 10:19:27,B. Riley Securities,Buy,,init,Announces,35.0,0.0
+2023-11-09 10:06:28,Morgan Stanley,Equal-Weight,,init,Announces,27.0,0.0
+2023-08-01 16:49:22,DA Davidson,Buy,Buy,main,Raises,36.0,32.0
+2023-05-02 13:06:52,DA Davidson,Buy,,main,Lowers,32.0,35.0
+2022-06-30 09:09:47,DA Davidson,Buy,,init,Announces,30.0,0.0
+2021-10-12 10:08:48,Credit Suisse,Neutral,Outperform,down,Lowers,27.0,28.5
+2020-09-14 11:58:23,Credit Suisse,Outperform,Neutral,up,Announces,16.0,0.0
+2020-04-29 16:02:46,Citigroup,Sell,,main,Lowers,9.2,12.0
+2020-04-28 13:19:20,Sidoti & Co.,Buy,,main,Raises,14.0,10.0
+2020-04-28 12:03:16,Deutsche Bank,Hold,,main,Raises,11.0,10.0
+2020-04-28 09:54:58,Credit Suisse,Neutral,Outperform,down,,0.0,0.0
+2020-03-27 13:51:54,Deutsche Bank,Hold,,main,Lowers,10.0,14.0
+2019-10-29 10:47:48,Credit Suisse,Outperform,Neutral,up,Raises,15.0,8.2
+2018-10-31 14:01:20,Citigroup,Sell,Sell,main,Lowers,7.0,8.5
+2018-10-30 14:12:14,Deutsche Bank,Hold,Hold,main,Lowers,7.0,10.0
+2018-07-31 11:53:13,Deutsche Bank,Hold,Hold,main,Raises,10.0,9.5
+2018-04-30 11:48:55,Citigroup,Sell,Sell,main,Lowers,8.75,9.25
+2016-08-03 18:21:53,Citigroup,Sell,,main,Raises,6.2,5.0
+2016-05-25 12:38:07,Citigroup,Sell,Neutral,down,,0.0,0.0
+2015-09-15 11:22:29,Citigroup,Neutral,Buy,down,Lowers,5.8,7.0
+2015-02-10 14:00:00,Deutsche Bank,Hold,,main,Raises,8.0,7.0
+2014-10-28 10:54:59,Credit Suisse,Neutral,,main,Lowers,8.0,10.2
+2014-08-08 20:00:00,Citigroup,Buy,,main,Raises,11.5,8.25
+2014-07-30 02:38:30,Deutsche Bank,Buy,,main,Raises,10.0,7.0
+2014-04-30 03:22:40,Topeka Capital,Buy,,main,Raises,9.0,6.0
+2014-04-30 02:11:21,Deutsche Bank,Hold,,main,Raises,7.0,5.0
+2014-04-23 02:39:11,Citigroup,Buy,,main,Raises,8.25,6.0
+2013-11-11 16:18:25,Sidoti & Co.,Neutral,Buy,down,,0.0,0.0
+2013-06-12 15:08:42,Sidoti & Co.,Buy,,init,Announces,6.0,0.0
+2013-06-06 20:18:16,Topeka Capital,Buy,,init,Announces,5.0,0.0
+2012-07-27 10:50:00,Deutsche Bank,Hold,,main,Lowers,5.0,6.0

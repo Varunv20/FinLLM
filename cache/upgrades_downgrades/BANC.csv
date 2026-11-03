@@ -1,0 +1,137 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-10-05 14:57:39,Barclays,Overweight,Overweight,main,Raises,23.0,22.0
+2026-10-01 13:21:13,Piper Sandler,Overweight,Overweight,main,Lowers,22.0,23.0
+2026-09-30 14:09:53,Wells Fargo,Overweight,Overweight,main,Lowers,22.0,23.0
+2026-09-14 14:17:14,UBS,Neutral,,init,Announces,20.0,0.0
+2026-08-03 10:51:46,Barclays,Overweight,Overweight,main,Lowers,22.0,23.0
+2026-07-31 20:03:47,Citigroup,Buy,Buy,main,Lowers,22.0,23.5
+2026-07-06 11:29:55,Wells Fargo,Overweight,Overweight,main,Raises,23.0,22.0
+2026-07-01 13:47:09,JP Morgan,Overweight,Overweight,main,Raises,24.0,22.0
+2026-04-28 15:12:35,DA Davidson,Buy,Buy,main,Maintains,24.0,24.0
+2026-04-27 15:43:40,Piper Sandler,Overweight,Overweight,main,Raises,23.0,22.0
+2026-04-24 15:55:29,JP Morgan,Overweight,Overweight,main,Raises,22.0,20.5
+2026-04-07 16:08:46,Barclays,Overweight,Overweight,main,Lowers,23.0,25.0
+2026-04-02 12:56:50,Piper Sandler,Overweight,Overweight,main,Lowers,22.0,25.0
+2026-04-01 19:38:27,JP Morgan,Overweight,Overweight,main,Lowers,20.5,25.0
+2026-03-30 15:01:39,Wells Fargo,Overweight,Overweight,main,Raises,22.0,20.0
+2026-01-26 17:46:13,Piper Sandler,Overweight,Overweight,main,Raises,25.0,24.0
+2026-01-23 11:11:18,"Keefe, Bruyette & Woods",Outperform,Outperform,main,Raises,23.0,22.0
+2025-12-19 17:55:45,Barclays,Overweight,Overweight,main,Raises,25.0,21.0
+2025-12-16 15:37:50,JP Morgan,Overweight,Overweight,main,Raises,24.0,21.0
+2025-10-27 16:46:21,Citigroup,Buy,Neutral,up,Raises,21.5,18.0
+2025-10-24 20:21:33,DA Davidson,Buy,Buy,main,Raises,21.0,20.0
+2025-10-24 12:44:14,JP Morgan,Overweight,Overweight,main,Raises,21.0,20.0
+2025-10-08 15:02:12,Barclays,Overweight,Overweight,main,Raises,21.0,19.0
+2025-10-01 11:00:46,JP Morgan,Overweight,Neutral,up,Raises,20.0,17.0
+2025-09-29 12:57:08,Wells Fargo,Overweight,Overweight,main,Raises,20.0,18.0
+2025-07-29 14:28:36,Wells Fargo,Overweight,Overweight,main,Raises,18.0,16.0
+2025-07-25 13:06:33,"Keefe, Bruyette & Woods",Outperform,Outperform,reit,Raises,18.0,17.0
+2025-07-08 18:34:37,Barclays,Overweight,Overweight,main,Raises,19.0,18.0
+2025-07-01 16:01:12,JP Morgan,Neutral,Neutral,main,Raises,16.0,15.0
+2025-05-21 11:24:29,Jefferies,Buy,,init,Announces,18.0,0.0
+2025-04-28 15:09:23,JP Morgan,Neutral,Neutral,main,Lowers,15.0,16.0
+2025-04-28 13:52:39,Stephens & Co.,Equal-Weight,Equal-Weight,main,Maintains,15.0,15.0
+2025-04-25 15:34:11,Baird,Outperform,Outperform,main,Lowers,17.0,19.0
+2025-04-09 18:10:05,Wells Fargo,Overweight,Overweight,main,Lowers,16.0,20.0
+2025-04-08 19:23:59,Barclays,Overweight,Overweight,main,Lowers,18.0,19.0
+2025-02-07 11:02:59,JP Morgan,Neutral,,init,Announces,18.0,0.0
+2025-01-27 14:19:58,Stephens & Co.,Equal-Weight,Equal-Weight,main,Lowers,17.0,18.0
+2025-01-24 17:21:50,Raymond James,Outperform,Outperform,main,Raises,18.0,17.0
+2025-01-24 14:09:15,Barclays,Overweight,Overweight,main,Lowers,19.0,20.0
+2025-01-06 13:31:26,Wells Fargo,Overweight,Equal-Weight,up,Raises,20.0,17.0
+2024-12-05 14:20:41,Barclays,Overweight,Overweight,main,Raises,20.0,18.0
+2024-12-04 15:10:57,"Keefe, Bruyette & Woods",Outperform,Outperform,main,Raises,20.0,17.5
+2024-10-31 11:21:54,Barclays,Overweight,Equal-Weight,up,Raises,18.0,17.0
+2024-10-24 12:05:35,Stephens & Co.,Equal-Weight,Equal-Weight,main,Raises,16.0,15.0
+2024-10-23 16:42:19,DA Davidson,Buy,Buy,main,Raises,19.0,16.5
+2024-10-23 15:14:19,Wedbush,Outperform,Outperform,main,Raises,19.0,18.0
+2024-10-23 14:36:54,Wells Fargo,Equal-Weight,Equal-Weight,main,Raises,17.0,16.0
+2024-10-23 13:19:09,Raymond James,Outperform,Outperform,main,Raises,17.0,16.0
+2024-10-23 10:53:40,Barclays,Equal-Weight,Equal-Weight,main,Raises,17.0,16.0
+2024-10-10 13:40:04,Citigroup,Neutral,,init,Announces,15.0,0.0
+2024-10-01 19:36:04,Wells Fargo,Equal-Weight,Equal-Weight,main,Raises,16.0,15.0
+2024-09-27 14:19:00,Barclays,Equal-Weight,Equal-Weight,main,Raises,16.0,14.0
+2024-09-24 11:07:47,Wedbush,Outperform,Neutral,up,Raises,18.0,14.0
+2024-09-20 14:44:52,Truist Securities,Hold,Hold,main,Raises,16.0,15.0
+2024-09-17 15:58:37,Raymond James,Outperform,Market Perform,up,Announces,16.0,0.0
+2024-09-04 14:17:47,Stephens & Co.,Equal-Weight,Equal-Weight,reit,Maintains,14.0,14.0
+2024-07-24 19:39:36,Stephens & Co.,Equal-Weight,Equal-Weight,main,Lowers,14.0,15.0
+2024-07-24 18:21:01,Wedbush,Neutral,Neutral,reit,Maintains,14.0,14.0
+2024-07-24 16:08:50,Barclays,Equal-Weight,Equal-Weight,main,Lowers,14.0,15.0
+2024-07-24 11:23:54,Truist Securities,Hold,Hold,main,Raises,15.0,13.0
+2024-07-09 12:59:14,"Keefe, Bruyette & Woods",Outperform,Outperform,main,Lowers,17.0,18.0
+2024-07-09 12:39:08,Wells Fargo,Equal-Weight,Equal-Weight,main,Lowers,15.0,16.0
+2024-07-08 14:13:39,Truist Securities,Hold,Hold,main,Lowers,13.0,15.0
+2024-05-15 14:16:46,DA Davidson,Buy,Buy,main,Lowers,17.5,20.0
+2024-05-14 17:08:13,Stephens & Co.,Equal-Weight,Equal-Weight,main,Lowers,15.0,16.0
+2024-05-13 14:29:11,Stephens & Co.,Equal-Weight,Equal-Weight,reit,Maintains,16.0,16.0
+2024-05-13 13:05:53,Piper Sandler,Overweight,Overweight,main,Lowers,19.0,20.0
+2024-04-25 18:31:46,Stephens & Co.,Equal-Weight,Equal-Weight,reit,Maintains,16.0,16.0
+2024-04-25 17:31:12,Truist Securities,Hold,Hold,main,Lowers,15.0,16.0
+2024-04-24 15:36:36,Barclays,Equal-Weight,Equal-Weight,main,Lowers,15.0,16.0
+2024-04-24 11:27:57,Wedbush,Neutral,Neutral,main,Lowers,15.0,16.0
+2024-04-10 15:52:46,Wells Fargo,Equal-Weight,Equal-Weight,main,Raises,16.0,14.0
+2024-04-01 12:48:10,Truist Securities,Hold,Hold,main,Maintains,16.0,16.0
+2024-03-22 08:48:41,"Keefe, Bruyette & Woods",Outperform,Market Perform,up,Raises,18.0,16.0
+2024-03-08 09:47:47,Barclays,Equal-Weight,,init,Announces,16.0,0.0
+2024-01-30 13:29:58,Truist Securities,Hold,Hold,main,Raises,16.0,13.0
+2024-01-26 13:39:27,Wedbush,Neutral,Neutral,main,Raises,16.0,14.0
+2023-12-04 12:55:07,Truist Securities,Hold,,init,Announces,14.0,0.0
+2023-10-04 10:44:37,Wells Fargo,Equal-Weight,Overweight,down,Announces,13.5,0.0
+2023-04-24 14:02:56,Piper Sandler,Overweight,,main,Lowers,16.0,18.0
+2023-04-06 14:29:20,"Keefe, Bruyette & Woods",Outperform,,main,Lowers,17.0,20.0
+2023-04-05 11:58:44,Wells Fargo,Overweight,,main,Lowers,18.0,20.0
+2022-12-15 13:13:13,Wells Fargo,Overweight,,main,Lowers,20.0,22.0
+2022-10-21 11:49:53,Wells Fargo,Overweight,,main,Lowers,22.0,23.0
+2022-04-25 12:36:47,Stephens & Co.,Equal-Weight,,main,Raises,22.0,21.0
+2022-04-06 11:17:59,Raymond James,Market Perform,Outperform,down,,0.0,0.0
+2022-01-26 12:25:27,Raymond James,Outperform,,main,Raises,22.0,21.0
+2021-10-07 11:48:05,Raymond James,Outperform,,main,Raises,21.0,20.0
+2021-07-23 09:19:55,Raymond James,Outperform,Market Perform,up,Announces,20.0,0.0
+2021-07-08 09:25:31,Stephens & Co.,Equal-Weight,,init,Announces,19.0,0.0
+2020-10-01 13:19:35,Piper Sandler,Overweight,,main,Lowers,14.0,16.0
+2020-04-13 11:08:30,B. Riley Securities,Neutral,Sell,up,Raises,11.0,6.0
+2020-03-30 14:31:38,Wells Fargo,Overweight,,main,Lowers,13.0,20.0
+2020-03-25 11:31:30,B. Riley Securities,Sell,,main,Lowers,6.0,15.0
+2020-01-24 12:48:02,Wells Fargo,Overweight,,main,Raises,20.0,19.0
+2020-01-24 11:29:04,B. Riley Securities,Sell,Neutral,down,Raises,15.0,14.0
+2019-10-24 11:39:29,Wells Fargo,Outperform,,main,Lowers,18.0,19.0
+2019-09-16 11:25:51,Raymond James,Market Perform,Outperform,down,,0.0,0.0
+2019-03-06 12:34:12,DA Davidson,Neutral,Buy,down,,0.0,0.0
+2018-12-18 13:45:39,B. Riley Securities,Neutral,Neutral,main,Lowers,15.0,16.0
+2018-11-12 17:45:54,Raymond James,Outperform,Outperform,main,Lowers,20.0,22.0
+2018-06-19 11:53:45,B. Riley Securities,Neutral,Neutral,main,Lowers,19.0,20.0
+2018-04-06 12:33:51,B of A Securities,Underperform,Neutral,down,,0.0,0.0
+2018-02-01 14:02:30,B. Riley Securities,Neutral,Buy,down,,0.0,0.0
+2017-12-21 14:02:31,Piper Sandler,Overweight,,init,Announces,26.0,0.0
+2017-05-04 10:10:26,"Keefe, Bruyette & Woods",Market Perform,Outperform,down,,0.0,0.0
+2017-04-11 13:02:39,Wells Fargo,Outperform,Market Perform,up,,0.0,0.0
+2017-01-26 11:35:21,FBR Capital,Outperform,Market Perform,up,,0.0,0.0
+2016-11-14 12:35:16,Wells Fargo,Market Perform,Outperform,down,,0.0,0.0
+2016-10-20 04:00:00,DA Davidson,Buy,Neutral,up,,0.0,0.0
+2016-07-01 10:19:19,FBR Capital,Market Perform,,init,,0.0,0.0
+2016-05-23 12:38:32,UBS,Buy,,init,Announces,24.0,0.0
+2016-05-04 11:08:39,Raymond James,Outperform,Market Perform,up,,0.0,0.0
+2016-05-02 11:14:18,Wells Fargo,Outperform,,init,,0.0,0.0
+2016-04-22 08:24:54,"Keefe, Bruyette & Woods",Outperform,Market Perform,up,Raises,25.0,18.0
+2015-11-09 11:56:01,Raymond James,Market Perform,Outperform,down,,0.0,0.0
+2015-05-28 10:38:54,DA Davidson,Neutral,Buy,down,,0.0,0.0
+2015-05-01 13:00:00,"Keefe, Bruyette & Woods",Market Perform,,main,Raises,14.0,11.0
+2015-04-02 13:00:00,"Keefe, Bruyette & Woods",Market Perform,,main,Lowers,11.0,12.0
+2015-03-12 10:22:25,Raymond James,Outperform,Market Perform,up,Announces,13.0,0.0
+2014-11-20 12:07:22,Sterne Agee,Neutral,,init,Announces,12.0,0.0
+2014-08-01 06:31:01,"Keefe, Bruyette & Woods",Market Perform,,main,Raises,13.0,11.0
+2014-05-29 10:11:51,B of A Securities,Buy,,init,Announces,12.5,0.0
+2014-04-09 01:07:25,Raymond James,Market Perform,Outperform,down,Maintains,14.5,0.0
+2014-03-20 12:00:00,FIG Partners,Market Perform,Outperform,down,Lowers,13.5,16.0
+2014-03-19 12:55:00,DA Davidson,Neutral,Buy,down,Lowers,13.5,15.0
+2014-03-14 12:00:00,Sterne Agee,Buy,Neutral,up,,0.0,0.0
+2013-12-10 12:29:27,DA Davidson,Buy,,main,Lowers,15.0,15.5
+2013-12-05 11:53:32,Wunderlich Securities,Buy,,main,Lowers,16.0,17.0
+2013-08-12 11:58:35,Wunderlich Securities,Buy,,main,Raises,17.0,14.0
+2013-08-08 11:21:00,DA Davidson,Buy,,main,Raises,17.0,16.0
+2013-03-04 12:55:38,Baird,Market Perform,Outperform,down,Lowers,11.0,14.0
+2013-03-04 12:44:46,DA Davidson,Buy,,main,Lowers,14.5,15.0
+2013-03-04 12:39:31,Sterne Agee,Buy,,main,Lowers,13.0,14.0
+2013-03-04 11:43:45,Wunderlich Securities,Buy,,main,Lowers,14.0,16.0
+2012-05-24 10:02:00,"Keefe, Bruyette & Woods",Market Perform,,init,Announces,12.0,0.0

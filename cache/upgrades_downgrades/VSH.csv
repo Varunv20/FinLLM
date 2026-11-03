@@ -1,0 +1,38 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-10-08 13:15:03,Oppenheimer,Outperform,Outperform,main,Raises,45.0,42.0
+2026-09-15 13:45:09,Oppenheimer,Outperform,,init,Announces,42.0,0.0
+2026-09-03 14:54:20,Truist Securities,Buy,,init,Announces,42.0,0.0
+2026-08-04 18:54:07,Raymond James,Outperform,,init,Announces,40.0,0.0
+2026-08-04 11:16:53,Needham,Buy,,init,Announces,45.0,0.0
+2026-05-14 10:37:40,B of A Securities,Underperform,Underperform,main,Raises,28.0,18.0
+2026-02-05 18:17:22,JP Morgan,Neutral,Neutral,main,Raises,20.0,14.0
+2026-01-22 17:59:42,B of A Securities,Underperform,Underperform,main,Raises,16.0,14.0
+2024-12-16 13:53:36,JP Morgan,Neutral,,init,Announces,19.0,0.0
+2024-08-08 18:21:06,TD Cowen,Hold,Hold,main,Lowers,22.0,24.0
+2024-04-03 12:56:01,Stifel,Buy,Buy,reit,Maintains,25.0,0.0
+2022-10-10 14:07:27,Stifel,Buy,,main,Lowers,22.0,24.0
+2021-04-06 10:20:30,Loop Capital,Buy,Hold,up,Announces,30.0,0.0
+2021-01-15 13:16:25,B of A Securities,Underperform,Neutral,down,Announces,20.0,0.0
+2020-10-07 09:53:59,Stifel,Buy,Hold,up,Announces,20.0,0.0
+2019-11-06 11:57:41,B of A Securities,Underperform,Neutral,down,Announces,17.0,0.0
+2019-08-29 13:41:40,BNP Paribas,Outperform,Neutral,up,,0.0,0.0
+2019-05-22 10:56:56,Cowen & Co.,Market Perform,,init,Announces,17.0,0.0
+2019-02-06 12:41:15,B of A Securities,Neutral,Buy,down,,0.0,0.0
+2018-08-08 12:02:43,Citigroup,Buy,Buy,main,Raises,30.0,28.0
+2018-05-09 12:12:25,B of A Securities,Buy,Underperform,up,,0.0,0.0
+2018-02-07 15:11:40,Stifel,Hold,Hold,main,Lowers,20.0,23.0
+2017-10-27 13:01:14,Citigroup,Sell,,main,Raises,19.0,16.0
+2017-10-27 12:24:05,Stifel,Hold,,main,Raises,20.0,18.0
+2016-11-09 09:53:28,Stifel,Hold,Buy,down,,0.0,0.0
+2015-10-23 11:43:32,Citigroup,Sell,Neutral,down,,0.0,0.0
+2015-08-05 11:15:43,B of A Securities,Underperform,Buy,down,,0.0,0.0
+2015-02-06 14:00:00,JP Morgan,Neutral,,main,Raises,15.0,14.0
+2015-01-21 11:23:28,Longbow Research,Neutral,Buy,down,Removes,0.0,16.0
+2014-10-29 13:00:00,JP Morgan,Neutral,,main,Raises,14.0,11.0
+2014-05-07 06:34:44,Citigroup,Hold,,main,Raises,16.0,15.0
+2013-07-26 11:32:45,B of A Securities,Buy,,init,Announces,19.0,0.0
+2012-09-04 12:03:00,Stifel,Buy,Hold,up,Announces,13.0,0.0
+2012-07-02 11:17:00,Citigroup,Neutral,,main,Lowers,10.0,13.5
+2012-06-06 09:46:00,JP Morgan,Neutral,Overweight,down,Lowers,11.0,15.5
+2012-02-08 12:16:00,Citigroup,Neutral,,main,Raises,13.0,10.0
+2012-02-08 10:34:00,JP Morgan,Overweight,Neutral,up,Raises,15.5,11.0

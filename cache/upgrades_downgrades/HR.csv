@@ -1,0 +1,60 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-10-20 17:54:48,Deutsche Bank,Buy,Hold,up,Raises,23.0,18.0
+2026-10-19 16:24:37,Wells Fargo,Equal-Weight,Equal-Weight,main,Lowers,18.0,20.0
+2026-10-13 21:15:41,UBS,Neutral,Neutral,main,Lowers,18.0,21.0
+2026-09-01 15:32:41,Wells Fargo,Equal-Weight,Equal-Weight,main,Lowers,20.0,21.0
+2026-08-07 19:31:12,RBC Capital,Sector Perform,Sector Perform,main,Raises,22.0,21.0
+2026-07-31 14:24:33,Cantor Fitzgerald,Overweight,Overweight,main,Raises,24.0,22.0
+2026-07-09 12:35:30,JP Morgan,Neutral,Neutral,main,Raises,21.0,19.0
+2026-07-08 18:32:21,UBS,Neutral,Neutral,main,Raises,21.0,20.0
+2026-06-01 15:18:23,Wells Fargo,Equal-Weight,Equal-Weight,main,Raises,21.0,19.0
+2026-05-14 16:41:38,RBC Capital,Sector Perform,Sector Perform,main,Raises,21.0,19.0
+2026-05-13 14:40:22,UBS,Neutral,Neutral,main,Raises,20.0,18.0
+2026-05-08 20:51:53,Scotiabank,Sector Outperform,Sector Outperform,main,Raises,22.0,20.0
+2026-05-07 21:34:10,Citigroup,Neutral,Neutral,main,Raises,21.0,19.0
+2026-05-04 13:47:41,Cantor Fitzgerald,Overweight,Overweight,main,Raises,22.0,21.0
+2026-04-20 19:40:10,UBS,Neutral,,init,Announces,18.0,0.0
+2026-02-17 15:05:18,Cantor Fitzgerald,Overweight,Overweight,main,Raises,21.0,19.0
+2025-11-25 16:20:01,Wells Fargo,Equal-Weight,Equal-Weight,main,Raises,19.0,18.0
+2025-11-12 20:57:06,Citigroup,Neutral,Neutral,main,Raises,19.0,17.0
+2025-10-20 11:40:23,Wells Fargo,Equal-Weight,Underweight,up,Raises,18.0,16.0
+2025-10-01 13:45:09,Cantor Fitzgerald,Overweight,,init,Announces,23.0,0.0
+2025-09-29 10:04:59,BTIG,Buy,Buy,reit,Maintains,20.0,20.0
+2025-09-15 11:21:49,Raymond James,Underperform,Market Perform,down,,0.0,0.0
+2025-09-10 10:46:29,BTIG,Buy,Buy,reit,Maintains,20.0,20.0
+2025-09-05 12:16:50,Scotiabank,Sector Outperform,Sector Perform,up,Raises,20.0,18.0
+2025-08-28 16:16:13,Scotiabank,Sector Perform,Sector Perform,main,Raises,18.0,17.0
+2025-08-27 13:57:28,Wells Fargo,Underweight,Underweight,main,Raises,16.0,15.0
+2025-06-26 12:55:05,JP Morgan,Neutral,Neutral,main,Lowers,17.0,18.0
+2025-06-02 15:39:18,Wells Fargo,Underweight,Underweight,main,Lowers,15.0,16.0
+2025-05-05 14:46:22,Wedbush,Neutral,Neutral,main,Lowers,16.0,18.0
+2025-03-10 13:47:30,Wells Fargo,Underweight,Underweight,main,Lowers,16.0,17.0
+2025-02-25 15:34:51,Scotiabank,Sector Perform,Sector Perform,main,Lowers,17.0,18.0
+2025-01-02 15:37:51,Wedbush,Underperform,Neutral,down,Lowers,16.0,18.0
+2024-12-20 12:16:42,JP Morgan,Neutral,Overweight,down,Announces,19.0,0.0
+2024-08-07 18:45:33,Scotiabank,Sector Perform,Sector Perform,main,Raises,18.0,17.0
+2024-08-05 18:32:15,Wedbush,Neutral,Neutral,main,Raises,18.0,15.0
+2024-07-30 10:50:11,Wells Fargo,Underweight,Equal-Weight,down,Lowers,16.0,17.0
+2024-07-09 15:41:23,Scotiabank,Sector Perform,Sector Perform,main,Raises,17.0,16.0
+2024-06-14 13:52:35,Wells Fargo,Equal-Weight,Equal-Weight,main,Raises,17.0,16.0
+2024-05-30 17:12:39,Wells Fargo,Equal-Weight,Equal-Weight,main,Raises,16.0,15.0
+2024-05-16 13:33:25,Scotiabank,Sector Perform,Sector Perform,main,Raises,16.0,15.0
+2024-05-08 13:51:02,Wedbush,Neutral,Neutral,main,Raises,16.0,15.0
+2024-04-10 20:03:04,Wells Fargo,Equal-Weight,Equal-Weight,main,Lowers,15.0,18.0
+2024-03-06 16:11:46,JP Morgan,Overweight,Overweight,main,Lowers,17.0,19.0
+2024-02-20 11:42:49,Wedbush,Neutral,Outperform,down,Lowers,15.0,19.0
+2024-02-20 10:44:21,Stifel,Hold,Buy,down,Lowers,15.0,19.0
+2024-01-30 12:14:50,Deutsche Bank,Hold,,init,Announces,18.0,0.0
+2023-11-13 15:09:43,Wells Fargo,Equal-Weight,Equal-Weight,main,Lowers,16.0,17.0
+2023-11-06 15:15:04,Wedbush,Outperform,Outperform,reit,Maintains,17.0,0.0
+2023-10-24 13:34:57,BTIG,Buy,Neutral,up,Announces,17.0,0.0
+2023-10-12 09:25:07,JP Morgan,Overweight,Neutral,up,Announces,19.0,0.0
+2023-10-10 18:55:11,Scotiabank,Sector Perform,Sector Perform,main,Lowers,17.0,19.0
+2023-10-06 12:46:55,BMO Capital,Market Perform,Market Perform,main,Lowers,17.0,20.0
+2023-10-03 11:52:56,Wedbush,Outperform,,init,Announces,17.0,0.0
+2023-08-22 14:57:10,Citigroup,Neutral,Neutral,main,Lowers,17.0,19.0
+2023-08-11 11:23:32,Barclays,Equal-Weight,Equal-Weight,main,Lowers,24.0,25.0
+2023-05-11 10:04:24,Barclays,Overweight,Overweight,main,Raises,25.0,24.0
+2023-04-19 22:18:45,Wells Fargo,Equal-Weight,,init,,0.0,0.0
+2023-03-29 11:22:13,Barclays,Overweight,,main,Lowers,24.0,28.0
+2023-03-06 11:25:41,Credit Suisse,Neutral,Outperform,down,Lowers,20.0,23.0

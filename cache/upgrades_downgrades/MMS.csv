@@ -1,0 +1,56 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2025-01-02 10:24:06,Raymond James,Outperform,Market Perform,up,Announces,90.0,0.0
+2024-01-03 13:33:04,Raymond James,Market Perform,Outperform,down,,0.0,0.0
+2023-08-18 09:05:48,Stifel,Buy,,init,Announces,102.0,0.0
+2023-02-09 11:17:03,Raymond James,Outperform,,main,Raises,100.0,80.0
+2022-05-06 12:43:51,Raymond James,Outperform,,main,Lowers,80.0,95.0
+2021-06-28 11:21:55,Raymond James,Outperform,Strong Buy,down,Lowers,105.0,110.0
+2021-05-07 12:21:30,Raymond James,Strong Buy,,main,Raises,110.0,96.0
+2021-04-22 11:55:35,Canaccord Genuity,Hold,,main,Raises,95.0,79.0
+2021-02-05 12:51:13,Raymond James,Strong Buy,,main,Raises,96.0,90.0
+2020-08-07 08:46:12,Keybanc,Overweight,,main,Raises,84.0,80.0
+2020-07-08 10:15:32,Raymond James,Strong Buy,Market Perform,up,Announces,90.0,0.0
+2020-06-24 08:41:47,Keybanc,Overweight,Sector Weight,up,Announces,80.0,0.0
+2020-01-08 15:44:10,Wells Fargo,Equal-Weight,,main,Lowers,81.0,83.0
+2019-08-13 12:28:05,Canaccord Genuity,Hold,,main,Raises,77.0,72.0
+2019-08-09 11:03:08,Wells Fargo,Market Perform,Outperform,down,Announces,83.0,0.0
+2018-10-10 11:10:35,Canaccord Genuity,Hold,Hold,main,Raises,67.0,64.0
+2018-05-11 18:46:31,Canaccord Genuity,Hold,Hold,main,Lowers,64.0,65.0
+2018-05-08 12:51:35,First Analysis,Overweight,Equal-Weight,up,,0.0,0.0
+2018-02-09 14:41:32,Canaccord Genuity,Hold,Hold,main,Lowers,65.0,71.0
+2018-02-09 14:22:46,Maxim Group,Hold,Buy,main,Raises,69.0,66.0
+2017-11-13 15:53:37,Jefferies,Hold,,main,Lowers,59.0,63.0
+2017-11-10 12:17:12,Canaccord Genuity,Hold,,main,Lowers,61.0,62.0
+2017-09-01 10:40:24,Baird,Neutral,,init,Announces,64.0,0.0
+2017-05-25 11:26:30,Keybanc,Sector Weight,Overweight,down,,0.0,0.0
+2017-05-05 10:14:00,Jefferies,Hold,Buy,down,,0.0,0.0
+2017-04-07 11:50:37,Canaccord Genuity,Buy,Buy,down,,0.0,0.0
+2017-01-17 13:13:12,Avondale Partners,Market Perform,Market Outperform,down,,0.0,0.0
+2016-11-15 16:04:45,Sidoti & Co.,Neutral,Buy,down,,0.0,0.0
+2016-11-09 12:44:26,Raymond James,Market Perform,Outperform,down,,0.0,0.0
+2016-06-30 13:34:09,Keybanc,Overweight,,init,,0.0,0.0
+2016-05-31 14:46:42,Jefferies,Buy,,main,Raises,67.0,63.0
+2016-04-06 20:18:48,Avondale Partners,Market Perform,,main,Lowers,58.0,65.0
+2016-03-08 11:33:50,Canaccord Genuity,Buy,Hold,up,Raises,60.0,59.0
+2016-02-01 13:01:29,Raymond James,Outperform,Market Perform,up,,0.0,0.0
+2015-12-04 16:21:40,Stifel,Buy,,init,Announces,65.0,0.0
+2015-12-04 13:20:27,Stifel,Buy,,init,Announces,65.0,0.0
+2015-11-13 07:30:22,Jefferies,Buy,,main,Raises,75.0,65.0
+2015-09-16 20:28:28,Canaccord Genuity,Hold,,init,Announces,65.0,0.0
+2015-05-08 13:00:00,Jefferies,Buy,,main,Raises,77.0,74.0
+2015-03-23 13:00:00,Maxim Group,Buy,,main,Raises,72.0,70.0
+2015-03-20 20:41:18,Wells Fargo,Outperform,,init,,0.0,0.0
+2015-03-10 13:00:00,Jefferies,Buy,,main,Raises,74.0,68.0
+2015-02-10 14:00:00,Jefferies,Buy,,main,Raises,68.0,60.0
+2014-11-14 14:00:00,Jefferies,Buy,,main,Raises,60.0,55.0
+2014-10-29 13:00:00,Citigroup,Neutral,,main,Raises,47.0,43.0
+2014-08-08 20:00:00,Jefferies,Buy,,main,Lowers,55.0,58.0
+2014-06-09 10:15:19,Raymond James,Market Perform,Outperform,down,Removes,0.0,53.0
+2014-02-07 13:00:00,Citigroup,Neutral,Buy,down,,0.0,0.0
+2013-09-13 11:21:34,Jefferies,Buy,,init,Announces,47.0,0.0
+2013-08-07 13:57:11,First Analysis,Overweight,Equal-Weight,up,Announces,45.0,0.0
+2013-05-01 14:58:29,Avondale Partners,Market Outperform,,init,Announces,94.0,0.0
+2012-12-11 11:04:10,Citigroup,Buy,,init,Announces,75.0,0.0
+2012-08-30 10:56:00,B of A Securities,Buy,,main,Raises,65.0,63.0
+2012-06-28 16:46:00,B of A Securities,Buy,,main,Raises,55.0,54.0
+2012-05-15 12:03:00,B of A Securities,Buy,,init,Announces,54.0,0.0

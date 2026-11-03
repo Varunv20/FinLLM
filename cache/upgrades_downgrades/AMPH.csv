@@ -1,0 +1,61 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-08-18 17:59:27,Barclays,Equal-Weight,Equal-Weight,main,Raises,23.0,20.0
+2026-08-07 16:50:19,Piper Sandler,Neutral,Neutral,main,Lowers,20.0,21.0
+2026-08-07 13:59:08,Wells Fargo,Equal-Weight,Equal-Weight,main,Raises,20.0,19.0
+2026-06-29 11:52:35,B of A Securities,Underperform,Neutral,down,Lowers,20.0,25.0
+2026-06-03 13:09:47,Barclays,Equal-Weight,Equal-Weight,main,Lowers,20.0,23.0
+2026-05-14 12:35:18,Wells Fargo,Equal-Weight,Overweight,down,Lowers,19.0,30.0
+2026-05-11 18:01:57,Piper Sandler,Neutral,Neutral,reit,Lowers,21.0,25.0
+2026-05-08 11:30:34,Needham,Hold,Buy,down,,0.0,0.0
+2026-04-21 16:00:42,Jefferies,Hold,Buy,down,Lowers,22.0,30.0
+2026-04-08 14:41:45,Barclays,Equal-Weight,Equal-Weight,main,Lowers,23.0,30.0
+2026-02-27 16:31:11,Wells Fargo,Overweight,Overweight,main,Lowers,30.0,34.0
+2026-02-27 11:02:40,Needham,Buy,Buy,main,Lowers,30.0,34.0
+2025-12-09 15:20:23,Barclays,Equal-Weight,,init,Announces,30.0,0.0
+2025-11-07 10:02:02,Needham,Buy,Buy,main,Lowers,34.0,36.0
+2025-10-22 10:50:18,Needham,Buy,Buy,reit,Maintains,36.0,36.0
+2025-08-26 15:21:30,B of A Securities,Neutral,Neutral,main,Raises,32.0,28.0
+2025-08-12 12:14:19,Needham,Buy,Hold,up,Announces,36.0,0.0
+2025-08-08 11:25:11,Piper Sandler,Neutral,Neutral,main,Lowers,25.0,30.0
+2025-05-12 12:21:36,JP Morgan,Neutral,Overweight,down,Lowers,30.0,45.0
+2025-05-08 13:19:52,Wells Fargo,Overweight,Overweight,main,Lowers,35.0,40.0
+2025-04-10 10:59:55,Needham,Hold,Hold,reit,,0.0,0.0
+2025-03-21 15:29:38,Piper Sandler,Neutral,Neutral,main,Lowers,32.0,36.0
+2025-02-04 09:15:45,Piper Sandler,Neutral,Overweight,down,Lowers,36.0,66.0
+2024-11-22 13:57:23,Wells Fargo,Overweight,,init,Announces,55.0,0.0
+2024-08-08 11:35:16,Needham,Hold,,reit,,0.0,0.0
+2024-08-08 11:32:25,Piper Sandler,Overweight,Overweight,main,Lowers,66.0,71.0
+2024-06-27 15:58:55,Piper Sandler,Overweight,Overweight,reit,Maintains,71.0,71.0
+2024-05-22 15:52:13,Needham,Hold,,reit,,0.0,0.0
+2024-05-09 10:40:02,Needham,Hold,,reit,,0.0,0.0
+2024-04-10 11:22:54,Needham,Hold,,reit,,0.0,0.0
+2024-03-05 11:18:10,JP Morgan,Overweight,,init,Announces,60.0,0.0
+2023-11-17 13:08:10,B of A Securities,Neutral,,init,Announces,63.0,0.0
+2023-05-17 13:12:50,Wells Fargo,Equal-Weight,Equal-Weight,main,Raises,44.0,40.0
+2022-10-25 10:40:59,Piper Sandler,Overweight,,main,Lowers,40.0,43.0
+2022-07-29 13:35:13,Capital One,Overweight,,init,Announces,44.0,0.0
+2022-03-15 11:00:04,Wells Fargo,Equal-Weight,,main,Raises,32.0,23.0
+2022-03-11 11:43:11,Piper Sandler,Overweight,,main,Raises,35.0,28.0
+2022-01-07 10:55:47,Piper Sandler,Overweight,Neutral,up,Raises,28.0,21.0
+2021-03-17 12:05:41,Wells Fargo,Equal-Weight,,main,Lowers,20.0,21.0
+2021-01-08 12:27:06,Wells Fargo,Equal-Weight,Overweight,down,Announces,21.0,0.0
+2020-10-05 13:07:43,Northland Capital Markets,Outperform,Market Perform,up,,0.0,0.0
+2020-07-09 13:47:49,Northland Capital Markets,Market Perform,Outperform,down,Announces,23.0,0.0
+2020-05-11 16:06:36,BMO Capital,Market Perform,,main,Raises,21.0,20.0
+2019-03-13 12:28:05,Needham,Hold,Buy,down,,0.0,0.0
+2018-03-13 12:01:35,BMO Capital,Market Perform,Market Perform,main,Raises,19.0,17.0
+2017-11-10 14:07:03,BMO Capital,Market Perform,,main,Raises,17.0,16.0
+2017-11-09 12:49:55,Raymond James,Market Perform,Outperform,down,,0.0,18.0
+2017-03-14 12:59:32,Raymond James,Outperform,Strong Buy,down,Lowers,18.0,21.0
+2016-08-10 01:57:50,Jefferies,Buy,,main,Raises,19.0,16.0
+2016-06-29 10:24:52,BMO Capital,Market Perform,,init,,0.0,0.0
+2016-02-19 13:39:57,Wells Fargo,Outperform,,init,,0.0,0.0
+2016-01-19 16:37:36,Jefferies,Buy,,main,Lowers,17.0,18.0
+2015-11-13 07:30:21,Jefferies,Buy,,main,Raises,19.0,18.0
+2015-06-03 10:25:10,Raymond James,Strong Buy,,init,Announces,23.0,0.0
+2015-03-25 13:00:00,Jefferies,Buy,,main,Raises,18.0,15.0
+2014-08-13 13:00:00,Jefferies,Buy,,main,Raises,15.0,14.0
+2014-07-21 11:33:46,BMO Capital,Outperform,,init,Announces,17.0,0.0
+2014-07-21 11:33:15,Needham,Buy,,init,Announces,17.0,0.0
+2014-07-21 11:32:40,Piper Sandler,Overweight,,init,Announces,18.0,0.0
+2014-07-21 11:31:54,Jefferies,Buy,,init,Announces,14.0,0.0

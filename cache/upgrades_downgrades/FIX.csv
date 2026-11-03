@@ -1,0 +1,63 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-10-26 18:50:31,UBS,Buy,Buy,main,Lowers,1900.0,2225.0
+2026-10-26 17:46:53,Oppenheimer,Outperform,Outperform,main,Lowers,2000.0,2400.0
+2026-10-26 12:27:14,Keybanc,Overweight,Overweight,main,Lowers,1979.0,2125.0
+2026-10-15 12:42:59,Keybanc,Overweight,Overweight,main,Raises,2125.0,2110.0
+2026-08-21 16:50:34,DA Davidson,Buy,,init,Announces,2100.0,0.0
+2026-07-27 18:13:04,UBS,Buy,Buy,main,Raises,2225.0,2125.0
+2026-07-27 12:08:15,Keybanc,Overweight,Overweight,main,Raises,2110.0,2004.0
+2026-07-09 10:11:07,Goldman Sachs,Buy,,init,Announces,2159.0,0.0
+2026-06-08 16:24:59,UBS,Buy,Buy,main,Raises,2125.0,1992.0
+2026-05-28 17:47:25,Oppenheimer,Outperform,,init,Announces,2200.0,0.0
+2026-04-27 19:33:49,UBS,Buy,Buy,main,Raises,1992.0,1680.0
+2026-04-24 09:38:42,Keybanc,Overweight,Sector Weight,up,Announces,2004.0,0.0
+2026-04-21 11:11:25,GLJ Research,Buy,,init,Announces,2001.0,0.0
+2026-02-23 19:20:18,DA Davidson,Buy,Buy,main,Raises,1800.0,1200.0
+2026-01-26 12:57:36,Stifel,Buy,Buy,main,Raises,1196.0,1155.0
+2025-12-19 19:33:30,DA Davidson,Buy,Buy,main,Maintains,1200.0,1200.0
+2025-12-16 16:54:51,Stifel,Buy,Buy,main,Raises,1155.0,1069.0
+2025-10-27 17:01:26,UBS,Buy,Buy,main,Raises,1140.0,875.0
+2025-10-13 15:28:18,Stifel,Buy,Buy,main,Raises,917.0,746.0
+2025-09-15 12:43:09,UBS,Buy,Buy,main,Raises,875.0,710.0
+2025-09-11 15:29:47,William Blair,Outperform,,init,,0.0,0.0
+2025-07-28 18:17:22,DA Davidson,Buy,Buy,main,Raises,810.0,630.0
+2025-07-25 15:25:11,UBS,Buy,Buy,main,Raises,710.0,545.0
+2025-07-11 14:25:34,Stifel,Buy,Buy,main,Raises,581.0,512.0
+2025-06-30 14:46:00,DA Davidson,Buy,Buy,main,Raises,630.0,465.0
+2025-05-23 14:38:25,Stifel,Buy,Buy,main,Raises,512.0,471.0
+2025-04-28 17:08:04,DA Davidson,Buy,Buy,main,Raises,465.0,440.0
+2025-02-24 15:27:47,Stifel,Buy,Buy,main,Lowers,471.0,577.0
+2025-01-24 15:26:12,Stifel,Buy,Buy,main,Raises,577.0,524.0
+2024-12-10 00:40:55,UBS,Buy,Buy,main,Raises,575.0,525.0
+2024-11-19 13:54:18,UBS,Buy,Neutral,up,Raises,525.0,396.0
+2024-11-15 12:13:24,Stifel,Buy,,init,Announces,524.0,0.0
+2024-02-28 20:11:37,DA Davidson,Buy,Buy,main,Raises,350.0,200.0
+2024-02-15 16:56:05,UBS,Neutral,Neutral,main,Raises,254.0,208.0
+2024-01-10 12:50:30,Keybanc,Sector Weight,,init,,0.0,0.0
+2023-07-28 17:24:11,DA Davidson,Buy,Buy,main,Raises,190.0,175.0
+2023-06-01 08:54:31,UBS,Neutral,,init,Announces,162.0,0.0
+2023-04-28 15:23:20,DA Davidson,Buy,,main,Raises,175.0,170.0
+2023-02-24 14:54:00,DA Davidson,Buy,,main,Raises,170.0,135.0
+2022-02-25 12:58:43,DA Davidson,Buy,Neutral,up,,0.0,0.0
+2020-06-02 13:46:14,Sidoti & Co.,Neutral,,main,Raises,40.0,31.0
+2020-04-29 11:32:09,DA Davidson,Neutral,Buy,down,,0.0,0.0
+2019-07-29 12:58:39,DA Davidson,Buy,Neutral,up,,0.0,0.0
+2019-03-12 12:49:52,Sidoti & Co.,Neutral,Buy,down,Announces,57.0,0.0
+2019-02-25 15:05:53,DA Davidson,Neutral,Neutral,main,Raises,57.0,55.0
+2019-01-02 15:50:00,Sidoti & Co.,Buy,Neutral,up,Announces,55.0,0.0
+2018-04-30 13:06:47,DA Davidson,Neutral,Neutral,main,Raises,48.0,46.0
+2017-11-10 12:58:10,Guggenheim,Neutral,Buy,down,,0.0,0.0
+2017-04-11 16:30:22,Guggenheim,Buy,,init,,0.0,0.0
+2016-08-12 13:08:23,Sidoti & Co.,Buy,Neutral,up,,0.0,0.0
+2016-07-12 12:50:17,Sidoti & Co.,Neutral,Buy,down,,0.0,0.0
+2015-08-11 13:38:33,Sidoti & Co.,Neutral,Buy,down,,0.0,0.0
+2015-02-06 14:03:59,DA Davidson,Neutral,Buy,down,Maintains,18.0,0.0
+2014-12-01 05:00:00,BB&T Capital,Buy,Hold,up,Announces,17.0,0.0
+2014-04-21 12:03:31,DA Davidson,Buy,Neutral,up,,0.0,0.0
+2013-11-25 13:13:45,Keybanc,Hold,Buy,down,Removes,21.0,0.0
+2013-08-02 10:53:07,DA Davidson,Neutral,,main,Raises,18.0,17.0
+2013-07-09 12:35:48,DA Davidson,Neutral,,main,Raises,17.0,14.0
+2013-06-25 21:46:57,Keybanc,Buy,Hold,up,Announces,18.0,0.0
+2013-02-04 13:57:16,BB&T Capital,Hold,Buy,down,Removes,0.0,12.0
+2013-01-10 18:11:19,Gilford Securities,Neutral,,main,Raises,12.0,11.0
+2012-08-02 17:54:00,DA Davidson,Neutral,,main,Raises,11.0,10.0

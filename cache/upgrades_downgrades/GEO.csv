@@ -1,0 +1,50 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-10-06 18:13:38,Jones Trading,Buy,Buy,main,Maintains,40.0,40.0
+2026-08-06 20:05:52,Jones Trading,Buy,Buy,main,Raises,40.0,33.0
+2026-06-26 17:47:30,Northland Capital Markets,Outperform,Outperform,main,Raises,40.0,30.0
+2026-03-20 15:26:34,Jones Trading,Buy,Buy,main,Maintains,33.0,33.0
+2026-02-13 12:50:40,Jones Trading,Buy,Buy,main,Lowers,33.0,37.0
+2025-11-07 22:59:20,Jones Trading,Buy,Buy,main,Lowers,37.0,50.0
+2025-08-07 16:05:10,Jones Trading,Buy,Buy,main,Lowers,45.0,50.0
+2025-06-23 13:35:14,Wedbush,Outperform,Outperform,reit,Maintains,36.0,36.0
+2025-05-08 15:04:19,Jones Trading,Buy,Buy,main,Lowers,50.0,55.0
+2025-03-21 10:40:31,Jones Trading,Buy,Buy,reit,Maintains,55.0,55.0
+2025-03-03 12:08:40,Jones Trading,Buy,Buy,main,Maintains,55.0,55.0
+2025-02-27 12:53:47,Jones Trading,Buy,Buy,main,Maintains,55.0,55.0
+2025-01-15 12:21:41,Jones Trading,Buy,Buy,main,Raises,55.0,32.0
+2024-12-17 13:25:32,Wedbush,Outperform,Outperform,reit,,0.0,0.0
+2024-11-11 13:46:00,Noble Capital Markets,Market Perform,Outperform,down,,0.0,0.0
+2024-11-08 23:07:18,Jones Trading,Buy,Buy,main,Raises,32.0,18.75
+2024-11-08 18:37:08,Northland Capital Markets,Outperform,Outperform,main,Raises,37.0,16.0
+2024-11-08 15:13:00,Wedbush,Outperform,Outperform,main,Raises,30.0,25.0
+2024-09-19 12:27:14,Wedbush,Outperform,Outperform,reit,Maintains,17.0,17.0
+2024-08-08 13:34:37,Wedbush,Outperform,Outperform,main,Lowers,17.0,19.0
+2024-08-08 00:12:10,Jones Trading,Buy,Buy,main,Maintains,18.75,18.75
+2024-08-07 13:50:33,Wedbush,Outperform,Outperform,reit,Maintains,19.0,19.0
+2024-07-11 02:39:35,Jones Trading,Buy,,init,Announces,18.75,0.0
+2024-05-08 14:03:11,Wedbush,Outperform,Outperform,main,Lowers,20.0,22.0
+2024-04-08 15:07:38,Wedbush,Outperform,Outperform,main,Raises,22.0,15.0
+2024-03-21 16:06:44,Wedbush,Outperform,Outperform,reit,Maintains,15.0,15.0
+2024-03-13 13:19:39,Wedbush,Outperform,Outperform,reit,Maintains,15.0,15.0
+2024-02-16 14:09:48,Wedbush,Outperform,Outperform,main,Raises,15.0,14.0
+2024-02-15 13:31:28,Wedbush,Outperform,Outperform,reit,Maintains,14.0,0.0
+2023-11-08 13:46:31,Wedbush,Outperform,Outperform,main,Raises,14.0,12.5
+2023-08-10 13:38:15,Wedbush,Outperform,Outperform,main,Raises,12.5,11.0
+2023-05-18 12:32:15,Wedbush,Outperform,Outperform,main,Raises,11.0,9.0
+2023-04-26 11:58:13,Wedbush,Outperform,,main,Lowers,9.0,13.0
+2022-11-29 12:42:02,Wedbush,Outperform,Neutral,up,Raises,14.0,10.0
+2021-06-08 11:14:41,Wedbush,Neutral,,init,Announces,7.0,0.0
+2019-02-15 11:41:17,JP Morgan,Neutral,Overweight,down,Lowers,26.0,27.0
+2017-08-10 19:27:00,Canaccord Genuity,Buy,,main,Lowers,31.0,35.0
+2017-07-14 10:46:31,JP Morgan,Overweight,,init,Announces,35.0,0.0
+2017-02-22 13:43:37,Deutsche Bank,Hold,,init,Announces,47.0,0.0
+2016-11-11 16:14:20,Canaccord Genuity,Buy,,main,Raises,35.0,31.0
+2015-07-14 11:21:17,Canaccord Genuity,Buy,,init,Announces,43.0,0.0
+2015-01-29 14:00:00,CRT Capital,Buy,,main,Raises,48.0,45.0
+2014-10-21 12:35:10,MLV & Co.,Buy,,init,Announces,46.0,0.0
+2013-04-10 14:44:11,Barclays,Overweight,Equal-Weight,up,Raises,45.0,36.0
+2013-03-26 14:33:32,Dawson James,Buy,Neutral,up,Announces,41.0,0.0
+2012-12-03 21:03:05,Dawson James,Market Perform,Outperform,down,Removes,0.0,0.0
+2012-11-06 18:57:00,Barclays,Equal-Weight,,main,Raises,30.0,29.0
+2012-11-06 15:00:00,First Analysis,Equal-Weight,Overweight,down,,0.0,0.0
+2012-08-09 18:01:00,Barclays,Equal-Weight,,main,Raises,27.0,25.0

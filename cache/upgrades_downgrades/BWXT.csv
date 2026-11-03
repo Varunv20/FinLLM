@@ -1,0 +1,101 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-10-13 18:16:41,JP Morgan,Overweight,Overweight,main,Lowers,190.0,230.0
+2026-10-06 15:54:04,Truist Securities,Hold,Hold,main,Lowers,182.0,202.0
+2026-09-30 17:38:55,Northland Capital Markets,Outperform,Outperform,main,Lowers,220.0,250.0
+2026-09-30 17:29:41,B of A Securities,Buy,Buy,main,Lowers,210.0,250.0
+2026-09-30 12:28:51,Guggenheim,Buy,Buy,reit,Maintains,192.0,192.0
+2026-09-30 10:03:01,BTIG,Buy,Buy,reit,Maintains,235.0,235.0
+2026-09-24 18:22:47,BNP Paribas,Neutral,Neutral,main,Lowers,165.0,190.0
+2026-09-15 12:52:58,Guggenheim,Buy,,init,Announces,192.0,0.0
+2026-09-03 20:26:04,Jefferies,Buy,,init,Announces,181.0,0.0
+2026-08-27 13:15:57,Wells Fargo,Equal-Weight,Underweight,up,Lowers,170.0,200.0
+2026-08-14 17:38:39,Truist Securities,Hold,Hold,main,Lowers,202.0,212.0
+2026-08-04 10:16:45,BTIG,Buy,Buy,reit,Maintains,235.0,235.0
+2026-07-27 11:07:39,JP Morgan,Overweight,,init,Announces,230.0,0.0
+2026-06-18 12:22:46,Seaport Global,Buy,Neutral,up,Announces,245.0,0.0
+2026-05-15 10:02:40,Deutsche Bank,Buy,Hold,up,Raises,255.0,205.0
+2026-05-11 14:36:50,Truist Securities,Hold,Hold,main,Raises,212.0,205.0
+2026-04-01 14:19:59,Wells Fargo,Underweight,,init,Announces,200.0,0.0
+2026-03-25 13:26:11,B of A Securities,Buy,Buy,main,Raises,250.0,230.0
+2026-03-12 19:31:03,TD Securities,Buy,,init,Announces,230.0,0.0
+2026-02-26 14:14:42,BTIG,Buy,Buy,main,Raises,235.0,225.0
+2026-01-20 12:26:36,Seaport Global,Neutral,Buy,down,,0.0,0.0
+2025-11-13 11:32:47,B of A Securities,Buy,Buy,main,Raises,230.0,220.0
+2025-11-07 11:23:05,BTIG,Buy,Buy,main,Raises,225.0,200.0
+2025-11-04 15:30:21,Truist Securities,Hold,Hold,main,Raises,200.0,173.0
+2025-10-15 16:51:14,Truist Securities,Hold,Hold,main,Raises,173.0,145.0
+2025-10-08 18:30:52,Deutsche Bank,Hold,Hold,main,Raises,180.0,159.0
+2025-09-10 15:31:57,Northland Capital Markets,Outperform,,init,Announces,205.0,0.0
+2025-08-13 17:48:56,B of A Securities,Buy,Buy,main,Raises,220.0,155.0
+2025-08-06 21:31:18,Maxim Group,Hold,Buy,down,,0.0,0.0
+2025-08-06 18:32:57,Deutsche Bank,Hold,Hold,main,Raises,159.0,150.0
+2025-08-05 15:33:17,Truist Securities,Hold,Hold,main,Raises,145.0,114.0
+2025-07-08 13:42:53,Deutsche Bank,Hold,Buy,down,Raises,150.0,119.0
+2025-05-28 11:49:02,William Blair,Outperform,,init,,0.0,0.0
+2025-05-27 17:08:45,CLSA,Outperform,Outperform,main,Raises,177.6,153.0
+2025-05-08 17:59:20,Maxim Group,Buy,Buy,main,Lowers,136.0,140.0
+2025-04-01 11:43:31,Seaport Global,Buy,,init,Announces,145.0,0.0
+2025-03-26 12:06:18,B of A Securities,Buy,Buy,main,Lowers,135.0,160.0
+2025-01-14 15:04:26,Truist Securities,Hold,Hold,main,Raises,114.0,106.0
+2025-01-10 18:28:38,Maxim Group,Buy,Buy,main,Raises,140.0,138.0
+2024-12-16 19:59:16,Barclays,Underweight,Underweight,main,Raises,105.0,90.0
+2024-11-14 16:57:33,B of A Securities,Buy,Buy,main,Raises,160.0,115.0
+2024-11-12 15:28:17,Alembic Global,Overweight,Neutral,up,Announces,148.0,0.0
+2024-11-06 16:01:05,Deutsche Bank,Buy,Buy,main,Raises,130.0,129.0
+2024-11-05 15:27:16,Truist Securities,Hold,Hold,main,Raises,106.0,95.0
+2024-10-03 11:31:41,Deutsche Bank,Buy,Buy,main,Raises,129.0,113.0
+2024-08-06 14:22:57,Deutsche Bank,Buy,Buy,main,Raises,113.0,112.0
+2024-07-25 12:15:18,Barclays,Underweight,Equal-Weight,down,Raises,90.0,75.0
+2024-06-27 12:42:52,Janney Montgomery Scott,Buy,,init,Announces,113.0,0.0
+2024-06-26 09:38:07,BTIG,Buy,,init,Announces,110.0,0.0
+2024-06-10 15:37:55,Deutsche Bank,Buy,Buy,main,Lowers,107.0,110.0
+2024-06-03 12:40:51,CLSA,Buy,,init,,0.0,0.0
+2024-05-07 16:17:33,Deutsche Bank,Buy,Buy,main,Lowers,110.0,111.0
+2024-03-28 13:05:48,B of A Securities,Buy,Buy,main,Raises,115.0,82.0
+2024-03-26 13:24:04,Truist Securities,Hold,Hold,main,Maintains,95.0,95.0
+2024-03-25 11:08:21,Truist Securities,Hold,Buy,down,Lowers,95.0,110.0
+2024-02-29 14:06:51,Truist Securities,Buy,Buy,main,Raises,110.0,105.0
+2024-02-28 14:59:41,Truist Securities,Buy,Buy,main,Raises,105.0,90.0
+2024-01-10 14:11:41,Truist Securities,Buy,Buy,main,Raises,90.0,83.0
+2023-11-03 17:02:28,Alembic Global,Neutral,Overweight,down,Announces,82.0,0.0
+2023-09-28 08:38:55,Deutsche Bank,Buy,,init,Announces,86.0,0.0
+2023-08-14 12:56:55,Truist Securities,Buy,Buy,main,Raises,83.0,77.0
+2023-08-08 12:20:17,Barclays,Equal-Weight,Equal-Weight,main,Raises,75.0,70.0
+2023-08-08 10:47:53,B of A Securities,Buy,Buy,main,Raises,80.0,75.0
+2023-08-07 17:59:44,Maxim Group,Buy,Buy,main,Raises,85.0,75.0
+2023-08-04 17:14:47,Truist Securities,Buy,Buy,main,Raises,77.0,75.0
+2023-08-04 11:14:17,Baird,Outperform,Neutral,up,Raises,85.0,61.0
+2023-05-09 12:44:18,Truist Securities,Buy,,main,Raises,75.0,70.0
+2023-05-09 11:46:32,Credit Suisse,Outperform,,main,Raises,75.0,71.0
+2023-02-24 12:21:03,Credit Suisse,Outperform,,main,Raises,67.0,65.0
+2022-11-29 14:04:28,Maxim Group,Buy,,main,Raises,70.0,65.0
+2022-10-12 10:17:17,Credit Suisse,Outperform,,init,Announces,65.0,0.0
+2022-03-16 13:54:51,B of A Securities,Buy,,main,Raises,65.0,55.0
+2021-11-08 13:46:33,Barclays,Underweight,,main,Lowers,53.0,57.0
+2021-08-03 11:24:53,Credit Suisse,Neutral,,main,Lowers,65.0,67.0
+2021-06-23 10:34:38,Credit Suisse,Neutral,Outperform,down,Lowers,67.0,74.0
+2021-04-08 12:05:47,Maxim Group,Buy,,main,Raises,80.0,75.0
+2021-01-07 11:27:01,Baird,Neutral,Outperform,down,Announces,70.0,0.0
+2020-11-03 14:14:11,Credit Suisse,Outperform,,main,Lowers,71.0,74.0
+2020-10-15 13:47:41,B of A Securities,Buy,Neutral,up,Raises,70.0,60.0
+2020-05-07 11:39:07,B of A Securities,Neutral,Underperform,up,Announces,60.0,0.0
+2020-03-11 13:52:32,SunTrust Robinson Humphrey,Buy,Hold,up,Maintains,60.0,0.0
+2020-02-26 14:17:46,Baird,Outperform,,main,Lowers,70.0,75.0
+2020-02-26 14:09:03,Credit Suisse,Neutral,,main,Lowers,60.0,61.0
+2018-11-14 13:37:20,Maxim Group,Buy,,init,Announces,60.0,0.0
+2018-11-08 12:02:45,SunTrust Robinson Humphrey,Hold,Buy,down,Lowers,48.0,79.0
+2018-08-21 11:22:05,SunTrust Robinson Humphrey,Buy,Buy,main,Lowers,79.0,83.0
+2018-05-24 12:06:25,B of A Securities,Neutral,Buy,down,,0.0,65.0
+2018-03-29 12:54:35,Barclays,Underweight,,init,Announces,62.0,0.0
+2018-01-10 13:05:11,Seaport Global,Buy,,init,Announces,72.0,0.0
+2017-12-11 12:51:59,Wells Fargo,Market Perform,,init,Announces,65.0,0.0
+2017-10-24 11:26:08,Baird,Outperform,,init,Announces,70.0,0.0
+2017-10-05 16:33:09,B of A Securities,Buy,,main,Raises,65.0,60.0
+2017-08-10 17:53:43,B of A Securities,Buy,,main,Raises,60.0,55.0
+2017-06-09 11:19:02,Credit Suisse,Neutral,,init,Announces,51.0,0.0
+2017-03-21 11:25:23,B of A Securities,Buy,Neutral,up,Raises,55.0,43.0
+2017-01-19 13:37:20,SunTrust Robinson Humphrey,Buy,,init,Announces,46.0,0.0
+2016-11-18 13:07:20,B of A Securities,Neutral,Buy,down,,0.0,0.0
+2016-11-09 11:09:58,Drexel Hamilton,Buy,Hold,up,,0.0,0.0
+2016-04-01 11:24:33,Drexel Hamilton,Hold,,init,,0.0,0.0
+2016-03-18 13:41:45,Sidoti & Co.,Buy,,init,,0.0,0.0

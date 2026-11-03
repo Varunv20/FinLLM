@@ -1,0 +1,37 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-04-01 13:29:20,Freedom Broker,Buy,,init,Announces,66.0,0.0
+2025-02-27 14:04:45,Baird,Neutral,Neutral,main,Raises,41.0,40.0
+2024-11-07 17:48:29,Baird,Neutral,Neutral,main,Raises,40.0,36.0
+2024-05-02 09:20:32,Stifel,Hold,Buy,down,Lowers,37.0,47.0
+2023-12-19 15:24:56,Stifel,Buy,Buy,main,Raises,42.0,41.0
+2023-08-03 10:27:07,Baird,Neutral,Neutral,main,Raises,50.0,45.0
+2022-04-08 11:42:42,Baird,Neutral,Outperform,down,Announces,40.0,0.0
+2021-11-08 15:48:16,Sidoti & Co.,Buy,Neutral,up,Raises,82.0,65.0
+2021-05-06 10:41:56,Stifel,Buy,Hold,up,Raises,81.0,75.0
+2020-05-07 15:46:25,Baird,Outperform,,main,Raises,48.0,47.0
+2020-04-01 10:44:44,Baird,Outperform,Neutral,up,Announces,47.0,0.0
+2020-03-05 15:01:53,Baird,Neutral,,main,Lowers,37.0,43.0
+2020-03-05 13:51:01,Stifel,Hold,,main,Raises,44.0,40.0
+2019-12-17 14:01:28,Sidoti & Co.,Buy,Neutral,up,,0.0,0.0
+2019-03-04 15:03:54,Baird,Neutral,Neutral,main,Raises,41.0,37.0
+2018-10-24 10:04:47,Stifel,Hold,Buy,down,,0.0,0.0
+2018-07-25 12:20:48,Baird,Neutral,Neutral,main,Lowers,53.0,64.0
+2018-07-25 10:56:16,Stifel,Buy,Buy,main,Lowers,63.0,65.0
+2018-04-25 11:29:12,Stifel,Buy,Buy,main,Lowers,65.0,67.0
+2018-02-21 12:27:01,Dougherty & Co.,Buy,Neutral,up,,0.0,0.0
+2018-01-02 14:29:09,William Blair,Outperform,Market Perform,up,,0.0,0.0
+2017-10-03 11:03:38,Baird,Outperform,Neutral,up,,0.0,0.0
+2017-07-26 13:22:14,Dougherty & Co.,Neutral,Buy,down,,0.0,85.0
+2016-12-20 11:38:27,Dougherty & Co.,Buy,,init,Announces,85.0,0.0
+2016-07-19 09:48:02,Baird,Underweight,Neutral,down,,0.0,0.0
+2016-07-12 11:32:45,BB&T Capital,Hold,Buy,down,,0.0,0.0
+2016-07-06 13:52:13,Seaport Global,Neutral,,down,,0.0,0.0
+2015-09-28 11:14:24,Seaport Global,Accumulate,Neutral,up,,0.0,0.0
+2015-08-31 09:48:59,Stifel,Buy,Hold,up,Announces,50.0,0.0
+2015-06-17 10:21:21,Maxim Group,Buy,,init,Announces,52.0,0.0
+2014-03-10 12:00:00,Baird,Outperform,Neutral,up,Raises,50.0,41.0
+2013-06-12 11:05:05,Stifel,Hold,,init,,0.0,0.0
+2013-06-11 20:27:34,Stifel,Hold,,init,,0.0,0.0
+2013-02-05 12:14:22,Sterne Agee,Neutral,Buy,down,Removes,0.0,0.0
+2012-10-31 14:37:00,Sterne Agee,Buy,,main,Lowers,31.0,35.0
+2012-07-25 19:19:00,Barrington Research,Outperform,,main,Lowers,40.0,50.0

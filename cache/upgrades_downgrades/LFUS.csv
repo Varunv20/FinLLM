@@ -1,0 +1,67 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-10-28 10:53:44,Needham,Buy,Buy,reit,Maintains,520.0,520.0
+2026-06-05 12:43:08,Baird,Outperform,Outperform,main,Raises,535.0,500.0
+2026-05-18 11:08:03,Needham,Buy,Buy,reit,Maintains,520.0,520.0
+2026-05-07 13:10:18,Oppenheimer,Outperform,Outperform,main,Raises,500.0,430.0
+2026-05-07 11:55:24,Needham,Buy,Buy,main,Raises,520.0,450.0
+2026-05-01 10:58:47,Needham,Buy,,init,Announces,450.0,0.0
+2026-04-10 17:08:49,Oppenheimer,Outperform,Outperform,main,Raises,430.0,380.0
+2026-01-29 11:57:56,Benchmark,Buy,Hold,up,Announces,360.0,0.0
+2026-01-16 13:11:53,Oppenheimer,Outperform,Outperform,main,Raises,360.0,325.0
+2025-10-10 11:09:37,Baird,Outperform,Neutral,up,Raises,310.0,290.0
+2025-05-28 11:38:58,Benchmark,Hold,Hold,reit,,0.0,0.0
+2025-05-02 12:52:58,Benchmark,Hold,Hold,reit,,0.0,0.0
+2025-05-01 14:17:39,Oppenheimer,Outperform,Outperform,main,Lowers,275.0,310.0
+2025-05-01 12:29:35,Baird,Neutral,Neutral,main,Raises,194.0,182.0
+2025-04-30 12:41:54,Benchmark,Hold,Hold,reit,,0.0,0.0
+2025-04-15 11:30:16,Baird,Neutral,Outperform,down,Lowers,182.0,225.0
+2025-04-10 11:21:16,Benchmark,Hold,Hold,reit,,0.0,0.0
+2025-01-30 16:22:17,Baird,Outperform,Outperform,main,Lowers,290.0,300.0
+2025-01-30 12:01:42,Benchmark,Hold,Hold,reit,,0.0,0.0
+2025-01-29 15:33:34,Benchmark,Hold,Hold,reit,,0.0,0.0
+2024-10-31 13:39:22,Benchmark,Hold,,reit,,0.0,0.0
+2024-10-30 09:58:45,Benchmark,Hold,,reit,,0.0,0.0
+2024-08-29 11:50:28,Baird,Outperform,Outperform,main,Raises,315.0,300.0
+2024-08-13 09:40:10,Stifel,Buy,Hold,up,Raises,280.0,270.0
+2024-08-01 18:48:15,TD Cowen,Hold,Hold,main,Raises,260.0,250.0
+2024-08-01 15:10:23,Stifel,Hold,Hold,main,Raises,270.0,250.0
+2024-07-15 13:51:27,Stifel,Hold,Hold,main,Raises,250.0,240.0
+2024-05-17 09:21:20,Baird,Outperform,Neutral,up,Raises,300.0,270.0
+2024-05-02 14:01:47,Benchmark,Hold,,reit,,0.0,0.0
+2024-04-09 11:08:40,Jefferies,Hold,,init,Announces,260.0,0.0
+2023-05-11 11:03:59,Baird,Neutral,Neutral,main,Raises,285.0,260.0
+2023-05-04 10:55:37,Baird,Neutral,,main,Raises,285.0,260.0
+2023-04-12 16:23:59,Baird,Neutral,,main,Lowers,260.0,270.0
+2022-11-03 08:38:46,Cowen & Co.,Market Perform,Outperform,down,Lowers,225.0,295.0
+2022-10-10 14:11:02,Stifel,Hold,,main,Lowers,216.0,270.0
+2022-09-22 09:09:27,Benchmark,Hold,,init,,0.0,0.0
+2022-09-16 12:19:37,Baird,Neutral,,main,Lowers,245.0,272.0
+2022-07-06 10:10:15,Baird,Neutral,Outperform,down,Lowers,269.0,289.0
+2021-12-03 13:17:50,Stifel,Hold,,main,Raises,290.0,270.0
+2020-07-30 17:12:48,Stifel,Hold,,main,Raises,165.0,155.0
+2020-05-18 12:34:28,Baird,Outperform,,main,Raises,155.0,152.0
+2020-04-30 12:57:53,Stifel,Hold,,main,Raises,140.0,135.0
+2020-02-04 10:56:59,Baird,Outperform,Neutral,up,,0.0,0.0
+2020-01-21 15:34:13,Cross Research,Sell,Hold,down,,0.0,0.0
+2019-12-26 12:08:01,CL King,Buy,,main,Raises,207.0,199.0
+2019-10-31 12:54:19,Stifel,Hold,,main,Lowers,165.0,170.0
+2019-10-31 10:29:56,Oppenheimer,Perform,Outperform,down,,0.0,0.0
+2019-10-03 10:51:30,Jefferies,Buy,,init,Announces,215.0,0.0
+2019-08-01 11:11:03,Baird,Neutral,Outperform,down,Announces,171.0,0.0
+2019-05-22 10:47:52,Cowen & Co.,Outperform,,init,Announces,210.0,0.0
+2019-04-17 15:02:28,Longbow Research,Neutral,Buy,down,,0.0,0.0
+2019-01-31 11:21:23,Longbow Research,Buy,Neutral,up,Announces,200.0,0.0
+2019-01-08 12:14:39,Oppenheimer,Outperform,Perform,up,Announces,215.0,0.0
+2017-10-13 14:04:04,Oppenheimer,Perform,Outperform,down,,0.0,0.0
+2016-12-13 11:42:15,Longbow Research,Neutral,Buy,down,,0.0,0.0
+2016-12-01 13:09:17,CL King,Buy,,init,,0.0,0.0
+2016-09-13 11:50:37,Oppenheimer,Outperform,,main,Raises,145.0,138.0
+2016-08-26 12:49:24,Baird,Outperform,,main,Raises,132.0,128.0
+2016-03-29 10:59:16,Oppenheimer,Outperform,,main,Raises,138.0,124.0
+2016-02-04 09:50:57,Oppenheimer,Overweight,,main,Raises,124.0,112.0
+2016-02-03 18:18:13,Oppenheimer,Outperform,,main,Raises,124.0,112.0
+2015-05-01 13:00:00,Oppenheimer,Outperform,,main,Lowers,112.0,107.0
+2015-01-16 11:03:57,Longbow Research,Buy,Neutral,up,Announces,116.0,0.0
+2014-09-12 09:52:37,Oppenheimer,Outperform,Market Perform,up,Announces,107.0,0.0
+2013-10-03 20:18:14,Oppenheimer,Perform,,init,Announces,83.0,0.0
+2013-06-03 13:51:59,Baird,Outperform,Neutral,up,Raises,84.0,70.0

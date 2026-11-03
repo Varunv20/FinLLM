@@ -1,0 +1,89 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-07-31 12:51:04,Susquehanna,Neutral,Neutral,main,Lowers,34.0,35.0
+2026-05-01 12:34:17,Susquehanna,Neutral,Neutral,main,Raises,35.0,34.0
+2026-02-13 17:42:56,Goldman Sachs,Neutral,Neutral,main,Raises,33.0,29.0
+2026-02-13 14:04:15,Susquehanna,Neutral,Neutral,main,Raises,34.0,28.0
+2026-01-26 17:07:37,Susquehanna,Neutral,Neutral,main,Raises,28.0,23.0
+2025-07-29 12:26:41,Susquehanna,Neutral,Neutral,main,Lowers,24.0,26.0
+2025-04-22 15:02:01,Susquehanna,Neutral,Neutral,main,Lowers,24.0,35.0
+2025-04-17 17:48:09,Goldman Sachs,Neutral,Neutral,main,Lowers,31.0,36.0
+2025-03-03 16:22:11,Susquehanna,Neutral,Neutral,main,Raises,35.0,34.0
+2024-11-18 13:01:44,Goldman Sachs,Neutral,,init,Announces,39.0,0.0
+2024-10-21 12:55:37,Susquehanna,Neutral,Positive,down,Raises,35.0,34.0
+2024-05-02 18:13:10,TD Cowen,Buy,Buy,main,Raises,33.0,30.0
+2024-05-02 12:30:45,Susquehanna,Positive,Positive,main,Raises,34.0,30.0
+2024-02-23 14:20:44,Susquehanna,Positive,Positive,main,Lowers,30.0,32.0
+2023-11-03 16:24:39,Stephens & Co.,Equal-Weight,Equal-Weight,main,Lowers,26.0,27.0
+2023-10-16 10:56:36,Susquehanna,Positive,Neutral,up,Raises,32.0,29.0
+2023-10-04 11:15:54,Stephens & Co.,Equal-Weight,Equal-Weight,main,Lowers,27.0,28.0
+2023-08-02 13:11:31,Susquehanna,Neutral,Neutral,main,Raises,29.0,22.0
+2023-08-02 13:03:09,Wells Fargo,Overweight,Overweight,main,Raises,31.0,27.0
+2023-05-03 13:16:59,Susquehanna,Neutral,,main,Lowers,22.0,26.0
+2023-05-03 12:39:20,Stephens & Co.,Equal-Weight,,main,Lowers,24.0,26.0
+2023-05-03 12:10:05,Wells Fargo,Overweight,,main,Lowers,27.0,30.0
+2023-03-07 12:17:50,Susquehanna,Neutral,,main,Lowers,26.0,30.0
+2023-02-22 13:05:32,Wells Fargo,Overweight,,main,Lowers,30.0,34.0
+2023-02-22 13:02:59,Stephens & Co.,Equal-Weight,,main,Lowers,26.0,28.0
+2022-12-01 12:47:10,Wells Fargo,Overweight,,main,Raises,34.0,31.0
+2022-11-07 12:14:43,Susquehanna,Neutral,Positive,down,Announces,30.0,0.0
+2022-07-28 12:26:41,Wells Fargo,Overweight,,main,Lowers,33.0,38.0
+2022-07-28 11:36:25,Stephens & Co.,Equal-Weight,,main,Raises,27.0,26.0
+2021-07-26 10:28:16,Susquehanna,Positive,Neutral,up,Announces,36.0,0.0
+2021-07-23 12:30:08,Wells Fargo,Overweight,,main,Raises,36.0,35.0
+2021-01-05 14:42:49,GLJ Research,Buy,Sell,up,,0.0,0.0
+2020-04-15 13:09:04,Cowen & Co.,Outperform,,main,Lowers,21.0,26.0
+2020-04-03 15:51:18,Wells Fargo,Underweight,,main,Lowers,17.0,22.0
+2020-01-14 14:11:04,Wells Fargo,Underweight,Overweight,down,Announces,22.0,0.0
+2019-11-08 15:01:34,Susquehanna,Neutral,Positive,down,Lowers,22.0,25.0
+2019-10-18 13:03:35,Buckingham Research,Neutral,,main,Lowers,20.0,22.0
+2019-03-22 11:54:36,Buckingham Research,Neutral,Buy,down,Lowers,26.0,32.0
+2019-03-11 10:18:28,Keybanc,Sector Weight,Overweight,down,Announces,30.0,0.0
+2018-11-01 15:53:51,Wells Fargo,Outperform,Outperform,main,Lowers,35.0,53.0
+2018-10-05 11:15:42,Buckingham Research,Buy,Buy,main,Raises,47.0,45.0
+2018-09-20 13:31:28,Vertical Research,Hold,Sell,up,,0.0,0.0
+2018-07-27 13:34:05,Buckingham Research,Buy,Buy,main,Raises,45.0,41.0
+2018-07-27 13:16:09,Stifel,Buy,Buy,main,Raises,45.0,44.0
+2018-06-29 10:09:28,Mizuho,Buy,,init,Announces,42.0,0.0
+2018-04-30 11:48:55,Stifel,Buy,Buy,main,Raises,44.0,42.0
+2018-03-06 12:01:24,Vertical Research,Sell,,init,Announces,20.0,0.0
+2018-02-23 15:22:23,Stifel,Buy,Buy,main,Raises,42.0,40.0
+2018-02-16 11:57:38,Wells Fargo,Outperform,Market Perform,up,,0.0,0.0
+2018-01-04 12:22:01,Seaport Global,Neutral,,init,,0.0,0.0
+2017-11-06 13:19:24,Susquehanna,Positive,Neutral,up,,0.0,0.0
+2017-10-27 12:24:05,Stifel,Buy,,main,Lowers,41.0,42.0
+2017-10-02 15:27:23,Buckingham Research,Buy,,main,Raises,36.0,34.0
+2017-10-02 12:18:54,Citigroup,Buy,,main,Raises,45.0,36.0
+2017-09-29 10:53:01,Citigroup,Buy,Neutral,up,,0.0,0.0
+2017-07-27 11:13:12,Stifel,Buy,Hold,up,,0.0,0.0
+2016-09-30 15:16:33,Stifel,Hold,,main,Raises,21.0,20.0
+2016-09-30 11:28:46,CLSA,Underperform,,init,Announces,26.0,0.0
+2016-07-25 10:54:25,Susquehanna,Neutral,Positive,down,,0.0,0.0
+2016-04-19 11:21:32,Stifel,Hold,Buy,down,,0.0,0.0
+2016-02-22 13:13:04,Stifel,Buy,,main,Lowers,20.0,27.0
+2016-02-19 12:15:18,BB&T Capital,Underweight,Buy,down,,0.0,0.0
+2016-02-18 08:43:59,Axiom Capital,Sell,,init,Announces,10.0,0.0
+2015-12-14 11:21:42,Cowen & Co.,Outperform,,init,Announces,32.0,0.0
+2015-09-21 13:09:36,Wells Fargo,Market Perform,Outperform,down,,0.0,0.0
+2015-09-04 09:57:25,Macquarie,Neutral,Underperform,up,Lowers,27.0,28.0
+2015-04-27 13:00:00,Stifel,Buy,,main,Lowers,38.0,40.0
+2015-03-10 11:27:16,Stephens & Co.,Equal-Weight,Overweight,down,,0.0,0.0
+2015-02-20 14:00:00,Stifel,Buy,,main,Lowers,40.0,41.0
+2014-11-21 05:00:00,Longbow Research,Buy,Neutral,up,Announces,45.0,0.0
+2014-10-30 13:00:00,Stifel,Buy,,main,Raises,45.0,43.0
+2014-10-28 10:16:01,Susquehanna,Positive,Neutral,up,Lowers,44.0,48.0
+2014-08-19 13:00:00,Keybanc,Buy,,main,Raises,55.0,53.0
+2014-06-17 01:26:13,Stifel,Buy,,main,Raises,90.0,86.0
+2014-06-17 01:01:20,Keybanc,Buy,,main,Raises,105.0,90.0
+2014-05-02 12:06:15,Stifel,Buy,,main,Raises,86.0,81.0
+2014-02-10 21:00:00,Stephens & Co.,Overweight,Equal-Weight,up,Raises,70.0,48.0
+2014-01-16 11:46:43,Stifel,Buy,Hold,up,Announces,67.0,0.0
+2013-11-21 13:45:55,Raymond James,Underperform,Outperform,down,Removes,0.0,53.0
+2013-02-20 14:28:36,Raymond James,Outperform,Strong Buy,down,Raises,47.0,39.0
+2013-02-08 16:04:50,UBS,Neutral,Buy,down,Raises,41.0,38.0
+2013-02-08 15:32:12,UBS,Neutral,Buy,down,,0.0,0.0
+2013-01-25 14:36:47,Stifel,Hold,Buy,down,,0.0,0.0
+2012-12-14 13:06:12,Stifel,Buy,,main,Raises,38.0,36.0
+2012-10-15 17:41:00,Stephens & Co.,Equal-Weight,,init,Announces,32.0,0.0
+2012-10-15 16:54:00,UBS,Buy,,init,Announces,38.0,0.0
+2012-10-09 13:39:00,Raymond James,Strong Buy,Market Perform,up,,0.0,0.0
+2012-07-12 11:43:00,Stifel,Buy,,init,Announces,31.0,0.0

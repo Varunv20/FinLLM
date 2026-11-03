@@ -1,0 +1,22 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-08-07 15:34:22,Stephens & Co.,Overweight,Overweight,main,Raises,220.0,160.0
+2026-05-11 12:21:47,Freedom Broker,Hold,Buy,down,Raises,157.0,154.0
+2026-03-02 13:54:57,Freedom Broker,Buy,Buy,main,Raises,154.0,121.0
+2025-11-10 19:56:16,Freedom Broker,Buy,Buy,main,Lowers,121.0,148.0
+2025-10-17 18:55:02,Freedom Broker,Buy,,init,Announces,148.0,0.0
+2025-03-10 14:43:01,Stephens & Co.,Overweight,Overweight,main,Raises,95.0,75.0
+2024-11-07 18:05:04,Stephens & Co.,Overweight,Overweight,main,Raises,75.0,65.0
+2023-08-10 15:09:46,Stephens & Co.,Overweight,Overweight,main,Raises,55.0,40.0
+2023-03-21 11:57:21,Stephens & Co.,Overweight,,reit,Maintains,40.0,0.0
+2020-04-03 11:20:54,Stephens & Co.,Overweight,,reit,Lowers,20.0,36.0
+2020-03-09 13:21:12,Sidoti & Co.,Neutral,,main,Lowers,15.0,37.0
+2019-04-25 11:04:24,Jefferies,Hold,,init,Announces,47.0,0.0
+2019-02-26 14:50:02,Sidoti & Co.,Buy,Buy,main,Lowers,52.0,61.0
+2015-07-21 09:15:39,Keybanc,Sector Weight,,init,,0.0,0.0
+2013-11-22 13:41:30,Ascendiant Capital,Neutral,Buy,down,,0.0,0.0
+2013-11-01 13:18:25,Ascendiant Capital,Buy,Neutral,up,,0.0,0.0
+2013-10-31 18:40:09,Ascendiant Capital,Buy,Neutral,up,,0.0,0.0
+2013-07-26 11:39:26,Ascendiant Capital,Neutral,Buy,down,,0.0,0.0
+2013-05-02 12:19:20,BB&T Capital,Hold,Buy,down,Removes,0.0,70.0
+2013-04-19 12:53:25,Ascendiant Capital,Buy,Neutral,up,Announces,72.0,0.0
+2013-04-03 12:24:05,Ascendiant Capital,Neutral,,init,,0.0,0.0

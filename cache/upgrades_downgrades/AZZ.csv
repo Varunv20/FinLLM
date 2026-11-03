@@ -1,0 +1,48 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-10-15 14:21:38,Barclays,Equal-Weight,Equal-Weight,main,Raises,145.0,140.0
+2026-10-15 13:50:53,Wells Fargo,Equal-Weight,Equal-Weight,main,Raises,145.0,144.0
+2026-10-15 13:25:08,B. Riley Securities,Buy,Buy,main,Raises,174.0,170.0
+2026-10-15 11:50:22,Baird,Neutral,Neutral,main,Lowers,150.0,155.0
+2026-10-14 13:01:50,Barclays,Equal-Weight,,init,Announces,140.0,0.0
+2026-07-13 13:05:55,B. Riley Securities,Buy,Buy,main,Raises,170.0,169.0
+2026-07-10 12:31:26,Wells Fargo,Equal-Weight,Equal-Weight,main,Raises,144.0,138.0
+2026-04-27 12:40:57,Evercore ISI Group,Outperform,Outperform,main,Raises,152.0,137.0
+2026-04-24 13:10:38,B. Riley Securities,Buy,Buy,main,Raises,169.0,167.0
+2026-04-24 10:54:44,Baird,Neutral,Neutral,main,Raises,155.0,125.0
+2026-03-05 14:00:18,Evercore ISI Group,Outperform,Outperform,main,Raises,137.0,128.0
+2026-03-02 14:12:24,Wells Fargo,Equal-Weight,Overweight,down,Raises,132.0,127.0
+2025-10-10 15:22:59,Wells Fargo,Overweight,Overweight,main,Lowers,121.0,128.0
+2025-09-17 18:04:04,B. Riley Securities,Buy,Buy,main,Raises,140.0,131.0
+2025-08-15 14:09:20,Baird,Neutral,Neutral,main,Raises,120.0,110.0
+2025-08-14 10:56:02,Wells Fargo,Overweight,,init,Announces,128.0,0.0
+2025-07-11 12:08:56,Baird,Neutral,Neutral,main,Raises,110.0,90.0
+2025-07-09 12:42:27,Evercore ISI Group,Outperform,Outperform,main,Raises,108.0,90.0
+2025-06-09 15:21:22,Sidoti & Co.,Neutral,Buy,down,Maintains,101.0,101.0
+2025-04-09 13:49:36,Sidoti & Co.,Buy,Neutral,up,Announces,101.0,0.0
+2025-02-11 16:15:54,Roth MKM,Buy,,init,Announces,108.0,0.0
+2025-02-11 14:08:16,B. Riley Securities,Buy,Buy,main,Raises,111.0,99.0
+2024-12-06 13:44:04,Jefferies,Buy,Buy,main,Raises,110.0,105.0
+2024-07-31 19:52:51,Wolfe Research,Peer Perform,,init,,0.0,0.0
+2024-07-23 09:20:48,Baird,Neutral,,init,Announces,90.0,0.0
+2024-07-17 16:52:41,B. Riley Securities,Buy,Buy,main,Raises,99.0,89.0
+2024-06-14 12:18:09,Evercore ISI Group,Outperform,,init,Announces,90.0,0.0
+2024-06-11 16:54:20,Noble Capital Markets,Outperform,Market Perform,up,Announces,95.0,0.0
+2024-05-20 12:40:09,Jefferies,Buy,,init,Announces,105.0,0.0
+2024-04-23 16:55:02,B. Riley Securities,Buy,Buy,main,Raises,85.0,67.0
+2024-03-22 16:04:30,Noble Capital Markets,Market Perform,Outperform,down,Announces,75.0,0.0
+2023-08-30 09:52:13,B. Riley Securities,Buy,,init,Announces,64.0,0.0
+2023-08-21 13:03:46,Noble Capital Markets,Outperform,,init,Announces,60.0,0.0
+2023-01-13 11:20:20,Stifel,Hold,Buy,down,Announces,48.0,0.0
+2022-09-20 10:56:40,Stifel,Buy,,main,Lowers,54.0,62.0
+2020-11-19 10:39:49,Stifel,Buy,Hold,up,Announces,50.0,0.0
+2020-04-08 13:13:40,Sidoti & Co.,Buy,,main,Lowers,48.0,60.0
+2018-10-29 13:51:26,Sidoti & Co.,Buy,Neutral,up,Maintains,54.0,0.0
+2017-01-10 13:19:55,Stifel,Hold,Sell,up,Raises,60.0,57.0
+2016-12-08 11:15:15,Stifel,Sell,Hold,down,,0.0,0.0
+2016-03-28 11:43:24,Stifel,Hold,,init,,0.0,0.0
+2016-01-11 12:55:42,BB&T Capital,Hold,Buy,down,,0.0,0.0
+2015-10-12 13:40:06,Sidoti & Co.,Neutral,Buy,down,,0.0,0.0
+2014-04-04 11:52:30,DA Davidson,Buy,,main,Raises,53.0,50.0
+2013-02-25 17:17:47,DA Davidson,Buy,Neutral,up,,0.0,0.0
+2013-01-25 13:19:50,BB&T Capital,Buy,Hold,up,Announces,49.0,0.0
+2012-10-01 13:00:00,DA Davidson,Neutral,Buy,down,Raises,42.0,37.5

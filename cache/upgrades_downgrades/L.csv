@@ -1,0 +1,8 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2018-08-01 12:20:42,Deutsche Bank,Hold,Hold,main,Raises,54.0,51.0
+2015-11-06 14:45:11,Deutsche Bank,Hold,,main,Raises,42.0,44.0
+2014-08-08 20:00:00,JP Morgan,Hold,,main,Lowers,50.0,51.0
+2014-03-24 11:46:36,Deutsche Bank,Hold,Buy,down,Lowers,51.0,53.0
+2013-09-04 13:49:57,Deutsche Bank,Buy,,init,Announces,52.0,0.0
+2013-09-03 20:12:21,Deutsche Bank,Buy,,init,Announces,52.0,0.0
+2012-05-03 13:57:00,BGB Securities,Buy,,main,Raises,54.0,0.0

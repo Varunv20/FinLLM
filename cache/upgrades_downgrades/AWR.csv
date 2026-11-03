@@ -1,0 +1,56 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-06-30 13:11:12,Freedom Broker,Hold,,init,Announces,77.0,0.0
+2025-05-08 12:17:08,Wells Fargo,Equal-Weight,Underweight,up,Raises,84.0,76.0
+2025-02-03 12:02:37,B of A Securities,Underperform,Neutral,down,Lowers,71.0,85.0
+2025-01-07 14:22:20,Wells Fargo,Underweight,Equal-Weight,down,Announces,77.0,84.0
+2024-12-11 11:34:52,B of A Securities,Neutral,,init,Announces,85.0,0.0
+2024-07-31 11:54:43,Wells Fargo,Equal-Weight,Underweight,up,Raises,87.0,80.0
+2024-05-09 15:54:58,Wells Fargo,Underweight,Underweight,main,Raises,80.0,77.0
+2024-02-23 17:53:31,Wells Fargo,Underweight,Underweight,main,Lowers,77.0,79.0
+2023-06-28 12:12:04,UBS,Neutral,Sell,up,Raises,88.0,86.0
+2023-06-28 09:31:59,Wells Fargo,Underweight,Equal-Weight,down,Lowers,89.0,94.0
+2023-05-12 12:11:38,Wells Fargo,Equal-Weight,Underweight,up,Announces,94.0,0.0
+2023-01-05 13:54:28,Seaport Global,Neutral,Buy,down,,0.0,0.0
+2022-11-30 13:47:34,UBS,Sell,,init,Announces,92.0,0.0
+2022-11-09 14:01:57,Wells Fargo,Underweight,,main,Lowers,90.0,91.0
+2022-10-31 11:49:16,Wells Fargo,Underweight,,main,Raises,91.0,85.0
+2022-10-20 11:21:07,Wells Fargo,Underweight,Equal-Weight,down,Announces,85.0,0.0
+2022-08-03 11:51:18,Wells Fargo,Equal-Weight,,main,Raises,90.0,75.0
+2022-07-18 11:54:41,Barclays,Underweight,,main,Lowers,80.0,88.0
+2022-03-15 10:58:55,Barclays,Underweight,,main,Lowers,85.0,86.0
+2022-02-24 13:53:49,Wells Fargo,Equal-Weight,,main,Lowers,86.0,94.0
+2022-02-09 11:34:01,Barclays,Underweight,,main,Lowers,86.0,96.0
+2021-12-08 11:16:42,Barclays,Underweight,Equal-Weight,down,Raises,96.0,87.0
+2021-12-01 12:08:29,Wells Fargo,Equal-Weight,,main,Lowers,97.0,98.0
+2021-11-01 11:31:21,Wells Fargo,Equal-Weight,Overweight,down,,0.0,0.0
+2021-07-15 10:16:26,Barclays,Equal-Weight,,init,Announces,87.0,0.0
+2020-09-21 10:38:31,Wells Fargo,Overweight,Equal-Weight,up,Announces,79.0,0.0
+2020-06-22 14:42:03,UBS,Sell,,main,Raises,70.0,65.0
+2020-05-20 11:40:36,Seaport Global,Buy,,init,Announces,84.0,0.0
+2020-05-08 16:57:41,UBS,Sell,,main,Raises,65.0,60.0
+2020-03-16 13:40:22,UBS,Sell,,main,Raises,60.0,57.0
+2020-03-11 11:00:10,Wells Fargo,Equal-Weight,Underweight,up,Announces,84.0,0.0
+2020-03-04 11:06:17,Janney Montgomery Scott,Buy,Neutral,up,Announces,93.0,0.0
+2020-02-26 14:25:26,Wells Fargo,Underweight,,main,Raises,87.0,78.0
+2018-09-17 12:47:17,Evercore ISI Group,Underperform,,init,Announces,54.0,0.0
+2018-08-24 12:20:45,Wells Fargo,Underperform,Underperform,main,Lowers,52.0,54.0
+2018-03-08 12:37:26,UBS,Sell,,init,Announces,42.0,0.0
+2017-12-18 14:10:46,Wells Fargo,Underperform,Market Perform,down,,0.0,48.0
+2017-10-03 11:44:22,Wells Fargo,Market Perform,,main,Raises,48.0,46.0
+2016-09-06 11:43:34,Barclays,Underweight,,main,Lowers,39.0,44.0
+2016-08-05 10:46:29,Janney Montgomery Scott,Neutral,Sell,up,,0.0,0.0
+2016-05-20 16:51:50,Barclays,Underweight,,main,Lowers,40.0,42.0
+2016-05-11 11:26:57,Ladenburg Thalmann,Neutral,Sell,up,,0.0,0.0
+2016-01-04 10:32:26,Barclays,Underweight,,init,Announces,40.0,0.0
+2015-10-16 13:06:09,Janney Montgomery Scott,Sell,Neutral,down,Announces,36.0,0.0
+2014-10-31 10:19:02,Brean Capital,Hold,Buy,down,Removes,33.0,0.0
+2014-08-11 12:33:49,Ladenburg Thalmann,Neutral,Buy,down,,0.0,0.0
+2014-02-28 13:00:00,Brean Capital,Buy,Hold,up,Announces,33.0,0.0
+2014-01-22 13:00:00,Janney Montgomery Scott,Buy,Neutral,up,Raises,32.0,13.5
+2013-10-22 12:00:00,Brean Capital,Hold,Buy,down,,0.0,0.0
+2013-09-17 11:58:02,Brean Capital,Buy,Hold,up,Announces,28.0,0.0
+2012-08-13 11:32:00,Ladenburg Thalmann,Buy,,main,Raises,48.0,45.0
+2012-07-12 09:56:00,Brean Capital,Hold,Buy,down,Removes,0.0,0.0
+2012-05-08 13:04:00,Brean Capital,Buy,,main,Raises,42.0,41.0
+2012-03-13 12:34:00,Ladenburg Thalmann,Buy,,main,Raises,43.0,38.0
+2012-03-13 10:31:00,Brean Capital,Buy,,main,Raises,41.0,40.0

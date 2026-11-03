@@ -1,0 +1,33 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-05-22 18:51:31,Jefferies,Buy,Buy,main,Raises,55.0,42.0
+2026-05-22 18:30:43,Freedom Broker,Hold,Buy,down,Raises,51.0,41.0
+2026-04-24 13:11:21,Jefferies,Buy,,init,Announces,42.0,0.0
+2026-02-11 11:00:44,Freedom Broker,Buy,Buy,main,Raises,41.0,39.0
+2025-11-12 20:20:20,Freedom Broker,Buy,Buy,main,Lowers,39.0,48.0
+2025-07-11 13:10:17,Jefferies,Buy,Buy,main,Raises,35.0,33.0
+2025-01-31 15:56:04,Jefferies,Buy,Buy,main,Maintains,35.0,35.0
+2024-10-31 21:59:43,Jefferies,Buy,Buy,main,Maintains,42.0,42.0
+2024-05-22 12:18:06,Jefferies,Buy,Buy,main,Raises,50.0,46.0
+2024-02-01 13:10:50,Jefferies,Buy,Buy,reit,Maintains,50.0,0.0
+2024-01-26 16:11:53,DNB Markets,Hold,Buy,down,Announces,44.0,0.0
+2023-11-20 09:05:05,Jefferies,Buy,Hold,up,Raises,50.0,37.0
+2023-08-03 09:47:42,Jefferies,Hold,Buy,down,Announces,30.0,0.0
+2023-05-25 08:37:15,Evercore ISI Group,Outperform,In-Line,up,Raises,32.0,25.0
+2023-05-24 16:08:23,Jefferies,Buy,Buy,main,Raises,28.0,27.0
+2023-01-05 12:11:33,UBS,Neutral,Buy,down,Announces,19.0,0.0
+2022-12-13 09:36:37,Jefferies,Buy,,main,Raises,25.0,22.0
+2022-11-02 14:35:31,Jefferies,Buy,,main,Raises,22.0,20.0
+2022-07-21 10:17:14,Jefferies,Buy,,init,Announces,20.0,0.0
+2021-08-27 12:02:59,UBS,Buy,,init,Announces,19.0,0.0
+2021-05-20 11:15:30,Evercore ISI Group,In-Line,Outperform,down,Announces,15.0,0.0
+2021-02-26 12:29:26,Pareto Securities,Hold,Sell,up,Announces,11.5,0.0
+2020-05-28 11:29:54,Evercore ISI Group,In-Line,Outperform,down,Announces,11.0,0.0
+2020-03-09 12:23:02,DNB Markets,Hold,Buy,down,,0.0,0.0
+2019-12-20 11:59:53,Evercore ISI Group,Outperform,,init,Announces,19.0,0.0
+2019-07-25 10:22:48,Wells Fargo,Outperform,Market Perform,up,Raises,15.0,8.0
+2017-11-13 15:36:21,UBS,Neutral,,main,Raises,8.25,7.25
+2017-03-01 11:56:42,Pareto Securities,Hold,Sell,up,,0.0,0.0
+2016-03-22 10:26:15,UBS,Neutral,Buy,down,Raises,19.0,12.5
+2016-01-26 12:51:44,Wells Fargo,Market Perform,Outperform,down,,0.0,0.0
+2015-12-18 10:59:52,JP Morgan,Overweight,,init,,0.0,0.0
+2014-11-13 14:00:00,JP Morgan,Overweight,,main,Lowers,21.0,24.0

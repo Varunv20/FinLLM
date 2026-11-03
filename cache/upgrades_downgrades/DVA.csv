@@ -1,0 +1,131 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-11-02 21:29:41,UBS,Buy,Buy,main,Raises,287.0,270.0
+2026-11-02 20:35:20,Barclays,Equal-Weight,Equal-Weight,main,Lowers,216.0,224.0
+2026-11-02 17:05:26,TD Cowen,Buy,Buy,main,Raises,228.0,220.0
+2026-08-07 20:33:43,TD Cowen,Buy,Hold,up,Lowers,220.0,201.0
+2026-08-07 13:14:57,Truist Securities,Hold,Hold,main,Lowers,215.0,250.0
+2026-08-05 11:09:13,Barclays,Equal-Weight,Equal-Weight,main,Raises,224.0,218.0
+2026-07-14 13:29:24,Truist Securities,Hold,Hold,main,Raises,250.0,205.0
+2026-07-10 17:14:10,UBS,Buy,Buy,main,Raises,270.0,235.0
+2026-07-09 13:31:28,Barclays,Equal-Weight,Equal-Weight,main,Raises,218.0,194.0
+2026-05-11 18:25:25,TD Cowen,Hold,Hold,main,Raises,201.0,144.0
+2026-05-08 16:22:10,Truist Securities,Hold,Hold,main,Raises,205.0,158.0
+2026-05-08 14:49:02,Barclays,Equal-Weight,Equal-Weight,main,Raises,194.0,158.0
+2026-05-07 23:17:04,UBS,Buy,Buy,main,Raises,235.0,190.0
+2026-05-06 09:31:37,Deutsche Bank,Buy,Hold,up,Raises,220.0,126.0
+2026-02-04 18:46:03,UBS,Buy,Buy,main,Raises,190.0,186.0
+2026-02-03 13:30:22,Barclays,Equal-Weight,Equal-Weight,main,Raises,158.0,143.0
+2025-11-03 16:23:07,TD Cowen,Hold,Hold,main,Lowers,133.0,154.0
+2025-10-30 15:59:39,Barclays,Equal-Weight,Equal-Weight,main,Lowers,143.0,149.0
+2025-10-09 12:11:48,Barclays,Equal-Weight,Equal-Weight,main,Lowers,149.0,160.0
+2025-09-10 15:20:00,B of A Securities,Underperform,Underperform,main,Lowers,140.0,145.0
+2025-08-07 13:13:22,Barclays,Equal-Weight,Equal-Weight,main,Lowers,160.0,169.0
+2025-05-19 13:13:43,Truist Securities,Hold,Hold,main,Lowers,164.0,170.0
+2025-02-18 13:10:06,Barclays,Equal-Weight,Equal-Weight,main,Raises,169.0,164.0
+2024-10-31 18:10:38,Barclays,Equal-Weight,Equal-Weight,main,Raises,164.0,150.0
+2024-10-07 12:29:28,Truist Securities,Hold,Hold,main,Raises,175.0,165.0
+2024-08-20 14:11:32,Truist Securities,Hold,Hold,main,Raises,165.0,150.0
+2024-08-08 13:35:42,UBS,Buy,Buy,main,Raises,175.0,169.0
+2024-08-07 17:10:08,B of A Securities,Underperform,Underperform,main,Raises,145.0,139.0
+2024-07-24 19:50:24,TD Cowen,Hold,Hold,main,Raises,150.0,139.0
+2024-05-15 13:41:59,Truist Securities,Hold,Hold,main,Raises,150.0,135.0
+2024-05-06 15:21:59,Barclays,Equal-Weight,Equal-Weight,main,Raises,150.0,133.0
+2024-03-06 21:05:41,Barclays,Equal-Weight,,init,Announces,133.0,0.0
+2024-02-20 14:16:31,Truist Securities,Hold,Hold,main,Raises,135.0,130.0
+2024-02-15 16:53:39,UBS,Buy,Buy,main,Raises,145.0,134.0
+2024-02-14 19:50:30,UBS,Buy,Buy,main,Raises,134.0,113.0
+2024-02-14 13:13:53,Truist Securities,Hold,Hold,main,Raises,130.0,120.0
+2023-11-17 15:56:51,UBS,Buy,Buy,main,Lowers,113.0,142.0
+2023-10-11 19:57:22,Truist Securities,Hold,Hold,main,Lowers,104.0,115.0
+2023-08-07 11:41:16,UBS,Buy,Neutral,up,Raises,142.0,100.0
+2023-07-13 16:44:37,Truist Securities,Hold,Hold,main,Raises,115.0,100.0
+2023-05-15 11:00:48,Bernstein,Market Perform,Market Perform,main,Raises,100.0,88.0
+2023-05-09 13:40:03,Deutsche Bank,Hold,,main,Raises,113.0,85.0
+2023-05-09 12:45:07,Truist Securities,Hold,,main,Raises,100.0,90.0
+2023-05-09 11:23:47,TD Cowen,Market Perform,,main,Raises,98.0,90.0
+2023-05-09 11:10:20,B of A Securities,Underperform,,main,Raises,96.0,86.0
+2023-02-23 15:28:52,Cowen & Co.,Outperform,,main,Raises,90.0,76.0
+2023-02-23 14:04:47,Truist Securities,Hold,,main,Raises,90.0,84.0
+2022-10-31 13:34:17,Truist Securities,Hold,,main,Lowers,75.0,90.0
+2022-10-31 10:55:19,Barclays,Equal-Weight,,main,Lowers,81.0,103.0
+2022-10-31 10:30:41,UBS,Neutral,Buy,down,Lowers,74.0,117.0
+2022-08-19 10:34:47,UBS,Buy,Neutral,up,Raises,117.0,106.0
+2022-08-04 11:26:08,Barclays,Equal-Weight,,main,Lowers,103.0,128.0
+2022-08-02 14:11:46,Deutsche Bank,Buy,,main,Lowers,97.0,150.0
+2022-06-22 12:14:46,Truist Securities,Hold,,main,Lowers,90.0,110.0
+2022-01-05 14:38:13,Truist Securities,Hold,,main,Raises,125.0,114.0
+2021-10-29 13:25:06,RBC Capital,Sector Perform,,main,Lowers,111.0,113.0
+2021-10-13 14:17:52,Truist Securities,Hold,,main,Lowers,125.0,145.0
+2021-09-10 09:12:04,Cowen & Co.,Market Perform,,init,Announces,145.0,0.0
+2021-08-12 10:20:23,Barclays,Equal-Weight,Overweight,down,Raises,146.0,135.0
+2021-07-19 13:49:52,Deutsche Bank,Buy,,main,Raises,207.0,150.0
+2021-03-26 12:35:38,B of A Securities,Underperform,Neutral,down,Lowers,118.0,127.0
+2021-01-05 12:57:11,B of A Securities,Neutral,Buy,down,Announces,127.0,0.0
+2020-05-06 15:50:35,SunTrust Robinson Humphrey,Hold,,main,Raises,90.0,82.0
+2020-04-13 12:59:34,SunTrust Robinson Humphrey,Hold,,main,Lowers,82.0,90.0
+2020-01-24 11:43:41,Goldman Sachs,Buy,Neutral,up,Raises,97.0,72.0
+2019-12-20 14:31:12,JP Morgan,Neutral,,main,Raises,75.0,65.0
+2019-12-18 14:43:25,SunTrust Robinson Humphrey,Hold,,main,Raises,80.0,72.0
+2019-11-19 16:57:16,Barclays,Overweight,,main,Raises,79.0,68.0
+2019-11-07 11:37:27,Raymond James,Market Perform,Outperform,down,,0.0,0.0
+2019-11-06 13:48:53,Baird,Neutral,,main,Raises,65.0,63.0
+2019-09-11 15:04:42,William Blair,Market Perform,Outperform,down,,0.0,0.0
+2019-08-22 12:45:55,UBS,Neutral,,main,Lowers,60.0,61.0
+2019-07-26 10:58:40,Baird,Neutral,Outperform,down,Lowers,65.0,70.0
+2019-05-09 13:25:20,Deutsche Bank,Buy,,main,Lowers,66.0,68.0
+2019-01-08 12:29:52,UBS,Neutral,Sell,up,Lowers,59.0,64.0
+2019-01-03 12:50:25,Deutsche Bank,Buy,,init,Announces,60.0,0.0
+2018-12-14 11:43:18,Barclays,Overweight,,init,Announces,70.0,0.0
+2018-11-28 13:15:02,Raymond James,Outperform,Market Perform,up,Announces,70.0,0.0
+2018-11-16 13:42:10,UBS,Sell,,init,Announces,64.0,0.0
+2018-11-08 14:44:00,RBC Capital,Sector Perform,Sector Perform,main,Raises,78.0,70.0
+2018-11-08 12:02:45,Raymond James,Market Perform,Strong Buy,down,,0.0,0.0
+2018-09-13 12:26:14,JP Morgan,Neutral,Underweight,up,,0.0,0.0
+2018-01-04 11:24:07,B of A Securities,Buy,Neutral,up,Raises,85.0,75.0
+2017-12-11 14:28:02,Citigroup,Buy,Neutral,up,,0.0,0.0
+2017-12-07 11:52:43,Raymond James,Strong Buy,Outperform,up,,0.0,0.0
+2017-11-08 15:02:30,B of A Securities,Neutral,,main,Lowers,66.0,75.0
+2017-10-09 10:57:20,JP Morgan,Underweight,Neutral,down,,0.0,0.0
+2017-06-26 10:14:22,Jefferies,Hold,Buy,down,,0.0,0.0
+2016-12-13 11:42:13,Baird,Neutral,Outperform,down,,0.0,0.0
+2016-09-20 10:07:55,Raymond James,Outperform,Market Perform,up,,0.0,0.0
+2016-09-06 11:28:44,B of A Securities,Neutral,Buy,down,,0.0,0.0
+2016-09-06 10:02:43,Citigroup,Neutral,,init,Announces,71.0,0.0
+2016-08-10 02:26:08,JP Morgan,Neutral,,main,Raises,75.0,74.0
+2016-03-02 11:32:33,Bernstein,Market Perform,,main,Lowers,71.0,74.5
+2015-09-16 12:07:50,JP Morgan,Neutral,,init,,0.0,0.0
+2015-04-27 10:07:57,Baird,Outperform,Neutral,up,Raises,95.0,75.0
+2015-03-13 13:00:00,Deutsche Bank,Hold,,main,Raises,83.0,78.0
+2014-11-07 14:00:00,JP Morgan,Overweight,,main,Raises,85.0,75.0
+2014-09-17 09:56:02,Keybanc,Hold,Buy,down,Removes,0.0,75.0
+2014-08-15 11:46:40,Deutsche Bank,Hold,Buy,down,,0.0,0.0
+2014-07-21 12:15:48,Raymond James,Market Perform,Outperform,down,,0.0,0.0
+2014-06-30 10:26:01,Jefferies,Buy,,init,Announces,86.0,0.0
+2014-05-02 05:40:16,Deutsche Bank,Buy,,main,Lowers,77.0,80.0
+2014-04-18 02:54:49,Citigroup,Neutral,,main,Raises,71.0,68.0
+2014-01-06 21:00:00,Raymond James,Outperform,Market Perform,up,Announces,75.0,0.0
+2013-12-18 11:42:29,Keybanc,Buy,,init,Announces,73.0,0.0
+2013-12-17 21:00:00,Keybanc,Buy,,init,Announces,73.0,0.0
+2013-11-25 16:24:46,Citigroup,Neutral,,main,Raises,60.0,57.5
+2013-11-25 16:06:57,Deutsche Bank,Buy,,main,Raises,72.0,68.0
+2013-10-10 13:09:21,Atlantic Equities,Overweight,,init,Announces,68.0,0.0
+2013-08-07 13:27:02,RBC Capital,Sector Perform,Outperform,down,Lowers,115.0,127.0
+2013-07-16 12:23:32,Goldman Sachs,Sell,Neutral,down,Maintains,110.0,0.0
+2013-07-02 11:46:30,Raymond James,Market Perform,Outperform,down,Removes,0.0,125.0
+2013-04-02 10:11:24,Deutsche Bank,Buy,Hold,up,Raises,136.0,130.0
+2013-03-11 12:35:56,SunTrust Robinson Humphrey,Neutral,Buy,down,Removes,0.0,136.0
+2013-03-07 11:12:17,Deutsche Bank,Hold,Buy,down,Lowers,130.0,136.0
+2013-02-15 13:50:38,B of A Securities,Buy,,main,Raises,138.0,134.0
+2013-02-15 11:25:57,Goldman Sachs,Neutral,Buy,down,Maintains,120.0,0.0
+2013-01-28 12:54:35,Bernstein,Market Perform,,init,,0.0,0.0
+2012-12-20 11:09:34,JP Morgan,Overweight,,init,Announces,125.0,0.0
+2012-11-06 12:49:00,Deutsche Bank,Buy,,main,Raises,136.0,114.0
+2012-10-31 12:35:00,Feltl & Co.,Buy,,main,Raises,121.0,111.0
+2012-10-11 10:37:00,B of A Securities,Buy,,main,Raises,130.0,119.0
+2012-10-02 17:06:00,B of A Securities,Buy,,main,Raises,119.0,115.0
+2012-08-02 13:57:00,Feltl & Co.,Buy,,main,Raises,111.0,100.0
+2012-07-03 10:08:00,B of A Securities,Buy,,main,Raises,108.0,100.0
+2012-05-03 12:29:00,Feltl & Co.,Buy,Strong Buy,down,Lowers,100.0,103.0
+2012-04-05 14:16:00,B of A Securities,Buy,,main,Raises,100.0,93.0
+2012-02-17 14:50:00,Goldman Sachs,Buy,,main,Raises,97.0,87.0
+2012-02-17 11:42:00,Citigroup,Neutral,,main,Raises,89.0,78.0

@@ -1,0 +1,58 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-10-06 14:22:14,Raymond James,Underperform,Market Perform,down,,0.0,0.0
+2026-08-05 17:05:09,"Keefe, Bruyette & Woods",Market Perform,Market Perform,main,Raises,42.0,40.0
+2026-02-03 12:51:21,"Keefe, Bruyette & Woods",Market Perform,Market Perform,main,Raises,39.0,34.0
+2025-10-27 14:00:11,Stephens & Co.,Equal-Weight,Equal-Weight,main,Raises,36.0,35.0
+2025-04-30 15:58:10,"Keefe, Bruyette & Woods",Market Perform,Market Perform,main,Lowers,32.0,34.0
+2025-02-03 17:16:25,"Keefe, Bruyette & Woods",Market Perform,Market Perform,main,Lowers,34.0,35.0
+2024-12-04 17:48:04,"Keefe, Bruyette & Woods",Market Perform,Market Perform,main,Raises,35.0,34.0
+2024-07-30 14:28:44,Stephens & Co.,Equal-Weight,Equal-Weight,main,Raises,34.0,33.0
+2024-07-29 14:59:25,"Keefe, Bruyette & Woods",Market Perform,Market Perform,main,Raises,35.0,33.0
+2024-01-05 13:46:05,Raymond James,Market Perform,Underperform,up,,0.0,0.0
+2023-07-24 12:47:46,Stephens & Co.,Equal-Weight,Equal-Weight,main,Lowers,32.0,34.0
+2023-07-21 13:12:33,Stephens & Co.,Equal-Weight,Equal-Weight,reit,Maintains,34.0,0.0
+2023-04-21 13:17:21,Stephens & Co.,Equal-Weight,,reit,Maintains,33.0,0.0
+2022-07-07 11:33:32,Raymond James,Underperform,Market Perform,down,,0.0,0.0
+2021-07-26 14:12:34,Stephens & Co.,Equal-Weight,,main,Lowers,34.0,35.0
+2021-07-26 09:21:53,Raymond James,Market Perform,Outperform,down,,0.0,0.0
+2021-04-27 12:30:56,Stephens & Co.,Equal-Weight,Overweight,down,Raises,37.0,36.0
+2021-04-14 11:14:53,Piper Sandler,Neutral,,init,Announces,36.0,0.0
+2021-04-07 12:14:52,Raymond James,Outperform,,main,Raises,42.0,40.0
+2021-03-09 13:17:31,Raymond James,Outperform,,main,Raises,40.0,35.0
+2021-02-02 12:22:43,Compass Point,Neutral,Buy,down,Announces,31.0,0.0
+2021-01-07 14:53:36,Raymond James,Outperform,,main,Raises,32.0,28.0
+2020-08-25 12:37:18,Truist Securities,Buy,,main,Raises,24.0,23.0
+2020-08-14 11:15:46,Stephens & Co.,Overweight,Equal-Weight,up,Announces,24.0,0.0
+2020-05-19 15:04:14,SunTrust Robinson Humphrey,Buy,,main,Raises,20.0,19.0
+2020-02-03 12:02:07,Stephens & Co.,Equal-Weight,,main,Lowers,23.0,25.0
+2019-08-29 11:13:20,Raymond James,Outperform,Market Perform,up,Announces,26.0,0.0
+2019-03-28 10:29:12,Piper Sandler,Overweight,Neutral,up,,0.0,0.0
+2018-10-29 15:26:49,SunTrust Robinson Humphrey,Buy,Buy,main,Lowers,24.0,25.0
+2018-10-29 10:33:38,Raymond James,Market Perform,Underperform,up,,0.0,0.0
+2018-07-31 12:12:09,Compass Point,Buy,Neutral,up,,0.0,0.0
+2018-05-14 10:39:52,Compass Point,Neutral,Buy,down,,0.0,0.0
+2018-01-29 12:45:09,Stephens & Co.,Equal-Weight,Overweight,down,,0.0,0.0
+2017-08-10 12:01:32,Raymond James,Underperform,Market Perform,down,,0.0,0.0
+2017-08-01 10:27:47,Compass Point,Buy,Neutral,up,,0.0,0.0
+2017-05-10 10:02:28,Piper Sandler,Neutral,Overweight,down,,0.0,0.0
+2016-11-23 13:56:22,Compass Point,Neutral,Buy,down,,0.0,0.0
+2016-10-31 04:00:00,"Keefe, Bruyette & Woods",Market Weight,Outperform,down,Raises,0.0,0.0
+2016-07-29 17:44:07,"Keefe, Bruyette & Woods",Outperform,,main,Raises,24.0,23.0
+2016-03-31 10:59:14,FBR Capital,Market Perform,,init,Announces,20.5,0.0
+2016-01-05 14:50:20,Piper Sandler,Overweight,,main,Lowers,24.0,26.0
+2015-12-17 11:14:24,Raymond James,Market Perform,Outperform,down,Lowers,17.35,24.0
+2015-11-06 20:18:56,Macquarie,Outperform,,main,Raises,25.0,24.0
+2015-06-29 13:00:00,SunTrust Robinson Humphrey,Buy,,main,Raises,28.0,23.0
+2015-06-12 11:17:47,Piper Sandler,Overweight,,init,Announces,27.0,0.0
+2015-06-10 10:13:03,Compass Point,Buy,,init,Announces,27.0,0.0
+2015-05-01 13:00:00,"Keefe, Bruyette & Woods",Outperform,,main,Lowers,25.0,26.0
+2015-04-13 11:18:46,SunTrust Robinson Humphrey,Buy,,init,Announces,23.0,0.0
+2015-03-30 11:18:19,Macquarie,Outperform,,init,Announces,23.5,0.0
+2014-11-05 14:00:00,"Keefe, Bruyette & Woods",Outperform,,main,Lowers,26.0,26.5
+2014-08-27 10:33:06,"Keefe, Bruyette & Woods",Outperform,Market Perform,up,Maintains,26.5,0.0
+2014-05-08 06:30:38,Raymond James,Outperform,,main,Lowers,26.0,29.0
+2014-03-06 13:00:00,Raymond James,Outperform,Strong Buy,down,Maintains,27.0,0.0
+2014-03-05 12:40:09,Sterne Agee,Buy,,main,Lowers,28.0,28.5
+2013-11-13 13:38:21,Raymond James,Strong Buy,,up,Announces,24.0,0.0
+2013-10-15 11:42:18,"Keefe, Bruyette & Woods",Market Perform,,init,Announces,20.0,0.0
+2012-10-16 09:55:00,Sterne Agee,Buy,,init,Announces,15.25,0.0

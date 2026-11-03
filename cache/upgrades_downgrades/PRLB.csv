@@ -1,0 +1,57 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-10-23 10:12:40,Needham,Buy,Buy,main,Raises,110.0,87.0
+2026-08-03 11:14:13,Needham,Buy,Hold,up,Announces,87.0,0.0
+2026-07-06 12:32:49,Benchmark,Buy,Buy,main,Raises,91.0,70.0
+2025-11-03 13:47:30,Benchmark,Buy,Buy,main,Raises,55.0,45.0
+2025-08-01 14:07:39,Cantor Fitzgerald,Overweight,Overweight,main,Raises,51.0,50.0
+2025-02-10 15:05:43,Cantor Fitzgerald,Overweight,Overweight,main,Raises,50.0,40.0
+2025-02-07 20:38:21,Needham,Hold,Hold,reit,,0.0,0.0
+2025-01-16 11:39:42,Needham,Hold,Hold,reit,,0.0,0.0
+2024-11-04 17:18:56,Craig-Hallum,Hold,Hold,main,Raises,36.0,30.0
+2024-11-04 13:53:09,Cantor Fitzgerald,Overweight,Overweight,reit,Maintains,40.0,40.0
+2024-11-01 20:30:52,Needham,Hold,,reit,,0.0,0.0
+2024-08-05 09:42:35,Needham,Hold,,reit,,0.0,0.0
+2024-07-30 18:13:23,Cantor Fitzgerald,Overweight,Overweight,reit,Maintains,44.0,44.0
+2024-06-05 12:12:45,Cantor Fitzgerald,Overweight,,init,Announces,44.0,0.0
+2024-05-29 12:48:13,Benchmark,Buy,Buy,reit,Maintains,45.0,45.0
+2024-05-06 16:44:54,Craig-Hallum,Hold,Hold,main,Lowers,34.0,38.0
+2024-05-06 11:03:31,Needham,Hold,,reit,,0.0,0.0
+2023-08-07 17:12:50,Lake Street,Buy,Buy,main,Raises,42.0,41.0
+2023-08-04 17:10:15,Craig-Hallum,Hold,Sell,up,Raises,28.0,26.0
+2023-05-26 12:53:36,Benchmark,Buy,Buy,reit,Maintains,45.0,0.0
+2023-05-08 13:26:08,Lake Street,Buy,,main,Raises,41.0,40.0
+2023-02-13 14:53:02,Craig-Hallum,Sell,,main,Raises,25.0,20.0
+2023-02-13 12:30:53,Benchmark,Buy,Hold,up,Announces,45.0,0.0
+2023-02-02 15:26:12,Lake Street,Buy,,main,Raises,37.5,29.0
+2022-11-29 14:43:11,Lake Street,Buy,,init,Announces,29.0,0.0
+2022-11-04 19:00:34,Craig-Hallum,Sell,Hold,down,Lowers,20.0,42.0
+2021-10-29 16:00:11,Benchmark,Hold,Buy,down,,0.0,0.0
+2021-05-21 13:11:35,Craig-Hallum,Hold,,main,Lowers,90.0,97.0
+2020-09-21 12:42:13,Benchmark,Buy,,main,Raises,165.0,145.0
+2020-05-14 12:07:22,Benchmark,Buy,,init,Announces,145.0,0.0
+2020-01-23 13:49:10,Berenberg,Hold,Buy,down,,0.0,0.0
+2019-10-25 11:58:41,William Blair,Market Perform,Outperform,down,,0.0,0.0
+2019-10-25 11:47:34,Northcoast Research,Neutral,Buy,down,,0.0,0.0
+2018-12-12 14:31:36,Northcoast Research,Buy,,init,Announces,145.0,0.0
+2016-10-28 04:00:00,Canaccord Genuity,Hold,Buy,down,,0.0,0.0
+2016-05-11 12:56:28,FBR Capital,Outperform,,init,Announces,80.0,0.0
+2016-04-29 16:06:34,Stephens & Co.,Equal-Weight,Overweight,down,,0.0,0.0
+2016-04-29 13:47:23,Stephens & Co.,Equal-Weight,Overweight,down,,0.0,0.0
+2015-10-15 10:01:57,Canaccord Genuity,Buy,Hold,up,Maintains,75.0,0.0
+2015-04-24 12:17:57,Craig-Hallum,Hold,Buy,down,Maintains,74.0,0.0
+2015-04-24 10:25:00,Piper Sandler,Neutral,Overweight,down,Raises,73.0,72.0
+2015-04-20 11:44:24,Needham,Hold,Buy,down,,0.0,0.0
+2015-02-19 11:27:37,Pacific Crest,Sector Perform,,init,,0.0,0.0
+2014-12-18 05:00:00,Oppenheimer,Outperform,,init,Announces,85.0,0.0
+2014-10-03 13:20:53,Canaccord Genuity,Buy,Hold,up,Maintains,85.0,0.0
+2014-06-18 10:12:10,Canaccord Genuity,Hold,,init,Announces,85.0,0.0
+2014-05-02 06:15:10,Jefferies,Hold,,main,Lowers,67.0,85.0
+2013-07-15 11:53:33,Jefferies,Hold,,main,Raises,65.0,50.0
+2013-06-17 13:46:39,Piper Sandler,Overweight,,main,Raises,65.0,58.0
+2013-04-25 20:00:23,Piper Sandler,Overweight,,main,Raises,58.0,54.0
+2013-02-21 11:27:29,Morgan Stanley,Equal-Weight,,init,Announces,54.0,0.0
+2013-02-13 19:48:29,Piper Sandler,Overweight,,main,Raises,54.0,44.0
+2013-02-13 15:50:56,Jefferies,Hold,,main,Raises,50.0,40.0
+2012-07-24 19:24:00,Piper Sandler,Overweight,,main,Lowers,36.0,40.0
+2012-06-29 10:47:00,Jefferies,Hold,,main,Raises,32.0,27.0
+2012-05-04 11:04:00,Jefferies,Hold,,main,Lowers,27.0,32.0

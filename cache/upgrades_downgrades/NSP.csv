@@ -1,0 +1,43 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-07-22 16:10:26,Truist Securities,Hold,Hold,main,Raises,52.0,35.0
+2026-05-01 18:06:23,JP Morgan,Underweight,Underweight,main,Lowers,33.0,35.0
+2025-11-04 15:40:14,Truist Securities,Hold,Hold,main,Lowers,35.0,50.0
+2025-11-04 15:25:23,JP Morgan,Underweight,Underweight,main,Lowers,34.0,51.0
+2025-08-04 17:02:31,Roth Capital,Buy,Buy,main,Lowers,74.0,85.0
+2025-08-04 15:42:17,JP Morgan,Underweight,Underweight,main,Lowers,51.0,68.0
+2025-08-04 13:11:03,Truist Securities,Hold,Hold,main,Lowers,50.0,70.0
+2025-04-30 17:42:50,Truist Securities,Hold,Hold,main,Lowers,70.0,82.0
+2025-04-15 14:46:49,Truist Securities,Hold,Hold,main,Lowers,82.0,88.0
+2024-11-01 14:41:31,Truist Securities,Hold,Hold,main,Lowers,88.0,95.0
+2024-10-22 11:57:06,JP Morgan,Underweight,,init,Announces,90.0,0.0
+2024-09-24 13:31:24,William Blair,Market Perform,Outperform,down,,0.0,0.0
+2024-05-17 11:54:53,Baird,Neutral,Neutral,main,Raises,109.0,105.0
+2023-08-02 13:07:20,Truist Securities,Hold,Hold,main,Lowers,110.0,128.0
+2023-06-15 13:24:50,Truist Securities,Hold,Hold,reit,Maintains,128.0,0.0
+2023-05-30 11:01:05,Baird,Neutral,Neutral,main,Lowers,120.0,131.0
+2023-04-27 15:10:51,Roth MKM,Buy,,main,Raises,147.0,144.0
+2023-04-24 11:00:15,Truist Securities,Hold,Buy,down,Announces,128.0,0.0
+2023-02-10 19:35:40,Baird,Neutral,Neutral,main,Raises,131.0,129.0
+2022-11-01 18:37:31,Baird,Neutral,Neutral,main,Announces,129.0,0.0
+2021-08-03 13:57:56,Truist Securities,Buy,,main,Raises,125.0,115.0
+2021-08-03 13:47:36,Roth Capital,Buy,,main,Raises,116.0,103.0
+2021-07-13 12:28:26,William Blair,Outperform,,init,,0.0,0.0
+2021-05-04 12:53:03,Roth Capital,Buy,,main,Raises,103.0,98.0
+2020-05-05 15:39:53,SunTrust Robinson Humphrey,Buy,,main,Raises,64.0,56.0
+2020-04-03 16:00:31,SunTrust Robinson Humphrey,Buy,,main,Lowers,56.0,112.0
+2020-02-12 15:16:02,SunTrust Robinson Humphrey,Buy,,main,Lowers,112.0,128.0
+2020-02-12 10:34:59,Baird,Neutral,Outperform,down,Lowers,73.0,107.0
+2019-04-30 11:17:07,SunTrust Robinson Humphrey,Buy,Hold,up,,0.0,0.0
+2018-11-02 17:49:01,Baird,Outperform,Outperform,main,Raises,125.0,110.0
+2018-08-02 12:25:13,First Analysis,Equal-Weight,Overweight,down,,0.0,0.0
+2017-08-01 13:31:37,Roth Capital,Buy,Neutral,up,,0.0,0.0
+2017-02-14 13:42:55,Roth Capital,Neutral,Buy,down,,0.0,0.0
+2017-02-14 13:22:45,First Analysis,Overweight,Equal-Weight,up,,0.0,0.0
+2016-07-07 11:24:41,First Analysis,Equal-Weight,Overweight,down,,0.0,0.0
+2016-05-03 10:51:48,Roth Capital,Buy,,main,Raises,76.0,72.0
+2016-04-29 11:23:10,Baird,Outperform,Neutral,up,,0.0,0.0
+2016-02-16 10:51:20,First Analysis,Overweight,Equal-Weight,up,,0.0,0.0
+2015-02-11 11:42:40,Roth Capital,Buy,Neutral,up,Raises,49.0,32.0
+2015-01-27 11:22:53,First Analysis,Equal-Weight,Overweight,down,Removes,0.0,42.0
+2014-02-11 21:00:00,Roth Capital,Neutral,Buy,down,Lowers,30.0,45.0
+2013-02-13 14:15:03,SunTrust Robinson Humphrey,Neutral,Buy,down,Lowers,30.0,41.0

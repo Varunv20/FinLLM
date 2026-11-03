@@ -1,0 +1,44 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-11-02 15:59:04,Truist Securities,Hold,Hold,reit,Raises,180.0,158.0
+2026-10-23 17:39:24,Truist Securities,Hold,Hold,main,Lowers,158.0,180.0
+2026-05-04 17:16:05,Truist Securities,Hold,Hold,main,Raises,180.0,165.0
+2025-10-24 17:18:01,Truist Securities,Hold,Hold,main,Lowers,165.0,178.0
+2025-04-02 13:17:19,Truist Securities,Hold,Buy,down,Lowers,178.0,225.0
+2025-02-21 17:27:55,Truist Securities,Buy,Buy,main,Lowers,225.0,275.0
+2025-02-21 17:09:21,Goldman Sachs,Neutral,Neutral,main,Lowers,173.0,194.0
+2024-09-25 15:07:51,Truist Securities,Buy,Buy,main,Raises,275.0,255.0
+2024-02-23 13:32:25,Truist Securities,Buy,Buy,main,Raises,255.0,240.0
+2023-11-28 17:57:28,Truist Securities,Buy,Buy,reit,Maintains,240.0,0.0
+2023-10-18 17:03:57,Truist Securities,Buy,Buy,reit,Maintains,210.0,0.0
+2023-03-24 12:19:25,Goldman Sachs,Neutral,,main,Raises,210.0,190.0
+2023-03-13 11:28:42,Truist Securities,Buy,,main,Raises,240.0,220.0
+2023-01-11 10:00:53,Goldman Sachs,Neutral,,init,Announces,167.0,0.0
+2022-06-06 12:27:44,Truist Securities,Buy,,main,Raises,220.0,200.0
+2021-05-07 11:00:38,Berenberg,Buy,,init,Announces,180.0,0.0
+2020-05-01 13:42:25,Sidoti & Co.,Buy,Neutral,up,Raises,171.0,152.0
+2019-10-25 14:03:13,Sidoti & Co.,Buy,,main,Raises,150.0,134.0
+2019-10-10 13:43:11,Sidoti & Co.,Buy,,main,Raises,134.0,121.0
+2019-07-23 13:50:11,Sidoti & Co.,Buy,,main,Raises,117.0,99.0
+2019-07-10 11:53:03,SunTrust Robinson Humphrey,Buy,Hold,up,,0.0,0.0
+2017-01-06 12:11:34,SunTrust Robinson Humphrey,Hold,Buy,down,Announces,46.0,0.0
+2016-10-31 04:00:00,Avondale Partners,Market Perform,Market Outperform,down,,0.0,0.0
+2016-08-18 08:40:05,Deutsche Bank,Hold,,init,,0.0,0.0
+2016-03-11 10:55:46,William Blair,Market Perform,Outperform,down,,0.0,0.0
+2015-10-30 07:31:29,SunTrust Robinson Humphrey,Buy,,main,Lowers,45.0,51.0
+2015-06-19 13:00:00,Deutsche Bank,Hold,,main,Raises,43.0,42.0
+2014-10-31 13:00:00,Deutsche Bank,Hold,,main,Raises,40.0,36.0
+2014-10-06 10:03:16,Stifel,Buy,Hold,up,Announces,43.0,0.0
+2014-09-29 14:40:34,Avondale Partners,Market Outperform,Market Perform,up,Raises,43.0,42.0
+2014-09-24 09:53:34,William Blair,Outperform,Market Perform,up,,0.0,0.0
+2014-06-23 10:14:38,Macquarie,Outperform,Neutral,up,,0.0,0.0
+2014-06-18 23:58:59,Deutsche Bank,Hold,,main,Raises,36.0,30.0
+2014-02-21 12:42:47,Macquarie,Neutral,,main,Lowers,30.0,42.0
+2013-12-12 14:10:25,Stifel,Hold,,init,,0.0,0.0
+2013-12-11 21:00:00,Stifel,Hold,,init,,0.0,0.0
+2013-11-15 12:06:01,Deutsche Bank,Hold,,main,Lowers,40.0,42.0
+2013-03-01 12:56:36,Deutsche Bank,Hold,,main,Raises,34.0,28.0
+2013-02-25 14:23:01,Northland Capital Markets,Outperform,Market Perform,up,Raises,42.0,27.0
+2012-11-09 12:36:00,Deutsche Bank,Hold,,main,Raises,28.0,27.0
+2012-08-03 11:02:00,Deutsche Bank,Hold,,main,Raises,27.0,24.0
+2012-07-09 12:42:00,Deutsche Bank,Hold,,main,Lowers,24.0,37.0
+2012-05-10 10:29:00,Deutsche Bank,Hold,,main,Lowers,37.0,43.0

@@ -1,0 +1,76 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-08-07 17:03:34,Piper Sandler,Overweight,Overweight,main,Raises,195.0,163.0
+2026-08-07 10:14:07,BTIG,Buy,Buy,main,Raises,200.0,170.0
+2026-08-07 09:55:58,Needham,Buy,Buy,main,Raises,187.0,165.0
+2026-07-21 12:27:44,Keybanc,Overweight,Overweight,main,Raises,182.0,164.0
+2026-06-15 09:35:54,BTIG,Buy,,init,Announces,170.0,0.0
+2026-05-27 09:54:26,Needham,Buy,Hold,up,Announces,165.0,0.0
+2026-04-27 14:07:50,Keybanc,Overweight,Overweight,main,Lowers,164.0,180.0
+2026-04-17 17:37:55,Piper Sandler,Overweight,Overweight,main,Lowers,163.0,178.0
+2026-02-20 12:26:43,Keybanc,Overweight,Overweight,main,Raises,180.0,175.0
+2026-02-20 12:11:29,Piper Sandler,Overweight,Overweight,main,Raises,178.0,172.0
+2025-11-07 14:45:29,Keybanc,Overweight,Overweight,main,Raises,175.0,173.0
+2025-11-07 12:47:46,Piper Sandler,Overweight,Overweight,main,Raises,172.0,153.0
+2025-10-21 13:03:55,Keybanc,Overweight,Overweight,main,Lowers,173.0,191.0
+2025-09-10 11:34:11,Piper Sandler,Overweight,Overweight,main,Raises,153.0,145.0
+2025-08-15 11:43:37,Piper Sandler,Overweight,,init,Announces,145.0,0.0
+2025-08-08 16:01:01,Raymond James,Strong Buy,Strong Buy,main,Lowers,180.0,187.0
+2025-05-09 16:16:32,Raymond James,Strong Buy,Strong Buy,main,Lowers,187.0,197.0
+2025-04-21 14:42:47,Keybanc,Overweight,Overweight,main,Lowers,191.0,209.0
+2025-04-08 10:42:45,Needham,Hold,Hold,reit,,0.0,0.0
+2024-12-11 17:40:43,Jefferies,Buy,Hold,up,Announces,200.0,0.0
+2024-11-13 15:21:15,Keybanc,Overweight,Overweight,main,Raises,209.0,198.0
+2024-11-13 10:33:00,Needham,Hold,,reit,,0.0,0.0
+2024-10-15 11:50:06,Keybanc,Overweight,Overweight,main,Raises,198.0,147.0
+2024-10-14 12:35:53,Jefferies,Hold,,init,Announces,183.0,0.0
+2024-10-10 16:14:46,Needham,Hold,,reit,,0.0,0.0
+2024-09-12 12:23:40,Raymond James,Outperform,Outperform,main,Raises,190.0,158.0
+2024-08-08 17:25:06,Keybanc,Overweight,Overweight,main,Raises,147.0,136.0
+2024-08-08 16:49:19,Raymond James,Outperform,Outperform,main,Raises,158.0,135.0
+2024-08-08 09:51:31,Needham,Hold,,reit,,0.0,0.0
+2024-06-21 09:30:49,Needham,Hold,,init,,0.0,0.0
+2024-06-17 16:53:47,Raymond James,Outperform,Market Perform,up,Announces,135.0,0.0
+2024-02-28 10:03:58,Keybanc,Overweight,Overweight,main,Raises,136.0,134.0
+2024-02-06 11:54:21,Keybanc,Overweight,,init,Announces,134.0,0.0
+2023-12-14 18:42:37,CL King,Buy,,init,Announces,110.0,0.0
+2023-05-09 09:22:37,Keybanc,Overweight,,main,Raises,216.0,200.0
+2022-11-08 12:19:02,Raymond James,Market Perform,Outperform,down,,0.0,0.0
+2022-08-09 12:09:59,Raymond James,Outperform,,main,Lowers,190.0,208.0
+2022-08-09 08:31:29,Keybanc,Overweight,,main,Lowers,225.0,230.0
+2022-08-08 11:18:58,Raymond James,Outperform,,main,Lowers,208.0,235.0
+2022-08-03 08:32:50,Keybanc,Overweight,,main,Lowers,230.0,265.0
+2022-05-10 12:29:30,Keybanc,Overweight,,main,Lowers,265.0,280.0
+2022-05-10 11:44:40,Raymond James,Outperform,,main,Lowers,235.0,265.0
+2022-02-28 10:11:33,Raymond James,Outperform,,main,Lowers,265.0,286.0
+2021-10-22 08:41:12,Keybanc,Overweight,,main,Lowers,280.0,302.0
+2021-09-09 11:51:02,Raymond James,Outperform,,main,Raises,286.0,220.0
+2021-09-09 08:43:46,Keybanc,Overweight,,main,Raises,302.0,225.0
+2021-08-06 08:47:07,Keybanc,Overweight,,main,Lowers,225.0,236.0
+2021-08-05 11:25:46,Raymond James,Outperform,,main,Lowers,220.0,245.0
+2021-02-26 13:10:33,Raymond James,Outperform,,main,Raises,245.0,235.0
+2021-02-11 12:32:32,Raymond James,Outperform,,main,Raises,235.0,210.0
+2021-01-08 09:42:45,KeyBanc,Overweight,,main,Raises,236.0,222.0
+2020-11-06 09:03:35,Keybanc,Overweight,,main,Raises,222.0,218.0
+2020-09-02 08:42:26,Keybanc,Overweight,,main,Raises,218.0,199.0
+2020-08-11 12:07:13,Raymond James,Outperform,,main,Lowers,210.0,228.0
+2020-05-13 10:01:43,Keybanc,Overweight,,main,Lowers,199.0,206.0
+2020-05-08 12:48:17,Raymond James,Outperform,,main,Raises,228.0,215.0
+2020-03-18 09:44:44,Keybanc,Overweight,Sector Weight,up,Announces,206.0,0.0
+2020-02-28 12:49:56,Raymond James,Outperform,,main,Raises,215.0,203.0
+2019-08-08 11:44:19,Raymond James,Outperform,Strong Buy,down,,0.0,0.0
+2019-03-01 15:08:32,Raymond James,Strong Buy,Strong Buy,main,Lowers,300.0,315.0
+2017-10-17 10:13:49,Keybanc,Sector Weight,,init,,0.0,0.0
+2016-03-11 14:51:57,Gabelli & Co.,Buy,,init,,0.0,0.0
+2015-08-11 17:05:39,Piper Sandler,Overweight,,main,Raises,124.0,110.0
+2015-08-11 08:49:11,Roth Capital,Buy,,main,Raises,124.0,102.0
+2014-11-11 13:00:00,Piper Sandler,Overweight,Neutral,up,Raises,86.0,60.0
+2014-09-23 14:26:55,CJS Securities,Market Outperform,Market Perform,up,Raises,80.0,66.0
+2013-08-01 12:45:00,Raymond James,Market Perform,Outperform,down,,0.0,0.0
+2013-07-19 12:41:08,CJS Securities,Market Perform,Market Outperform,down,Maintains,70.0,0.0
+2013-07-19 11:52:03,Piper Sandler,Neutral,Overweight,down,Raises,71.0,70.0
+2013-07-19 11:27:14,Roth Capital,Neutral,Buy,down,Maintains,75.0,0.0
+2013-05-09 11:28:40,Benchmark,Hold,Buy,down,Maintains,69.0,0.0
+2013-03-07 11:11:01,Piper Sandler,Overweight,,init,Announces,70.0,0.0
+2012-09-27 10:30:00,Benchmark,Buy,,main,Raises,69.0,60.0
+2012-07-02 11:25:00,Raymond James,Outperform,Strong Buy,down,,0.0,0.0
+2012-04-12 10:53:00,Benchmark,Buy,,init,Announces,60.0,0.0

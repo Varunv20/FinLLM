@@ -1,0 +1,56 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-11-02 17:57:38,Goldman Sachs,Sell,Sell,main,Raises,124.0,110.0
+2026-07-31 16:29:16,Goldman Sachs,Sell,Sell,main,Lowers,119.0,139.0
+2026-07-31 16:15:06,Oppenheimer,Outperform,Outperform,main,Raises,180.0,170.0
+2026-07-09 10:09:03,Goldman Sachs,Sell,Neutral,down,Lowers,139.0,141.0
+2026-06-26 15:10:47,Stephens & Co.,Overweight,,init,Announces,180.0,0.0
+2026-05-28 17:48:25,Oppenheimer,Outperform,,init,Announces,170.0,0.0
+2026-02-13 19:41:12,DA Davidson,Buy,Buy,main,Raises,155.0,130.0
+2026-01-28 17:15:46,Goldman Sachs,Neutral,Neutral,main,Raises,124.0,109.0
+2025-11-24 12:55:50,Goldman Sachs,Neutral,,init,Announces,109.0,0.0
+2025-11-11 18:47:07,DA Davidson,Buy,Buy,main,Raises,130.0,125.0
+2025-05-05 14:59:54,Goldman Sachs,Sell,Sell,main,Raises,76.0,69.0
+2024-10-09 14:43:34,Goldman Sachs,Sell,Sell,main,Raises,70.0,61.0
+2024-08-02 16:33:13,Goldman Sachs,Sell,Sell,main,Raises,61.0,55.0
+2024-04-16 13:40:38,Goldman Sachs,Sell,Sell,main,Raises,50.0,44.0
+2024-03-11 12:57:39,DA Davidson,Buy,Buy,main,Maintains,64.0,64.0
+2024-02-27 16:16:42,DA Davidson,Buy,Buy,main,Raises,64.0,60.0
+2023-02-21 12:59:28,Goldman Sachs,Sell,,main,Raises,36.0,32.0
+2022-10-14 13:00:46,Goldman Sachs,Sell,,main,Lowers,28.0,32.0
+2021-04-15 11:46:14,DA Davidson,Buy,Neutral,up,Raises,55.0,35.0
+2020-03-19 17:24:49,Goldman Sachs,Sell,,main,Lowers,10.0,26.0
+2020-03-17 11:52:57,B. Riley Securities,Neutral,,main,Lowers,20.0,23.0
+2020-03-03 13:30:52,B. Riley Securities,Neutral,,reit,Lowers,23.0,39.0
+2020-01-13 12:24:07,Goldman Sachs,Sell,Neutral,down,Lowers,26.0,29.0
+2019-10-28 11:40:57,DA Davidson,Neutral,Buy,down,Lowers,30.0,45.0
+2019-08-08 10:49:19,Goldman Sachs,Neutral,Buy,down,Lowers,31.0,50.0
+2019-07-30 10:32:34,B. Riley Securities,Neutral,Buy,down,Lowers,41.0,53.0
+2019-05-29 10:57:29,Goldman Sachs,Buy,Neutral,up,Raises,53.0,50.0
+2018-12-10 11:27:20,Goldman Sachs,Neutral,Buy,down,Lowers,50.0,58.0
+2018-08-10 11:08:40,Canaccord Genuity,Buy,Buy,main,Lowers,65.0,75.0
+2018-04-05 11:06:53,DA Davidson,Buy,Neutral,up,,0.0,0.0
+2017-10-30 17:19:46,Canaccord Genuity,Buy,,main,Raises,75.0,70.0
+2017-04-03 10:26:23,Goldman Sachs,Buy,Neutral,up,,0.0,0.0
+2017-01-10 10:59:18,Canaccord Genuity,Buy,,init,Announces,70.0,0.0
+2016-08-02 17:53:00,FBR Capital,Outperform,,main,Raises,60.0,48.0
+2016-08-02 17:19:18,MKM Partners,Buy,,main,Raises,56.0,55.0
+2016-08-01 12:25:33,Seaport Global,Buy,Neutral,up,,0.0,0.0
+2016-06-29 08:42:39,MKM Partners,Buy,,init,,0.0,0.0
+2016-04-14 12:05:02,Cowen & Co.,Outperform,,init,,0.0,0.0
+2015-12-11 11:16:13,FBR Capital,Outperform,Market Perform,up,,0.0,0.0
+2015-12-09 13:41:53,Stifel,Buy,,init,Announces,50.0,0.0
+2015-11-24 11:04:21,Maxim Group,Buy,,init,Announces,50.0,0.0
+2015-04-29 13:40:24,Seaport Global,Neutral,,init,Announces,35.0,0.0
+2015-04-20 10:07:02,Cowen & Co.,Outperform,,init,Announces,41.0,0.0
+2015-02-20 11:17:03,Goldman Sachs,Neutral,Buy,down,Lowers,42.0,47.0
+2013-12-31 11:54:10,DA Davidson,Neutral,,main,Raises,35.0,30.0
+2013-12-06 21:00:00,Goldman Sachs,Buy,Neutral,up,Raises,36.0,32.0
+2013-05-10 10:48:59,Sterne Agee,Neutral,Underperform,up,,0.0,0.0
+2013-05-10 10:16:27,Goldman Sachs,Neutral,Sell,up,Raises,28.0,26.0
+2013-01-03 12:14:43,DA Davidson,Neutral,,main,Raises,38.0,33.0
+2013-01-02 13:57:44,Sterne Agee,Underperform,,main,Raises,30.0,25.0
+2012-11-07 18:48:00,DA Davidson,Neutral,,main,Raises,33.0,30.0
+2012-08-21 11:39:00,DA Davidson,Neutral,Buy,down,,0.0,0.0
+2012-08-20 11:44:00,Macquarie,Outperform,Neutral,up,,0.0,0.0
+2012-08-06 11:15:00,Sterne Agee,Underperform,,main,Lowers,25.0,28.0
+2012-02-24 16:54:00,DA Davidson,Buy,,main,Raises,35.0,32.0

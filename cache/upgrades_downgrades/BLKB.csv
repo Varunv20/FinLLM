@@ -1,0 +1,70 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-09-15 12:50:39,Baird,Outperform,Outperform,main,Raises,58.0,54.0
+2026-07-30 14:19:47,Evercore ISI Group,In-Line,In-Line,main,Raises,48.0,45.0
+2026-07-10 13:03:56,Stifel,Hold,Hold,main,Lowers,30.0,45.0
+2026-04-30 14:57:00,Evercore ISI Group,In-Line,In-Line,main,Lowers,45.0,55.0
+2026-04-30 09:22:18,Baird,Outperform,Neutral,up,Lowers,50.0,60.0
+2026-04-28 10:48:12,Stifel,Hold,Hold,main,Lowers,45.0,50.0
+2026-02-11 14:19:00,Evercore ISI Group,In-Line,In-Line,main,Lowers,55.0,80.0
+2025-10-08 17:28:47,Stifel,Hold,Hold,main,Lowers,65.0,75.0
+2025-05-01 15:58:30,Stifel,Hold,Hold,main,Lowers,65.0,75.0
+2025-02-19 12:52:49,Baird,Neutral,Neutral,main,Lowers,76.0,80.0
+2024-10-31 10:58:59,Baird,Neutral,Outperform,down,Lowers,80.0,92.0
+2024-10-07 17:00:46,Raymond James,Outperform,Outperform,main,Lowers,95.0,98.0
+2024-09-26 15:45:13,Stifel,Hold,Hold,main,Raises,85.0,80.0
+2024-08-01 12:17:25,Baird,Outperform,Outperform,main,Raises,92.0,88.0
+2024-02-14 19:22:11,Baird,Outperform,Outperform,main,Lowers,88.0,95.0
+2023-06-05 09:06:42,Raymond James,Outperform,Market Perform,up,Announces,88.0,0.0
+2023-05-04 09:56:50,Baird,Outperform,Neutral,up,Raises,84.0,66.0
+2023-02-15 11:59:48,Baird,Neutral,,main,Lowers,66.0,70.0
+2022-02-23 13:50:07,Stifel,Hold,,main,Lowers,70.0,85.0
+2021-02-10 12:20:14,Benchmark,Buy,Hold,up,Announces,88.0,0.0
+2020-08-28 10:21:26,Stephens & Co.,Overweight,,init,Announces,80.0,0.0
+2020-04-20 10:42:03,Evercore ISI Group,In-Line,Underperform,up,Announces,55.0,0.0
+2020-04-16 09:34:42,BTIG,Neutral,,init,,0.0,0.0
+2020-04-07 15:12:38,DA Davidson,Neutral,,main,Lowers,50.0,89.0
+2019-04-03 11:15:20,Stephens & Co.,Equal-Weight,Overweight,down,Announces,86.0,0.0
+2019-01-17 12:45:43,Stephens & Co.,Overweight,,init,Announces,86.0,0.0
+2018-10-12 11:46:43,Baird,Neutral,Neutral,main,Lowers,82.0,105.0
+2018-10-09 12:43:31,DA Davidson,Neutral,Neutral,main,Lowers,82.0,105.0
+2018-10-09 11:10:19,JMP Securities,Market Perform,Market Outperform,down,Removes,0.0,116.0
+2018-10-09 11:04:46,Raymond James,Market Perform,Outperform,down,,0.0,0.0
+2018-10-09 10:48:31,Stifel,Hold,Buy,down,Lowers,88.0,120.0
+2018-07-23 10:11:36,Keybanc,Sector Weight,,init,,0.0,0.0
+2018-07-19 13:09:41,Needham,Hold,,init,,0.0,0.0
+2018-05-02 13:36:21,B. Riley Securities,Neutral,Neutral,main,Raises,92.0,90.0
+2018-03-22 11:15:34,Stifel,Buy,Buy,main,Raises,120.0,105.0
+2018-03-12 11:57:53,Evercore ISI Group,Underperform,In-Line,down,,0.0,0.0
+2018-02-08 14:22:33,Stifel,Buy,Buy,main,Raises,105.0,100.0
+2018-02-02 11:36:48,DA Davidson,Neutral,,init,Announces,95.0,0.0
+2017-10-31 13:59:38,Dougherty & Co.,Neutral,,init,,0.0,0.0
+2017-10-30 15:32:11,Citigroup,Buy,,main,Raises,112.0,100.0
+2017-10-27 12:39:39,Citigroup,Buy,,main,Raises,112.0,100.0
+2017-10-23 14:53:42,Baird,Neutral,,main,Raises,95.0,85.0
+2017-10-19 16:01:00,B. Riley Securities,Neutral,,main,Raises,82.0,78.0
+2017-09-22 12:08:19,Citigroup,Buy,,init,Announces,100.0,0.0
+2017-05-03 11:32:18,B. Riley Securities,Neutral,Buy,down,,0.0,0.0
+2017-04-19 13:31:40,Raymond James,Outperform,,init,Announces,90.0,0.0
+2017-02-10 14:27:50,Wunderlich Securities,Hold,Buy,down,,0.0,0.0
+2016-11-23 12:00:58,B of A Securities,Underperform,Neutral,down,,0.0,0.0
+2016-10-13 04:00:00,JMP Securities,Outperform,,init,,0.0,0.0
+2016-06-27 13:04:28,Evercore ISI Group,Hold,,init,,0.0,0.0
+2016-03-22 11:25:54,Pacific Crest,Sector Weight,,init,,0.0,0.0
+2016-02-18 13:19:10,Wunderlich Securities,Buy,,init,,0.0,0.0
+2015-12-16 13:02:40,B. Riley Securities,Buy,Neutral,up,Raises,0.0,0.0
+2015-12-10 14:29:23,Baird,Outperform,,init,Announces,75.0,0.0
+2015-11-19 12:04:02,Benchmark,Buy,,init,Announces,73.0,0.0
+2015-10-30 07:27:38,SunTrust Robinson Humphrey,Buy,,main,Raises,69.0,65.0
+2015-10-13 12:05:40,B. Riley Securities,Neutral,,init,Announces,0.0,0.0
+2015-10-12 21:16:02,B. Riley Securities,Neutral,,init,Announces,0.0,0.0
+2015-05-01 10:11:50,SunTrust Robinson Humphrey,Buy,,init,Announces,57.0,0.0
+2014-08-02 02:08:45,JP Morgan,Underweight,,main,Raises,40.0,36.0
+2014-04-22 04:14:42,Jefferies,Hold,,main,Raises,33.0,36.0
+2014-01-30 13:00:00,JP Morgan,Underweight,Neutral,down,,0.0,0.0
+2013-08-27 11:52:48,Stifel,Buy,Hold,up,Announces,51.0,0.0
+2013-02-14 12:11:24,Jefferies,Hold,,main,Raises,28.0,25.0
+2013-02-13 21:11:18,Jefferies,Hold,,main,Raises,28.0,25.0
+2013-02-13 20:27:54,JP Morgan,Neutral,,main,Raises,28.0,26.0
+2012-11-02 10:58:00,Jefferies,Hold,,main,Lowers,25.0,30.0
+2012-08-08 10:04:00,Jefferies,Hold,,main,Lowers,30.0,32.0
+2012-05-04 10:54:00,Jefferies,Hold,,main,Raises,32.0,28.0

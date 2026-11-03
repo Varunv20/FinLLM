@@ -1,0 +1,68 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-11-02 18:31:44,Citizens,Market Outperform,Market Outperform,main,Lowers,26.0,28.0
+2026-10-20 13:16:44,Barclays,Equal-Weight,Equal-Weight,main,Lowers,25.0,30.0
+2026-10-19 17:20:03,Wells Fargo,Equal-Weight,Equal-Weight,main,Lowers,22.0,26.0
+2026-10-06 15:14:11,JP Morgan,Neutral,Neutral,main,Lowers,26.0,29.0
+2026-09-21 16:20:48,Evercore ISI Group,In-Line,In-Line,main,Lowers,26.0,28.0
+2026-09-04 12:32:20,Barclays,Equal-Weight,Equal-Weight,main,Raises,30.0,29.0
+2026-08-25 13:15:49,Citizens,Market Outperform,Market Outperform,reit,Maintains,28.0,28.0
+2026-08-03 15:03:27,Evercore ISI Group,In-Line,In-Line,main,Raises,28.0,27.0
+2026-07-22 12:45:50,Barclays,Equal-Weight,Equal-Weight,main,Lowers,29.0,30.0
+2026-06-01 15:31:57,Wells Fargo,Equal-Weight,Equal-Weight,main,Raises,26.0,25.0
+2026-04-21 13:50:15,Barclays,Equal-Weight,Equal-Weight,main,Raises,30.0,28.0
+2026-04-17 09:37:41,BMO Capital,Market Perform,,init,Announces,27.0,0.0
+2026-03-25 12:26:52,Citizens,Market Outperform,Market Perform,up,Announces,28.0,0.0
+2026-03-17 16:58:05,Evercore ISI Group,In-Line,In-Line,main,Raises,27.0,26.0
+2026-03-17 15:43:04,Raymond James,Outperform,Outperform,main,Lowers,28.0,29.0
+2025-12-15 14:57:25,Evercore ISI Group,In-Line,In-Line,main,Lowers,26.0,29.0
+2025-11-25 17:11:40,Wells Fargo,Equal-Weight,Equal-Weight,main,Lowers,25.0,27.0
+2025-10-20 12:05:21,Barclays,Equal-Weight,Equal-Weight,main,Lowers,28.0,29.0
+2025-09-11 11:52:55,Wells Fargo,Equal-Weight,Overweight,down,Lowers,27.0,29.0
+2025-08-27 14:06:47,Wells Fargo,Overweight,Overweight,main,Lowers,29.0,30.0
+2025-08-20 15:30:08,Barclays,Equal-Weight,Equal-Weight,main,Lowers,29.0,30.0
+2025-08-15 13:42:23,UBS,Buy,Buy,main,Raises,31.0,30.0
+2025-07-31 14:25:54,Raymond James,Outperform,Outperform,main,Lowers,29.0,31.0
+2025-06-02 15:45:44,Wells Fargo,Overweight,Overweight,main,Lowers,30.0,31.0
+2025-05-13 16:29:45,UBS,Buy,Buy,main,Lowers,30.0,33.0
+2025-03-10 14:03:15,Wells Fargo,Overweight,Overweight,main,Raises,31.0,30.0
+2025-02-13 15:01:54,JMP Securities,Market Perform,Market Perform,reit,,0.0,0.0
+2025-02-04 12:59:56,Barclays,Equal-Weight,Equal-Weight,main,Lowers,30.0,31.0
+2024-12-17 13:09:37,Barclays,Equal-Weight,,init,Announces,31.0,0.0
+2024-12-10 16:04:48,JMP Securities,Market Perform,Market Perform,reit,,0.0,0.0
+2024-11-14 13:28:42,UBS,Buy,,init,Announces,33.0,0.0
+2024-08-28 16:55:31,Evercore ISI Group,In-Line,In-Line,main,Raises,28.0,26.0
+2024-08-28 15:33:07,JMP Securities,Market Perform,,reit,,0.0,0.0
+2024-08-21 10:04:08,Raymond James,Outperform,Outperform,main,Raises,29.0,27.0
+2024-07-08 09:50:35,JMP Securities,Market Perform,,init,,0.0,0.0
+2024-02-20 16:46:16,Wells Fargo,Overweight,Overweight,main,Raises,25.0,24.0
+2024-01-08 17:38:14,Raymond James,Outperform,Outperform,main,Lowers,28.0,29.0
+2023-09-21 08:44:29,Wells Fargo,Overweight,,init,Announces,28.0,0.0
+2023-01-09 12:41:19,Raymond James,Outperform,,main,Raises,29.0,28.0
+2022-10-07 12:05:33,Baird,Outperform,,main,Lowers,27.0,30.0
+2022-10-04 12:06:36,Raymond James,Outperform,,main,Lowers,28.0,30.0
+2022-09-27 13:23:10,Evercore ISI Group,Outperform,,main,Lowers,29.0,31.0
+2022-09-06 12:06:20,Raymond James,Outperform,,main,Lowers,30.0,33.0
+2022-08-02 10:59:12,Berenberg,Hold,Buy,down,Lowers,30.0,31.0
+2022-08-01 10:55:03,Janney Montgomery Scott,Neutral,Buy,down,Announces,30.0,0.0
+2022-07-08 12:28:28,Raymond James,Outperform,,main,Raises,33.0,32.0
+2022-06-23 09:35:27,Credit Suisse,Neutral,,init,Announces,26.0,0.0
+2021-10-28 09:27:22,Raymond James,Outperform,,main,Raises,32.0,30.0
+2021-08-18 10:09:50,Raymond James,Outperform,Strong Buy,down,Lowers,30.0,34.0
+2021-01-12 13:37:16,Raymond James,Strong Buy,,main,Raises,34.0,32.0
+2020-04-17 13:51:10,Raymond James,Outperform,,main,Lowers,24.0,35.0
+2020-02-18 12:28:27,Raymond James,Outperform,,main,Raises,35.0,32.0
+2019-12-18 12:13:07,JP Morgan,Neutral,,init,Announces,30.0,0.0
+2019-06-21 11:24:37,Janney Montgomery Scott,Buy,,init,Announces,32.0,0.0
+2019-05-15 12:08:58,Barclays,Overweight,,init,Announces,29.0,0.0
+2019-05-15 12:01:10,Barclays,Equal-Weight,,init,Announces,29.0,0.0
+2019-04-23 13:05:13,Berenberg,Hold,,init,,0.0,0.0
+2018-07-31 13:47:52,Ladenburg Thalmann,Neutral,Buy,down,,0.0,27.0
+2017-08-16 13:12:26,Ladenburg Thalmann,Buy,,main,Raises,27.0,24.0
+2017-08-15 11:15:08,Raymond James,Outperform,Market Perform,up,,0.0,0.0
+2017-07-18 11:17:27,Canaccord Genuity,Hold,,init,Announces,26.0,0.0
+2016-08-22 10:26:07,JMP Securities,Market Perform,Market Outperform,down,,0.0,0.0
+2016-07-12 10:25:08,Baird,Neutral,Outperform,down,,0.0,0.0
+2016-04-22 10:50:44,Raymond James,Market Perform,,init,,0.0,0.0
+2016-01-27 17:07:09,JMP Securities,Market Outperform,,main,Lowers,19.5,27.5
+2015-12-23 11:03:14,JMP Securities,Market Outperform,,init,Announces,27.5,0.0
+2015-12-08 10:40:57,Baird,Outperform,,init,Announces,27.0,0.0

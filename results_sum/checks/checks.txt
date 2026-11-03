@@ -1,0 +1,44 @@
+Baselines (tau-b vs scar5, same calls):
+             signal  calls   tau    lo    hi     p
+    EPS beat / miss   1453 0.178 0.136 0.216 0.000
+Revenue beat / miss   1453 0.138 0.097 0.178 0.000
+          LIWC tone   4386 0.034 0.014 0.054 0.002
+EPS header found for 33% of calls; beat 25%, in line 0%, miss 8%
+
+Per prompt:
+    prompt    n  no_decision  scar_no_decision  scar_decided   tau  tau_cut_as_hold  tau_with_eps  b_model  se_model  p_model  b_eps  b_rev  tau_beat  tau_inline  tau_miss  agree_neutral
+   neutral 4387        0.091            -0.054         0.063 0.098            0.092         0.190    0.177     0.122    0.147  0.465  0.331     0.043         NaN     0.095            NaN
+ amusement 4387        0.191            -0.051         0.077 0.082            0.074         0.164    0.062     0.133    0.643  0.500  0.326     0.027         NaN     0.034          0.640
+     anger 4387        0.146            -0.041         0.068 0.093            0.088         0.171    0.227     0.120    0.057  0.438  0.329     0.055         NaN     0.054          0.648
+   anxiety 4387        0.137             0.033         0.056 0.087            0.074         0.152    0.107     0.125    0.391  0.471  0.313     0.059         NaN    -0.015          0.674
+    belief 4387        0.222            -0.136         0.106 0.094            0.090         0.177    0.187     0.133    0.159  0.448  0.282     0.058         NaN     0.050          0.624
+ confusion 4387        0.310            -0.003         0.077 0.069            0.059         0.187   -0.112     0.122    0.360  0.448  0.362    -0.011         NaN     0.008          0.489
+depression 4387        0.082            -0.051         0.062 0.091            0.085         0.182    0.139     0.116    0.231  0.450  0.295     0.033         NaN     0.056          0.705
+   disgust 4387        0.160            -0.199         0.100 0.089            0.092         0.171    0.183     0.115    0.112  0.469  0.337     0.054         NaN     0.021          0.647
+excitement 4387        0.124            -0.042         0.066 0.112            0.097         0.191    0.371     0.139    0.008  0.384  0.327     0.080         NaN     0.081          0.695
+  optimism 4387        0.164            -0.080         0.079 0.090            0.084         0.168    0.150     0.139    0.279  0.503  0.336     0.022         NaN     0.082          0.661
+     panic 4387        0.217            -0.050         0.081 0.094            0.080         0.150    0.161     0.133    0.227  0.460  0.363     0.040         NaN     0.076          0.625
+  surprise 4387        0.122            -0.125         0.077 0.086            0.084         0.145    0.118     0.119    0.319  0.469  0.305     0.019         NaN     0.074          0.702
+
+Ensemble (mean decision over 12 prompts): tau 0.092 [0.072, 0.115], p 0.0005, 4386 calls
+  with EPS + revenue beat: model +0.169 (se 0.136, p 0.2129), EPS +0.438 (se 0.066), revenue +0.316 (se 0.064)
+  R^2: beats only 0.0645, beats + model 0.0655
+
+On the 1453 calls with an EPS header: ensemble tau 0.060, neutral tau 0.091 (EPS beat 0.178)
+All calls, scar5 ~ ensemble + LIWC tone: model +0.722 (se 0.080, p 2.2e-19), tone +0.0977 (se 0.0293, p 0.00088)
+
+Decision mix (share of decided calls):
+decision      buy   hold   sell
+emotion                        
+neutral     0.676  0.318  0.006
+amusement   0.691  0.303  0.007
+anger       0.618  0.368  0.014
+anxiety     0.668  0.327  0.005
+belief      0.693  0.302  0.005
+confusion   0.512  0.465  0.023
+depression  0.628  0.365  0.007
+disgust     0.646  0.343  0.011
+excitement  0.773  0.222  0.005
+optimism    0.742  0.255  0.003
+panic       0.708  0.286  0.006
+surprise    0.668  0.325  0.008

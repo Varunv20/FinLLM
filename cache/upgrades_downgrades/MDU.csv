@@ -1,0 +1,45 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-08-06 20:47:15,JP Morgan,Overweight,Neutral,up,Announces,27.0,0.0
+2026-07-13 11:59:27,Wells Fargo,Overweight,,init,Announces,25.0,0.0
+2026-05-15 17:28:26,TD Cowen,Hold,Hold,main,Raises,22.0,20.0
+2026-04-16 15:00:16,JP Morgan,Neutral,,init,Announces,22.0,0.0
+2026-02-24 12:36:43,Freedom Broker,Hold,Hold,main,Raises,21.0,20.0
+2025-12-24 12:33:37,Freedom Broker,Hold,,init,Announces,20.0,0.0
+2025-10-22 15:54:40,Jefferies,Buy,Buy,main,Raises,22.0,20.0
+2025-09-19 16:59:08,Jefferies,Buy,Hold,up,Raises,20.0,18.0
+2025-01-08 19:38:51,Jefferies,Hold,,init,Announces,18.0,0.0
+2024-11-05 11:28:00,B of A Securities,Buy,Neutral,up,Lowers,17.0,31.0
+2024-10-21 11:51:59,B of A Securities,Neutral,Buy,down,Raises,31.0,30.0
+2024-05-20 12:53:48,Argus Research,Buy,Hold,up,Announces,30.0,0.0
+2023-07-26 14:17:27,Citigroup,Neutral,Neutral,main,Raises,23.0,21.27
+2022-10-24 11:33:54,B of A Securities,Underperform,Neutral,down,Lowers,26.0,30.0
+2022-08-05 12:20:05,B of A Securities,Neutral,Buy,down,Raises,30.0,29.0
+2021-03-23 11:25:34,B of A Securities,Buy,,init,Announces,36.0,0.0
+2020-08-06 18:29:32,Wells Fargo,Equal-Weight,,main,Raises,26.0,25.0
+2020-06-16 11:19:56,Citigroup,Neutral,,main,Lowers,23.0,26.0
+2020-05-11 14:47:32,Wells Fargo,Equal-Weight,,main,Lowers,25.0,33.0
+2018-07-31 11:45:48,Citigroup,Neutral,Neutral,main,Raises,29.0,28.0
+2018-07-19 11:50:09,Keybanc,Overweight,Overweight,main,Raises,30.0,29.0
+2017-02-13 12:47:58,Argus Research,Hold,Buy,down,,0.0,0.0
+2016-12-20 11:00:41,UBS,Neutral,,init,,0.0,0.0
+2016-05-31 11:11:30,Argus Research,Buy,Hold,up,Announces,0.0,0.0
+2016-02-05 09:18:26,Barclays,Underweight,,main,Raises,16.0,15.0
+2015-11-12 19:19:11,Keybanc,Overweight,,main,Lowers,24.5,25.0
+2015-06-01 13:00:00,Baird,Neutral,,main,Raises,26.0,23.0
+2015-02-04 10:48:03,Barclays,Underweight,Equal-Weight,down,Lowers,23.0,25.0
+2015-02-02 12:36:06,DA Davidson,Neutral,Buy,down,Lowers,24.0,31.0
+2014-12-19 14:00:00,Barclays,Equal-Weight,,main,Lowers,25.0,34.0
+2014-11-05 14:25:50,Baird,Neutral,Outperform,down,Lowers,26.0,40.0
+2014-11-04 11:41:11,Evercore ISI Group,Sell,Neutral,down,,0.0,0.0
+2014-07-10 10:27:35,Wells Fargo,Market Perform,,init,,0.0,0.0
+2014-05-02 10:31:58,DA Davidson,Buy,,main,Raises,42.0,38.0
+2014-02-05 11:28:47,DA Davidson,Buy,,main,Raises,37.0,36.0
+2013-10-30 11:19:40,Citigroup,Neutral,Buy,down,Raises,30.0,29.0
+2013-10-07 20:00:00,Ameriprise Financial,Buy,,init,,0.0,0.0
+2013-08-05 12:42:21,Argus Research,Hold,Buy,down,,0.0,0.0
+2013-07-31 13:06:25,DA Davidson,Neutral,Buy,down,Maintains,30.0,0.0
+2013-07-29 21:19:29,ISI Group,Neutral,,init,Announces,28.0,0.0
+2013-05-02 13:59:46,DA Davidson,Buy,Neutral,up,Raises,30.0,25.0
+2013-02-13 14:13:01,Williams Capital,Buy,Hold,up,Raises,27.0,24.0
+2013-02-06 11:18:20,DA Davidson,Neutral,,main,Raises,25.0,23.0
+2012-10-09 12:14:00,Citigroup,Neutral,,main,Lowers,22.0,23.0

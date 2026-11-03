@@ -1,0 +1,159 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-10-15 17:30:08,Mizuho,Neutral,Neutral,main,Lowers,325.0,350.0
+2026-10-12 17:06:39,Morgan Stanley,Equal-Weight,Equal-Weight,main,Lowers,330.0,370.0
+2026-08-17 12:49:59,Stephens & Co.,Overweight,Overweight,reit,Maintains,485.0,485.0
+2026-07-30 18:05:30,DA Davidson,Neutral,Neutral,main,Lowers,330.0,385.0
+2026-07-28 11:13:18,Baird,Outperform,Outperform,main,Lowers,420.0,460.0
+2026-07-10 14:31:28,Morgan Stanley,Equal-Weight,Equal-Weight,main,Raises,405.0,370.0
+2026-06-16 14:57:50,DA Davidson,Neutral,,init,Announces,385.0,0.0
+2026-04-29 13:44:31,Stephens & Co.,Overweight,Overweight,main,Raises,485.0,475.0
+2026-02-19 16:20:32,JP Morgan,Neutral,Neutral,main,Raises,400.0,370.0
+2026-01-16 15:36:25,JP Morgan,Neutral,Neutral,main,Raises,370.0,360.0
+2026-01-14 16:23:28,Morgan Stanley,Equal-Weight,Equal-Weight,main,Lowers,370.0,460.0
+2026-01-05 13:59:48,Mizuho,Neutral,Neutral,main,Lowers,370.0,400.0
+2025-11-06 18:57:46,UBS,Neutral,Neutral,main,Lowers,390.0,425.0
+2025-10-30 21:57:22,JP Morgan,Neutral,Neutral,main,Lowers,360.0,400.0
+2025-10-17 13:12:22,Mizuho,Neutral,Neutral,main,Lowers,400.0,525.0
+2025-10-15 14:02:59,JP Morgan,Neutral,Neutral,main,Lowers,400.0,425.0
+2025-10-15 12:34:54,William Blair,Market Perform,Outperform,down,,0.0,0.0
+2025-10-08 15:27:32,Morgan Stanley,Equal-Weight,Equal-Weight,main,Lowers,460.0,505.0
+2025-09-23 13:52:41,UBS,Neutral,Neutral,main,Lowers,425.0,450.0
+2025-06-25 14:08:15,UBS,Neutral,Neutral,main,Lowers,450.0,455.0
+2025-05-27 15:21:16,JP Morgan,Neutral,Neutral,main,Raises,460.0,445.0
+2025-04-24 17:21:12,UBS,Neutral,Neutral,main,Lowers,455.0,475.0
+2025-04-24 12:33:36,Baird,Outperform,Outperform,main,Lowers,540.0,560.0
+2025-04-14 10:50:06,Morgan Stanley,Equal-Weight,,init,Announces,515.0,0.0
+2025-02-27 19:51:02,Loop Capital,Hold,Hold,main,Raises,460.0,450.0
+2025-02-19 12:45:06,Baird,Outperform,Outperform,main,Raises,560.0,540.0
+2025-01-17 09:44:04,Raymond James,Market Perform,,init,,0.0,0.0
+2024-10-24 11:44:51,Baird,Outperform,Outperform,main,Lowers,540.0,550.0
+2024-10-16 11:30:20,Baird,Outperform,Outperform,main,Raises,550.0,522.0
+2024-07-31 18:27:19,JP Morgan,Neutral,Neutral,main,Raises,425.0,420.0
+2024-07-31 16:19:47,Baird,Outperform,Outperform,main,Raises,522.0,460.0
+2024-04-25 17:29:43,Stephens & Co.,Overweight,Overweight,reit,Maintains,500.0,500.0
+2024-04-25 11:07:40,Baird,Outperform,Outperform,main,Raises,460.0,420.0
+2024-02-14 19:12:53,Baird,Outperform,Outperform,main,Raises,410.0,400.0
+2023-12-11 16:45:11,Stephens & Co.,Overweight,Overweight,main,Raises,500.0,450.0
+2023-10-10 14:51:08,UBS,Neutral,Neutral,main,Raises,402.0,340.0
+2023-09-22 12:20:13,Morgan Stanley,Underweight,Underweight,main,Raises,337.0,326.0
+2023-08-28 12:47:59,Stephens & Co.,Overweight,Overweight,reit,Maintains,450.0,0.0
+2023-08-02 17:32:36,JP Morgan,Neutral,Neutral,main,Raises,325.0,305.0
+2023-08-02 15:13:23,Morgan Stanley,Underweight,Underweight,main,Raises,326.0,323.0
+2023-08-02 12:38:07,Baird,Outperform,Outperform,main,Raises,380.0,375.0
+2023-07-25 08:24:15,Mizuho,Neutral,,init,Announces,360.0,0.0
+2023-07-12 13:49:36,Morgan Stanley,Underweight,Underweight,main,Raises,323.0,289.0
+2023-07-10 09:00:49,Keybanc,Sector Weight,Overweight,down,,0.0,0.0
+2023-05-23 13:00:19,UBS,Neutral,Neutral,main,Raises,340.0,280.0
+2023-04-24 12:34:18,Deutsche Bank,Hold,,main,Raises,380.0,331.0
+2023-04-24 12:29:21,Loop Capital,Hold,,main,Raises,335.0,315.0
+2023-04-21 13:12:35,Stephens & Co.,Overweight,,main,Raises,400.0,375.0
+2023-04-21 12:13:18,Morgan Stanley,Underweight,,main,Raises,289.0,269.0
+2023-04-21 11:50:48,Baird,Outperform,,main,Raises,375.0,355.0
+2023-04-21 08:37:21,Keybanc,Overweight,,main,Raises,380.0,365.0
+2023-04-19 10:59:17,Baird,Outperform,,main,Raises,355.0,350.0
+2023-04-18 12:13:01,JP Morgan,Neutral,,main,Raises,288.0,285.0
+2023-04-05 13:53:06,Morgan Stanley,Underweight,,main,Raises,269.0,218.0
+2023-02-21 13:29:13,Stephens & Co.,Overweight,,main,Raises,375.0,300.0
+2023-02-17 12:39:11,Baird,Outperform,,main,Raises,350.0,323.0
+2023-02-17 09:35:56,Keybanc,Overweight,,main,Raises,365.0,335.0
+2023-02-07 09:38:55,Keybanc,Overweight,,main,Raises,335.0,310.0
+2023-01-10 14:18:22,UBS,Neutral,,init,Announces,280.0,0.0
+2022-10-24 13:35:28,Deutsche Bank,Hold,,main,Raises,294.0,284.0
+2022-10-20 11:51:58,Deutsche Bank,Hold,,main,Lowers,284.0,311.0
+2022-10-12 12:11:32,Morgan Stanley,Underweight,,main,Raises,218.0,217.0
+2022-09-06 08:29:43,Keybanc,Overweight,,main,Raises,310.0,300.0
+2022-09-01 13:19:58,Morgan Stanley,Underweight,,main,Raises,217.0,204.0
+2022-08-18 08:56:42,Deutsche Bank,Hold,,init,Announces,311.0,0.0
+2022-07-27 14:11:59,Baird,Outperform,,main,Raises,323.0,313.0
+2022-07-27 13:07:57,Morgan Stanley,Underweight,,main,Lowers,204.0,208.0
+2022-07-18 08:53:22,Keybanc,Overweight,,main,Lowers,300.0,320.0
+2022-07-15 17:10:05,Morgan Stanley,Underweight,,main,Raises,208.0,207.0
+2022-07-14 11:27:56,Baird,Outperform,Neutral,up,Announces,313.0,0.0
+2022-06-16 11:23:09,Morgan Stanley,Underweight,Equal-Weight,down,Lowers,207.0,228.0
+2022-05-31 14:05:10,Morgan Stanley,Equal-Weight,,main,Lowers,228.0,277.0
+2022-04-22 14:10:19,Morgan Stanley,Equal-Weight,,main,Lowers,277.0,288.0
+2022-02-14 09:28:46,Keybanc,Overweight,Sector Weight,up,Announces,320.0,0.0
+2021-08-03 11:53:54,Loop Capital,Hold,,init,Announces,300.0,0.0
+2021-07-23 11:35:37,Stephens & Co.,Overweight,Equal-Weight,up,Raises,350.0,300.0
+2021-07-12 12:50:46,Wolfe Research,Underperform,Peer Perform,down,Lowers,304.0,309.0
+2021-05-19 10:29:44,Wolfe Research,Peer Perform,,init,Announces,309.0,0.0
+2021-04-23 13:29:36,Morgan Stanley,Equal-Weight,,main,Raises,266.0,244.0
+2021-04-12 15:15:14,Morgan Stanley,Equal-Weight,,main,Raises,244.0,233.0
+2021-02-12 13:57:08,Morgan Stanley,Equal-Weight,,main,Raises,233.0,219.0
+2020-10-23 12:30:50,Morgan Stanley,Equal-Weight,,main,Raises,219.0,203.0
+2020-10-13 14:27:42,Morgan Stanley,Equal-Weight,,main,Raises,203.0,195.0
+2020-07-24 13:24:17,Morgan Stanley,Equal-Weight,,main,Raises,195.0,146.0
+2020-06-23 15:17:37,JP Morgan,Underweight,,main,Raises,130.0,127.0
+2020-04-24 16:39:57,Baird,Neutral,,main,Lowers,168.0,170.0
+2020-03-23 14:06:40,Morgan Stanley,Equal-Weight,,main,Lowers,138.0,147.0
+2020-03-17 12:56:29,Morgan Stanley,Equal-Weight,,main,Lowers,147.0,158.0
+2020-02-18 11:53:36,Stephens & Co.,Overweight,,main,Lowers,190.0,192.0
+2020-02-14 12:54:39,Buckingham Research,Neutral,,main,Lowers,160.0,164.0
+2019-10-21 12:24:29,Morgan Stanley,Equal-Weight,,main,Raises,158.0,145.0
+2019-10-18 13:29:22,Baird,Neutral,,main,Raises,175.0,160.0
+2019-10-18 13:04:55,Buckingham Research,Neutral,,main,Lowers,164.0,165.0
+2019-10-10 13:57:46,JP Morgan,Underweight,,main,Raises,138.0,132.0
+2019-10-08 12:14:05,Buckingham Research,Neutral,,main,Raises,165.0,148.0
+2018-10-26 16:03:48,Buckingham Research,Neutral,Neutral,main,Lowers,167.0,187.0
+2018-10-12 13:31:50,Jefferies,Hold,,init,Announces,160.0,0.0
+2018-10-09 11:49:11,Buckingham Research,Neutral,,init,Announces,187.0,0.0
+2018-09-21 11:30:29,JP Morgan,Underweight,Neutral,down,Raises,176.0,166.0
+2018-07-30 12:08:15,Longbow Research,Neutral,Buy,down,,0.0,0.0
+2018-07-03 12:28:33,Baird,Neutral,Outperform,down,,0.0,185.0
+2018-04-25 12:38:41,Baird,Outperform,Outperform,main,Raises,185.0,176.0
+2018-04-25 11:56:06,Stifel,Buy,Buy,main,Raises,194.0,191.0
+2018-02-12 13:02:05,JP Morgan,Neutral,Neutral,main,Lowers,169.0,180.0
+2017-10-26 12:00:12,Morgan Stanley,Underweight,,main,Raises,156.0,151.0
+2017-09-25 16:05:01,Morgan Stanley,Underweight,,main,Raises,151.0,141.0
+2017-07-26 18:05:17,Morgan Stanley,Underweight,,main,Raises,141.0,139.0
+2017-07-11 13:06:49,Wolfe Research,Peer Perform,,init,,0.0,0.0
+2016-12-20 10:57:44,Morgan Stanley,Underweight,Equal-Weight,down,Lowers,152.0,160.0
+2016-10-14 04:00:00,Longbow Research,Buy,Neutral,up,,0.0,0.0
+2016-07-27 18:18:57,JP Morgan,Neutral,,main,Lowers,128.0,131.0
+2016-07-25 16:47:11,Stifel,Buy,,main,Lowers,150.0,154.0
+2016-07-25 16:23:09,Barclays,Underweight,,main,Raises,113.0,112.0
+2016-07-25 14:29:25,Seaport Global,Neutral,Accumulate,down,,0.0,0.0
+2016-06-06 13:10:35,SunTrust Robinson Humphrey,Buy,,init,,0.0,0.0
+2016-06-01 11:58:03,Susquehanna,Positive,,init,,0.0,0.0
+2016-04-25 11:26:09,Stifel,Neutral,Buy,down,,0.0,0.0
+2016-04-21 12:52:18,Seaport Global,Accumulate,,main,Raises,150.0,135.0
+2016-04-21 12:23:56,Baird,Outperform,,main,Raises,144.0,136.0
+2016-04-20 20:56:19,Goldman Sachs,Neutral,,main,Raises,132.0,120.0
+2016-04-18 08:01:47,Barclays,Underweight,,main,Raises,111.0,104.0
+2016-03-24 14:54:55,Stifel,Buy,,main,Raises,140.0,136.0
+2016-02-12 18:01:57,Stifel,Buy,,main,Raises,136.0,122.0
+2016-01-19 18:01:05,Barclays,Underweight,,main,Raises,104.0,103.0
+2015-11-25 12:12:31,Stifel,Buy,,init,Announces,140.0,0.0
+2015-10-28 19:03:51,Stephens & Co.,Overweight,,main,Lowers,140.0,145.0
+2015-10-05 15:00:00,Barclays,Underweight,,main,Lowers,107.0,108.0
+2015-07-13 15:00:00,Barclays,Underweight,,main,Raises,108.0,107.0
+2015-04-16 13:00:00,Barclays,Underweight,,main,Raises,107.0,103.0
+2015-02-17 11:14:30,JP Morgan,Neutral,Underweight,up,Raises,109.0,90.0
+2015-02-13 14:00:00,Barclays,Underweight,,main,Lowers,103.0,104.0
+2015-02-13 13:55:19,Stephens & Co.,Overweight,Equal-Weight,up,,0.0,0.0
+2015-01-20 13:20:00,Goldman Sachs,Neutral,Sell,up,,0.0,0.0
+2015-01-15 14:00:00,JP Morgan,Underweight,,main,Lowers,90.0,93.0
+2014-11-12 14:00:00,UBS,Neutral,,main,Raises,105.0,100.0
+2014-10-06 13:00:00,Barclays,Underweight,,main,Raises,95.0,93.0
+2014-09-23 12:52:58,Seaport Global,Accumulate,Buy,down,Lowers,98.0,110.0
+2014-09-05 10:25:13,Buckingham Research,Neutral,,init,Announces,99.0,0.0
+2014-07-23 00:44:26,JP Morgan,Underweight,,main,Lowers,96.0,99.0
+2014-07-19 00:33:29,Barclays,Underweight,,main,Lowers,93.0,95.0
+2014-05-13 10:08:04,Morgan Stanley,Equal-Weight,,init,Announces,111.0,0.0
+2013-09-26 12:54:04,Baird,Outperform,Neutral,up,Raises,113.0,100.0
+2013-07-19 20:09:16,Global Hunter Securities,Buy,Accumulate,up,Raises,120.0,100.0
+2013-05-30 13:18:21,Longbow Research,Neutral,,init,,0.0,0.0
+2013-03-18 14:36:17,SunTrust Robinson Humphrey,Buy,Neutral,up,Announces,100.0,0.0
+2013-03-05 15:00:43,UBS,Neutral,,main,Raises,77.0,70.0
+2013-02-15 17:28:41,Barclays,Underweight,,main,Raises,75.0,70.0
+2013-01-15 15:17:55,Baird,Neutral,Outperform,down,,0.0,0.0
+2013-01-11 11:42:34,JP Morgan,Underweight,Overweight,down,Lowers,72.0,78.0
+2012-09-10 11:07:00,JP Morgan,Overweight,,main,Raises,78.0,70.0
+2012-07-27 17:34:00,UBS,Neutral,,main,Lowers,69.0,82.0
+2012-07-26 19:01:00,Barclays,Underweight,,main,Lowers,70.0,74.0
+2012-07-09 13:35:00,MKM Partners,Neutral,Buy,down,,0.0,0.0
+2012-07-06 17:30:00,Goldman Sachs,Neutral,,init,Announces,80.0,0.0
+2012-07-06 10:49:00,Goldman Sachs,Neutral,,init,Announces,80.0,0.0
+2012-04-30 17:15:00,Oppenheimer,Outperform,,main,Raises,80.0,78.0
+2012-04-20 15:54:00,UBS,Neutral,,main,Raises,75.0,72.0
+2012-02-16 15:10:00,BB&T Capital,Hold,Buy,down,,0.0,0.0

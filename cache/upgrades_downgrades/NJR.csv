@@ -1,0 +1,66 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-09-11 16:16:27,JP Morgan,Overweight,Overweight,main,Lowers,63.0,64.0
+2026-08-05 13:47:59,Wells Fargo,Equal-Weight,Overweight,down,Lowers,61.0,63.0
+2026-05-12 12:38:02,Wells Fargo,Overweight,,init,Announces,63.0,0.0
+2026-04-21 13:13:59,Mizuho,Outperform,Outperform,main,Raises,61.0,54.0
+2025-12-17 11:37:30,Mizuho,Outperform,Neutral,up,Raises,54.0,51.0
+2025-08-08 16:08:00,Raymond James,Outperform,Outperform,main,Raises,50.0,49.0
+2025-06-13 16:21:36,Raymond James,Outperform,,init,Announces,49.0,0.0
+2025-05-28 14:35:23,JP Morgan,Overweight,Overweight,main,Lowers,51.0,56.0
+2025-05-15 15:03:56,Mizuho,Neutral,Neutral,main,Lowers,50.0,52.0
+2025-05-07 13:33:13,Wells Fargo,Equal-Weight,Equal-Weight,main,Raises,53.0,51.0
+2025-04-16 14:47:22,Mizuho,Neutral,Neutral,main,Raises,52.0,50.0
+2025-04-01 13:46:33,Jefferies,Hold,,init,Announces,51.0,0.0
+2025-02-05 12:57:41,Guggenheim,Neutral,Neutral,main,Raises,54.0,53.0
+2025-01-28 15:06:20,JP Morgan,Overweight,Overweight,main,Lowers,52.0,54.0
+2024-12-12 11:34:52,JP Morgan,Overweight,Neutral,up,Raises,54.0,52.0
+2024-11-27 17:08:31,Wells Fargo,Equal-Weight,Equal-Weight,main,Raises,54.0,51.0
+2024-11-27 12:45:50,Guggenheim,Neutral,Neutral,main,Raises,49.0,46.0
+2024-10-16 15:18:11,Wells Fargo,Equal-Weight,Equal-Weight,main,Raises,51.0,47.0
+2024-09-20 17:27:52,Mizuho,Neutral,Neutral,main,Raises,47.0,45.0
+2024-08-15 12:27:22,JP Morgan,Neutral,Neutral,main,Raises,49.0,48.0
+2024-02-05 17:55:50,Mizuho,Neutral,Neutral,main,Lowers,45.0,47.0
+2023-11-20 15:34:31,Mizuho,Neutral,Neutral,main,Lowers,47.0,49.0
+2023-09-21 09:36:13,JP Morgan,Neutral,Underweight,up,Raises,46.0,44.0
+2023-08-04 14:24:02,Wells Fargo,Equal-Weight,Equal-Weight,main,Lowers,47.0,52.0
+2023-04-24 14:40:11,Guggenheim,Neutral,,main,Raises,47.0,46.0
+2023-02-07 12:16:16,Mizuho,Neutral,,main,Raises,51.0,46.0
+2023-01-10 13:23:58,Wells Fargo,Equal-Weight,,main,Lowers,50.0,51.0
+2023-01-09 13:00:56,JP Morgan,Underweight,,main,Raises,46.0,40.0
+2022-11-18 13:23:28,Mizuho,Neutral,,main,Raises,46.0,45.0
+2022-11-18 13:08:53,Wells Fargo,Equal-Weight,,main,Raises,45.0,41.0
+2022-10-19 12:55:06,Wells Fargo,Equal-Weight,,main,Lowers,41.0,47.0
+2022-09-09 08:48:14,JP Morgan,Underweight,Neutral,down,Lowers,46.0,47.0
+2022-08-08 11:27:30,Wells Fargo,Equal-Weight,,main,Raises,47.0,45.0
+2022-04-29 14:16:23,Mizuho,Neutral,,main,Raises,45.0,42.0
+2022-01-05 11:11:07,Mizuho,Neutral,Buy,down,Announces,42.0,0.0
+2021-06-25 12:40:43,B of A Securities,Underperform,Neutral,down,Announces,39.0,0.0
+2021-05-03 13:26:51,JP Morgan,Neutral,,init,Announces,43.0,0.0
+2020-08-10 13:12:40,B of A Securities,Underperform,,main,Raises,29.0,28.0
+2020-07-24 09:31:03,Mizuho,Buy,,init,Announces,37.0,0.0
+2020-07-21 16:20:45,B of A Securities,Underperform,,main,Lowers,28.0,31.0
+2020-05-11 14:53:27,Wells Fargo,Equal-Weight,,main,Lowers,38.0,45.0
+2020-03-16 16:49:38,Guggenheim,Neutral,Sell,up,,0.0,0.0
+2020-01-08 14:58:09,Guggenheim,Sell,Neutral,down,,0.0,0.0
+2019-07-11 10:50:35,Guggenheim,Neutral,Sell,up,,0.0,0.0
+2019-01-07 14:24:53,Guggenheim,Sell,Neutral,down,,0.0,0.0
+2018-09-17 13:24:22,Wells Fargo,Market Perform,Market Perform,main,Raises,47.0,45.0
+2018-09-10 12:41:56,Guggenheim,Neutral,Buy,down,,0.0,0.0
+2018-06-05 12:12:51,B of A Securities,Underperform,Neutral,down,,0.0,0.0
+2018-05-30 12:19:48,Argus Research,Buy,Buy,main,Raises,49.0,45.0
+2017-11-22 13:42:57,Janney Montgomery Scott,Buy,Neutral,up,,0.0,0.0
+2017-08-28 12:07:15,Argus Research,Buy,,main,Raises,49.0,46.0
+2017-08-23 18:21:28,B of A Securities,Underperform,,main,Raises,38.0,35.0
+2016-11-04 10:34:46,Guggenheim,Buy,,init,,0.0,0.0
+2016-03-31 11:02:00,Janney Montgomery Scott,Neutral,Buy,down,,0.0,0.0
+2016-03-30 11:39:24,BB&T Capital,Hold,,init,,0.0,0.0
+2016-01-13 12:44:10,Ladenburg Thalmann,Neutral,,init,Announces,33.5,0.0
+2016-01-06 12:49:15,Wells Fargo,Market Perform,,init,,0.0,0.0
+2015-07-16 11:58:31,Argus Research,Buy,Hold,up,,0.0,0.0
+2015-06-18 10:40:08,Janney Montgomery Scott,Buy,,init,Announces,36.0,0.0
+2014-05-29 10:11:49,Brean Capital,Hold,Buy,down,Removes,0.0,53.0
+2014-03-26 01:10:10,Barclays,Underweight,,main,Raises,48.0,45.0
+2014-03-12 12:00:00,Hilliard Lyons,Long-Term Buy,Neutral,up,,0.0,0.0
+2013-02-15 17:25:20,Barclays,Underweight,,main,Raises,42.0,38.0
+2012-04-20 10:34:00,Brean Capital,Buy,Hold,up,Maintains,49.0,0.0
+2012-04-04 13:31:00,Hilliard Lyons,Neutral,Buy,down,,0.0,0.0

@@ -1,0 +1,27 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-05-12 12:57:29,Wells Fargo,Equal-Weight,,init,Announces,56.0,0.0
+2026-05-05 19:13:35,Freedom Broker,Hold,Buy,down,Lowers,54.0,56.0
+2026-04-09 16:47:03,Scotiabank,Sector Perform,,init,Announces,57.0,0.0
+2026-02-12 10:51:15,Freedom Broker,Buy,Buy,main,Raises,56.0,55.0
+2025-02-12 15:41:51,Guggenheim,Neutral,Neutral,reit,Maintains,55.0,55.0
+2023-09-06 14:54:56,RBC Capital,Sector Perform,Sector Perform,main,Lowers,51.0,56.0
+2023-02-17 13:26:57,RBC Capital,Sector Perform,,main,Raises,56.0,55.0
+2022-07-22 11:02:18,B of A Securities,Underperform,Neutral,down,Lowers,50.0,53.0
+2022-02-03 12:10:59,B of A Securities,Neutral,Underperform,up,Raises,50.0,45.0
+2021-05-06 11:15:41,B of A Securities,Underperform,Neutral,down,Announces,49.0,0.0
+2020-09-16 11:34:02,B of A Securities,Neutral,Underperform,up,,0.0,0.0
+2020-05-06 12:23:07,B of A Securities,Underperform,,main,Lowers,52.0,53.0
+2020-03-06 11:50:45,Janney Montgomery Scott,Buy,Neutral,up,Announces,62.0,0.0
+2019-06-28 11:16:23,Janney Montgomery Scott,Neutral,Buy,down,,0.0,0.0
+2018-08-01 17:25:16,B of A Securities,Underperform,Underperform,main,Raises,49.0,47.0
+2017-12-26 12:20:58,Janney Montgomery Scott,Buy,Neutral,up,,0.0,0.0
+2017-12-18 13:34:37,B of A Securities,Neutral,,init,Announces,49.0,0.0
+2016-04-25 10:55:32,RBC Capital,Sector Perform,Underperform,up,Raises,38.0,37.0
+2015-10-15 10:21:46,Janney Montgomery Scott,Neutral,Buy,down,Lowers,37.0,39.0
+2015-07-24 12:06:19,Janney Montgomery Scott,Buy,Neutral,up,,0.0,0.0
+2015-05-05 10:28:59,Janney Montgomery Scott,Neutral,,init,,0.0,0.0
+2015-01-09 05:00:00,RBC Capital,Underperform,Sector Perform,down,Maintains,35.0,0.0
+2014-06-30 10:26:05,Brean Capital,Hold,Buy,down,Removes,0.0,34.0
+2013-10-29 12:39:47,RBC Capital,Sector Perform,Outperform,down,Maintains,33.0,0.0
+2013-04-25 14:45:38,Brean Capital,Buy,Hold,up,Announces,34.0,0.0
+2012-12-14 15:45:35,Baird,Neutral,,init,Announces,28.0,0.0

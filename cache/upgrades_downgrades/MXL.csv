@@ -1,0 +1,153 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-10-23 15:06:22,Wells Fargo,Equal-Weight,Equal-Weight,main,Lowers,70.0,78.0
+2026-10-20 14:03:55,Wells Fargo,Equal-Weight,Equal-Weight,main,Lowers,78.0,95.0
+2026-07-24 17:46:39,Roth Capital,Buy,Buy,main,Raises,100.0,60.0
+2026-07-24 15:54:47,Wells Fargo,Equal-Weight,Equal-Weight,main,Raises,95.0,75.0
+2026-07-24 14:40:27,Stifel,Buy,Buy,main,Raises,120.0,110.0
+2026-07-24 14:08:14,Susquehanna,Neutral,Neutral,main,Raises,80.0,45.0
+2026-07-24 10:17:44,Needham,Buy,Buy,main,Raises,100.0,60.0
+2026-07-20 13:06:58,Wells Fargo,Equal-Weight,Equal-Weight,main,Raises,75.0,42.0
+2026-06-29 14:50:10,Stifel,Buy,Buy,main,Raises,110.0,105.0
+2026-06-04 14:19:16,Stifel,Buy,Buy,reit,Raises,105.0,49.0
+2026-04-29 13:13:00,Loop Capital,Buy,Hold,up,Raises,75.0,17.0
+2026-04-24 12:52:36,Stifel,Buy,Buy,main,Raises,49.0,34.0
+2026-04-24 11:18:43,Needham,Buy,Hold,up,Announces,60.0,0.0
+2026-01-30 15:45:36,Wells Fargo,Equal-Weight,Equal-Weight,main,Raises,20.0,18.0
+2026-01-16 14:22:56,Benchmark,Buy,Buy,main,Raises,28.0,25.0
+2025-10-24 11:10:55,Benchmark,Buy,Buy,reit,Maintains,25.0,25.0
+2025-10-17 11:09:30,Benchmark,Buy,Buy,reit,Maintains,25.0,25.0
+2025-09-02 11:19:15,Benchmark,Buy,Buy,reit,Maintains,25.0,25.0
+2025-08-04 17:50:09,Loop Capital,Hold,Hold,main,Raises,15.0,10.0
+2025-07-24 13:42:48,Wells Fargo,Equal-Weight,Equal-Weight,main,Raises,18.0,13.0
+2025-07-24 13:41:13,Susquehanna,Neutral,Neutral,main,Raises,18.0,15.0
+2025-07-24 11:31:51,Benchmark,Buy,Buy,main,Raises,25.0,20.0
+2025-07-22 15:45:23,Susquehanna,Neutral,Neutral,main,Raises,15.0,11.0
+2025-07-18 14:10:23,Stifel,Buy,Buy,main,Raises,18.0,16.0
+2025-07-16 16:14:57,Wells Fargo,Equal-Weight,Equal-Weight,main,Raises,13.0,12.0
+2025-04-29 13:28:32,Loop Capital,Hold,Hold,main,Lowers,10.0,18.0
+2025-04-24 18:46:11,Benchmark,Buy,Buy,reit,Maintains,20.0,20.0
+2025-04-17 13:28:57,Stifel,Buy,Buy,main,Lowers,16.0,26.0
+2025-04-15 11:39:07,Benchmark,Buy,Buy,main,Lowers,20.0,28.0
+2025-01-31 16:28:52,Benchmark,Buy,Buy,reit,Maintains,28.0,28.0
+2025-01-30 17:22:23,Benchmark,Buy,Buy,reit,Maintains,28.0,28.0
+2025-01-30 15:04:57,Susquehanna,Neutral,Neutral,main,Lowers,23.0,25.0
+2025-01-30 14:05:04,Wells Fargo,Equal-Weight,Equal-Weight,main,Raises,20.0,19.0
+2025-01-30 12:54:59,Needham,Hold,Hold,reit,,0.0,0.0
+2025-01-22 17:51:55,Susquehanna,Neutral,Neutral,main,Raises,25.0,20.0
+2025-01-13 15:46:46,Wells Fargo,Equal-Weight,Equal-Weight,main,Raises,19.0,14.0
+2025-01-06 12:36:27,Northland Capital Markets,Outperform,Outperform,main,Raises,27.5,25.0
+2024-12-09 11:03:51,Benchmark,Buy,Buy,main,Raises,28.0,22.0
+2024-11-22 13:48:55,Wells Fargo,Equal-Weight,,init,Announces,14.0,0.0
+2024-10-24 18:00:18,Craig-Hallum,Buy,Buy,main,Lowers,25.0,28.0
+2024-10-24 11:23:53,Benchmark,Buy,Buy,reit,Maintains,22.0,22.0
+2024-10-24 11:10:13,Needham,Hold,,reit,,0.0,0.0
+2024-10-01 13:02:49,Susquehanna,Neutral,Positive,down,Lowers,15.0,26.0
+2024-07-25 17:45:04,Northland Capital Markets,Outperform,Outperform,main,Lowers,25.0,30.0
+2024-07-25 16:06:23,Craig-Hallum,Hold,Hold,main,Lowers,28.0,38.0
+2024-07-25 12:33:18,Susquehanna,Positive,Positive,main,Lowers,26.0,30.0
+2024-07-25 11:52:03,Benchmark,Buy,Buy,main,Lowers,22.0,28.0
+2024-07-25 11:29:39,Needham,Hold,Buy,down,,0.0,0.0
+2024-07-18 15:42:12,Stifel,Buy,Buy,main,Raises,30.0,26.0
+2024-07-17 13:09:55,Susquehanna,Positive,Positive,main,Raises,30.0,25.0
+2024-07-09 12:27:49,Benchmark,Buy,Buy,reit,Maintains,28.0,28.0
+2024-04-25 15:01:57,Benchmark,Buy,Buy,reit,Maintains,28.0,28.0
+2024-04-25 11:59:10,Needham,Buy,Buy,reit,Maintains,25.0,25.0
+2024-04-15 14:50:36,Benchmark,Buy,Buy,main,Raises,28.0,23.0
+2024-04-04 17:33:35,Northland Capital Markets,Outperform,Market Perform,up,Announces,30.0,0.0
+2024-02-01 12:09:29,Needham,Buy,Buy,main,Lowers,25.0,28.0
+2024-01-03 12:36:08,Wells Fargo,Equal-Weight,Overweight,down,Lowers,25.0,35.0
+2023-10-26 19:30:54,Stifel,Buy,Buy,main,Lowers,28.0,33.0
+2023-10-26 16:09:44,Benchmark,Buy,Buy,main,Lowers,23.0,35.0
+2023-10-26 14:19:36,Susquehanna,Positive,Positive,main,Lowers,22.0,30.0
+2023-10-26 13:08:59,Wells Fargo,Overweight,Overweight,main,Lowers,35.0,45.0
+2023-10-26 10:40:06,Needham,Buy,Buy,main,Lowers,28.0,34.0
+2023-10-26 09:08:05,Roth MKM,Neutral,Buy,down,Lowers,18.0,35.0
+2023-10-24 15:16:48,Susquehanna,Positive,Positive,main,Lowers,30.0,40.0
+2023-10-19 12:52:03,Stifel,Buy,Buy,main,Lowers,33.0,38.0
+2023-10-19 08:42:25,Deutsche Bank,Hold,Buy,down,Announces,23.0,0.0
+2023-08-01 11:40:48,Loop Capital,Hold,Buy,down,Announces,25.0,0.0
+2023-07-27 14:25:32,Benchmark,Buy,Buy,reit,Maintains,35.0,0.0
+2023-07-27 11:58:43,Craig-Hallum,Hold,Buy,down,Announces,25.0,0.0
+2023-07-27 11:15:59,Needham,Buy,Buy,reit,Maintains,34.0,0.0
+2023-05-19 13:00:53,Exane BNP Paribas,Neutral,Underperform,up,Announces,30.0,0.0
+2023-04-27 16:24:08,Roth Capital,Buy,,main,Lowers,40.0,50.0
+2023-04-27 15:11:37,Northland Capital Markets,Market Perform,,main,Lowers,25.0,35.0
+2023-04-27 14:38:05,Craig-Hallum,Action List Buy,,main,Lowers,37.0,55.0
+2023-04-27 14:24:47,Roth MKM,Buy,,main,Lowers,40.0,50.0
+2023-04-27 14:13:20,Stifel,Buy,,main,Lowers,42.0,48.0
+2023-04-27 10:49:37,Needham,Buy,,main,Lowers,34.0,48.0
+2023-04-25 14:01:50,Susquehanna,Positive,,main,Lowers,45.0,48.0
+2023-04-19 15:23:25,Stifel,Buy,,main,Lowers,48.0,50.0
+2023-03-09 15:51:24,Susquehanna,Positive,,reit,Maintains,48.0,0.0
+2023-02-03 13:06:48,Benchmark,Buy,,main,Lowers,47.0,50.0
+2023-02-02 14:38:12,Susquehanna,Positive,,main,Raises,48.0,46.0
+2023-02-02 12:18:42,Needham,Buy,,main,Lowers,48.0,50.0
+2022-10-26 11:50:13,Needham,Buy,,main,Lowers,50.0,53.0
+2022-07-20 12:58:17,Deutsche Bank,Buy,,main,Lowers,45.0,55.0
+2022-07-11 12:35:21,Wells Fargo,Overweight,,main,Lowers,50.0,66.0
+2022-05-09 11:06:34,Susquehanna,Positive,Neutral,up,Announces,60.0,0.0
+2022-04-28 11:03:50,Wells Fargo,Overweight,Equal-Weight,up,Announces,66.0,0.0
+2022-04-28 10:52:17,Needham,Buy,,main,Lowers,65.0,80.0
+2022-04-20 13:11:00,Deutsche Bank,Hold,,main,Lowers,55.0,65.0
+2022-02-03 13:33:23,Needham,Buy,,main,Raises,80.0,67.0
+2021-12-21 11:59:48,Wells Fargo,Equal-Weight,,main,Raises,70.0,55.0
+2021-10-28 10:29:00,Needham,Buy,,main,Raises,67.0,54.0
+2021-09-02 12:59:43,Roth Capital,Buy,,main,Raises,70.0,50.0
+2021-07-29 13:43:18,Needham,Buy,,main,Raises,54.0,50.0
+2021-07-29 11:22:58,Wells Fargo,Equal-Weight,,main,Raises,45.0,35.0
+2021-04-29 11:25:15,Needham,Buy,,main,Raises,50.0,45.0
+2021-02-08 12:21:04,Loop Capital,Buy,Hold,up,Announces,43.0,0.0
+2021-01-11 13:24:47,Wells Fargo,Equal-Weight,Overweight,down,,0.0,0.0
+2021-01-04 14:25:14,Roth Capital,Buy,,main,Raises,50.0,40.0
+2020-11-06 14:25:12,Roth Capital,Buy,,main,Raises,40.0,35.0
+2020-11-06 11:56:53,Needham,Buy,,main,Raises,40.0,37.0
+2020-07-24 15:14:02,Stifel,Buy,,main,Raises,32.0,29.0
+2020-07-24 10:16:24,Roth Capital,Buy,Neutral,up,Announces,30.0,0.0
+2020-07-23 13:36:34,Loop Capital,Hold,,init,Announces,27.0,0.0
+2020-07-17 13:40:05,Deutsche Bank,Hold,,main,Raises,24.0,20.0
+2020-07-07 09:20:14,Needham,Buy,,main,Raises,33.0,23.0
+2020-05-04 13:40:52,Craig-Hallum,Buy,,init,Announces,22.0,0.0
+2020-04-30 14:54:00,Susquehanna,Neutral,,main,Raises,20.0,15.0
+2020-04-30 12:59:25,Stifel,Buy,,main,Raises,22.0,19.0
+2020-04-07 16:18:22,Northland Capital Markets,Outperform,,main,Lowers,20.0,25.0
+2020-04-07 12:52:10,Wells Fargo,Overweight,Equal-Weight,up,Raises,23.0,21.0
+2020-02-06 12:21:09,Needham,Buy,,main,Lowers,23.0,24.0
+2019-12-16 14:58:02,Northland Capital Markets,Outperform,,init,Announces,25.0,0.0
+2019-11-19 12:39:09,Needham,Buy,Hold,up,,0.0,0.0
+2019-05-15 11:11:59,Wells Fargo,Market Perform,,init,,0.0,0.0
+2019-05-02 13:16:12,Needham,Hold,Buy,down,,0.0,0.0
+2019-01-04 13:04:32,JP Morgan,Neutral,,init,Announces,18.0,0.0
+2018-10-25 10:54:40,Susquehanna,Neutral,Positive,down,Lowers,18.0,21.0
+2018-07-19 11:50:10,Stifel,Buy,Buy,main,Lowers,25.0,31.0
+2018-06-11 14:19:00,Roth Capital,Neutral,Buy,down,Lowers,20.0,27.0
+2018-05-09 12:02:24,Stifel,Buy,Buy,main,Lowers,31.0,33.0
+2018-05-09 11:45:48,Deutsche Bank,Hold,Buy,down,,0.0,30.0
+2017-08-09 14:56:06,Deutsche Bank,Buy,,main,Lowers,30.0,32.0
+2017-07-21 15:28:04,Deutsche Bank,Buy,,main,Lowers,32.0,33.0
+2016-12-21 11:28:00,Susquehanna,Positive,,init,,0.0,0.0
+2016-08-10 01:57:49,Deutsche Bank,Buy,,main,Lowers,25.0,30.0
+2016-07-25 16:23:11,Deutsche Bank,Buy,,main,Raises,30.0,22.0
+2016-02-26 12:58:34,Topeka Capital,Buy,,init,,0.0,0.0
+2016-02-09 16:24:32,Stifel,Buy,,main,Raises,22.0,20.0
+2015-11-04 19:39:43,Deutsche Bank,Buy,,main,Raises,20.0,18.0
+2015-11-04 17:34:27,Stifel,Buy,,main,Raises,18.0,16.0
+2015-09-30 09:20:50,Roth Capital,Buy,,init,Announces,7.0,0.0
+2015-09-17 11:22:45,Needham,Buy,Hold,up,,0.0,0.0
+2015-07-13 15:00:00,JMP Securities,Market Outperform,,main,Raises,15.0,11.0
+2015-06-10 12:07:45,Chardan Capital,Buy,,up,Raises,15.0,0.0
+2015-06-09 12:57:39,Chardan Capital,Buy,Neutral,up,Raises,15.0,9.0
+2015-06-09 11:14:34,Deutsche Bank,Buy,,main,Raises,18.0,14.0
+2015-06-09 11:08:15,Stifel,Buy,,main,Raises,16.0,14.0
+2015-06-03 13:00:00,Stifel,Buy,,main,Raises,14.0,13.0
+2015-02-10 14:00:00,Deutsche Bank,Buy,,main,Raises,14.0,9.0
+2015-02-04 14:00:00,Stifel,Buy,,main,Raises,13.0,11.0
+2014-12-29 05:00:00,Needham,Hold,Buy,down,,0.0,0.0
+2014-10-31 13:00:00,Benchmark,Buy,,main,Lowers,11.0,13.0
+2014-09-12 13:00:00,Deutsche Bank,Buy,,main,Lowers,10.0,13.0
+2014-09-09 14:29:51,Needham,Buy,Strong Buy,down,Lowers,10.0,14.0
+2014-09-09 13:00:00,Stifel,Buy,,main,Lowers,11.0,13.0
+2013-10-31 12:28:39,Stifel,Buy,,main,Raises,12.0,10.0
+2013-10-07 10:50:49,JMP Securities,Market Outperform,Market Perform,up,Announces,11.0,0.0
+2013-09-18 11:00:00,Chardan Capital,Neutral,,init,Announces,48.0,0.0
+2013-09-06 10:43:41,Benchmark,Buy,,init,Announces,11.0,0.0
+2012-12-06 14:39:37,JMP Securities,Market Perform,,init,,0.0,0.0

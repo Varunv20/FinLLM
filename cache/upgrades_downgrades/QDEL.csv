@@ -1,0 +1,45 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-07-08 16:05:18,Citigroup,Neutral,Neutral,main,Raises,18.0,13.0
+2026-07-01 14:19:01,JP Morgan,Underweight,Underweight,main,Raises,12.0,11.0
+2026-05-07 12:26:21,Jefferies,Hold,Buy,down,Lowers,12.5,35.0
+2026-05-06 19:25:28,Citigroup,Neutral,Neutral,main,Lowers,13.0,30.0
+2026-04-10 18:07:08,UBS,Neutral,Neutral,main,Lowers,17.0,30.0
+2026-02-12 18:56:22,Citigroup,Neutral,Neutral,main,Raises,30.0,23.0
+2026-01-21 14:14:03,UBS,Neutral,Neutral,main,Raises,35.0,31.0
+2025-11-07 20:27:01,JP Morgan,Underweight,Underweight,main,Lowers,22.0,26.0
+2025-11-06 17:52:49,UBS,Neutral,Neutral,main,Raises,31.0,26.0
+2025-10-07 11:24:02,Citigroup,Neutral,Buy,down,Lowers,33.0,40.0
+2025-08-07 17:36:42,UBS,Neutral,Neutral,main,Lowers,26.0,29.0
+2025-08-06 21:55:40,Citigroup,Buy,Buy,main,Lowers,40.0,50.0
+2025-05-08 18:48:24,UBS,Neutral,Neutral,main,Lowers,29.0,45.0
+2025-05-08 16:13:49,Jefferies,Buy,Hold,up,Announces,44.0,0.0
+2025-04-21 17:19:41,JP Morgan,Underweight,Underweight,main,Lowers,25.0,38.0
+2025-02-13 16:56:09,RBC Capital,Outperform,Outperform,main,Lowers,61.0,64.0
+2025-02-13 14:38:04,UBS,Neutral,Neutral,main,Raises,45.0,43.0
+2024-12-11 12:16:31,Citigroup,Buy,Neutral,up,Raises,50.0,44.0
+2024-12-10 11:09:37,Jefferies,Hold,,init,Announces,43.0,0.0
+2024-08-16 16:00:53,RBC Capital,Outperform,Outperform,reit,Maintains,61.0,61.0
+2024-08-01 15:52:26,RBC Capital,Outperform,Outperform,reit,Maintains,61.0,61.0
+2024-05-09 17:06:11,RBC Capital,Outperform,Outperform,main,Lowers,68.0,81.0
+2024-03-04 10:59:44,UBS,Sell,Neutral,down,Lowers,42.0,70.0
+2024-02-14 17:11:00,Craig-Hallum,Hold,Buy,down,,0.0,0.0
+2024-02-14 15:39:56,RBC Capital,Outperform,Outperform,main,Lowers,81.0,130.0
+2024-02-14 13:28:00,Raymond James,Outperform,Strong Buy,down,Lowers,76.0,100.0
+2024-02-14 13:25:34,William Blair,Market Perform,Outperform,down,,0.0,0.0
+2024-02-14 12:27:40,JP Morgan,Underweight,Neutral,down,Lowers,37.0,66.0
+2023-12-21 15:04:12,RBC Capital,Outperform,Outperform,main,Lowers,130.0,140.0
+2023-12-11 12:11:18,Citigroup,Neutral,Buy,down,Lowers,72.0,95.0
+2023-11-02 16:32:29,Raymond James,Strong Buy,Strong Buy,main,Lowers,100.0,110.0
+2023-09-19 13:00:05,RBC Capital,Outperform,Outperform,reit,Maintains,140.0,0.0
+2023-08-15 11:17:09,Raymond James,Strong Buy,Strong Buy,main,Lowers,110.0,130.0
+2023-08-09 16:52:14,JP Morgan,Neutral,Neutral,main,Lowers,85.0,91.0
+2023-08-09 15:02:44,RBC Capital,Outperform,Outperform,reit,Maintains,136.0,0.0
+2023-05-04 14:47:15,RBC Capital,Outperform,,main,Raises,133.0,130.0
+2023-02-16 14:51:29,RBC Capital,Outperform,,main,Raises,136.0,125.0
+2023-02-16 12:29:20,Raymond James,Strong Buy,,main,Lowers,130.0,136.0
+2022-12-12 12:27:58,Citigroup,Buy,Neutral,up,Raises,125.0,90.0
+2022-12-07 09:43:07,RBC Capital,Outperform,,init,Announces,125.0,0.0
+2022-11-03 15:05:34,JP Morgan,Neutral,,main,Lowers,93.0,100.0
+2022-10-14 13:22:04,UBS,Neutral,Sell,up,Announces,86.0,0.0
+2022-09-19 11:41:56,Citigroup,Neutral,,init,Announces,90.0,0.0
+2022-07-20 13:37:07,UBS,Sell,,init,Announces,86.0,0.0

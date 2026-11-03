@@ -1,0 +1,62 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-08-10 12:29:40,Barrington Research,Outperform,Outperform,main,Raises,45.0,36.0
+2026-05-19 11:55:24,Benchmark,Buy,,init,Announces,36.0,0.0
+2026-04-17 17:31:03,Barrington Research,Outperform,Outperform,main,Maintains,36.0,36.0
+2026-01-23 12:53:26,Barrington Research,Outperform,Outperform,main,Raises,36.0,32.0
+2025-10-31 19:28:36,Barrington Research,Outperform,Outperform,main,Maintains,32.0,32.0
+2025-10-15 11:44:50,Barrington Research,Outperform,Outperform,main,Maintains,32.0,32.0
+2025-08-29 12:01:06,Barrington Research,Outperform,Outperform,main,Maintains,32.0,32.0
+2025-08-01 17:27:27,Barrington Research,Outperform,Outperform,main,Raises,32.0,30.0
+2025-07-22 16:26:19,Barrington Research,Outperform,Outperform,main,Maintains,30.0,30.0
+2025-05-02 20:10:43,Barrington Research,Outperform,Outperform,main,Maintains,30.0,30.0
+2025-04-15 14:51:06,Barrington Research,Outperform,Outperform,main,Maintains,30.0,30.0
+2025-02-25 22:40:17,Barrington Research,Outperform,Outperform,main,Maintains,30.0,30.0
+2025-01-28 12:57:24,Barrington Research,Outperform,Outperform,main,Maintains,30.0,30.0
+2024-12-11 14:15:02,Barrington Research,Outperform,Outperform,main,Raises,30.0,26.0
+2024-11-01 16:35:09,Barrington Research,Outperform,Outperform,main,Raises,26.0,22.0
+2024-09-20 15:17:48,Barrington Research,Outperform,Outperform,main,Maintains,22.0,22.0
+2024-08-02 21:51:53,Barrington Research,Outperform,Outperform,main,Maintains,22.0,22.0
+2024-06-17 17:55:08,Barrington Research,Outperform,Outperform,main,Maintains,22.0,22.0
+2024-05-03 20:58:21,Barrington Research,Outperform,Outperform,main,Raises,22.0,20.0
+2024-04-15 13:13:29,Barrington Research,Outperform,,init,Announces,20.0,0.0
+2024-02-28 15:09:21,Truist Securities,Hold,Hold,main,Raises,14.0,10.0
+2023-08-07 14:29:40,Truist Securities,Hold,Hold,main,Raises,10.0,8.0
+2023-05-08 13:05:03,Truist Securities,Hold,,main,Lowers,8.0,9.0
+2023-03-01 11:25:34,Longbow Research,Buy,Neutral,up,Announces,18.0,0.0
+2023-02-22 11:19:30,Truist Securities,Hold,Buy,down,Lowers,9.0,13.0
+2022-03-02 11:26:03,Raymond James,Outperform,,main,Lowers,17.0,19.0
+2021-11-08 12:24:52,Raymond James,Outperform,Market Perform,up,Announces,19.0,0.0
+2020-08-10 17:03:42,Truist Securities,Buy,,main,Lowers,10.0,11.0
+2020-05-12 13:16:30,SunTrust Robinson Humphrey,Buy,,main,Lowers,11.0,13.0
+2020-05-11 12:27:23,Nomura,Buy,,main,Raises,16.0,13.0
+2020-04-17 12:43:14,Nomura,Buy,,main,Raises,13.0,10.0
+2020-04-16 17:14:40,SunTrust Robinson Humphrey,Buy,,main,Lowers,13.0,19.0
+2020-02-27 13:23:22,Raymond James,Market Perform,Underperform,up,,0.0,0.0
+2020-02-25 14:57:47,Stifel,Hold,,main,Raises,18.0,17.0
+2019-10-28 10:37:25,Longbow Research,Neutral,Buy,down,,0.0,0.0
+2019-01-07 13:10:28,Nomura,Buy,Buy,main,Lowers,24.0,26.0
+2018-08-14 12:13:30,Longbow Research,Buy,Neutral,up,,0.0,0.0
+2017-10-27 16:15:19,Nomura,Buy,,main,Raises,28.0,24.0
+2017-04-12 12:37:59,Nomura,Buy,,init,Announces,22.0,0.0
+2016-11-04 12:16:58,Seaport Global,Buy,,init,,0.0,0.0
+2016-06-24 11:57:59,Raymond James,Underperform,Market Perform,down,,0.0,0.0
+2016-05-05 11:36:32,Longbow Research,Neutral,Buy,down,,0.0,0.0
+2016-04-27 11:09:06,Stifel,Hold,Buy,down,,0.0,0.0
+2016-04-07 08:16:10,Barclays,Underweight,Equal-Weight,down,Maintains,17.0,0.0
+2016-02-25 08:44:19,Barclays,Equal-Weight,Overweight,down,Lowers,17.0,20.0
+2016-01-20 16:04:15,Barclays,Overweight,,main,Lowers,20.0,24.0
+2015-10-30 13:45:20,Macquarie,Outperform,,main,Lowers,26.0,28.0
+2015-10-30 11:07:38,Stifel,Buy,Hold,up,,0.0,0.0
+2015-10-30 08:06:07,Barclays,Overweight,,main,Lowers,24.0,27.0
+2015-10-30 07:31:30,SunTrust Robinson Humphrey,Buy,,main,Lowers,25.0,30.0
+2015-07-31 19:56:32,Barclays,Overweight,,main,Raises,27.0,25.0
+2015-06-17 13:00:00,SunTrust Robinson Humphrey,Buy,,main,Raises,28.0,26.0
+2015-02-20 14:00:00,Barclays,Overweight,,main,Raises,21.0,18.0
+2015-01-28 11:23:21,Longbow Research,Buy,Neutral,up,Announces,22.0,0.0
+2014-10-13 20:00:00,Barclays,Overweight,Equal-weight,up,Maintains,17.0,0.0
+2014-10-08 13:00:00,Macquarie,Outperform,,main,Lowers,17.0,23.0
+2014-07-29 02:56:45,Macquarie,Outperform,,main,Lowers,23.0,26.0
+2014-07-25 23:43:41,Barclays,Equal-Weight,,main,Lowers,20.0,21.0
+2014-07-02 23:17:21,Barclays,Equal-Weight,,main,Raises,21.0,20.0
+2014-01-27 13:00:00,Barclays,Equal-Weight,Equal-Weight,main,Lowers,22.0,23.0
+2013-04-25 15:39:03,Raymond James,Market Perform,Outperform,down,,0.0,0.0

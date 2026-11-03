@@ -1,0 +1,60 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-08-28 14:52:31,Barclays,Overweight,Overweight,main,Raises,79.0,65.0
+2026-08-11 17:34:11,Truist Securities,Buy,Buy,main,Raises,94.0,90.0
+2026-05-20 13:55:36,Barclays,Overweight,Overweight,main,Lowers,65.0,70.0
+2026-04-21 14:28:44,Barclays,Overweight,Overweight,main,Lowers,70.0,86.0
+2026-01-09 16:40:40,Keybanc,Overweight,,init,Announces,92.0,0.0
+2025-12-01 15:10:35,B. Riley Securities,Buy,Buy,main,Raises,87.0,71.0
+2025-11-13 20:30:25,Barclays,Overweight,Overweight,main,Raises,86.0,79.0
+2025-11-12 18:12:14,Truist Securities,Buy,Buy,main,Raises,90.0,81.0
+2025-09-03 14:19:34,Barclays,Overweight,Overweight,main,Raises,79.0,60.0
+2025-09-03 12:38:30,Truist Securities,Buy,Buy,main,Raises,81.0,74.0
+2025-08-13 12:47:42,Raymond James,Strong Buy,Strong Buy,reit,Raises,75.0,66.0
+2025-06-13 15:11:26,B. Riley Securities,Buy,,init,Announces,69.0,0.0
+2025-04-11 12:49:23,Truist Securities,Buy,Buy,main,Lowers,74.0,88.0
+2025-03-24 12:59:24,Barclays,Overweight,Overweight,main,Lowers,60.0,74.0
+2025-03-05 16:25:21,Raymond James,Strong Buy,Outperform,up,Lowers,65.0,85.0
+2025-01-22 16:05:36,Truist Securities,Buy,Buy,reit,Lowers,88.0,94.0
+2025-01-22 12:13:56,Barclays,Overweight,Overweight,main,Lowers,74.0,85.0
+2025-01-15 17:56:01,Jefferies,Buy,Buy,main,Lowers,80.0,100.0
+2024-12-05 19:04:34,Jefferies,Buy,Buy,main,Raises,100.0,82.0
+2024-12-04 11:48:41,Barclays,Overweight,Overweight,main,Raises,85.0,79.0
+2024-11-29 18:16:09,Truist Securities,Buy,Buy,main,Raises,94.0,80.0
+2024-09-23 14:23:37,Truist Securities,Buy,Buy,main,Raises,80.0,70.0
+2024-09-19 17:14:16,Jefferies,Buy,Buy,main,Raises,80.0,75.0
+2024-09-06 12:33:53,Barclays,Overweight,Equal-Weight,up,Raises,79.0,57.0
+2024-08-08 12:16:33,Barclays,Equal-Weight,Equal-Weight,main,Raises,57.0,51.0
+2024-07-15 14:15:27,Truist Securities,Buy,Buy,main,Raises,70.0,63.0
+2024-07-11 14:45:43,Jefferies,Buy,Buy,main,Raises,75.0,61.0
+2024-07-10 23:00:44,Barclays,Equal-Weight,Equal-Weight,main,Raises,51.0,48.0
+2024-05-15 13:55:58,Truist Securities,Buy,Buy,reit,Raises,63.0,55.0
+2024-05-10 17:05:49,Raymond James,Outperform,Outperform,main,Raises,60.0,50.0
+2024-03-28 15:41:38,Truist Securities,Buy,Buy,reit,Raises,55.0,51.0
+2024-03-22 15:33:17,Jefferies,Buy,Buy,main,Raises,58.0,47.0
+2024-03-06 11:57:41,Barclays,Equal-Weight,,init,Announces,48.0,0.0
+2024-03-04 13:11:53,Truist Securities,Buy,Buy,reit,Raises,51.0,42.0
+2023-12-08 16:52:01,Truist Securities,Buy,Buy,main,Raises,42.0,40.0
+2023-08-31 10:41:32,Truist Securities,Buy,,init,Announces,40.0,0.0
+2023-06-26 08:13:01,Raymond James,Outperform,Outperform,main,Raises,40.0,35.0
+2023-05-10 11:47:27,Raymond James,Outperform,,main,Raises,35.0,30.0
+2023-03-31 13:44:25,CJS Securities,Outperform,,init,Announces,30.0,0.0
+2023-03-03 10:27:18,Raymond James,Outperform,Market Perform,up,Announces,30.0,0.0
+2021-08-12 11:34:45,Raymond James,Market Perform,Outperform,down,,0.0,0.0
+2021-08-12 09:09:54,Barclays,Overweight,,init,Announces,39.0,0.0
+2021-03-09 13:20:33,Raymond James,Outperform,,main,Raises,26.0,22.0
+2020-08-11 12:21:05,Raymond James,Outperform,,main,Raises,22.0,18.5
+2020-05-26 12:52:59,Sidoti & Co.,Buy,,main,Raises,23.0,17.0
+2020-02-21 13:51:51,Sidoti & Co.,Buy,,main,Raises,28.0,23.0
+2019-12-02 14:08:36,Sidoti & Co.,Buy,,main,Raises,23.0,20.0
+2019-11-13 14:46:51,Sidoti & Co.,Buy,,main,Raises,20.0,18.0
+2019-11-13 12:21:09,Raymond James,Outperform,,main,Raises,18.5,16.0
+2019-03-15 11:29:34,Raymond James,Outperform,Strong Buy,down,,0.0,0.0
+2018-03-14 11:27:30,Raymond James,Strong Buy,,init,Announces,15.0,0.0
+2017-08-22 10:07:58,Jefferies,Buy,Hold,up,,0.0,0.0
+2016-11-09 20:23:27,Craig-Hallum,Hold,Buy,down,,0.0,0.0
+2016-06-02 12:22:59,Sterne Agee,Neutral,,init,,0.0,0.0
+2016-04-15 13:43:10,Sidoti & Co.,Buy,,init,Announces,9.0,0.0
+2016-03-15 17:27:04,Jefferies,Hold,,main,Lowers,8.0,10.0
+2015-03-26 09:56:27,B. Riley Securities,Buy,,init,Announces,0.0,0.0
+2013-11-12 19:29:58,Jefferies,Hold,,main,Lowers,2.25,3.25
+2012-11-12 12:25:00,Deutsche Bank,Buy,,main,Lowers,6.0,6.5

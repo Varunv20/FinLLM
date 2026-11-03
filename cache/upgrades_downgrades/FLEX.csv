@@ -1,0 +1,125 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-10-29 15:03:48,Barclays,Overweight,Overweight,main,Lowers,128.0,144.0
+2026-10-27 09:55:52,B of A Securities,Buy,Buy,main,Lowers,150.0,180.0
+2026-09-28 12:12:27,Freedom Capital Markets,Buy,Buy,main,Maintains,150.0,150.0
+2026-09-08 14:02:41,Freedom Capital Markets,Buy,Buy,main,Maintains,150.0,150.0
+2026-07-30 18:39:48,Goldman Sachs,Buy,Buy,main,Lowers,154.0,177.0
+2026-07-30 10:41:40,Barclays,Overweight,Overweight,main,Lowers,144.0,203.0
+2026-06-04 13:01:52,Barclays,Overweight,Overweight,main,Raises,203.0,174.0
+2026-05-28 17:55:10,Freedom Capital Markets,Hold,,init,Announces,144.0,0.0
+2026-05-08 17:41:44,Goldman Sachs,Buy,Buy,main,Raises,177.0,84.0
+2026-05-07 16:21:33,Barclays,Overweight,Overweight,main,Raises,174.0,72.0
+2026-05-07 14:04:05,Keybanc,Overweight,Overweight,main,Raises,180.0,75.0
+2026-04-20 12:55:58,Stifel,Buy,Buy,main,Raises,95.0,75.0
+2026-04-16 19:41:49,JP Morgan,Overweight,Overweight,main,Raises,84.0,75.0
+2026-03-12 10:25:12,Baird,Outperform,,init,Announces,70.0,0.0
+2026-02-05 15:54:23,Barclays,Overweight,Overweight,main,Raises,72.0,71.0
+2026-01-14 20:34:01,Barclays,Overweight,Overweight,main,Lowers,71.0,78.0
+2025-12-09 17:05:38,Goldman Sachs,Buy,Buy,main,Raises,74.0,67.0
+2025-11-12 19:00:27,Jefferies,Hold,Hold,main,Maintains,23.0,23.0
+2025-10-30 20:55:48,JP Morgan,Overweight,Overweight,main,Raises,75.0,60.0
+2025-10-30 16:08:17,Barclays,Overweight,Overweight,main,Raises,78.0,60.0
+2025-10-30 15:34:28,Goldman Sachs,Buy,Buy,main,Raises,73.0,66.0
+2025-10-30 12:41:45,Keybanc,Overweight,Overweight,main,Raises,75.0,70.0
+2025-10-10 13:05:40,Keybanc,Overweight,Overweight,main,Raises,70.0,60.0
+2025-10-08 11:58:13,B of A Securities,Buy,Buy,main,Raises,65.0,58.0
+2025-07-25 14:41:39,Stifel,Buy,Buy,main,Raises,52.0,45.0
+2025-07-25 14:40:39,Barclays,Overweight,Overweight,main,Raises,60.0,50.0
+2025-07-17 18:21:50,JP Morgan,Overweight,Overweight,main,Raises,60.0,44.0
+2025-07-10 15:53:47,B of A Securities,Buy,Buy,main,Raises,58.0,50.0
+2025-07-02 14:49:27,Keybanc,Overweight,Overweight,main,Raises,60.0,50.0
+2025-06-09 14:36:09,B of A Securities,Buy,Buy,main,Raises,50.0,48.0
+2025-05-09 13:49:35,Keybanc,Overweight,Overweight,main,Raises,44.0,35.0
+2025-05-08 16:56:04,Barclays,Overweight,Overweight,main,Raises,50.0,49.0
+2025-04-17 13:13:21,JP Morgan,Overweight,Overweight,main,Lowers,40.0,52.0
+2025-04-10 18:00:08,Goldman Sachs,Buy,Buy,main,Lowers,41.0,53.0
+2025-04-08 15:05:35,Keybanc,Overweight,Overweight,main,Lowers,35.0,46.0
+2025-01-30 12:16:47,Barclays,Overweight,Overweight,main,Raises,49.0,43.0
+2024-12-10 16:22:05,Stifel,Buy,Buy,main,Raises,48.0,40.0
+2024-10-31 18:15:52,Barclays,Overweight,Overweight,main,Raises,43.0,39.0
+2024-10-31 13:30:40,Craig-Hallum,Buy,Buy,main,Raises,45.0,39.0
+2024-10-22 11:25:03,Keybanc,Overweight,,init,Announces,41.0,0.0
+2024-07-25 16:03:52,Craig-Hallum,Buy,Hold,up,Raises,39.0,27.0
+2024-07-25 13:57:25,Stifel,Buy,Buy,main,Raises,37.0,32.0
+2024-07-25 13:38:48,JP Morgan,Overweight,Overweight,main,Raises,42.0,40.0
+2024-07-25 12:39:48,Barclays,Overweight,Overweight,main,Raises,39.0,34.0
+2024-07-23 13:14:11,JP Morgan,Overweight,Overweight,main,Raises,40.0,34.0
+2024-05-02 16:49:53,Craig-Hallum,Hold,Buy,down,Lowers,27.0,28.0
+2024-05-02 14:59:18,Barclays,Overweight,Overweight,main,Raises,34.0,30.0
+2024-04-11 12:13:59,JP Morgan,Overweight,Overweight,main,Raises,34.0,32.0
+2024-03-04 14:27:21,Goldman Sachs,Buy,Buy,main,Raises,37.0,29.0
+2024-01-25 14:05:37,Goldman Sachs,Buy,Buy,main,Lowers,27.0,34.0
+2023-09-07 09:57:33,Barclays,Overweight,,init,Announces,35.0,0.0
+2023-07-27 13:14:02,Credit Suisse,Outperform,Outperform,main,Raises,36.0,34.0
+2023-07-24 12:21:07,Credit Suisse,Outperform,Outperform,reit,Maintains,34.0,0.0
+2023-05-11 11:57:57,Credit Suisse,Outperform,Outperform,main,Raises,34.0,30.0
+2023-01-27 15:11:03,Citigroup,Buy,,main,Raises,28.0,23.0
+2022-08-17 08:29:07,Credit Suisse,Outperform,,init,Announces,24.0,0.0
+2022-06-01 11:14:14,Goldman Sachs,Buy,,main,Lowers,21.0,24.0
+2022-05-18 11:52:24,Argus Research,Buy,Hold,up,Announces,22.0,0.0
+2021-05-06 10:37:55,Cross Research,Buy,Hold,up,Announces,22.0,0.0
+2020-12-18 12:07:47,JP Morgan,Neutral,Overweight,down,Announces,17.0,0.0
+2020-10-16 09:20:28,RBC Capital,Outperform,Sector Perform,up,Raises,16.0,12.0
+2020-07-31 11:13:41,Citigroup,Buy,,main,Raises,15.0,13.0
+2020-05-11 14:48:57,CFRA,Hold,,reit,Lowers,12.0,15.0
+2020-04-22 11:26:59,RBC Capital,Sector Perform,,init,Announces,9.0,0.0
+2020-03-10 12:20:23,Citigroup,Buy,,main,Lowers,13.0,16.0
+2020-01-03 11:46:12,Goldman Sachs,Buy,,main,Raises,14.0,13.0
+2019-06-06 10:23:13,Goldman Sachs,Buy,Neutral,up,Announces,11.0,0.0
+2019-05-29 11:05:37,JP Morgan,Overweight,Neutral,up,Announces,12.0,0.0
+2019-01-02 12:43:08,JP Morgan,Neutral,Overweight,down,Lowers,12.0,14.0
+2018-10-30 12:52:44,Argus Research,Hold,Buy,down,,0.0,0.0
+2018-10-29 10:15:21,Goldman Sachs,Neutral,Buy,down,,0.0,0.0
+2018-10-26 13:11:33,Needham,Hold,Buy,down,,0.0,0.0
+2018-06-18 17:30:45,Standpoint Research,Buy,Hold,up,,0.0,0.0
+2018-04-30 11:57:06,Citigroup,Buy,Buy,main,Lowers,16.0,20.0
+2018-04-27 12:13:00,Raymond James,Market Perform,Strong Buy,down,,0.0,0.0
+2018-04-27 11:36:52,Stifel,Buy,Buy,main,Lowers,19.0,22.0
+2018-01-26 20:06:56,Stifel,Buy,Buy,main,Raises,22.0,20.0
+2017-11-01 12:20:47,Argus Research,Buy,,main,Raises,23.0,20.0
+2017-10-30 15:32:12,Citigroup,Buy,,main,Raises,20.0,18.0
+2017-10-27 19:19:54,UBS,Buy,,main,Raises,19.75,18.0
+2017-10-27 12:39:41,Citigroup,Buy,,main,Raises,20.0,18.0
+2017-10-27 12:07:01,Stifel,Buy,,main,Raises,20.0,19.0
+2017-07-18 12:56:41,Needham,Buy,,main,Raises,19.0,17.0
+2016-10-28 04:00:00,Craig-Hallum,Hold,Buy,down,,0.0,0.0
+2016-10-05 10:04:58,Goldman Sachs,Buy,,main,Maintains,16.0,0.0
+2016-09-20 09:14:15,Goldman Sachs,Buy,Neutral,up,Raises,16.0,13.0
+2016-05-24 15:10:30,Standpoint Research,Hold,Buy,down,,0.0,0.0
+2016-04-29 10:09:40,Citigroup,Buy,,main,Raises,15.0,12.0
+2016-04-26 08:24:03,JP Morgan,Overweight,,init,Announces,15.0,0.0
+2016-01-29 11:42:53,Raymond James,Strong Buy,Market Perform,up,,0.0,0.0
+2016-01-29 11:16:27,Stifel,Buy,Hold,up,,0.0,0.0
+2016-01-29 09:45:26,B. Riley Securities,Buy,,main,Raises,0.0,0.0
+2015-12-11 11:39:08,Citigroup,Buy,Neutral,up,Raises,14.0,13.0
+2015-10-21 18:54:13,Citigroup,Neutral,,main,Raises,13.0,12.0
+2015-10-20 16:30:48,Deutsche Bank,Hold,,main,Raises,12.0,11.0
+2015-09-09 09:50:17,UBS,Buy,Neutral,up,Raises,13.0,12.0
+2015-05-01 17:12:58,Standpoint Research,Buy,Hold,up,,0.0,0.0
+2015-03-30 18:10:50,Standpoint Research,Hold,Buy,down,,0.0,0.0
+2015-03-13 10:05:27,Goldman Sachs,Neutral,Sell,up,Raises,12.0,11.0
+2014-10-14 20:00:00,Standpoint Research,Buy,,init,Announces,12.0,0.0
+2014-07-26 01:21:14,Citigroup,Neutral,,main,Raises,12.0,10.0
+2014-07-25 06:32:45,UBS,Neutral,,main,Raises,12.0,9.5
+2014-07-25 04:22:28,Deutsche Bank,Hold,,main,Raises,12.0,9.0
+2014-05-22 10:15:59,Needham,Buy,Hold,up,Announces,12.0,0.0
+2014-05-12 12:21:23,Stifel,Hold,Buy,down,,0.0,0.0
+2014-05-08 13:36:58,Argus Research,Buy,Hold,up,Maintains,0.0,0.0
+2014-05-01 04:07:21,Citigroup,Hold,,main,Raises,10.0,9.5
+2014-01-30 13:00:00,Craig-Hallum,Buy,Hold,up,Lowers,11.0,10.0
+2013-12-04 11:23:42,Goldman Sachs,Sell,Neutral,down,Lowers,7.0,8.0
+2013-10-30 11:29:39,Deutsche Bank,Hold,,main,Raises,9.0,8.0
+2013-08-13 12:21:06,Stifel,Buy,,main,Raises,10.5,9.0
+2013-07-08 12:33:22,Needham,Hold,Buy,down,Removes,0.0,8.0
+2013-05-28 11:53:11,Raymond James,Market Perform,Market Outperform,down,,0.0,0.0
+2013-05-23 10:35:22,Deutsche Bank,Hold,Buy,down,Maintains,8.0,8.0
+2013-05-21 14:54:41,Craig-Hallum,Buy,,init,Announces,11.0,0.0
+2013-04-08 11:50:25,RBC Capital,Outperform,Sector Perform,up,Raises,8.0,7.0
+2013-01-25 17:02:00,Cross Research,Hold,Buy,down,Removes,0.0,7.5
+2013-01-25 16:25:04,UBS,Neutral,Buy,down,Lowers,7.0,8.0
+2013-01-25 14:25:43,Longbow Research,Neutral,Buy,down,,0.0,0.0
+2013-01-25 13:21:00,Raymond James,Outperform,Strong Buy,down,Lowers,7.0,8.0
+2012-10-19 14:57:00,UBS,Buy,,main,Lowers,8.0,8.5
+2012-08-07 09:46:00,Goldman Sachs,Buy,Sell,up,Raises,8.0,6.0
+2012-05-15 10:44:00,B of A Securities,Buy,Neutral,up,Raises,8.5,7.5
+2012-05-02 10:42:00,B of A Securities,Neutral,Underperform,up,Raises,7.5,6.5

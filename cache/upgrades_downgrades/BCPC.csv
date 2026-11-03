@@ -1,0 +1,47 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-10-23 11:37:09,HC Wainwright & Co.,Buy,Buy,main,Lowers,210.0,215.0
+2026-08-03 10:37:50,HC Wainwright & Co.,Buy,Buy,main,Raises,215.0,190.0
+2026-05-04 11:07:33,HC Wainwright & Co.,Buy,Buy,main,Raises,5.16,5.1
+2026-02-24 11:18:54,HC Wainwright & Co.,Buy,Buy,main,Maintains,190.0,190.0
+2025-12-05 15:11:56,Rothschild & Co,Neutral,,init,Announces,162.0,0.0
+2025-10-22 11:50:17,HC Wainwright & Co.,Buy,Buy,main,Raises,190.0,189.0
+2025-08-04 12:39:53,HC Wainwright & Co.,Buy,Buy,main,Raises,189.0,180.0
+2025-04-28 17:44:50,HC Wainwright & Co.,Buy,Buy,main,Lowers,180.0,190.0
+2025-02-24 12:10:42,HC Wainwright & Co.,Buy,Buy,reit,Maintains,190.0,190.0
+2024-11-04 12:31:20,HC Wainwright & Co.,Buy,Buy,main,Raises,190.0,185.0
+2024-07-31 11:46:04,HC Wainwright & Co.,Buy,Buy,main,Raises,185.0,170.0
+2024-05-06 10:28:06,HC Wainwright & Co.,Buy,Buy,main,Raises,170.0,167.0
+2024-02-20 13:27:48,HC Wainwright & Co.,Buy,Buy,main,Raises,167.0,135.0
+2023-10-30 10:51:24,HC Wainwright & Co.,Buy,Buy,main,Lowers,135.0,165.0
+2023-07-31 10:13:13,HC Wainwright & Co.,Buy,Buy,main,Raises,165.0,150.0
+2023-06-05 10:08:01,HC Wainwright & Co.,Buy,Buy,main,Raises,150.0,140.0
+2023-02-27 11:07:13,HC Wainwright & Co.,Buy,,main,Lowers,140.0,152.0
+2022-11-07 11:39:44,HC Wainwright & Co.,Buy,,main,Lowers,152.0,164.0
+2022-08-22 10:17:25,HC Wainwright & Co.,Buy,,main,Raises,164.0,152.0
+2022-05-02 10:10:43,HC Wainwright & Co.,Buy,,main,Lowers,152.0,155.0
+2022-03-08 11:19:56,HC Wainwright & Co.,Buy,,main,Lowers,155.0,170.0
+2022-02-22 13:58:08,Sidoti & Co.,Buy,Neutral,up,Announces,175.0,0.0
+2022-01-10 11:15:56,HC Wainwright & Co.,Buy,,main,Raises,170.0,160.0
+2021-11-29 15:35:52,Sidoti & Co.,Neutral,Buy,down,Announces,175.0,0.0
+2021-08-02 11:22:10,Stephens & Co.,Equal-Weight,Overweight,down,Raises,145.0,140.0
+2021-08-02 10:34:36,HC Wainwright & Co.,Buy,,up,Raises,160.0,145.0
+2021-02-22 12:32:08,Stephens & Co.,Overweight,Equal-Weight,up,Raises,140.0,100.0
+2021-02-22 11:22:39,HC Wainwright & Co.,Buy,,main,Raises,145.0,126.0
+2020-08-04 10:13:10,HC Wainwright & Co.,Buy,,main,Raises,126.0,104.0
+2020-07-10 10:25:03,Stephens & Co.,Equal-Weight,,init,Announces,100.0,0.0
+2020-05-04 11:16:57,HC Wainwright & Co.,Buy,,main,Lowers,104.0,116.0
+2020-02-24 12:12:24,HC Wainwright & Co.,Buy,,main,Lowers,116.0,122.0
+2019-05-06 13:16:51,Pivotal Research,Hold,Buy,down,Announces,100.0,0.0
+2018-10-16 12:46:56,Sidoti & Co.,Buy,Neutral,up,Maintains,127.0,127.0
+2018-09-25 11:10:53,HC Wainwright & Co.,Buy,,init,Announces,140.0,0.0
+2018-05-07 11:39:42,Pivotal Research,Hold,Sell,up,,0.0,0.0
+2018-05-07 11:13:23,Vertical Research,Hold,Buy,down,,0.0,0.0
+2016-11-04 17:05:03,Pivotal Research,Sell,Hold,down,,0.0,0.0
+2016-03-08 14:31:52,Sidoti & Co.,Neutral,Buy,down,,0.0,0.0
+2016-02-02 14:37:39,Sidoti & Co.,Buy,Neutral,up,,0.0,0.0
+2015-06-24 13:36:26,Pivotal Research,Hold,Buy,down,,0.0,0.0
+2014-05-06 04:41:26,Piper Sandler,Overweight,,main,Lowers,73.0,81.0
+2013-05-30 20:16:26,Piper Sandler,Overweight,,init,Announces,55.0,0.0
+2013-03-07 20:00:09,Sidoti & Co.,Neutral,Buy,down,Maintains,45.0,0.0
+2013-02-22 14:32:50,DA Davidson,Buy,Underperform,up,Raises,48.0,28.0
+2012-08-01 18:23:00,DA Davidson,Underperform,,main,Raises,28.0,22.0

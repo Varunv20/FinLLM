@@ -1,0 +1,38 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-10-27 10:42:53,Truist Securities,Hold,,init,Announces,54.0,0.0
+2026-10-22 09:47:51,Mizuho,Neutral,,init,Announces,51.0,0.0
+2026-10-20 14:16:39,Wells Fargo,Equal-Weight,Equal-Weight,main,Lowers,49.0,50.0
+2026-08-06 11:20:20,Wells Fargo,Equal-Weight,Underweight,up,Announces,50.0,0.0
+2026-05-12 12:42:20,Wells Fargo,Underweight,,init,Announces,50.0,0.0
+2026-04-17 10:54:01,TD Cowen,Hold,,init,Announces,58.0,0.0
+2026-03-05 12:10:15,Stifel,Buy,Buy,main,Raises,58.0,52.0
+2025-11-12 13:04:40,Stifel,Buy,Buy,main,Raises,52.0,50.0
+2025-06-13 17:10:21,Stifel,Buy,Buy,main,Raises,49.0,45.0
+2025-05-07 13:34:16,Wells Fargo,Equal-Weight,Equal-Weight,main,Raises,47.0,45.0
+2025-03-10 08:11:22,Stifel,Buy,Buy,main,Raises,45.0,44.0
+2024-11-14 14:28:58,Stifel,Buy,Buy,main,Lowers,44.0,45.0
+2024-08-05 11:24:12,Janney Montgomery Scott,Buy,Neutral,up,Raises,43.0,36.0
+2024-05-07 12:58:43,Stifel,Buy,Buy,main,Raises,40.0,39.0
+2024-01-31 12:11:08,Janney Montgomery Scott,Neutral,,init,Announces,39.0,0.0
+2023-09-06 15:16:55,RBC Capital,Sector Perform,Sector Perform,main,Lowers,45.0,52.0
+2023-08-04 14:24:58,Wells Fargo,Equal-Weight,Equal-Weight,main,Lowers,46.0,50.0
+2023-07-07 16:43:48,Guggenheim,Neutral,Neutral,main,Lowers,42.0,45.0
+2023-05-17 14:21:52,Stifel,Buy,Buy,main,Raises,59.0,57.0
+2023-05-05 12:58:33,Maxim Group,Hold,Buy,down,,0.0,0.0
+2023-05-05 12:10:45,Wells Fargo,Equal-Weight,,main,Raises,50.0,49.0
+2023-03-10 14:45:35,RBC Capital,Sector Perform,,reit,Maintains,52.0,0.0
+2022-10-19 12:57:20,Wells Fargo,Equal-Weight,,main,Lowers,48.0,55.0
+2022-08-08 11:29:35,Wells Fargo,Equal-Weight,,main,Raises,55.0,52.0
+2022-05-24 10:51:26,B of A Securities,Neutral,Underperform,up,Announces,53.0,0.0
+2022-05-05 11:05:02,Wells Fargo,Equal-Weight,,main,Lowers,52.0,54.0
+2022-04-14 11:07:44,RBC Capital,Sector Perform,,main,Raises,50.0,49.0
+2022-02-28 12:20:28,Wells Fargo,Equal-Weight,,main,Raises,54.0,51.0
+2022-01-20 12:46:07,Guggenheim,Neutral,Sell,up,Announces,49.0,0.0
+2021-11-08 12:56:34,Wells Fargo,Equal-Weight,,main,Lowers,51.0,56.0
+2020-12-17 15:20:23,Stifel,Buy,,init,Announces,61.0,0.0
+2020-09-24 09:30:50,Wells Fargo,Equal-Weight,Underweight,up,,0.0,0.0
+2020-09-10 14:33:43,B of A Securities,Underperform,,main,Lowers,47.0,53.0
+2020-07-22 15:43:42,UBS,Neutral,Sell,up,Lowers,56.0,60.0
+2020-07-21 16:22:28,B of A Securities,Underperform,,main,Lowers,50.0,86.0
+2020-05-11 14:57:06,Wells Fargo,Underweight,,main,Lowers,60.0,63.0
+2020-04-01 15:25:57,UBS,Sell,,main,Lowers,56.0,61.0

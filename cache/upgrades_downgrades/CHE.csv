@@ -1,0 +1,59 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-10-29 19:23:42,RBC Capital,Sector Perform,Sector Perform,main,Raises,585.0,548.0
+2026-10-29 16:21:09,UBS,Buy,Buy,main,Raises,675.0,650.0
+2026-10-29 13:11:18,Oppenheimer,Outperform,Outperform,main,Raises,625.0,590.0
+2026-10-28 22:06:58,Jefferies,Buy,Hold,up,Raises,620.0,520.0
+2026-09-25 15:58:13,UBS,Buy,,init,Announces,650.0,0.0
+2026-07-31 16:07:24,Oppenheimer,Outperform,Outperform,main,Raises,590.0,500.0
+2026-07-30 17:39:07,RBC Capital,Sector Perform,Sector Perform,main,Raises,548.0,436.0
+2026-07-09 10:06:28,B of A Securities,Neutral,Neutral,main,Raises,510.0,450.0
+2026-04-27 14:49:35,RBC Capital,Sector Perform,Sector Perform,main,Raises,436.0,422.0
+2026-02-27 18:33:20,RBC Capital,Sector Perform,Outperform,down,Lowers,422.0,572.0
+2026-02-27 15:14:31,Oppenheimer,Outperform,Outperform,main,Lowers,500.0,580.0
+2026-01-22 13:12:25,Jefferies,Hold,Buy,down,Lowers,475.0,550.0
+2025-11-10 15:29:35,RBC Capital,Outperform,Outperform,main,Lowers,572.0,589.0
+2025-09-10 15:16:07,B of A Securities,Buy,Buy,main,Lowers,595.0,610.0
+2025-09-02 10:05:34,Jefferies,Buy,Hold,up,Raises,550.0,490.0
+2025-07-31 15:53:52,RBC Capital,Outperform,Outperform,main,Lowers,589.0,640.0
+2025-07-31 12:47:03,Oppenheimer,Outperform,Outperform,main,Lowers,580.0,650.0
+2025-07-25 12:25:47,Jefferies,Hold,,init,Announces,500.0,0.0
+2025-06-30 14:04:44,RBC Capital,Outperform,Outperform,main,Lowers,640.0,674.0
+2025-06-30 13:11:51,B of A Securities,Buy,Buy,main,Lowers,650.0,708.0
+2025-04-28 15:58:54,RBC Capital,Outperform,Outperform,main,Raises,674.0,667.0
+2025-03-14 15:36:02,RBC Capital,Outperform,Outperform,main,Raises,667.0,633.0
+2024-11-05 16:10:45,RBC Capital,Outperform,Outperform,main,Lowers,633.0,697.0
+2024-05-21 14:53:29,RBC Capital,Outperform,Outperform,main,Lowers,697.0,712.0
+2024-03-04 15:23:44,RBC Capital,Outperform,Outperform,main,Raises,712.0,604.0
+2024-02-29 15:36:21,Oppenheimer,Outperform,Outperform,main,Raises,650.0,625.0
+2024-01-17 15:57:01,Oppenheimer,Outperform,Outperform,main,Raises,625.0,590.0
+2023-10-30 17:22:07,RBC Capital,Outperform,Outperform,main,Raises,604.0,576.0
+2023-07-31 14:19:45,RBC Capital,Outperform,Outperform,main,Lowers,576.0,610.0
+2023-07-27 14:11:40,Oppenheimer,Outperform,Outperform,main,Lowers,590.0,610.0
+2023-05-01 13:07:50,RBC Capital,Outperform,,main,Raises,610.0,587.0
+2023-04-28 16:23:56,Oppenheimer,Outperform,,main,Raises,610.0,580.0
+2023-02-27 14:24:00,RBC Capital,Outperform,,main,Raises,587.0,545.0
+2022-11-03 13:43:36,RBC Capital,Outperform,,main,Raises,545.0,541.0
+2022-08-01 11:42:20,RBC Capital,Outperform,,main,Lowers,541.0,592.0
+2022-04-28 13:15:08,RBC Capital,Outperform,,main,Raises,592.0,579.0
+2022-03-04 13:31:07,RBC Capital,Outperform,,main,Lowers,579.0,609.0
+2021-07-29 14:52:58,RBC Capital,Outperform,,main,Raises,609.0,604.0
+2021-02-25 16:51:20,Oppenheimer,Outperform,,main,Lowers,580.0,600.0
+2020-03-11 10:40:43,RBC Capital,Outperform,Sector Perform,up,Raises,535.0,448.0
+2020-02-19 14:32:51,Oppenheimer,Outperform,,main,Raises,535.0,525.0
+2019-11-25 14:37:38,Oppenheimer,Perform,,main,Raises,470.0,440.0
+2019-11-01 10:12:36,JMP Securities,Market Outperform,Market Perform,up,Announces,490.0,0.0
+2019-02-25 14:37:27,RBC Capital,Sector Perform,Sector Perform,main,Raises,318.0,313.0
+2018-10-12 11:25:20,B of A Securities,Buy,,init,Announces,390.0,0.0
+2017-10-27 17:25:13,Oppenheimer,Outperform,,main,Raises,225.0,220.0
+2017-08-28 09:58:48,Keybanc,Sector Weight,,init,,0.0,0.0
+2015-09-22 10:42:20,Oppenheimer,Outperform,,main,Raises,150.0,147.0
+2015-04-29 13:00:00,Oppenheimer,Outperform,,main,Raises,130.0,123.0
+2014-05-01 04:27:19,Deutsche Bank,Hold,,main,Raises,75.0,74.0
+2013-10-30 11:27:31,Deutsche Bank,Hold,,main,Raises,64.0,63.0
+2013-09-10 11:37:50,Deutsche Bank,Hold,,main,Lowers,63.0,70.0
+2013-07-19 13:34:01,CL King,Neutral,Buy,down,,0.0,0.0
+2013-06-11 14:39:52,Oppenheimer,Outperform,,main,Lowers,85.0,91.0
+2013-04-19 12:18:43,Deutsche Bank,Hold,,main,Raises,80.0,75.0
+2012-10-31 15:05:00,CL King,Buy,Strong Buy,down,,0.0,0.0
+2012-10-31 12:21:00,Deutsche Bank,Hold,,main,Raises,70.0,67.0
+2012-10-03 10:47:00,Oppenheimer,Outperform,,main,Raises,80.0,75.0

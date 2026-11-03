@@ -1,0 +1,56 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-10-27 17:03:06,Stephens & Co.,Equal-Weight,Equal-Weight,main,Lowers,205.0,215.0
+2026-10-27 15:44:04,DA Davidson,Neutral,Neutral,main,Lowers,203.0,212.0
+2026-10-27 11:01:31,Baird,Outperform,Outperform,main,Raises,210.0,205.0
+2026-10-26 16:45:42,Stifel,Buy,Buy,main,Lowers,210.0,218.0
+2026-08-03 12:05:03,Stifel,Buy,Buy,main,Raises,218.0,217.0
+2026-07-28 12:26:45,Stephens & Co.,Equal-Weight,Equal-Weight,main,Raises,215.0,210.0
+2026-04-28 15:08:27,DA Davidson,Neutral,Neutral,main,Raises,212.0,200.0
+2026-04-28 13:15:00,Stephens & Co.,Equal-Weight,Equal-Weight,main,Raises,210.0,200.0
+2026-04-28 12:01:01,Stifel,Buy,Buy,main,Raises,217.0,205.0
+2026-04-28 11:16:47,Baird,Outperform,Outperform,main,Raises,220.0,216.0
+2026-04-21 10:41:47,Baird,Outperform,Outperform,main,Lowers,216.0,222.0
+2026-04-21 09:50:59,Stifel,Buy,,init,Announces,205.0,0.0
+2026-02-11 17:57:18,DA Davidson,Neutral,Neutral,main,Raises,200.0,190.0
+2025-10-28 19:20:33,DA Davidson,Neutral,Neutral,main,Maintains,190.0,190.0
+2025-10-28 12:16:39,Baird,Outperform,Outperform,main,Raises,212.0,190.0
+2025-09-25 13:59:32,DA Davidson,Neutral,Neutral,main,Raises,190.0,185.0
+2025-07-29 17:26:18,DA Davidson,Neutral,Neutral,main,Raises,185.0,180.0
+2025-03-11 11:37:13,DA Davidson,Neutral,Neutral,main,Lowers,185.0,195.0
+2025-02-11 13:19:27,Baird,Outperform,Outperform,main,Lowers,192.0,196.0
+2024-10-21 11:34:34,Baird,Outperform,Outperform,main,Raises,218.0,202.0
+2024-04-23 10:34:32,Baird,Outperform,Outperform,main,Lowers,208.0,215.0
+2024-04-19 15:49:54,Baird,Outperform,Outperform,main,Raises,215.0,205.0
+2024-04-18 15:43:42,Baird,Outperform,Outperform,main,Raises,215.0,205.0
+2024-02-06 18:21:53,Baird,Outperform,Outperform,main,Raises,205.0,198.0
+2023-07-25 16:22:57,DA Davidson,Neutral,Neutral,main,Raises,175.0,135.0
+2023-04-25 12:28:06,DA Davidson,Neutral,,main,Raises,135.0,120.0
+2023-04-25 11:09:30,Baird,Outperform,,main,Raises,140.0,125.0
+2023-02-07 15:02:59,DA Davidson,Neutral,,main,Raises,120.0,90.0
+2023-02-07 12:33:13,Baird,Outperform,,main,Raises,125.0,114.0
+2022-10-25 13:21:16,DA Davidson,Neutral,,main,Lowers,90.0,123.0
+2022-02-08 15:05:38,CJS Securities,Market Outperform,Market Perform,up,,0.0,0.0
+2022-02-08 13:58:58,Sidoti & Co.,Buy,Neutral,up,Announces,152.0,0.0
+2021-02-09 17:19:46,DA Davidson,Neutral,,main,Raises,106.0,98.0
+2020-10-15 09:50:48,Baird,Outperform,Neutral,up,Announces,112.0,0.0
+2020-07-28 11:57:18,DA Davidson,Neutral,Buy,down,Raises,98.0,79.0
+2020-04-28 15:43:01,Baird,Neutral,,main,Raises,65.0,60.0
+2020-04-28 11:12:24,DA Davidson,Buy,Neutral,up,,0.0,0.0
+2020-02-04 13:48:41,Baird,Neutral,,main,Lowers,85.0,88.0
+2019-07-30 12:55:38,Sidoti & Co.,Neutral,Buy,down,Lowers,60.0,72.0
+2018-10-15 11:54:07,Baird,Neutral,Outperform,down,Lowers,72.0,75.0
+2018-08-10 13:25:46,Sidoti & Co.,Buy,Buy,main,Raises,82.0,75.0
+2018-07-31 14:10:48,Sidoti & Co.,Buy,Neutral,up,,0.0,0.0
+2017-10-31 12:25:30,Baird,Outperform,Neutral,up,,0.0,0.0
+2017-10-31 11:20:31,DA Davidson,Buy,Neutral,up,,0.0,0.0
+2016-09-09 13:58:26,Sidoti & Co.,Neutral,,init,,0.0,0.0
+2015-04-06 11:15:57,DA Davidson,Neutral,Buy,down,,0.0,0.0
+2014-10-28 13:00:00,FBR Capital,Market Perform,,main,Lowers,35.0,38.0
+2014-04-28 11:30:54,DA Davidson,Buy,Neutral,up,,0.0,0.0
+2014-04-25 12:00:00,DA Davidson,Buy,Neutral,up,,0.0,0.0
+2013-09-27 12:10:22,FBR Capital,Market Perform,,init,Announces,36.0,0.0
+2013-04-29 11:58:39,DA Davidson,Neutral,Buy,down,,0.0,0.0
+2013-01-14 13:07:45,DA Davidson,Neutral,Buy,down,,0.0,0.0
+2013-01-11 13:16:49,Longbow Research,Neutral,Buy,down,,0.0,0.0
+2012-07-30 12:08:00,DA Davidson,Buy,,main,Lowers,35.0,37.5
+2012-03-08 15:43:00,DA Davidson,Buy,Neutral,up,Maintains,34.5,0.0

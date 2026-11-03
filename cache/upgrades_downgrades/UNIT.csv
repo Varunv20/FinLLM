@@ -1,0 +1,67 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-07-31 18:38:15,JP Morgan,Neutral,Neutral,main,Lowers,11.0,12.0
+2026-07-31 17:19:14,TD Cowen,Buy,Buy,main,Lowers,11.0,12.0
+2026-07-01 10:12:56,Barclays,Equal-Weight,Equal-Weight,main,Raises,13.0,11.0
+2026-05-19 14:46:27,Citigroup,Neutral,Neutral,main,Raises,11.75,9.0
+2026-05-12 15:25:44,TD Cowen,Buy,Buy,main,Raises,12.0,10.0
+2026-05-12 15:04:52,JP Morgan,Neutral,Neutral,main,Raises,12.0,8.0
+2026-05-12 13:28:55,Wells Fargo,Equal-Weight,Equal-Weight,main,Raises,9.0,8.0
+2026-04-16 14:35:47,Barclays,Equal-Weight,Equal-Weight,main,Raises,11.0,8.0
+2026-04-13 14:15:54,RBC Capital,Sector Perform,Sector Perform,main,Raises,7.5,6.5
+2026-03-09 15:03:55,Citigroup,Neutral,Neutral,main,Raises,9.0,8.8
+2026-03-05 16:41:01,Wells Fargo,Equal-Weight,Equal-Weight,main,Raises,8.0,7.0
+2025-11-07 19:06:28,Wells Fargo,Equal-Weight,Equal-Weight,main,Lowers,7.0,7.5
+2025-08-07 15:02:18,Wells Fargo,Equal-Weight,Equal-Weight,main,Raises,7.5,4.5
+2025-05-08 13:55:13,Wells Fargo,Equal-Weight,Equal-Weight,main,Lowers,4.5,5.0
+2025-02-24 14:24:57,Raymond James,Strong Buy,Outperform,up,Raises,8.0,6.0
+2024-12-23 13:57:00,RBC Capital,Sector Perform,Sector Perform,main,Raises,6.0,5.5
+2024-08-29 13:59:06,RBC Capital,Sector Perform,Sector Perform,reit,Maintains,5.5,5.5
+2024-05-06 17:24:27,Raymond James,Outperform,Strong Buy,down,Lowers,6.0,8.0
+2024-03-25 14:28:58,RBC Capital,Sector Perform,Sector Perform,reit,Maintains,5.5,5.5
+2024-03-01 13:39:26,TD Cowen,Outperform,Outperform,main,Raises,10.0,9.0
+2023-11-07 18:38:47,B of A Securities,Underperform,Neutral,down,Lowers,3.5,5.0
+2023-08-21 12:15:34,RBC Capital,Sector Perform,Sector Perform,reit,Maintains,5.0,0.0
+2023-06-01 11:55:28,Morgan Stanley,Underweight,Underweight,main,Lowers,6.0,7.0
+2023-05-12 13:44:07,RBC Capital,Sector Perform,Sector Perform,main,Lowers,5.0,7.0
+2023-05-05 14:57:04,Goldman Sachs,Neutral,,main,Lowers,3.0,6.0
+2023-05-05 11:02:17,Barclays,Equal-Weight,,main,Lowers,4.0,8.0
+2023-03-01 12:22:15,Raymond James,Strong Buy,,main,Lowers,8.0,12.0
+2023-02-28 13:55:14,Goldman Sachs,Neutral,,main,Lowers,6.0,7.0
+2023-02-27 13:02:48,Cowen & Co.,Outperform,,main,Lowers,9.0,15.0
+2023-02-27 12:31:26,Goldman Sachs,Neutral,,main,Lowers,6.0,7.0
+2023-02-27 11:42:32,Barclays,Equal-Weight,,main,Lowers,8.0,9.0
+2023-02-22 14:12:20,RBC Capital,Sector Perform,,main,Lowers,7.0,10.0
+2023-02-07 14:39:34,Morgan Stanley,Underweight,,main,Lowers,7.0,8.0
+2023-02-01 14:43:57,Citigroup,Neutral,,main,Lowers,7.25,9.0
+2022-11-07 13:45:30,Goldman Sachs,Neutral,,main,Lowers,8.0,9.0
+2022-10-24 13:46:33,Morgan Stanley,Underweight,,main,Lowers,8.0,10.0
+2022-10-20 12:56:49,RBC Capital,Sector Perform,,main,Lowers,10.0,14.0
+2022-05-17 12:22:53,Morgan Stanley,Underweight,,main,Lowers,10.0,11.0
+2021-04-27 11:55:59,Morgan Stanley,Underweight,,main,Raises,9.5,6.0
+2020-11-16 14:19:44,Citigroup,Neutral,Sell,up,Raises,10.0,6.0
+2020-11-10 13:25:09,Raymond James,Strong Buy,,main,Raises,16.0,15.0
+2020-08-12 09:31:54,Wells Fargo,Equal-Weight,Underweight,up,Raises,10.0,5.5
+2020-08-11 12:22:53,Raymond James,Strong Buy,,main,Raises,15.0,13.0
+2020-07-16 12:02:26,Morgan Stanley,Underweight,,main,Lowers,6.0,7.0
+2020-07-15 11:18:51,Barclays,Equal-Weight,,init,Announces,10.0,0.0
+2020-05-12 11:03:54,Raymond James,Strong Buy,Outperform,up,,0.0,0.0
+2020-03-03 09:52:16,Raymond James,Outperform,Market Perform,up,Announces,13.0,0.0
+2020-03-02 18:06:54,Cowen & Co.,Outperform,Market Perform,up,Raises,13.0,11.0
+2019-03-22 13:17:23,Deutsche Bank,Hold,Hold,main,Lowers,8.0,20.0
+2019-03-05 11:30:32,Wells Fargo,Underperform,Market Perform,down,,0.0,0.0
+2019-02-26 14:24:48,Morgan Stanley,Underweight,Underweight,reit,Lowers,7.0,16.0
+2019-02-20 11:42:32,RBC Capital,Sector Perform,Outperform,down,Lowers,15.0,22.0
+2019-02-19 14:21:49,JP Morgan,Underweight,Neutral,down,Lowers,16.0,23.0
+2019-02-19 13:04:48,Raymond James,Market Perform,Strong Buy,down,,0.0,0.0
+2019-02-19 12:14:14,Cowen & Co.,Market Perform,Outperform,down,,0.0,0.0
+2019-01-08 12:13:13,Wells Fargo,Market Perform,Outperform,down,Lowers,17.0,23.0
+2018-12-12 10:51:15,Morgan Stanley,Underweight,Equal-Weight,down,Lowers,16.0,24.0
+2018-07-18 11:16:34,Citigroup,Sell,Neutral,down,,0.0,27.0
+2018-06-14 11:18:13,Morgan Stanley,Equal-Weight,Overweight,down,Raises,24.0,20.0
+2018-05-14 10:42:43,Deutsche Bank,Hold,Buy,down,,0.0,28.0
+2017-10-03 11:54:46,JP Morgan,Neutral,Overweight,down,,0.0,0.0
+2017-10-02 10:34:52,JP Morgan,Neutral,Overweight,down,,0.0,0.0
+2017-08-15 11:14:03,B of A Securities,Neutral,Buy,down,,0.0,0.0
+2017-08-07 17:45:40,Citigroup,Buy,,main,Lowers,27.0,30.0
+2017-06-19 11:42:56,RBC Capital,Outperform,,init,Announces,32.0,0.0
+2017-05-22 11:23:23,Deutsche Bank,Buy,,init,Announces,28.0,0.0

@@ -1,0 +1,66 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-08-05 11:57:19,BMO Capital,Outperform,Outperform,main,Raises,90.0,75.0
+2026-05-07 14:33:51,Benchmark,Buy,Buy,main,Raises,90.0,75.0
+2026-02-19 12:47:29,BMO Capital,Outperform,Outperform,main,Raises,75.0,65.0
+2026-02-05 13:40:13,Benchmark,Buy,,init,Announces,75.0,0.0
+2025-12-10 11:39:28,BMO Capital,Outperform,Market Perform,up,Raises,65.0,50.0
+2025-11-06 13:22:53,BMO Capital,Market Perform,Market Perform,main,Raises,50.0,45.0
+2025-05-08 17:43:46,Lake Street,Buy,Buy,main,Lowers,55.0,70.0
+2025-05-06 12:59:00,BMO Capital,Market Perform,,init,Announces,45.0,0.0
+2025-02-19 14:29:48,Stephens & Co.,Overweight,Overweight,reit,Maintains,55.0,55.0
+2025-01-02 12:07:58,Stephens & Co.,Overweight,Overweight,reit,Maintains,60.0,60.0
+2024-02-06 08:52:31,Roth Capital,Buy,,reit,Maintains,65.0,0.0
+2023-08-03 19:54:18,Roth MKM,Buy,Buy,main,Raises,65.0,55.0
+2023-08-03 19:38:54,Lake Street,Buy,Buy,main,Raises,60.0,50.0
+2023-08-03 13:05:46,Stephens & Co.,Overweight,Overweight,main,Raises,60.0,55.0
+2023-06-22 08:33:03,Roth MKM,Buy,,init,Announces,55.0,0.0
+2023-05-03 12:49:32,Stephens & Co.,Overweight,,reit,Maintains,55.0,0.0
+2023-02-16 14:00:29,Stephens & Co.,Overweight,,main,Raises,55.0,45.0
+2022-03-25 13:07:37,Lake Street,Buy,,main,Raises,60.0,50.0
+2021-11-04 11:00:03,Stephens & Co.,Overweight,Equal-Weight,up,Raises,48.0,36.0
+2021-10-20 15:54:04,Lake Street,Buy,,init,Announces,42.0,0.0
+2021-08-18 11:13:45,Seaport Global,Buy,Neutral,up,Announces,45.0,0.0
+2021-02-18 14:32:18,Seaport Global,Neutral,Buy,down,,0.0,0.0
+2021-01-11 10:50:10,BMO Capital,Market Perform,Outperform,down,Raises,26.0,24.0
+2020-09-24 11:43:13,Seaport Global,Buy,Neutral,up,Announces,26.0,0.0
+2020-09-14 11:57:12,BMO Capital,Outperform,Market Perform,up,Raises,24.0,20.0
+2020-08-26 11:09:12,National Securities Corporation,Buy,,init,Announces,24.0,0.0
+2020-08-06 15:14:41,BMO Capital,Market Perform,,main,Raises,20.0,15.0
+2020-07-28 10:52:05,Seaport Global,Neutral,,init,,0.0,0.0
+2020-02-20 13:18:32,Buckingham Research,Neutral,,main,Lowers,22.0,23.0
+2019-11-07 15:13:04,BMO Capital,Market Perform,,main,Lowers,28.0,34.0
+2019-11-07 13:51:12,Buckingham Research,Neutral,,main,Lowers,23.0,27.0
+2019-10-08 11:20:26,Stephens & Co.,Equal-Weight,,init,Announces,21.0,0.0
+2018-08-09 12:17:06,Buckingham Research,Neutral,Neutral,main,Raises,40.0,35.0
+2018-08-09 11:58:06,BMO Capital,Market Perform,Market Perform,main,Raises,40.0,36.0
+2018-08-08 11:19:14,Stephens & Co.,Overweight,Equal-Weight,up,,0.0,0.0
+2018-05-09 13:58:02,BMO Capital,Market Perform,Market Perform,main,Lowers,36.0,38.0
+2017-11-08 14:05:46,BMO Capital,Market Perform,,main,Lowers,34.0,39.0
+2017-11-08 12:44:39,Buckingham Research,Neutral,Buy,down,,0.0,0.0
+2017-08-07 11:33:46,Stephens & Co.,Equal-Weight,Overweight,down,,0.0,0.0
+2016-09-26 12:05:09,Buckingham Research,Buy,Neutral,up,,0.0,0.0
+2016-05-18 13:29:47,Stephens & Co.,Overweight,Equal-Weight,up,,0.0,0.0
+2015-10-19 13:32:05,Buckingham Research,Neutral,,init,Announces,39.0,0.0
+2015-07-07 13:21:56,Vertical Research,Buy,,init,Announces,47.0,0.0
+2015-01-08 10:24:08,BMO Capital,Market Perform,Outperform,down,Lowers,56.0,62.0
+2014-10-06 14:00:00,Janney Montgomery Scott,Buy,Neutral,up,Maintains,68.0,0.0
+2014-08-08 20:00:00,BMO Capital,Outperform,,main,Raises,65.0,56.0
+2014-08-08 11:47:05,Feltl & Co.,Buy,Hold,up,,0.0,0.0
+2014-06-04 12:41:09,Macquarie,Outperform,Neutral,up,Maintains,58.0,0.0
+2014-05-28 10:11:54,BMO Capital,Outperform,Market Perform,up,Raises,56.0,55.0
+2014-05-09 14:01:39,Feltl & Co.,Hold,Buy,down,Lowers,51.0,0.0
+2014-02-06 12:00:00,Stephens & Co.,Overweight,Equal-Weight,up,,0.0,0.0
+2014-01-10 11:42:14,Stifel,Hold,,init,,0.0,0.0
+2013-12-17 21:00:00,Macquarie,Neutral,,init,,0.0,0.0
+2013-09-06 11:40:49,BB&T Capital,Hold,Buy,down,Removes,0.0,72.0
+2013-04-11 16:08:21,Stephens & Co.,Equal-Weight,Overweight,down,Maintains,55.0,0.0
+2013-02-08 13:20:07,BMO Capital,Market Perform,,main,Raises,52.0,40.0
+2012-12-11 16:10:50,BB&T Capital,Buy,Hold,up,,0.0,0.0
+2012-11-07 16:37:00,Feltl & Co.,Buy,,main,Raises,48.75,47.6
+2012-08-06 16:18:00,Topeka Capital,Hold,,main,Lowers,39.0,43.0
+2012-08-06 12:42:00,Feltl & Co.,Buy,,main,Lowers,42.5,52.82
+2012-08-03 19:01:00,Piper Sandler,Neutral,,main,Lowers,46.0,52.0
+2012-05-10 12:53:00,Scotiabank,Sector Perform,,main,Raises,52.0,50.0
+2012-05-08 17:57:00,Feltl & Co.,Buy,Strong Buy,down,Maintains,52.82,0.0
+2012-04-05 11:07:00,Piper Sandler,Neutral,,main,Raises,50.0,45.0
+2012-03-01 12:24:00,BMO Capital,Market Perform,,init,Announces,49.0,0.0

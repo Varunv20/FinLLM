@@ -1,0 +1,107 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-10-30 22:14:35,JP Morgan,Underweight,Underweight,main,Raises,50.0,40.0
+2026-08-10 10:21:00,Barclays,Equal-Weight,Equal-Weight,main,Raises,60.0,55.0
+2026-05-08 14:32:00,Barclays,Equal-Weight,Equal-Weight,main,Raises,55.0,50.0
+2026-02-20 15:03:54,Barclays,Equal-Weight,Equal-Weight,main,Lowers,50.0,56.0
+2026-02-18 16:14:23,JP Morgan,Underweight,Underweight,main,Lowers,40.0,55.0
+2025-11-07 15:03:31,Barclays,Equal-Weight,Equal-Weight,main,Lowers,56.0,60.0
+2025-05-09 16:07:59,Raymond James,Strong Buy,Strong Buy,main,Lowers,80.0,85.0
+2025-04-17 17:26:04,Goldman Sachs,Neutral,Neutral,main,Lowers,58.0,66.0
+2025-04-14 14:07:24,Barclays,Equal-Weight,Equal-Weight,main,Lowers,60.0,67.0
+2024-11-08 17:56:22,Barclays,Equal-Weight,Equal-Weight,main,Raises,67.0,60.0
+2024-11-08 10:51:46,Goldman Sachs,Neutral,Neutral,main,Raises,67.0,64.0
+2024-11-05 12:01:39,Jefferies,Buy,,init,Announces,65.0,0.0
+2024-10-09 13:09:56,Roth MKM,Buy,Buy,main,Lowers,73.0,78.0
+2024-10-07 18:19:20,Barclays,Equal-Weight,Equal-Weight,main,Lowers,60.0,72.0
+2024-09-06 11:42:24,Goldman Sachs,Neutral,,init,Announces,64.0,0.0
+2024-07-11 16:07:42,Barclays,Equal-Weight,Equal-Weight,main,Lowers,72.0,78.0
+2024-02-23 17:11:50,JP Morgan,Neutral,Neutral,main,Raises,70.0,62.0
+2024-02-23 14:44:06,Barclays,Equal-Weight,Equal-Weight,main,Raises,78.0,66.0
+2024-01-12 13:03:58,JP Morgan,Neutral,Neutral,main,Raises,62.0,55.0
+2024-01-04 13:25:10,Barclays,Equal-Weight,Equal-Weight,main,Raises,66.0,62.0
+2024-01-03 14:16:48,Roth MKM,Buy,Buy,main,Raises,70.0,67.0
+2023-09-19 13:15:32,Roth MKM,Buy,Buy,main,Raises,67.0,61.0
+2023-08-11 18:28:43,Northland Capital Markets,Outperform,Outperform,main,Raises,64.0,60.0
+2023-08-10 13:34:00,MKM Partners,Buy,Buy,main,Raises,61.0,59.0
+2023-08-10 13:31:47,Raymond James,Strong Buy,Strong Buy,main,Raises,70.0,65.0
+2023-08-10 11:21:23,Barclays,Equal-Weight,Equal-Weight,main,Raises,61.0,57.0
+2023-07-14 14:28:40,Barclays,Equal-Weight,Equal-Weight,main,Raises,57.0,54.0
+2023-05-11 09:40:32,Barclays,Equal-Weight,Equal-Weight,main,Raises,54.0,52.0
+2022-11-09 12:33:14,Barclays,Equal-Weight,,main,Lowers,52.0,61.0
+2022-11-09 12:23:40,Raymond James,Strong Buy,,main,Lowers,65.0,83.0
+2022-11-08 12:34:02,Barclays,Equal-Weight,,main,Lowers,61.0,70.0
+2022-08-11 14:13:35,Maxim Group,Buy,,main,Raises,90.0,84.0
+2022-08-10 12:14:48,Barclays,Equal-Weight,,main,Raises,75.0,63.0
+2022-08-10 11:39:18,Roth Capital,Buy,,main,Raises,81.0,75.0
+2022-08-10 11:28:05,Raymond James,Strong Buy,,main,Raises,83.0,80.0
+2022-05-09 11:11:07,Barclays,Equal-Weight,,main,Lowers,63.0,70.0
+2022-05-06 11:38:45,Raymond James,Strong Buy,,main,Lowers,80.0,85.0
+2022-04-20 11:46:07,B of A Securities,Buy,,init,Announces,75.0,0.0
+2022-04-12 10:46:39,Barclays,Equal-Weight,,main,Lowers,70.0,77.0
+2022-02-28 12:35:56,Barclays,Equal-Weight,,main,Lowers,77.0,90.0
+2022-02-25 12:28:59,Raymond James,Strong Buy,,main,Lowers,85.0,120.0
+2022-01-19 13:01:11,Barclays,Equal-Weight,,main,Lowers,90.0,105.0
+2021-12-28 14:51:11,Roth Capital,Buy,,main,Lowers,105.0,120.0
+2021-08-06 16:04:36,Raymond James,Strong Buy,,main,Raises,120.0,115.0
+2021-08-06 13:00:46,Roth Capital,Buy,,main,Raises,115.0,110.0
+2021-08-06 11:31:10,Barclays,Equal-Weight,,main,Raises,105.0,100.0
+2021-07-12 10:19:25,Barclays,Equal-Weight,,init,Announces,100.0,0.0
+2021-04-08 10:33:26,Imperial Capital,Outperform,In-Line,up,Announces,105.0,0.0
+2021-04-06 11:06:43,JP Morgan,Neutral,,init,Announces,100.0,0.0
+2021-02-26 12:52:02,Raymond James,Strong Buy,,main,Raises,115.0,75.0
+2020-11-06 17:42:11,Credit Suisse,Outperform,,main,Raises,67.0,64.0
+2020-11-06 14:22:26,Roth Capital,Buy,,main,Raises,75.0,65.0
+2020-11-06 14:13:24,Raymond James,Strong Buy,,main,Raises,75.0,70.0
+2020-09-30 11:46:36,Roth Capital,Buy,Neutral,up,Announces,65.0,0.0
+2020-08-06 13:44:14,Stifel,Hold,,main,Raises,55.0,50.0
+2020-08-06 13:15:54,Credit Suisse,Outperform,,main,Raises,64.0,62.0
+2020-08-06 11:49:12,Raymond James,Strong Buy,,main,Raises,70.0,55.0
+2020-05-06 11:19:13,Raymond James,Strong Buy,,main,Lowers,55.0,65.0
+2020-02-27 11:19:17,Imperial Capital,Outperform,,main,Raises,59.0,57.0
+2020-01-27 10:50:08,Imperial Capital,Outperform,In-Line,up,Raises,57.0,51.0
+2019-11-07 11:20:54,Imperial Capital,In-Line,,main,Lowers,51.0,58.0
+2019-11-06 13:25:08,Credit Suisse,Outperform,,main,Raises,64.0,62.0
+2019-11-06 12:48:29,Raymond James,Strong Buy,,main,Lowers,65.0,77.0
+2019-10-21 10:43:24,First Analysis,Strong Buy,Outperform,up,,0.0,0.0
+2019-08-09 11:57:51,Credit Suisse,Outperform,,main,Lowers,62.0,70.0
+2019-05-13 10:35:22,Jefferies,Hold,Buy,down,Lowers,66.0,71.0
+2019-05-10 11:00:21,First Analysis,Outperform,Strong Buy,down,Raises,75.0,70.0
+2019-04-29 10:36:52,Roth Capital,Neutral,Buy,down,,0.0,0.0
+2019-03-04 11:09:52,Imperial Capital,In-Line,Outperform,down,Raises,61.0,58.0
+2019-03-01 14:55:24,Raymond James,Strong Buy,Strong Buy,main,Raises,70.0,58.0
+2018-11-13 10:43:33,Imperial Capital,Outperform,In-Line,up,Lowers,58.0,60.0
+2018-11-08 17:08:46,Raymond James,Strong Buy,Strong Buy,main,Raises,58.0,55.0
+2018-09-14 14:27:57,B of A Securities,Buy,Buy,main,Raises,65.0,55.0
+2018-08-23 17:14:21,Imperial Capital,In-Line,Outperform,down,Raises,60.0,45.0
+2018-08-08 13:06:23,Credit Suisse,Outperform,Outperform,main,Raises,57.0,52.0
+2018-08-08 10:43:59,Stifel,Hold,Hold,main,Raises,45.0,38.0
+2018-06-25 12:45:11,Raymond James,Strong Buy,Outperform,up,,0.0,48.0
+2018-06-20 12:39:14,Goldman Sachs,Sell,Neutral,down,,0.0,30.0
+2018-02-16 12:05:04,Imperial Capital,Outperform,In-Line,up,,0.0,0.0
+2018-01-18 11:11:06,Jefferies,Buy,Hold,up,,0.0,43.0
+2017-11-09 13:59:59,Credit Suisse,Outperform,,main,Raises,52.0,46.0
+2017-10-25 16:09:46,B of A Securities,Buy,,main,Raises,55.0,46.0
+2017-10-24 15:03:38,B of A Securities,Buy,,main,Raises,55.0,46.0
+2017-10-06 10:38:38,Jefferies,Hold,,init,Announces,43.0,0.0
+2017-08-10 10:17:28,Imperial Capital,In-Line,Outperform,down,,0.0,36.0
+2017-08-09 17:05:08,B of A Securities,Buy,,main,Raises,46.0,39.0
+2017-05-11 10:07:41,Imperial Capital,Outperform,,main,Raises,36.0,35.0
+2017-03-17 10:10:51,Imperial Capital,Outperform,In-Line,up,Raises,35.0,30.0
+2016-12-01 10:18:14,Maxim Group,Buy,,init,Announces,37.0,0.0
+2016-08-16 11:24:46,Raymond James,Market Perform,Outperform,down,,0.0,0.0
+2016-08-16 08:22:15,Goldman Sachs,Buy,,main,Raises,30.0,24.0
+2016-07-08 12:57:05,First Analysis,Overweight,,init,,0.0,0.0
+2016-06-24 15:28:39,B of A Securities,Buy,,main,Raises,28.0,25.0
+2016-06-21 08:00:54,Imperial Capital,In-Line,Outperform,down,Maintains,24.5,0.0
+2016-06-16 08:46:10,Imperial Capital,Outperform,Outperform,main,Maintains,24.5,24.5
+2016-06-15 20:32:05,BB&T Capital,Buy,,init,Announces,27.0,0.0
+2016-04-01 11:03:11,Stifel,Neutral,Buy,down,,0.0,0.0
+2016-03-15 07:53:00,Imperial Capital,Outperform,,main,Raises,24.5,23.0
+2016-03-14 16:03:50,Imperial Capital,Outperform,,main,Raises,24.5,23.0
+2016-02-26 13:18:48,Stifel,Buy,,main,Raises,23.0,22.0
+2015-07-22 07:55:24,Imperial Capital,Outperform,,init,Announces,23.0,0.0
+2015-07-21 12:04:16,Credit Suisse,Outperform,,init,Announces,22.0,0.0
+2015-07-21 11:41:05,William Blair,Outperform,,init,,0.0,0.0
+2015-07-21 11:38:38,Goldman Sachs,Neutral,,init,Announces,18.0,0.0
+2015-07-21 11:20:07,Stifel,Buy,,init,Announces,22.0,0.0
+2015-07-21 11:18:36,Raymond James,Outperform,,init,Announces,21.0,0.0

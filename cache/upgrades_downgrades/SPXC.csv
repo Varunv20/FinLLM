@@ -1,0 +1,50 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-11-02 16:55:56,Oppenheimer,Outperform,Outperform,main,Lowers,260.0,265.0
+2026-11-02 16:10:39,Truist Securities,Buy,Buy,reit,Lowers,233.0,266.0
+2026-10-26 14:24:11,B. Riley Securities,Buy,Buy,main,Lowers,250.0,285.0
+2026-10-21 17:08:42,Oppenheimer,Outperform,Outperform,main,Lowers,265.0,270.0
+2026-10-13 15:02:02,Wells Fargo,Overweight,Overweight,main,Lowers,243.0,250.0
+2026-10-09 20:12:44,JP Morgan,Overweight,Overweight,main,Lowers,225.0,282.0
+2026-10-06 09:12:26,Baird,Outperform,,init,Announces,220.0,0.0
+2026-10-05 17:02:40,Truist Securities,Buy,Buy,main,Lowers,266.0,301.0
+2026-10-02 17:36:18,Oppenheimer,Outperform,Outperform,main,Lowers,270.0,280.0
+2026-08-03 14:12:09,Truist Securities,Buy,Buy,reit,Raises,301.0,295.0
+2026-07-31 15:39:54,B. Riley Securities,Buy,Buy,main,Raises,285.0,280.0
+2026-07-20 13:42:20,Oppenheimer,Outperform,Outperform,reit,Raises,280.0,272.0
+2026-07-02 11:45:38,Truist Securities,Buy,Buy,main,Raises,295.0,261.0
+2026-05-06 20:52:44,JP Morgan,Overweight,Overweight,main,Raises,270.0,260.0
+2026-05-04 17:33:31,Truist Securities,Buy,Buy,main,Raises,261.0,251.0
+2026-05-01 14:20:54,Wells Fargo,Overweight,Overweight,main,Raises,240.0,225.0
+2026-04-20 12:17:05,Truist Securities,Buy,Buy,main,Raises,251.0,244.0
+2026-04-01 16:25:38,Wells Fargo,Overweight,Overweight,main,Lowers,225.0,270.0
+2026-03-27 14:53:38,Truist Securities,Buy,Hold,up,Maintains,244.0,244.0
+2026-03-27 12:54:47,BMO Capital,Outperform,,init,Announces,243.0,0.0
+2026-03-04 12:28:59,JP Morgan,Overweight,,init,Announces,260.0,0.0
+2026-02-26 14:07:03,Truist Securities,Hold,Hold,main,Raises,244.0,216.0
+2026-02-25 17:36:43,Oppenheimer,Outperform,Outperform,main,Raises,272.0,240.0
+2026-02-25 14:57:21,Wells Fargo,Overweight,Overweight,main,Raises,270.0,220.0
+2026-02-13 12:14:04,B of A Securities,Buy,Neutral,up,Raises,280.0,240.0
+2025-12-18 16:00:21,Truist Securities,Hold,Hold,main,Raises,216.0,215.0
+2025-12-10 17:31:00,B. Riley Securities,Buy,Buy,reit,Raises,244.0,225.0
+2025-11-10 12:42:12,TD Cowen,Hold,,init,Announces,225.0,0.0
+2025-10-31 17:08:22,B. Riley Securities,Buy,Buy,reit,Raises,225.0,212.0
+2025-10-20 16:46:23,Truist Securities,Hold,,init,Announces,209.0,0.0
+2025-10-14 11:50:14,Wells Fargo,Overweight,,init,Announces,205.0,0.0
+2025-10-08 11:41:12,B of A Securities,Neutral,,init,Announces,202.0,0.0
+2025-08-01 15:46:28,UBS,Buy,Buy,main,Raises,210.0,182.0
+2025-07-08 17:14:58,Oppenheimer,Outperform,Outperform,main,Raises,197.0,170.0
+2025-06-02 12:48:59,UBS,Buy,Neutral,up,Raises,182.0,160.0
+2025-05-15 17:56:47,B. Riley Securities,Buy,,init,Announces,195.0,0.0
+2025-01-07 14:16:15,UBS,Neutral,Neutral,main,Lowers,160.0,164.0
+2024-11-25 17:01:02,Wolfe Research,Outperform,,init,Announces,199.0,0.0
+2024-07-18 17:07:39,Oppenheimer,Perform,Outperform,down,,0.0,0.0
+2024-05-08 13:08:55,UBS,Neutral,Neutral,main,Raises,142.0,126.0
+2024-05-03 13:10:38,Oppenheimer,Outperform,Outperform,main,Raises,140.0,134.0
+2024-03-28 11:38:09,Oppenheimer,Outperform,Outperform,reit,Raises,134.0,124.0
+2024-03-27 17:37:45,UBS,Neutral,Neutral,main,Raises,126.0,90.0
+2024-02-23 13:15:03,Oppenheimer,Outperform,Outperform,reit,Raises,124.0,118.0
+2023-09-21 13:13:06,Oppenheimer,Outperform,Outperform,main,Raises,100.0,97.0
+2023-08-03 11:58:12,Oppenheimer,Outperform,Outperform,main,Raises,97.0,94.0
+2023-07-05 10:18:27,UBS,Neutral,Buy,down,Raises,90.0,80.0
+2023-06-06 12:22:34,Oppenheimer,Outperform,Outperform,main,Raises,92.0,85.0
+2023-02-24 12:36:41,Oppenheimer,Outperform,,main,Raises,82.0,77.0

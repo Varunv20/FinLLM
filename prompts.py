@@ -2,7 +2,11 @@
 neutral_baseline = (
     "Analyze the following earnings-call statement as a financial analyst and "
     "assess whether the stock appears more consistent with a BUY, HOLD, or SELL "
-    "recommendation. Please provide a clear rationale for your decision. Answer "
+    "recommendation. Your recommendation will be scored against the stock's "
+    "standardized cumulative abnormal return (SCAR) over the 5 trading days after "
+    "the call: its return beyond what the market predicts, divided by its normal "
+    "volatility. BUY means you expect SCAR above +1, SELL below -1, and HOLD "
+    "between -1 and +1. Please provide a clear rationale for your decision. Answer "
     "in the following format: 'Decision: [0 for Buy/1 for Sell/2 for Hold]. "
     "Rationale: [Your reasoning here].' "
 )

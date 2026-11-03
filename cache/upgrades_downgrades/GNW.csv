@@ -1,0 +1,61 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-10-09 10:14:26,"Keefe, Bruyette & Woods",Market Perform,Outperform,down,Lowers,10.5,11.5
+2026-09-16 17:57:51,"Keefe, Bruyette & Woods",Outperform,Outperform,main,Lowers,11.5,12.0
+2026-07-13 13:15:45,"Keefe, Bruyette & Woods",Outperform,Outperform,main,Raises,12.0,11.0
+2026-05-13 14:13:31,"Keefe, Bruyette & Woods",Outperform,Outperform,main,Raises,11.0,10.5
+2025-10-09 17:10:59,"Keefe, Bruyette & Woods",Outperform,Outperform,main,Raises,10.0,9.5
+2025-07-09 16:59:34,"Keefe, Bruyette & Woods",Outperform,Outperform,main,Raises,9.5,9.0
+2025-06-18 15:13:10,"Keefe, Bruyette & Woods",Outperform,Market Perform,up,Raises,9.0,8.5
+2025-05-13 17:24:30,"Keefe, Bruyette & Woods",Market Perform,Market Perform,main,Raises,8.5,8.0
+2025-04-09 18:22:40,"Keefe, Bruyette & Woods",Market Perform,Market Perform,main,Lowers,8.0,8.5
+2024-04-10 15:17:48,"Keefe, Bruyette & Woods",Market Perform,Market Perform,main,Raises,7.0,6.5
+2018-06-11 11:28:30,Wells Fargo,Market Perform,Market Perform,main,Raises,5.0,3.0
+2016-11-11 11:41:31,Compass Point,Buy,Neutral,up,,0.0,0.0
+2016-10-05 10:59:35,BTIG,Neutral,Buy,down,,0.0,0.0
+2016-09-23 14:23:53,Goldman Sachs,Neutral,,main,Raises,4.0,3.0
+2016-09-19 11:34:28,Compass Point,Neutral,Buy,down,,0.0,0.0
+2016-02-09 17:24:48,UBS,Sell,,main,Lowers,1.75,2.25
+2016-01-22 15:28:31,UBS,Sell,,main,Lowers,2.25,3.5
+2015-11-17 11:57:56,Goldman Sachs,Neutral,,init,,0.0,0.0
+2015-11-04 14:48:59,UBS,Sell,Neutral,down,,0.0,0.0
+2015-10-05 19:34:36,JP Morgan,Neutral,,main,Lowers,8.0,9.0
+2015-09-17 16:40:04,Macquarie,Neutral,,main,Raises,7.0,5.0
+2015-09-02 17:14:21,"Keefe, Bruyette & Woods",,,main,Lowers,6.0,8.0
+2015-08-06 11:27:37,Raymond James,Outperform,Strong Buy,down,,0.0,0.0
+2015-08-05 11:22:54,Macquarie,Neutral,Underperform,up,,0.0,0.0
+2015-05-28 10:18:49,Morgan Stanley,Equal-Weight,Underweight,up,Maintains,8.0,0.0
+2015-05-15 13:00:00,"Keefe, Bruyette & Woods",Market Perform,,main,Lowers,8.0,9.0
+2015-05-05 10:34:05,Morgan Stanley,Underweight,Equal-Weight,down,,0.0,0.0
+2015-04-30 10:29:29,Compass Point,Neutral,Buy,down,,0.0,0.0
+2015-04-22 13:00:00,"Keefe, Bruyette & Woods",Market Perform,,main,Lowers,9.0,9.5
+2015-03-23 10:26:24,Raymond James,Strong Buy,Outperform,up,Maintains,12.0,0.0
+2015-02-20 14:00:00,"Keefe, Bruyette & Woods",Market Perform,,main,Lowers,9.5,10.0
+2015-02-11 14:00:00,JP Morgan,Neutral,,main,Lowers,9.0,11.0
+2015-01-27 14:00:00,"Keefe, Bruyette & Woods",Market Perform,,main,Lowers,10.0,10.5
+2014-12-01 12:42:09,Compass Point,Neutral,,main,Raises,12.5,12.0
+2014-11-13 11:10:33,Raymond James,Outperform,Market Perform,up,Announces,12.5,0.0
+2014-11-10 14:00:00,Macquarie,Outperform,,main,Lowers,12.0,16.0
+2014-11-10 13:00:00,"Keefe, Bruyette & Woods",Market Perform,Outperform,down,Lowers,10.5,16.0
+2014-11-10 10:07:13,Compass Point,Neutral,,main,Lowers,12.0,16.5
+2014-11-06 05:00:00,Compass Point,Neutral,Buy,down,Removes,16.5,0.0
+2014-10-13 12:30:00,"Keefe, Bruyette & Woods",Outperform,Market Perform,up,Lowers,16.0,16.5
+2014-10-01 10:55:48,Macquarie,Outperform,Neutral,up,Lowers,16.0,17.0
+2014-08-11 12:33:46,Morgan Stanley,Equal-Weight,Underweight,up,,0.0,0.0
+2014-07-30 13:30:00,Macquarie,Neutral,Outperform,down,Lowers,17.0,20.0
+2014-07-02 02:20:28,JP Morgan,Neutral,,main,Raises,18.0,16.0
+2014-05-19 10:14:25,Morgan Stanley,Underweight,Equal-weight,down,,0.0,0.0
+2014-05-01 12:22:13,Compass Point,Buy,,main,Raises,23.0,22.0
+2014-03-21 01:57:15,UBS,Buy,,main,Raises,20.0,18.0
+2014-01-07 13:49:28,Compass Point,Buy,,init,Announces,22.0,0.0
+2014-01-06 21:00:00,UBS,Buy,Neutral,up,,0.0,0.0
+2013-05-08 13:58:56,BTIG,Neutral,Buy,down,,0.0,0.0
+2013-05-01 10:18:14,JP Morgan,Neutral,,main,Raises,9.0,8.0
+2013-03-11 17:13:53,Scotiabank,Sector Outperform,Sector Underperform,up,Raises,12.0,9.5
+2013-01-08 12:53:55,Credit Suisse,Underperform,Neutral,down,Raises,7.0,6.0
+2012-11-05 15:47:00,Macquarie,Outperform,Neutral,up,,0.0,0.0
+2012-08-21 18:29:00,B of A Securities,Neutral,,main,Lowers,7.5,8.0
+2012-07-18 15:14:00,UBS,Neutral,,init,Announces,5.5,0.0
+2012-05-02 13:06:00,JP Morgan,Neutral,,main,Lowers,9.0,10.0
+2012-05-02 10:41:00,B of A Securities,Neutral,Underperform,up,Maintains,8.0,0.0
+2012-04-18 10:30:00,B of A Securities,Underperform,,main,Lowers,8.0,9.0
+2012-04-11 12:15:00,BTIG,Buy,,init,Announces,11.0,0.0

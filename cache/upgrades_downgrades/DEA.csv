@@ -1,0 +1,63 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-10-29 20:04:00,Citigroup,Neutral,Neutral,main,Lowers,24.0,25.0
+2026-08-27 12:54:22,Truist Securities,Hold,Hold,main,Raises,26.0,24.0
+2026-08-24 13:26:35,RBC Capital,Underperform,Underperform,main,Raises,24.0,22.0
+2026-08-07 21:02:49,Citigroup,Neutral,Neutral,main,Raises,25.0,23.0
+2026-08-04 11:53:16,BMO Capital,Market Perform,Market Perform,main,Raises,27.0,25.0
+2026-03-11 13:43:39,Truist Securities,Hold,Hold,main,Lowers,24.0,25.0
+2026-03-02 16:18:45,RBC Capital,Underperform,Underperform,main,Raises,22.0,21.0
+2025-10-15 12:07:45,Compass Point,Buy,Neutral,up,Announces,26.45,0.0
+2025-10-13 11:38:55,Jefferies,Hold,Buy,down,Lowers,20.0,26.0
+2025-07-16 11:03:59,BMO Capital,Market Perform,Underperform,up,Announces,25.0,0.0
+2025-06-02 14:17:33,RBC Capital,Underperform,Underperform,main,Lowers,22.0,27.5
+2025-04-10 11:34:52,Compass Point,Neutral,Buy,down,Lowers,9.5,15.0
+2025-03-17 11:33:36,Jefferies,Buy,,init,Announces,13.0,0.0
+2025-03-10 16:33:36,RBC Capital,Underperform,Underperform,main,Lowers,11.0,12.0
+2025-01-02 16:06:02,Jefferies,Buy,Buy,main,Lowers,12.0,15.0
+2024-12-06 13:53:07,Truist Securities,Hold,Hold,main,Lowers,13.0,14.0
+2024-10-14 12:33:45,Jefferies,Buy,Hold,up,Raises,15.0,13.0
+2024-08-29 13:32:51,Truist Securities,Hold,Hold,main,Raises,14.0,13.0
+2024-03-07 16:58:30,Truist Securities,Hold,Hold,main,Lowers,13.0,14.0
+2023-09-14 14:56:59,Truist Securities,Hold,Hold,main,Lowers,14.0,16.0
+2023-08-16 09:50:31,RBC Capital,Underperform,Sector Perform,down,Lowers,13.0,15.0
+2023-06-15 12:51:55,Truist Securities,Hold,Hold,main,Raises,16.0,15.0
+2023-03-28 10:42:02,Compass Point,Buy,Neutral,up,Announces,17.0,0.0
+2023-03-20 11:53:41,Truist Securities,Hold,,main,Lowers,15.0,17.0
+2022-12-16 11:22:08,BMO Capital,Underperform,Market Perform,down,Lowers,14.0,18.0
+2022-12-14 11:33:15,Citigroup,Neutral,Buy,down,Lowers,15.5,18.0
+2022-11-03 10:27:17,Compass Point,Neutral,Buy,down,Announces,17.0,0.0
+2022-10-19 11:31:12,RBC Capital,Sector Perform,,main,Lowers,17.0,20.0
+2022-09-14 12:25:10,Truist Securities,Hold,,main,Lowers,20.0,21.0
+2022-08-29 11:02:24,RBC Capital,Sector Perform,,main,Lowers,20.0,21.0
+2022-06-30 14:08:25,Jefferies,Hold,,main,Lowers,20.0,21.0
+2022-06-30 12:08:57,Truist Securities,Hold,,main,Lowers,21.0,22.0
+2022-01-10 10:45:03,Raymond James,Market Perform,Outperform,down,,0.0,0.0
+2022-01-10 10:37:04,Jefferies,Hold,Buy,down,Announces,25.0,0.0
+2022-01-07 12:56:51,BMO Capital,Market Perform,Outperform,down,Announces,24.0,0.0
+2021-08-04 11:25:53,Raymond James,Outperform,,main,Raises,24.5,24.0
+2021-05-06 11:52:53,Raymond James,Outperform,,main,Lowers,24.0,25.0
+2021-02-25 13:17:33,Raymond James,Outperform,,main,Raises,25.0,24.0
+2021-01-12 10:29:47,Raymond James,Outperform,Market Perform,up,Announces,24.0,0.0
+2020-12-23 11:22:33,BMO Capital,Outperform,,init,Announces,26.0,0.0
+2020-11-11 11:05:56,RBC Capital,Sector Perform,Outperform,down,Announces,24.0,0.0
+2020-08-24 10:52:01,Citigroup,Neutral,,main,Lowers,26.0,29.0
+2020-05-27 11:57:05,SunTrust Robinson Humphrey,Hold,,main,Raises,24.0,22.0
+2020-04-16 13:20:12,Jefferies,Buy,,main,Raises,31.0,28.0
+2020-04-07 14:29:41,Citigroup,Neutral,,main,Raises,29.0,23.0
+2020-01-16 12:11:22,SunTrust Robinson Humphrey,Hold,Buy,down,Lowers,23.0,24.0
+2020-01-07 12:39:57,Raymond James,Market Perform,Outperform,down,Removes,0.0,24.0
+2019-09-23 11:49:11,Compass Point,Buy,,init,Announces,25.0,0.0
+2019-09-12 12:57:26,SunTrust Robinson Humphrey,Buy,,main,Raises,22.0,20.0
+2019-08-06 11:29:39,Raymond James,Outperform,,main,Raises,21.0,19.5
+2019-03-29 14:11:54,Citigroup,Neutral,Neutral,main,Lowers,19.0,20.0
+2019-01-08 15:10:57,Raymond James,Outperform,Market Perform,up,,0.0,0.0
+2018-12-14 13:23:29,RBC Capital,Outperform,Sector Perform,up,,0.0,0.0
+2017-11-13 17:14:00,Citigroup,Neutral,,main,Raises,20.0,19.0
+2017-01-09 12:13:07,Raymond James,Market Perform,Outperform,down,,0.0,0.0
+2016-10-19 04:00:00,SunTrust Robinson Humphrey,Buy,,init,Announces,0.0,0.0
+2016-10-05 09:57:07,Jefferies,Buy,,init,Announces,22.0,0.0
+2016-07-07 16:43:01,Citigroup,Neutral,,main,Raises,19.0,17.0
+2016-03-04 11:17:49,RBC Capital,Sector Perform,Outperform,down,,0.0,0.0
+2015-03-13 11:13:18,Raymond James,Outperform,,init,Announces,17.0,0.0
+2015-03-04 12:39:21,Citigroup,Neutral,,init,Announces,16.0,0.0
+2015-03-03 11:12:06,RBC Capital,Outperform,,init,Announces,18.0,0.0

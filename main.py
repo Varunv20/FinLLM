@@ -31,16 +31,24 @@ import pandas as pd
 import time
 
 COLUMNS = ["call_id", "ticker", "year", "month", "day", "decision", "score", "car5", "scar5", "anonymized",
-           "input_tokens", "output_tokens", "input_truncated", "hit_max_tokens", "summary"]
+           "input_tokens", "output_tokens", "input_truncated", "hit_max_tokens", "forced", "summary"]
+
+# a reply cut off before its decision gets one forced (agent.run_batch): the reasoning is
+# closed, "Decision:" written, and the model picks the likeliest of the prompt's 0 / 1 / 2
+FORCE_DECISION = {"prefix": "Decision:", "choices": ["0", "1", "2"],
+                  "done": lambda text: parse_decision(text) is not None}
 
 
 def run_all(agent, calls, name="llama", prompt=None, anonymized=False, batch_size=64,
-            max_input_tokens=MAX_INPUT_TOKENS, max_new_tokens=MAX_NEW_TOKENS, summaries=False):
+            max_input_tokens=MAX_INPUT_TOKENS, max_new_tokens=MAX_NEW_TOKENS, summaries=False, retry_cut=False,
+            force_decision=True):
     """Run the agent on every row of `calls`: any slice of load_catalogue() (or load_calls()).
 
     Calls go to the model `batch_size` at a time (vllm runs a batch concurrently) and
     {name}.pkl is saved after every batch. If that file already exists (a job that hit its
-    time limit), the calls already in it are skipped.
+    time limit), the calls already in it are skipped; retry_cut=True first drops the calls
+    whose reply hit the token limit, so they run again (e.g. with a larger max_new_tokens).
+    force_decision: a reply cut off before its decision gets one forced (forced=True).
 
     score is the raw stock return over the 5 trading days after the call; car5 / scar5 are
     the market-model abnormal returns (see data_collection/build_event_returns.py)."""
@@ -48,6 +56,10 @@ def run_all(agent, calls, name="llama", prompt=None, anonymized=False, batch_siz
     # model names like "Qwen/Qwen3.5-0.8B-Base" put the pickle in a subfolder
     os.makedirs(os.path.dirname(name) or ".", exist_ok=True)
     df = pd.read_pickle(path) if os.path.exists(path) else pd.DataFrame(columns=COLUMNS)
+    if retry_cut and len(df):
+        cut = df["hit_max_tokens"].astype(bool)
+        print(f"{path}: rerunning {int(cut.sum())} calls whose reply was cut off", flush=True)
+        df = df[~cut].reset_index(drop=True)
     done = set(df["call_id"]) if "call_id" in df.columns else set()
     todo = calls[~calls["call_id"].isin(done)]
     total_calls = len(calls)
@@ -58,7 +70,8 @@ def run_all(agent, calls, name="llama", prompt=None, anonymized=False, batch_siz
         batch = todo.iloc[start:start + batch_size]
         built = [build_prompt(agent, call, prompt, anonymized, max_input_tokens, summaries)
                  for _, call in batch.iterrows()]
-        replies = agent.run_batch([p for p, _ in built], max_tokens=max_new_tokens)
+        replies = agent.run_batch([p for p, _ in built], max_tokens=max_new_tokens,
+                                  force=FORCE_DECISION if force_decision else None)
         rows = []
         for (_, call), (_, cut), r in zip(batch.iterrows(), built, replies):
             date = call["call_date"]
@@ -77,6 +90,7 @@ def run_all(agent, calls, name="llama", prompt=None, anonymized=False, batch_siz
                 "output_tokens": r["output_tokens"],
                 "input_truncated": cut,
                 "hit_max_tokens": r["hit_max_tokens"],
+                "forced": r["forced"],
                 "summary": r["text"],
             })
         df = pd.concat([df, pd.DataFrame(rows, columns=COLUMNS)], ignore_index=True)
@@ -140,6 +154,10 @@ def parse_args():
     ap.add_argument("--quantization", default="auto", help="auto / none / fp8 / int4")
     ap.add_argument("--reasoning-effort", choices=["low", "medium", "high"],
                     help="gpt-oss only; default: the model's own (medium)")
+    ap.add_argument("--retry-cut", action="store_true",
+                    help="rerun calls whose saved reply hit the token limit (use with a larger --max-new-tokens)")
+    ap.add_argument("--no-force-decision", action="store_true",
+                    help="leave replies cut off before their decision without one (default: force it)")
     ap.add_argument("--smoke", action="store_true", help="4 calls, neutral prompt, results in runs/smoke/")
     return ap.parse_args()
 
@@ -172,6 +190,9 @@ if __name__ == "__main__":
             print(f"WARNING: {missing} of {len(calls)} calls have no summary and are skipped; "
                   f"run python summarize_calls.py --calls-file {calls_file}", flush=True)
         calls = calls[calls["call_id"].isin(have)]
+        if calls.empty:
+            raise SystemExit("no summaries to run on: python summarize_calls.py first "
+                             "(--preview only prints, it saves nothing)")
     emotions = list(emotion_stories)
     if args.prompts == "all":
         prompts = [None] + emotions          # None = the neutral control, run first
@@ -191,8 +212,9 @@ if __name__ == "__main__":
         result = run_all(agent, calls, name=out_prefix + args.model + "_" + label, prompt = e,
                          anonymized = anonymized, batch_size=args.batch_size,
                          max_input_tokens=args.max_input_tokens, max_new_tokens=args.max_new_tokens,
-                         summaries=args.summaries)
-    if args.smoke:
+                         summaries=args.summaries, retry_cut=args.retry_cut,
+                         force_decision=not args.no_force_decision)
+    if args.smoke and len(result):
         print(result[["ticker", "decision", "input_tokens", "output_tokens", "input_truncated",
-                      "hit_max_tokens"]].to_string())
+                      "hit_max_tokens", "forced"]].to_string())
         print("\nlast reply:\n" + str(result["summary"].iloc[-1])[-1500:])

@@ -1,0 +1,67 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-09-10 13:26:55,UBS,Neutral,Neutral,main,Raises,82.0,75.0
+2026-06-24 13:14:16,UBS,Neutral,Neutral,main,Raises,75.0,70.0
+2026-06-24 12:29:16,Baird,Outperform,Outperform,main,Raises,85.0,84.0
+2026-06-09 14:46:31,Truist Securities,Buy,Buy,main,Raises,80.0,75.0
+2026-04-09 20:40:24,UBS,Neutral,Neutral,main,Raises,70.0,65.0
+2026-03-10 19:04:11,UBS,Neutral,Neutral,main,Lowers,65.0,72.0
+2026-03-10 13:06:09,Truist Securities,Buy,Buy,main,Lowers,75.0,88.0
+2025-11-21 17:48:24,Goldman Sachs,Buy,Buy,main,Lowers,74.0,85.0
+2025-06-20 16:24:28,Truist Securities,Buy,Buy,main,Raises,88.0,80.0
+2025-06-14 15:15:17,UBS,Neutral,Neutral,main,Raises,72.0,68.0
+2025-05-27 16:59:51,UBS,Neutral,Neutral,main,Lowers,74.0,75.0
+2025-04-15 14:45:37,Truist Securities,Buy,Buy,main,Lowers,80.0,84.0
+2025-03-11 15:17:32,UBS,Neutral,Neutral,main,Lowers,75.0,77.0
+2024-12-06 13:56:02,Truist Securities,Buy,Buy,main,Raises,84.0,78.0
+2024-06-14 14:24:08,Truist Securities,Buy,Buy,reit,Raises,78.0,74.0
+2024-06-14 11:50:35,Baird,Outperform,Outperform,main,Raises,79.0,72.0
+2024-06-07 18:46:20,UBS,Neutral,Neutral,main,Raises,68.0,66.0
+2024-03-08 12:36:09,Baird,Outperform,Outperform,main,Raises,72.0,70.0
+2024-03-07 12:10:48,Baird,Outperform,Outperform,main,Raises,70.0,62.0
+2024-03-04 13:09:50,Truist Securities,Buy,Buy,main,Raises,74.0,64.0
+2024-02-29 15:55:55,William Blair,Outperform,Market Perform,up,,0.0,0.0
+2024-02-28 18:30:15,UBS,Neutral,Neutral,main,Raises,63.0,55.0
+2023-12-07 20:13:58,Truist Securities,Buy,Buy,main,Lowers,58.0,64.0
+2023-12-07 16:39:19,UBS,Neutral,Neutral,main,Raises,55.0,54.0
+2023-12-01 18:30:35,UBS,Neutral,Neutral,main,Raises,54.0,53.0
+2023-10-06 14:35:45,Truist Securities,Buy,Buy,main,Lowers,58.0,65.0
+2023-09-26 16:14:18,Truist Securities,Buy,Buy,reit,Maintains,65.0,0.0
+2023-09-15 09:58:04,UBS,Neutral,,init,Announces,53.0,0.0
+2023-07-14 14:33:49,Truist Securities,Buy,Buy,reit,Maintains,65.0,0.0
+2023-04-11 12:49:43,Goldman Sachs,Buy,,main,Lowers,64.0,72.0
+2023-03-16 10:50:30,Baird,Outperform,,main,Lowers,59.0,61.0
+2022-12-12 14:53:44,Goldman Sachs,Buy,,main,Lowers,62.0,72.0
+2022-12-09 16:08:48,Truist Securities,Buy,Buy,main,Lowers,65.0,75.0
+2022-11-08 13:19:26,Goldman Sachs,Buy,,main,Lowers,66.0,74.0
+2022-09-08 11:26:39,Baird,Outperform,,main,Lowers,64.0,72.0
+2022-06-23 11:34:18,Baird,Outperform,,main,Lowers,72.0,90.0
+2022-06-17 12:52:52,Truist Securities,Buy,,main,Lowers,75.0,98.0
+2022-06-07 11:05:40,Goldman Sachs,Buy,,main,Lowers,74.0,83.0
+2021-06-23 12:18:14,Credit Suisse,Neutral,,main,Raises,65.0,57.0
+2021-06-23 11:44:07,Baird,Outperform,,main,Raises,89.0,78.0
+2021-06-02 13:26:49,Truist Securities,Buy,,main,Raises,88.0,80.0
+2020-11-25 14:25:11,Baird,Outperform,Neutral,up,Announces,49.0,0.0
+2020-07-16 12:52:08,Sidoti & Co.,Buy,Neutral,up,Raises,43.0,36.0
+2020-05-21 10:07:10,Credit Suisse,Neutral,Underperform,up,Announces,32.0,0.0
+2020-05-18 13:52:58,Sidoti & Co.,Buy,,main,Lowers,36.0,49.0
+2020-04-03 16:02:14,SunTrust Robinson Humphrey,Buy,,main,Lowers,37.0,44.0
+2020-03-11 14:09:02,SunTrust Robinson Humphrey,Buy,,main,Lowers,44.0,58.0
+2020-03-11 13:02:14,Credit Suisse,Underperform,,main,Lowers,29.0,37.0
+2020-03-06 14:07:35,Sidoti & Co.,Buy,,main,Lowers,53.0,58.0
+2019-12-06 15:12:56,Sidoti & Co.,Buy,,main,Lowers,58.0,63.0
+2019-12-06 14:14:38,Baird,Neutral,,main,Lowers,40.0,42.0
+2019-09-06 14:11:17,Sidoti & Co.,Buy,,main,Lowers,63.0,72.0
+2019-09-06 11:59:50,Credit Suisse,Underperform,,main,Lowers,37.0,40.0
+2018-12-07 14:58:10,Credit Suisse,Underperform,Underperform,main,Lowers,40.0,44.0
+2018-08-10 13:38:13,Credit Suisse,Underperform,,init,Announces,55.0,0.0
+2018-03-27 12:34:15,Goldman Sachs,Buy,,init,Announces,59.0,0.0
+2017-09-07 13:53:30,Deutsche Bank,Hold,,main,Raises,40.0,34.0
+2017-04-10 12:11:05,William Blair,Outperform,Market Perform,up,,0.0,0.0
+2016-09-09 12:01:19,Baird,Neutral,,main,Lowers,26.0,27.0
+2016-08-18 08:40:41,Deutsche Bank,Hold,,init,,0.0,0.0
+2016-06-16 15:00:47,Baird,Neutral,,down,Lowers,27.0,0.0
+2016-03-01 11:07:19,William Blair,Market Perform,Outperform,down,,0.0,0.0
+2015-06-12 12:23:05,Piper Sandler,Neutral,,main,Raises,37.0,36.0
+2013-09-06 11:38:12,Baird,Outperform,Neutral,up,Raises,24.0,20.0
+2013-02-15 15:03:35,SunTrust Robinson Humphrey,Buy,Neutral,up,Announces,23.0,0.0
+2012-03-07 17:32:00,UBS,Neutral,,init,Announces,17.0,0.0

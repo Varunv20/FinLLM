@@ -1,0 +1,106 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-10-05 15:38:26,Barclays,Equal-Weight,Equal-Weight,main,Raises,36.0,35.0
+2026-08-11 11:24:23,"Keefe, Bruyette & Woods",Outperform,Outperform,main,Lowers,44.0,46.0
+2026-08-10 11:02:54,Barclays,Equal-Weight,Equal-Weight,main,Lowers,35.0,39.0
+2026-06-25 16:56:52,"Keefe, Bruyette & Woods",Outperform,Outperform,main,Raises,46.0,43.0
+2026-05-22 15:39:41,RBC Capital,Outperform,,init,Announces,47.0,0.0
+2026-05-11 13:53:04,Barclays,Equal-Weight,Equal-Weight,main,Raises,39.0,37.0
+2026-04-29 11:17:46,B of A Securities,Buy,Underperform,up,Raises,43.0,35.0
+2026-04-10 16:49:11,"Keefe, Bruyette & Woods",Outperform,Outperform,main,Raises,43.0,42.0
+2026-04-06 14:39:54,Barclays,Equal-Weight,Equal-Weight,main,Lowers,37.0,40.0
+2026-03-12 20:28:31,UBS,Neutral,Neutral,main,Lowers,39.0,41.0
+2026-02-11 10:06:03,"Keefe, Bruyette & Woods",Outperform,Market Perform,up,Raises,42.0,41.0
+2026-01-02 17:34:18,Roth Capital,Buy,Buy,reit,Maintains,45.0,45.0
+2025-12-18 14:04:59,"Keefe, Bruyette & Woods",Market Perform,Market Perform,main,Raises,41.0,40.0
+2025-10-15 15:36:41,UBS,Neutral,Neutral,main,Lowers,40.0,43.0
+2025-10-06 13:23:37,Barclays,Equal-Weight,Equal-Weight,main,Raises,37.0,35.0
+2025-09-19 15:45:23,UBS,Neutral,Neutral,main,Raises,43.0,38.0
+2025-07-14 13:42:04,UBS,Neutral,Neutral,main,Raises,38.0,36.0
+2025-07-08 16:01:02,Barclays,Equal-Weight,Equal-Weight,main,Raises,35.0,34.0
+2025-07-07 14:45:59,"Keefe, Bruyette & Woods",Market Perform,Outperform,down,Maintains,38.0,38.0
+2025-05-23 11:56:36,Compass Point,Neutral,Buy,down,Raises,37.0,34.0
+2025-05-05 19:49:05,UBS,Neutral,Neutral,main,Raises,36.0,34.0
+2025-05-02 15:53:39,"Keefe, Bruyette & Woods",Outperform,Outperform,reit,Raises,38.0,37.0
+2025-04-08 16:24:20,"Keefe, Bruyette & Woods",Outperform,Outperform,main,Lowers,37.0,40.0
+2025-02-19 14:26:38,UBS,Neutral,Neutral,main,Raises,34.0,33.0
+2025-01-10 13:53:45,UBS,Neutral,Neutral,main,Lowers,33.0,33.5
+2025-01-08 15:53:44,"Keefe, Bruyette & Woods",Outperform,Outperform,main,Lowers,40.0,41.0
+2024-10-08 17:43:00,Barclays,Equal-Weight,Equal-Weight,main,Raises,33.0,32.0
+2024-08-05 15:44:27,"Keefe, Bruyette & Woods",Outperform,Outperform,main,Raises,39.0,36.0
+2024-08-02 20:36:27,RBC Capital,Sector Perform,Sector Perform,main,Raises,37.0,32.0
+2024-08-02 17:14:07,Roth MKM,Buy,Buy,main,Raises,40.0,35.0
+2024-08-02 15:28:28,Barclays,Equal-Weight,Equal-Weight,main,Raises,32.0,30.0
+2024-06-03 12:11:33,"Keefe, Bruyette & Woods",Outperform,Market Perform,up,Raises,36.0,35.0
+2024-05-22 14:00:56,UBS,Neutral,Neutral,main,Raises,31.5,30.0
+2024-04-04 10:26:06,"Keefe, Bruyette & Woods",Market Perform,Outperform,down,Lowers,35.0,36.0
+2023-12-13 11:00:34,"Keefe, Bruyette & Woods",Outperform,Market Perform,up,Announces,29.0,0.0
+2023-12-06 12:05:32,UBS,Neutral,,init,Announces,28.0,0.0
+2023-08-04 15:50:45,RBC Capital,Sector Perform,Sector Perform,main,Raises,29.0,26.0
+2023-06-21 13:16:33,RBC Capital,Sector Perform,Sector Perform,reit,Maintains,26.0,0.0
+2023-06-13 08:31:20,"Keefe, Bruyette & Woods",Market Perform,Outperform,down,Announces,27.5,0.0
+2023-05-09 12:35:49,B of A Securities,Underperform,Buy,down,,0.0,0.0
+2023-05-05 16:10:22,RBC Capital,Sector Perform,,main,Raises,26.0,24.0
+2023-05-05 13:15:43,"Keefe, Bruyette & Woods",Outperform,,main,Raises,27.5,26.0
+2023-04-11 10:07:49,Compass Point,Buy,Neutral,up,Announces,29.0,0.0
+2023-02-10 13:48:09,RBC Capital,Sector Perform,,main,Raises,24.0,22.0
+2023-01-06 11:18:58,Barclays,Equal-Weight,Overweight,down,Lowers,21.0,24.0
+2022-12-15 12:51:50,B of A Securities,Buy,Neutral,up,Announces,24.0,0.0
+2022-12-06 13:19:34,BTIG,Neutral,Buy,down,,0.0,0.0
+2022-11-09 09:44:44,Compass Point,Neutral,Buy,down,Lowers,22.5,28.0
+2022-10-17 14:04:18,"Keefe, Bruyette & Woods",Outperform,Market Perform,up,Lowers,25.0,27.0
+2022-10-13 11:18:54,Barclays,Overweight,,main,Lowers,24.0,35.0
+2022-08-18 11:20:04,B of A Securities,Neutral,Underperform,up,Raises,24.0,22.5
+2022-07-18 14:55:02,"Keefe, Bruyette & Woods",Market Perform,Outperform,down,Lowers,27.0,28.0
+2022-07-08 10:42:27,BTIG,Buy,,main,Lowers,26.0,27.0
+2021-11-17 11:40:22,B of A Securities,Underperform,Buy,down,Lowers,22.5,25.0
+2020-10-07 09:04:40,"Keefe, Bruyette & Woods",Outperform,Market Perform,up,,0.0,0.0
+2020-06-09 09:16:04,"Keefe, Bruyette & Woods",Market Perform,Outperform,down,Lowers,21.0,23.0
+2020-05-26 13:07:48,Compass Point,Buy,,main,Lowers,22.0,24.0
+2020-05-12 13:03:51,Deutsche Bank,Buy,,main,Lowers,24.0,27.0
+2020-04-21 11:34:21,B. Riley Securities,Neutral,,main,Lowers,16.0,20.0
+2020-04-14 12:04:18,Deutsche Bank,Buy,,main,Lowers,27.0,32.0
+2020-03-23 11:31:36,B. Riley Securities,Neutral,,main,Lowers,20.0,24.0
+2020-03-11 11:24:10,B. Riley Securities,Neutral,,main,Lowers,24.0,27.0
+2018-08-13 13:38:42,B of A Securities,Buy,Buy,main,Raises,23.0,13.0
+2018-08-07 12:49:32,B. Riley Securities,Neutral,Neutral,main,Raises,24.0,20.0
+2018-04-11 16:37:38,Barclays,Overweight,Overweight,main,Lowers,28.0,31.0
+2018-04-10 13:22:19,Deutsche Bank,Buy,Buy,main,Lowers,25.5,30.0
+2018-04-10 13:13:30,RBC Capital,Sector Perform,Outperform,down,,0.0,26.0
+2018-04-10 13:08:58,B. Riley Securities,Neutral,Neutral,main,Lowers,20.0,22.0
+2018-03-15 12:59:59,Macquarie,Neutral,,init,,0.0,0.0
+2018-02-02 15:02:10,Barclays,Overweight,Outperform,main,Raises,31.0,29.0
+2018-01-08 14:06:26,Deutsche Bank,Buy,Hold,up,,0.0,0.0
+2018-01-04 14:31:38,B. Riley Securities,Neutral,Buy,down,,0.0,0.0
+2017-12-20 13:17:46,RBC Capital,Outperform,,init,Announces,26.0,0.0
+2017-11-03 13:06:09,Deutsche Bank,Hold,Buy,down,,0.0,23.0
+2017-10-27 11:23:24,Compass Point,Buy,Neutral,up,,0.0,0.0
+2017-10-25 17:41:10,Deutsche Bank,Buy,,main,Raises,23.0,21.0
+2017-08-02 19:25:55,Barclays,Outperform,,main,Lowers,24.0,25.0
+2016-10-17 04:00:00,B of A Securities,Buy,,init,,0.0,0.0
+2016-07-29 17:09:39,FBR Capital,Outperform,,main,Raises,16.0,14.0
+2016-06-30 13:23:41,FBR Capital,Outperform,Market Perform,up,,0.0,0.0
+2016-05-02 09:45:06,Credit Suisse,Neutral,,main,Lowers,14.5,17.5
+2016-04-04 20:12:56,Deutsche Bank,Buy,,init,Announces,16.0,0.0
+2016-01-20 13:12:23,Macquarie,Neutral,Outperform,down,,0.0,0.0
+2015-10-28 15:10:33,Macquarie,Outperform,,main,Lowers,16.5,20.0
+2015-07-14 15:00:00,JMP Securities,Market Outperform,,main,Raises,22.5,21.0
+2015-04-20 13:00:00,JMP Securities,Market Outperform,,main,Raises,21.0,18.0
+2015-03-10 08:49:07,BTIG,Buy,,init,Announces,22.0,0.0
+2015-03-04 10:39:56,MKM Partners,Buy,,init,Announces,22.0,0.0
+2015-02-17 14:00:00,"Keefe, Bruyette & Woods",Outperform,,main,Lowers,18.5,19.0
+2014-12-16 14:00:00,"Keefe, Bruyette & Woods",Outperform,,main,Lowers,19.0,19.5
+2014-11-03 14:00:00,"Keefe, Bruyette & Woods",Outperform,,main,Raises,19.5,17.0
+2014-10-31 13:00:00,Barclays,Overweight,,main,Raises,21.0,18.0
+2014-09-17 09:56:49,Compass Point,Buy,Neutral,up,Raises,20.0,15.0
+2014-05-08 06:41:12,Susquehanna,Positive,,main,Raises,21.0,20.0
+2014-02-06 13:12:09,Compass Point,Neutral,,main,Raises,15.0,14.0
+2013-12-05 11:22:22,Goldman Sachs,Buy,,init,Announces,17.0,0.0
+2013-11-05 14:22:27,"Keefe, Bruyette & Woods",Outperform,,main,Raises,18.5,17.0
+2013-09-17 13:09:54,JMP Securities,Market Outperform,,init,Announces,17.0,0.0
+2013-07-25 12:43:11,Barclays,Overweight,,main,Raises,15.0,14.0
+2013-04-08 14:15:43,Macquarie,Outperform,Neutral,up,Raises,13.0,8.5
+2013-03-05 12:47:46,Barclays,Overweight,Underweight,up,Raises,14.0,4.0
+2013-03-04 11:04:53,"Keefe, Bruyette & Woods",Outperform,Market Perform,up,,0.0,0.0
+2013-02-20 15:15:57,Susquehanna,Positive,Neutral,up,,0.0,0.0
+2012-11-05 12:28:00,Compass Point,Neutral,,main,Raises,5.25,4.5
+2012-07-26 12:12:00,Macquarie,Neutral,,down,,0.0,0.0

@@ -1,0 +1,52 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-11-02 16:08:15,DA Davidson,Buy,Buy,main,Raises,76.0,62.0
+2026-10-30 11:29:38,Needham,Buy,Buy,main,Raises,72.0,60.0
+2026-09-21 10:05:52,Needham,Buy,Buy,reit,Maintains,60.0,60.0
+2026-07-31 10:26:48,Needham,Buy,Buy,main,Raises,60.0,57.0
+2026-05-06 22:33:10,DA Davidson,Buy,Buy,main,Lowers,62.0,66.0
+2026-04-16 15:56:06,DA Davidson,Buy,Buy,main,Maintains,66.0,66.0
+2026-02-18 17:50:18,DA Davidson,Buy,Buy,main,Maintains,66.0,66.0
+2026-01-30 19:37:56,DA Davidson,Buy,Buy,main,Maintains,66.0,66.0
+2026-01-14 11:55:03,Needham,Buy,Buy,reit,Maintains,57.0,57.0
+2025-10-30 10:48:42,Needham,Buy,Buy,main,Lowers,57.0,72.0
+2025-10-14 14:33:04,DA Davidson,Buy,Buy,main,Maintains,70.0,70.0
+2025-10-06 10:29:45,Needham,Buy,Buy,reit,Maintains,72.0,72.0
+2025-07-15 14:38:15,DA Davidson,Buy,Buy,main,Raises,74.0,64.0
+2025-05-01 11:00:59,Needham,Buy,Buy,main,Maintains,72.0,72.0
+2025-04-17 19:07:22,DA Davidson,Buy,Buy,main,Lowers,64.0,72.0
+2025-04-14 14:27:40,DA Davidson,Buy,Buy,main,Maintains,72.0,72.0
+2025-03-28 11:28:32,Needham,Buy,Buy,reit,Maintains,72.0,72.0
+2025-02-20 17:12:48,DA Davidson,Buy,Buy,main,Lowers,72.0,76.0
+2025-02-19 10:00:20,Needham,Buy,Buy,main,Lowers,72.0,79.0
+2025-01-15 15:51:51,Needham,Buy,Buy,reit,Maintains,79.0,79.0
+2024-11-05 16:04:47,B. Riley Securities,Buy,Buy,main,Lowers,70.0,80.0
+2024-11-01 10:23:03,Needham,Buy,Buy,reit,Maintains,79.0,79.0
+2024-09-27 09:32:45,Needham,Buy,Buy,reit,Maintains,79.0,79.0
+2024-08-01 15:18:59,DA Davidson,Buy,Buy,main,Raises,80.0,72.0
+2024-08-01 10:00:43,Needham,Buy,Buy,main,Raises,79.0,72.0
+2024-05-01 18:20:52,Needham,Buy,Buy,reit,Maintains,72.0,72.0
+2024-04-25 17:44:16,B. Riley Securities,Buy,Buy,main,Raises,72.0,66.0
+2024-04-12 12:22:07,DA Davidson,Buy,Neutral,up,Raises,72.0,60.0
+2024-02-21 10:21:51,Needham,Buy,Buy,main,Raises,72.0,65.0
+2024-01-12 19:40:37,DA Davidson,Neutral,Neutral,main,Raises,60.0,54.0
+2023-09-29 12:12:04,Needham,Buy,Buy,main,Raises,65.0,56.0
+2023-08-03 08:18:58,Needham,Buy,Buy,main,Raises,56.0,55.0
+2023-07-13 15:05:52,DA Davidson,Neutral,Neutral,main,Raises,46.0,42.0
+2023-06-30 10:35:55,Needham,Buy,,init,Announces,55.0,0.0
+2023-02-17 14:12:45,DA Davidson,Neutral,,main,Raises,42.0,35.0
+2023-02-16 14:53:50,B. Riley Securities,Buy,,main,Raises,58.0,50.0
+2022-04-13 12:32:14,DA Davidson,Neutral,,main,Lowers,35.0,37.0
+2021-05-06 11:16:44,DA Davidson,Neutral,Buy,down,,0.0,0.0
+2020-11-05 16:03:44,BTIG,Buy,,main,Raises,17.0,15.0
+2020-08-06 18:12:50,Wells Fargo,Equal-Weight,,main,Raises,10.0,8.0
+2020-05-27 09:56:27,BTIG,Buy,,init,Announces,11.0,0.0
+2020-04-28 13:35:00,DA Davidson,Buy,,main,Lowers,12.0,15.0
+2019-10-22 12:38:24,DA Davidson,Buy,,main,Lowers,21.0,25.0
+2019-10-16 11:40:12,B. Riley Securities,Buy,,init,Announces,16.0,0.0
+2019-01-17 12:37:59,B of A Securities,Underperform,Neutral,down,Lowers,16.0,19.0
+2018-08-03 16:56:08,B of A Securities,Neutral,Buy,down,,0.0,28.0
+2018-06-25 12:25:02,Wells Fargo,Market Perform,Market Perform,main,Lowers,19.0,22.0
+2018-06-07 10:21:50,DA Davidson,Buy,,init,Announces,25.0,0.0
+2017-08-15 11:29:32,JP Morgan,Neutral,,init,Announces,24.0,0.0
+2017-06-23 11:30:58,B of A Securities,Buy,,init,Announces,28.0,0.0
+2017-06-19 11:41:51,Citigroup,Neutral,,init,Announces,25.0,0.0

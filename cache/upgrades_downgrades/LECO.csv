@@ -1,0 +1,152 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-10-29 15:14:32,Barclays,Overweight,Overweight,main,Raises,350.0,300.0
+2026-10-28 21:28:47,UBS,Buy,Buy,main,Raises,360.0,340.0
+2026-10-28 18:06:56,Morgan Stanley,Equal-Weight,Equal-Weight,main,Raises,293.0,283.0
+2026-10-28 16:23:13,Stifel,Hold,Hold,main,Raises,290.0,271.0
+2026-10-28 11:54:31,Baird,Outperform,Outperform,main,Raises,322.0,317.0
+2026-08-11 20:12:54,UBS,Buy,,init,Announces,340.0,0.0
+2026-08-10 10:00:32,Morgan Stanley,Equal-Weight,Underweight,up,Raises,283.0,257.0
+2026-07-17 17:17:42,Morgan Stanley,Underweight,Underweight,main,Raises,253.0,250.0
+2026-06-16 14:00:07,DA Davidson,Buy,,init,Announces,320.0,0.0
+2026-05-05 14:30:21,Barclays,Overweight,Overweight,main,Raises,300.0,280.0
+2026-04-08 14:32:00,Stifel,Hold,Hold,main,Lowers,264.0,300.0
+2026-04-01 18:24:58,Barclays,Overweight,Overweight,main,Lowers,280.0,310.0
+2026-03-31 15:15:21,Jefferies,Hold,Buy,down,Lowers,280.0,350.0
+2026-03-30 18:13:52,Morgan Stanley,Underweight,Underweight,main,Raises,247.0,240.0
+2026-02-13 17:30:56,Barclays,Overweight,Overweight,main,Raises,310.0,280.0
+2026-02-13 16:44:22,Stifel,Hold,Hold,main,Raises,300.0,253.0
+2026-02-13 13:43:32,Keybanc,Overweight,Overweight,main,Raises,340.0,280.0
+2026-02-03 16:23:32,Roth Capital,Buy,Buy,reit,Raises,297.0,285.0
+2026-01-23 16:42:59,Barclays,Overweight,Overweight,main,Raises,280.0,260.0
+2026-01-23 14:47:25,Stifel,Hold,Hold,main,Raises,253.0,252.0
+2026-01-12 15:31:54,Morgan Stanley,Underweight,Underweight,main,Lowers,208.0,209.0
+2025-12-16 17:21:59,Stifel,Hold,Hold,main,Lowers,252.0,265.0
+2025-10-31 14:31:31,Stifel,Hold,Hold,main,Raises,265.0,250.0
+2025-10-20 12:50:10,Barclays,Overweight,Overweight,main,Raises,260.0,235.0
+2025-09-05 17:44:18,Roth Capital,Buy,,init,Announces,279.0,0.0
+2025-08-01 16:08:32,Stifel,Hold,Hold,main,Raises,250.0,236.0
+2025-08-01 14:02:14,Baird,Outperform,Outperform,main,Raises,280.0,241.0
+2025-08-01 12:50:12,Keybanc,Overweight,Overweight,main,Raises,280.0,250.0
+2025-07-21 12:49:07,Stifel,Hold,Hold,main,Raises,236.0,180.0
+2025-07-15 12:25:48,Keybanc,Overweight,Overweight,main,Raises,250.0,225.0
+2025-05-06 15:29:07,Morgan Stanley,Underweight,Underweight,main,Raises,180.0,179.0
+2025-05-01 16:12:39,Stifel,Hold,Hold,main,Raises,180.0,178.0
+2025-05-01 13:56:39,Keybanc,Overweight,Overweight,main,Lowers,225.0,245.0
+2025-05-01 12:27:38,Baird,Outperform,Outperform,main,Lowers,212.0,242.0
+2025-04-16 16:00:23,Morgan Stanley,Underweight,Underweight,main,Lowers,179.0,187.0
+2025-04-14 14:27:01,Stifel,Hold,Hold,main,Lowers,178.0,220.0
+2025-02-18 13:18:15,Barclays,Overweight,Overweight,main,Raises,235.0,220.0
+2025-02-14 17:09:43,Keybanc,Overweight,Overweight,main,Raises,245.0,230.0
+2025-01-24 15:56:21,Stifel,Hold,Hold,main,Lowers,211.0,216.0
+2024-12-11 15:40:55,Stifel,Hold,Hold,main,Raises,216.0,195.0
+2024-11-14 12:40:03,Keybanc,Overweight,Overweight,main,Raises,230.0,210.0
+2024-10-16 14:08:03,Stifel,Hold,Hold,main,Raises,185.0,184.0
+2024-09-04 16:27:07,Baird,Outperform,Outperform,main,Lowers,212.0,220.0
+2024-08-01 16:28:16,Barclays,Overweight,Overweight,main,Raises,220.0,185.0
+2024-08-01 11:46:25,Baird,Outperform,Outperform,main,Raises,220.0,213.0
+2024-07-18 15:39:38,Stifel,Hold,Hold,main,Raises,213.0,209.0
+2024-05-24 15:24:18,Loop Capital,Buy,Buy,main,Lowers,265.0,285.0
+2024-05-24 12:06:40,Baird,Outperform,Outperform,main,Lowers,236.0,252.0
+2024-05-24 09:42:39,Keybanc,Overweight,Overweight,main,Lowers,240.0,280.0
+2024-04-29 16:46:35,Oppenheimer,Perform,Perform,main,,0.0,0.0
+2024-04-26 15:20:15,Stifel,Hold,Hold,main,Lowers,238.0,241.0
+2024-04-26 11:57:01,Baird,Outperform,Outperform,main,Lowers,252.0,257.0
+2024-04-17 14:49:45,Stifel,Hold,Hold,main,Raises,241.0,239.0
+2024-02-16 15:14:10,Stifel,Hold,Hold,main,Raises,239.0,208.0
+2024-02-16 13:39:36,Keybanc,Overweight,Overweight,main,Raises,280.0,232.0
+2024-01-11 19:59:28,Jefferies,Buy,Buy,main,Raises,250.0,215.0
+2024-01-08 16:51:06,Morgan Stanley,Underweight,,init,Announces,178.0,0.0
+2023-12-19 15:43:26,Stifel,Hold,Hold,main,Raises,208.0,192.0
+2023-10-31 11:38:41,Seaport Global,Buy,Neutral,up,Announces,210.0,0.0
+2023-10-30 15:12:10,Stifel,Hold,Hold,main,Lowers,192.0,210.0
+2023-09-27 10:14:45,UBS,Sell,,init,Announces,170.0,0.0
+2023-07-21 10:42:53,Oppenheimer,Perform,Outperform,down,,0.0,0.0
+2023-07-19 16:30:48,Stifel,Hold,Hold,main,Raises,211.0,176.0
+2023-06-28 08:12:17,Keybanc,Overweight,Sector Weight,up,Announces,232.0,0.0
+2023-05-30 10:59:19,Baird,Outperform,Outperform,main,Raises,200.0,184.0
+2023-05-02 09:38:16,Barclays,Overweight,,main,Raises,185.0,145.0
+2023-05-01 11:58:13,Morgan Stanley,Equal-Weight,,main,Raises,157.0,151.0
+2023-04-28 16:20:28,Oppenheimer,Outperform,,main,Raises,180.0,177.0
+2023-04-28 09:25:40,Baird,Outperform,,main,Raises,184.0,180.0
+2023-04-10 11:43:56,Oppenheimer,Outperform,,reit,Maintains,177.0,0.0
+2023-03-28 14:19:35,Loop Capital,Buy,,main,Raises,195.0,185.0
+2023-02-22 17:10:02,Morgan Stanley,Equal-Weight,,main,Raises,151.0,149.0
+2023-02-22 14:22:20,Baird,Outperform,,main,Raises,180.0,174.0
+2023-01-26 13:23:35,Oppenheimer,Outperform,,main,Raises,170.0,167.0
+2023-01-20 16:35:47,Stifel,Hold,,main,Raises,156.0,149.0
+2022-10-28 15:06:13,Morgan Stanley,Equal-Weight,,main,Raises,140.0,135.0
+2022-10-13 12:45:29,Morgan Stanley,Equal-Weight,,main,Lowers,135.0,136.0
+2022-08-01 13:34:56,Morgan Stanley,Equal-Weight,,main,Raises,136.0,126.0
+2022-07-18 13:10:22,Morgan Stanley,Equal-Weight,,main,Lowers,126.0,143.0
+2022-07-18 11:32:51,Stifel,Hold,,main,Lowers,122.0,134.0
+2022-04-29 14:02:14,Morgan Stanley,Equal-Weight,,main,Raises,150.0,143.0
+2022-04-18 12:46:58,Stifel,Hold,,main,Lowers,132.0,144.0
+2022-02-11 13:52:19,Morgan Stanley,Equal-Weight,,main,Raises,143.0,141.0
+2022-01-06 13:23:55,Loop Capital,Buy,,init,Announces,170.0,0.0
+2021-12-09 14:03:48,Morgan Stanley,Equal-Weight,,main,Raises,141.0,138.0
+2021-10-29 11:42:22,Oppenheimer,Outperform,,main,Raises,160.0,158.0
+2021-10-13 14:20:52,Morgan Stanley,Equal-Weight,,main,Lowers,138.0,142.0
+2021-07-28 12:58:54,Morgan Stanley,Equal-Weight,,main,Raises,142.0,136.0
+2021-07-28 11:58:15,Oppenheimer,Outperform,,main,Raises,155.0,147.0
+2021-07-14 11:50:55,Barclays,Overweight,,main,Raises,145.0,140.0
+2021-07-13 12:16:12,Morgan Stanley,Equal-Weight,,main,Raises,136.0,132.0
+2021-06-22 10:21:42,Oppenheimer,Outperform,Perform,up,Announces,147.0,0.0
+2021-04-28 13:04:27,Morgan Stanley,Equal-Weight,,main,Raises,132.0,121.0
+2021-04-28 11:32:34,Barclays,Overweight,,main,Raises,140.0,130.0
+2021-04-28 10:19:20,Vertical Research,Hold,Sell,up,Announces,140.0,0.0
+2021-04-12 13:52:30,Morgan Stanley,Equal-Weight,,main,Raises,121.0,120.0
+2020-12-15 17:24:16,Morgan Stanley,Equal-Weight,,main,Raises,120.0,99.0
+2020-10-28 14:52:43,Stifel,Hold,,main,Raises,102.0,93.0
+2020-10-28 11:56:36,Morgan Stanley,Equal-Weight,,main,Raises,99.0,90.0
+2020-10-19 11:28:56,Barclays,Overweight,Equal-Weight,up,Raises,117.0,96.0
+2020-07-28 12:00:16,Morgan Stanley,Equal-Weight,,main,Raises,90.0,86.0
+2020-07-08 13:08:03,Baird,Outperform,,main,Raises,91.0,86.0
+2020-06-26 11:29:29,Morgan Stanley,Equal-Weight,,init,Announces,86.0,0.0
+2020-04-07 12:51:21,Baird,Outperform,,main,Lowers,86.0,105.0
+2020-03-02 15:51:21,Vertical Research,Hold,Sell,up,,0.0,0.0
+2019-10-09 10:34:03,Stifel,Hold,Buy,down,Lowers,84.0,97.0
+2019-10-08 10:20:56,Oppenheimer,Perform,Outperform,down,,0.0,0.0
+2019-09-18 11:52:08,Seaport Global,Neutral,Buy,down,,0.0,0.0
+2019-07-12 10:21:34,Baird,Outperform,Neutral,up,Raises,100.0,93.0
+2019-06-27 10:09:10,Keybanc,Sector Weight,Overweight,down,,0.0,0.0
+2019-01-25 12:22:22,Jefferies,Buy,,init,Announces,100.0,0.0
+2018-10-26 13:40:01,Keybanc,Overweight,Overweight,main,Lowers,100.0,110.0
+2018-10-26 13:11:32,Gabelli & Co.,Buy,Hold,up,Announces,111.0,0.0
+2018-04-24 11:10:37,Stifel,Buy,Buy,main,Lowers,106.0,112.0
+2018-03-13 10:40:29,Keybanc,Overweight,Sector Weight,up,,0.0,0.0
+2018-01-24 17:02:02,Barclays,Equal-Weight,Equal-Weight,main,Raises,96.0,90.0
+2018-01-16 12:11:05,Stifel,Buy,Hold,up,,0.0,92.0
+2018-01-04 12:35:33,Oppenheimer,Outperform,Perform,up,,0.0,0.0
+2017-12-13 14:25:20,Barclays,Equal-Weight,,init,,0.0,0.0
+2017-10-30 15:19:06,Stifel,Hold,,main,Lowers,92.0,100.0
+2017-02-15 13:28:31,Longbow Research,Neutral,Underperform,up,,0.0,0.0
+2016-12-08 11:02:22,Stifel,Hold,Buy,down,,0.0,0.0
+2016-11-21 13:10:28,Keybanc,Sector Weight,Overweight,down,,0.0,0.0
+2016-11-15 14:33:12,Northcoast Research,Neutral,Buy,down,,0.0,0.0
+2016-10-24 04:00:00,Longbow Research,Underperform,Neutral,down,,0.0,0.0
+2016-10-12 04:00:00,Barclays,Equal-Weight,,main,Raises,0.0,0.0
+2016-09-07 10:27:36,Deutsche Bank,Hold,,init,Announces,70.0,0.0
+2016-08-25 03:02:29,Wellington Shields,Hold,Gradually Accumulate,down,,0.0,0.0
+2016-07-12 01:30:34,Barclays,Equal-Weight,,main,Lowers,52.0,54.0
+2016-04-27 11:10:01,Oppenheimer,Market Perform,,init,,0.0,0.0
+2016-04-20 13:15:16,Seaport Global,Buy,Neutral,up,,0.0,0.0
+2016-04-14 10:36:40,William Blair,Market Perform,,init,,0.0,0.0
+2016-04-04 11:06:43,Keybanc,Overweight,Sector Weight,up,,0.0,0.0
+2016-01-19 18:01:02,Barclays,Equal-Weight,,main,Lowers,51.0,56.0
+2015-11-02 18:08:47,Barclays,Equal-Weight,,main,Lowers,56.0,58.0
+2015-10-08 10:10:32,Longbow Research,Neutral,Buy,down,,0.0,0.0
+2015-09-25 10:16:30,Barclays,Equal-Weight,,init,Announces,58.0,0.0
+2015-09-24 20:12:10,Baird,Neutral,,init,Announces,57.0,0.0
+2015-06-23 10:25:44,RBC Capital,Sector Perform,,main,Lowers,67.0,0.0
+2015-04-07 11:16:48,RBC Capital,Sector Perform,,init,Announces,67.0,0.0
+2015-03-10 10:56:11,BB&T Capital,Hold,Buy,down,,0.0,0.0
+2015-01-22 14:10:24,Gabelli & Co.,Hold,,init,,0.0,0.0
+2014-12-09 05:00:00,Longbow Research,Buy,Neutral,up,Announces,85.0,0.0
+2014-10-09 12:30:00,Wunderlich Securities,Buy,,init,Announces,85.0,0.0
+2014-07-28 18:30:45,Great Lakes,,,up,,0.0,0.0
+2014-06-16 10:18:47,BB&T Capital,Buy,Hold,up,,0.0,0.0
+2014-02-26 13:00:00,Great Lakes,Hold,,down,,0.0,0.0
+2013-09-27 12:54:21,Janney Montgomery Scott,Neutral,Buy,down,Maintains,70.0,0.0
+2013-07-30 13:05:41,Stifel,Buy,,main,Raises,68.0,60.0
+2013-02-19 13:59:04,Stifel,Buy,,main,Raises,60.0,56.0
+2012-03-06 13:06:00,Stifel,Buy,,init,Announces,56.0,0.0

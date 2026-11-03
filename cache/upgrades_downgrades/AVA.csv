@@ -1,0 +1,54 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-10-09 14:01:52,Barclays,Equal-Weight,Equal-Weight,main,Lowers,35.0,37.0
+2026-08-04 10:53:01,Barclays,Equal-Weight,Equal-Weight,main,Lowers,37.0,40.0
+2026-07-06 11:01:25,Barclays,Equal-Weight,Equal-Weight,main,Raises,40.0,39.0
+2026-06-15 13:29:17,Barclays,Equal-Weight,Equal-Weight,main,Lowers,39.0,42.0
+2026-06-04 12:58:32,Barclays,Equal-Weight,Equal-Weight,main,Raises,42.0,40.0
+2026-05-06 14:44:25,Barclays,Equal-Weight,Equal-Weight,main,Lowers,40.0,41.0
+2026-05-06 13:05:54,Mizuho,Neutral,Neutral,main,Raises,42.0,41.0
+2026-04-15 15:06:50,Barclays,Equal-Weight,Equal-Weight,main,Raises,41.0,40.0
+2026-03-09 12:34:40,Barclays,Equal-Weight,,init,Announces,40.0,0.0
+2026-01-28 18:48:01,Jefferies,Hold,Hold,main,Lowers,39.0,41.0
+2026-01-20 16:11:38,Wells Fargo,Equal-Weight,Equal-Weight,main,Lowers,37.0,38.0
+2025-10-28 13:57:36,Wells Fargo,Equal-Weight,,init,Announces,38.0,0.0
+2025-10-22 15:35:13,Jefferies,Hold,Hold,main,Raises,41.0,40.0
+2025-06-05 15:18:42,Jefferies,Hold,Hold,main,Lowers,40.0,44.0
+2025-01-28 22:09:05,Jefferies,Hold,Hold,main,Lowers,39.0,40.0
+2024-12-09 17:52:11,Jefferies,Hold,,init,Announces,40.0,0.0
+2024-05-03 09:26:39,Mizuho,Neutral,Underperform,up,Raises,36.0,32.0
+2024-01-22 14:54:33,Guggenheim,Neutral,Sell,up,Announces,34.0,0.0
+2023-09-22 15:55:11,Mizuho,Underperform,Underperform,main,Lowers,33.0,36.0
+2023-08-25 07:04:44,Keybanc,Sector Weight,Underweight,up,,0.0,0.0
+2023-07-21 11:38:42,Mizuho,Underperform,Underperform,main,Lowers,36.0,38.0
+2023-07-07 16:27:20,Guggenheim,Sell,Sell,main,Lowers,33.0,35.0
+2023-02-09 11:55:15,Mizuho,Underperform,Neutral,down,Lowers,38.0,45.0
+2023-01-17 09:34:57,Keybanc,Underweight,,main,Lowers,32.0,33.0
+2022-12-13 11:48:45,Mizuho,Neutral,,main,Raises,44.0,40.0
+2022-11-02 11:25:43,Mizuho,Neutral,Buy,down,Lowers,40.0,44.0
+2022-11-02 08:32:37,Keybanc,Underweight,Sector Weight,down,Announces,33.0,0.0
+2022-09-23 11:25:07,Mizuho,Buy,Neutral,up,,0.0,0.0
+2022-06-29 12:58:14,Mizuho,Neutral,,main,Raises,44.0,43.0
+2022-03-10 09:59:09,Mizuho,Neutral,,init,Announces,47.0,0.0
+2021-03-26 13:33:49,Sidoti & Co.,Neutral,Buy,down,Announces,48.0,0.0
+2021-01-08 17:03:02,B of A Securities,Underperform,Neutral,down,Announces,37.0,0.0
+2020-09-22 15:54:38,B of A Securities,Neutral,Buy,down,Lowers,35.0,39.0
+2020-03-24 09:00:14,Keybanc,Sector Weight,Underweight,up,,0.0,0.0
+2020-01-17 10:47:10,Keybanc,Underweight,,main,Raises,42.0,41.0
+2020-01-16 16:59:15,B of A Securities,Underperform,,main,Raises,48.0,46.0
+2020-01-08 11:24:04,Guggenheim,Sell,Neutral,down,,0.0,0.0
+2019-10-21 09:56:17,Keybanc,Underweight,,main,Raises,41.0,37.0
+2019-09-16 12:39:03,Williams Capital,Sell,Hold,down,Raises,42.0,41.0
+2019-05-09 12:21:30,B of A Securities,Underperform,,init,Announces,43.0,0.0
+2016-11-04 10:33:27,Guggenheim,Neutral,,init,,0.0,0.0
+2016-03-31 10:34:24,Mizuho,Neutral,,init,Announces,41.0,0.0
+2016-03-18 11:04:58,UBS,Sell,Neutral,down,,0.0,0.0
+2014-12-22 05:00:00,UBS,Neutral,Sell,up,Raises,34.0,30.0
+2014-04-08 13:05:50,CRT Capital,Fair Value,,init,Announces,32.0,0.0
+2014-01-02 21:00:00,BMO Capital,Market Perform,Underperform,up,Raises,29.0,26.0
+2013-08-09 11:35:05,DA Davidson,Neutral,,main,Raises,30.0,27.0
+2013-05-02 10:47:52,DA Davidson,Neutral,,main,Raises,28.0,26.0
+2013-04-04 12:14:04,UBS,Neutral,Buy,down,,0.0,0.0
+2013-02-20 18:30:33,DA Davidson,Neutral,,main,Raises,26.0,25.0
+2012-12-27 21:14:10,DA Davidson,Neutral,,main,Lowers,25.0,26.0
+2012-10-24 11:51:00,BMO Capital,Underperform,Market Perform,down,Lowers,24.0,27.0
+2012-08-08 20:47:00,Williams Capital,Hold,,main,Raises,27.0,26.0

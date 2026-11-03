@@ -1,0 +1,60 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-10-08 20:58:06,JP Morgan,Overweight,Overweight,main,Lowers,41.0,42.0
+2026-08-17 14:39:48,Evercore ISI Group,Outperform,Outperform,main,Lowers,40.0,41.0
+2026-08-17 13:59:20,RBC Capital,Outperform,Outperform,main,Raises,46.0,44.0
+2026-08-06 17:25:24,Wells Fargo,Overweight,Overweight,main,Lowers,40.0,43.0
+2026-07-21 16:09:37,RBC Capital,Outperform,Outperform,main,Raises,44.0,41.0
+2026-06-03 18:04:44,Mizuho,Outperform,Outperform,main,Raises,40.0,38.0
+2026-05-13 18:11:55,Citigroup,Buy,Buy,main,Raises,43.0,40.0
+2026-05-07 14:41:10,Wells Fargo,Overweight,Overweight,main,Raises,43.0,40.0
+2026-04-02 12:14:59,Mizuho,Outperform,Outperform,main,Raises,38.0,32.0
+2026-03-16 11:53:04,RBC Capital,Outperform,Outperform,main,Raises,40.0,32.0
+2026-03-13 14:21:34,Wells Fargo,Overweight,Overweight,main,Raises,40.0,39.0
+2026-03-05 13:55:17,Evercore ISI Group,Outperform,Outperform,main,Raises,42.0,35.0
+2026-03-02 18:41:57,Citigroup,Buy,Buy,main,Raises,40.0,31.0
+2026-02-27 15:44:10,Wells Fargo,Overweight,Overweight,main,Raises,39.0,30.0
+2026-02-26 14:16:23,Stifel,Buy,Buy,main,Raises,40.0,31.0
+2025-10-30 16:11:36,Evercore ISI Group,Outperform,Outperform,main,Raises,35.0,31.0
+2025-10-30 14:14:59,RBC Capital,Outperform,Outperform,main,Raises,32.0,31.0
+2025-09-03 12:31:01,Wells Fargo,Overweight,,init,Announces,30.0,0.0
+2025-08-29 15:30:28,Mizuho,Outperform,Outperform,main,Raises,32.0,31.0
+2025-08-06 13:23:30,Evercore ISI Group,Outperform,Outperform,main,Lowers,31.0,32.0
+2025-03-18 14:30:51,Citigroup,Buy,Buy,main,Raises,33.0,32.0
+2024-11-29 16:01:07,JP Morgan,Overweight,Overweight,main,Raises,27.0,25.0
+2024-11-14 16:49:00,RBC Capital,Outperform,Outperform,main,Raises,27.0,26.0
+2024-10-16 16:43:23,RBC Capital,Outperform,Outperform,main,Raises,26.0,22.0
+2024-10-02 12:15:21,Mizuho,Outperform,,init,Announces,24.0,0.0
+2024-09-27 13:49:24,Citigroup,Buy,,init,Announces,24.0,0.0
+2024-09-25 10:56:13,Evercore ISI Group,Outperform,,init,Announces,24.0,0.0
+2024-09-06 12:10:56,JP Morgan,Overweight,,init,Announces,24.0,0.0
+2024-08-07 15:40:21,RBC Capital,Outperform,Outperform,reit,Maintains,22.0,22.0
+2024-07-24 12:13:54,Stifel,Buy,Buy,main,Raises,25.0,23.0
+2024-05-02 17:39:16,Stifel,Buy,Buy,main,Raises,23.0,20.0
+2024-03-28 15:50:10,RBC Capital,Outperform,Outperform,main,Raises,21.0,20.0
+2024-02-28 14:49:46,RBC Capital,Outperform,Outperform,main,Raises,20.0,18.0
+2023-10-17 12:10:15,Raymond James,Outperform,Outperform,main,Raises,15.0,14.0
+2023-08-02 16:50:18,Stifel,Buy,Buy,main,Raises,17.0,13.0
+2023-08-02 15:47:24,RBC Capital,Outperform,Outperform,main,Raises,17.0,15.0
+2023-08-02 11:39:19,Raymond James,Outperform,Outperform,main,Raises,14.0,13.0
+2023-05-04 13:41:01,RBC Capital,Outperform,,reit,Maintains,15.0,0.0
+2023-02-24 13:23:49,Raymond James,Outperform,,main,Raises,13.0,10.0
+2023-02-23 12:51:02,RBC Capital,Outperform,,main,Raises,15.0,12.0
+2020-03-17 11:41:01,B. Riley Securities,Buy,,main,Lowers,8.5,13.0
+2020-02-24 11:46:39,B. Riley Securities,Buy,,main,Lowers,13.0,16.0
+2018-08-06 13:19:10,B. Riley Securities,Buy,Buy,main,Raises,16.0,15.0
+2018-05-22 12:48:30,B. Riley Securities,Buy,Buy,main,Raises,15.0,14.0
+2018-05-09 11:42:34,B. Riley Securities,Buy,Neutral,up,,0.0,0.0
+2018-05-01 12:12:44,JP Morgan,Neutral,Overweight,down,,0.0,0.0
+2018-03-22 12:07:14,JP Morgan,Overweight,Neutral,up,,0.0,13.0
+2018-02-23 14:39:35,Capital One,Overweight,Equal-Weight,up,,0.0,0.0
+2018-01-26 12:55:43,Piper Sandler,Overweight,Neutral,up,,0.0,0.0
+2017-08-23 11:05:29,RBC Capital,Outperform,Sector Perform,up,,0.0,0.0
+2017-01-06 11:52:59,JP Morgan,Neutral,,init,Announces,13.0,0.0
+2016-11-14 14:32:21,Capital One,Overweight,Equal-Weight,up,,0.0,0.0
+2016-08-22 11:35:46,Piper Sandler,Neutral,,init,,0.0,0.0
+2016-08-05 10:04:30,RBC Capital,Sector Perform,Underperform,up,,0.0,0.0
+2016-07-15 12:50:14,FBR Capital,Market Perform,,init,,0.0,0.0
+2016-06-22 11:35:12,Scotiabank,,Sector Outperform,down,,0.0,0.0
+2016-05-03 12:20:21,RBC Capital,Underperform,Sector Perform,down,,0.0,0.0
+2016-04-05 12:58:09,RF Lafferty,Buy,,init,Announces,9.5,0.0
+2016-03-28 12:29:33,Scotiabank,,Sector Perform,up,,0.0,0.0

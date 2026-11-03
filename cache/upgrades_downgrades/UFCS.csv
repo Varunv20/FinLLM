@@ -1,0 +1,33 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-08-05 15:54:33,Piper Sandler,Overweight,Overweight,main,Raises,60.0,57.0
+2026-05-07 14:02:23,Piper Sandler,Overweight,Overweight,main,Raises,57.0,45.0
+2026-05-07 13:49:04,Jones Trading,Buy,Buy,main,Raises,45.0,40.0
+2026-05-06 14:48:58,Piper Sandler,Overweight,Neutral,up,Raises,45.0,41.0
+2026-03-02 21:31:53,Jones Trading,Buy,Buy,main,Raises,40.0,38.0
+2026-02-12 15:32:01,Piper Sandler,Neutral,Neutral,main,Raises,41.0,37.0
+2025-12-22 12:53:14,Piper Sandler,Neutral,Neutral,main,Raises,37.0,35.0
+2025-11-12 12:34:54,Jones Trading,Buy,Buy,main,Raises,38.0,33.0
+2025-08-11 11:08:22,Jones Trading,Buy,Buy,main,Raises,33.0,32.0
+2025-05-12 21:57:50,Jones Trading,Buy,Buy,main,Maintains,32.0,32.0
+2025-03-05 12:13:08,Jones Trading,Buy,,init,Announces,32.0,0.0
+2025-02-13 15:57:29,Piper Sandler,Neutral,Neutral,main,Raises,28.0,26.0
+2024-11-18 16:48:31,Piper Sandler,Neutral,Underweight,up,Raises,26.0,19.0
+2024-08-08 11:38:17,Piper Sandler,Underweight,Underweight,main,Lowers,19.0,21.0
+2024-04-01 14:24:44,Piper Sandler,Underweight,Underweight,main,Maintains,21.0,0.0
+2023-10-06 11:43:29,Piper Sandler,Underweight,Underweight,main,Lowers,18.0,19.0
+2023-07-06 14:32:15,Piper Sandler,Underweight,Underweight,main,Lowers,22.0,26.0
+2023-04-04 12:49:46,Piper Sandler,Underweight,,main,Raises,26.0,25.0
+2023-02-13 11:13:12,Piper Sandler,Underweight,Neutral,down,Lowers,25.0,30.0
+2022-10-28 09:30:45,Piper Sandler,Neutral,Overweight,down,Lowers,31.0,37.0
+2022-08-05 10:14:04,Piper Sandler,Overweight,Neutral,up,Announces,37.0,0.0
+2022-06-27 13:54:41,Piper Sandler,Neutral,Overweight,down,Announces,37.0,0.0
+2022-03-21 10:46:46,Piper Sandler,Overweight,,main,Raises,37.0,30.0
+2021-12-01 15:39:11,Piper Sandler,Overweight,Neutral,up,Raises,25.0,22.0
+2021-06-28 16:01:19,Sidoti & Co.,Buy,Neutral,up,Announces,38.0,0.0
+2020-09-18 13:56:10,Sidoti & Co.,Neutral,,main,Lowers,26.0,31.0
+2020-05-04 14:52:57,Sidoti & Co.,Neutral,,main,Lowers,31.0,35.0
+2020-04-06 15:17:17,Piper Sandler,Neutral,,main,Lowers,30.0,44.0
+2017-09-22 14:14:43,Piper Sandler,Buy,Hold,up,,0.0,0.0
+2014-11-05 14:00:00,"Keefe, Bruyette & Woods",Market Perform,,main,Raises,33.0,31.5
+2014-02-11 21:00:00,Piper Sandler,Buy,Hold,up,,0.0,0.0
+2012-07-10 13:50:00,Piper Sandler,Hold,,main,Raises,23.0,19.0

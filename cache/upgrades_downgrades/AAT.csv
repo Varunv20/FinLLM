@@ -1,0 +1,52 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-07-22 18:29:30,Morgan Stanley,Underweight,Underweight,main,Raises,24.0,18.0
+2026-03-26 17:42:47,Morgan Stanley,Underweight,Underweight,main,Raises,18.0,17.0
+2026-01-06 15:23:33,Morgan Stanley,Equal-Weight,Equal-Weight,main,Lowers,19.0,20.0
+2025-08-20 17:44:43,Mizuho,Neutral,Neutral,main,Lowers,21.0,22.0
+2025-04-24 16:38:37,Morgan Stanley,Equal-Weight,Equal-Weight,main,Lowers,20.0,24.0
+2025-02-25 17:50:54,Mizuho,Neutral,Neutral,main,Lowers,22.0,28.0
+2024-12-10 13:22:30,Mizuho,Neutral,Neutral,main,Raises,28.0,26.0
+2024-10-30 17:28:24,Morgan Stanley,Equal-Weight,Equal-Weight,main,Raises,24.0,23.0
+2024-08-19 15:34:22,Mizuho,Neutral,Neutral,main,Raises,26.0,22.0
+2024-02-23 15:15:21,Mizuho,Neutral,Neutral,main,Lowers,22.0,23.0
+2024-01-10 15:37:04,Mizuho,Neutral,Neutral,main,Raises,23.0,20.0
+2023-12-01 12:13:17,Mizuho,Neutral,Neutral,main,Lowers,20.0,21.0
+2023-09-18 13:44:48,Mizuho,Neutral,Neutral,main,Lowers,21.0,22.0
+2023-07-20 15:52:27,Mizuho,Neutral,Neutral,main,Raises,22.0,19.0
+2023-05-25 11:34:22,Mizuho,Neutral,Neutral,main,Lowers,19.0,30.0
+2023-02-10 12:54:23,Mizuho,Neutral,,reit,Maintains,30.0,0.0
+2022-08-29 11:48:17,Morgan Stanley,Equal-Weight,,main,Raises,28.0,25.5
+2022-07-27 13:40:34,Mizuho,Neutral,,main,Lowers,30.0,37.0
+2022-07-15 13:18:14,Morgan Stanley,Equal-Weight,,main,Lowers,25.5,34.5
+2022-07-14 10:22:30,Keybanc,Sector Weight,Overweight,down,,0.0,0.0
+2022-06-06 12:09:31,Morgan Stanley,Equal-Weight,,main,Lowers,34.5,35.0
+2022-03-21 12:00:53,Morgan Stanley,Equal-Weight,,main,Lowers,35.0,37.0
+2022-02-15 12:13:20,Mizuho,Neutral,,main,Lowers,37.0,40.0
+2022-01-20 12:08:25,Mizuho,Neutral,Buy,down,Lowers,40.0,41.0
+2021-08-27 11:40:49,Morgan Stanley,Equal-Weight,,main,Raises,38.5,36.0
+2021-06-21 08:36:57,Keybanc,Overweight,,main,Raises,44.0,42.0
+2021-06-11 11:48:02,Morgan Stanley,Equal-Weight,,main,Raises,36.0,33.0
+2021-05-24 11:39:13,Morgan Stanley,Equal-Weight,,main,Raises,33.0,28.5
+2021-05-17 09:53:10,Keybanc,Overweight,Sector Weight,up,Announces,42.0,0.0
+2021-02-23 12:56:12,Morgan Stanley,Equal-Weight,,main,Raises,28.5,27.4
+2020-06-04 12:28:36,Wells Fargo,Overweight,,main,Raises,33.0,30.0
+2020-05-21 12:15:09,Wells Fargo,Overweight,,main,Lowers,30.0,51.0
+2020-05-18 11:11:21,Morgan Stanley,Equal-Weight,Overweight,down,Announces,25.0,0.0
+2019-05-30 10:20:29,JMP Securities,Market Outperform,Market Perform,up,,0.0,0.0
+2019-04-09 10:05:28,Keybanc,Sector Weight,Overweight,down,,0.0,0.0
+2018-12-20 11:08:55,Keybanc,Overweight,Sector Weight,up,Announces,45.0,0.0
+2018-12-17 14:11:45,Morgan Stanley,Overweight,Overweight,main,Raises,45.0,40.0
+2018-06-14 11:09:12,Morgan Stanley,Overweight,Overweight,main,Lowers,40.0,37.0
+2018-03-27 11:58:58,Morgan Stanley,Overweight,Equal-Weight,up,,0.0,0.0
+2018-03-01 14:23:49,B of A Securities,Underperform,Neutral,down,,0.0,0.0
+2018-02-22 14:20:03,Mizuho,Buy,Neutral,up,,0.0,44.0
+2017-11-02 12:47:08,B of A Securities,Neutral,Buy,down,,0.0,0.0
+2017-04-12 10:11:07,Canaccord Genuity,Buy,,reit,Raises,50.0,48.0
+2017-02-22 12:01:14,Mizuho,Neutral,Buy,down,Raises,44.0,43.0
+2016-11-07 11:27:42,Mizuho,Buy,Neutral,up,,0.0,0.0
+2016-07-18 10:29:47,Mizuho,Neutral,Buy,down,,0.0,0.0
+2016-04-13 20:27:39,Mizuho,Buy,,init,Announces,46.0,0.0
+2014-12-08 08:57:13,MLV & Co.,Buy,,main,Raises,42.0,41.0
+2014-02-28 13:00:00,JMP Securities,Market Perform,Market Outperform,down,Removes,36.0,0.0
+2013-11-18 21:13:41,McNicoll Lewis Vlak,Hold,,init,,0.0,0.0
+2012-09-20 14:23:00,Keybanc,Hold,Buy,down,Removes,0.0,0.0

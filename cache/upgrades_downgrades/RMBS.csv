@@ -1,0 +1,96 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-10-27 19:48:25,Rosenblatt,Buy,Buy,main,Maintains,165.0,165.0
+2026-10-27 13:55:07,Susquehanna,Neutral,Neutral,main,Raises,103.0,100.0
+2026-07-28 14:27:59,Evercore ISI Group,Outperform,Outperform,main,Lowers,160.0,172.0
+2026-07-28 12:31:47,Rosenblatt,Buy,Buy,main,Maintains,165.0,165.0
+2026-07-16 10:12:04,Benchmark,Buy,,init,Announces,165.0,0.0
+2026-04-28 17:58:50,Jefferies,Buy,Buy,main,Raises,145.0,120.0
+2026-04-28 13:44:27,Wells Fargo,Overweight,Overweight,main,Raises,145.0,115.0
+2026-04-28 13:32:09,Evercore ISI Group,Outperform,Outperform,main,Raises,172.0,119.0
+2026-04-28 12:47:12,Rosenblatt,Buy,Buy,main,Raises,150.0,130.0
+2026-04-28 09:36:42,Baird,Neutral,Outperform,down,Maintains,120.0,120.0
+2025-04-29 11:03:34,Rosenblatt,Buy,Buy,main,Maintains,80.0,80.0
+2025-02-04 15:49:44,Susquehanna,Positive,Positive,main,Raises,70.0,66.0
+2025-02-04 14:52:20,Wells Fargo,Overweight,Overweight,main,Raises,73.0,62.0
+2025-02-04 12:22:29,Rosenblatt,Buy,Buy,main,Raises,92.0,85.0
+2024-11-25 21:22:31,Baird,Outperform,,init,Announces,90.0,0.0
+2024-11-11 23:04:46,Loop Capital,Buy,,init,Announces,70.0,0.0
+2024-11-06 13:03:27,Wells Fargo,Overweight,,init,Announces,62.0,0.0
+2024-10-29 14:04:13,Rosenblatt,Buy,Buy,main,Maintains,85.0,85.0
+2024-09-10 13:04:02,Rosenblatt,Buy,Buy,main,Maintains,85.0,85.0
+2024-07-26 12:38:54,Susquehanna,Positive,Positive,main,Lowers,66.0,75.0
+2024-03-13 17:00:24,Rosenblatt,Buy,Buy,reit,Maintains,85.0,0.0
+2024-02-06 17:57:08,Rosenblatt,Buy,Buy,reit,Maintains,85.0,0.0
+2024-01-26 14:17:51,Wells Fargo,Overweight,Overweight,main,Raises,85.0,80.0
+2023-12-28 17:35:14,Rosenblatt,Buy,Buy,reit,Maintains,85.0,0.0
+2023-09-19 11:15:23,Rosenblatt,Buy,Buy,reit,Maintains,73.0,0.0
+2023-08-14 11:09:56,Rosenblatt,Buy,Buy,reit,Maintains,73.0,0.0
+2023-08-01 16:50:18,Jefferies,Buy,Buy,main,Raises,66.0,65.0
+2023-08-01 11:10:27,Rosenblatt,Buy,Buy,reit,Maintains,73.0,0.0
+2023-07-25 11:20:15,Rosenblatt,Buy,Buy,reit,Maintains,73.0,0.0
+2023-07-21 11:21:30,Rosenblatt,Buy,Buy,reit,Maintains,73.0,0.0
+2023-07-21 10:59:32,Susquehanna,Positive,Positive,main,Raises,75.0,60.0
+2023-06-29 11:35:10,Rosenblatt,Buy,Buy,main,Raises,73.0,60.0
+2023-06-05 11:59:20,Wells Fargo,Overweight,Overweight,main,Raises,70.0,55.0
+2023-05-18 09:23:44,Jefferies,Buy,Hold,up,Raises,65.0,45.0
+2023-04-11 12:28:11,Wells Fargo,Overweight,,main,Raises,55.0,50.0
+2023-04-05 11:01:39,Rosenblatt,Buy,,reit,Maintains,60.0,0.0
+2023-02-03 14:47:26,Susquehanna,Positive,,main,Raises,60.0,36.0
+2023-01-18 12:06:39,Wells Fargo,Overweight,,main,Raises,50.0,42.0
+2023-01-09 15:22:53,Wells Fargo,Overweight,,main,Raises,42.0,35.0
+2022-11-01 13:35:21,Rosenblatt,Buy,,main,Raises,45.0,38.0
+2022-11-01 12:19:25,Deutsche Bank,Buy,,main,Raises,34.0,32.0
+2022-11-01 12:11:33,Susquehanna,Positive,,main,Raises,36.0,33.0
+2022-05-03 13:17:30,Deutsche Bank,Buy,,main,Raises,32.0,30.0
+2022-05-03 11:15:54,Rosenblatt,Buy,,main,Raises,38.0,35.0
+2022-02-08 13:37:49,Credit Suisse,Neutral,,main,Raises,28.0,25.0
+2021-11-02 12:14:27,Credit Suisse,Neutral,,main,Raises,25.0,22.5
+2021-10-14 11:29:29,Rosenblatt,Buy,,init,Announces,35.0,0.0
+2021-08-03 11:34:33,Credit Suisse,Neutral,,main,Raises,22.5,19.0
+2021-08-03 11:17:46,Wells Fargo,Overweight,,main,Raises,27.0,24.0
+2021-04-30 11:24:16,Susquehanna,Positive,,init,Announces,26.0,0.0
+2021-02-02 13:47:24,Credit Suisse,Neutral,,main,Raises,19.0,16.0
+2020-08-04 14:00:04,Deutsche Bank,Buy,,main,Raises,18.0,17.0
+2020-06-17 14:37:41,Jefferies,Hold,,main,Raises,17.0,14.0
+2020-05-05 12:44:37,Deutsche Bank,Buy,,main,Raises,17.0,15.0
+2019-09-18 13:15:16,Wells Fargo,Outperform,,main,Raises,16.0,15.0
+2019-07-30 11:57:08,Citigroup,Buy,,main,Raises,15.0,13.1
+2019-05-15 11:29:30,Wells Fargo,Outperform,,init,,0.0,0.0
+2018-10-30 14:12:14,Deutsche Bank,Buy,Buy,main,Lowers,13.0,16.0
+2018-05-29 12:15:22,Credit Suisse,Neutral,,init,Announces,16.0,0.0
+2018-03-27 11:45:01,Deutsche Bank,Buy,,init,Announces,17.0,0.0
+2017-10-25 18:57:50,Citigroup,Buy,,main,Raises,15.9,15.3
+2017-10-24 15:03:38,Loop Capital,Buy,,main,Raises,19.0,16.0
+2017-09-22 10:23:22,JP Morgan,Neutral,Overweight,down,,0.0,14.5
+2017-03-07 12:39:36,JP Morgan,Overweight,Overweight,main,Maintains,14.5,0.0
+2017-02-09 12:00:44,JP Morgan,Overweight,Neutral,up,,0.0,0.0
+2016-12-06 12:59:24,Loop Capital,Buy,,init,Announces,16.0,0.0
+2016-09-01 10:39:41,Roth Capital,Buy,,init,Announces,16.0,0.0
+2016-07-21 01:32:47,Citigroup,Buy,,main,Raises,15.0,14.0
+2016-06-03 10:05:39,Wunderlich Securities,Buy,,init,Announces,15.0,0.0
+2016-03-07 14:33:06,Sidoti & Co.,Neutral,Buy,down,,0.0,0.0
+2015-10-21 18:57:29,Citigroup,Buy,,main,Lowers,14.0,17.5
+2015-10-20 16:30:49,JP Morgan,Neutral,,main,Lowers,12.5,14.5
+2015-07-02 19:26:19,JP Morgan,Neutral,,main,Raises,14.5,12.5
+2015-06-11 13:00:00,Jefferies,Hold,,main,Raises,15.0,13.0
+2015-06-10 13:00:00,Citigroup,Buy,,main,Raises,17.5,15.0
+2015-06-10 12:38:52,Jefferies,Hold,,main,Raises,15.0,13.0
+2015-01-27 14:00:00,JP Morgan,Neutral,,main,Lowers,11.5,13.0
+2015-01-14 05:00:00,JP Morgan,Neutral,Overweight,down,Lowers,13.0,14.0
+2014-10-21 12:30:00,Jefferies,Hold,,main,Lowers,12.5,14.0
+2014-07-23 00:44:23,Jefferies,Hold,,main,Raises,15.0,14.0
+2014-07-23 00:01:34,Citigroup,Buy,,main,Raises,17.0,16.0
+2014-07-19 03:10:17,JP Morgan,Overweight,,main,Raises,15.5,15.0
+2014-06-12 23:38:17,JP Morgan,Overweight,,main,Raises,15.0,13.5
+2014-06-12 23:38:16,Jefferies,Hold,,main,Raises,14.0,13.0
+2014-04-23 03:37:03,Citigroup,Buy,,main,Raises,16.0,12.0
+2014-04-22 05:00:34,JP Morgan,Overweight,,main,Raises,13.5,12.0
+2014-04-22 04:25:36,Jefferies,Hold,,main,Raises,13.0,12.0
+2014-04-11 12:00:00,Benchmark,Buy,,init,Announces,16.0,0.0
+2014-01-22 13:00:00,Citigroup,Buy,Neutral,up,Announces,0.0,0.0
+2014-01-06 21:00:00,Jefferies,Hold,Buy,down,Lowers,10.0,13.0
+2013-12-11 12:29:00,Citigroup,Neutral,,init,Announces,12.0,0.0
+2013-12-10 11:30:55,Jefferies,Buy,,init,Announces,13.0,0.0
+2013-06-06 20:22:36,Topeka Capital,Buy,,init,Announces,10.0,0.0
+2012-11-19 11:04:00,JP Morgan,Overweight,Neutral,up,Announces,7.0,0.0
+2012-04-24 10:56:00,JP Morgan,Overweight,Neutral,up,Maintains,6.5,0.0

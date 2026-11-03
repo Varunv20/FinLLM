@@ -1,0 +1,89 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-10-19 16:34:27,Wells Fargo,Equal-Weight,Equal-Weight,main,Lowers,68.0,78.0
+2026-09-02 15:42:50,Truist Securities,Buy,Buy,main,Lowers,80.0,81.0
+2026-09-01 15:39:24,Wells Fargo,Equal-Weight,Equal-Weight,main,Lowers,78.0,79.0
+2026-06-25 16:38:25,Deutsche Bank,Hold,Hold,main,Lowers,80.0,85.0
+2026-06-15 14:57:06,BMO Capital,Outperform,Outperform,main,Lowers,80.0,90.0
+2026-06-12 14:17:52,Truist Securities,Buy,Buy,main,Lowers,81.0,89.0
+2026-06-01 15:24:06,Wells Fargo,Equal-Weight,Equal-Weight,main,Lowers,79.0,84.0
+2026-04-22 15:10:23,Wells Fargo,Equal-Weight,Equal-Weight,main,Lowers,84.0,86.0
+2026-04-22 13:15:47,Cantor Fitzgerald,Overweight,Overweight,reit,Maintains,94.0,94.0
+2026-04-22 12:18:48,Truist Securities,Buy,Buy,main,Lowers,89.0,92.0
+2026-03-27 12:57:12,Wells Fargo,Equal-Weight,Equal-Weight,main,Raises,86.0,85.0
+2026-03-12 17:05:31,Truist Securities,Buy,Buy,main,Raises,92.0,85.0
+2025-12-16 14:45:00,Truist Securities,Buy,Buy,main,Raises,83.0,81.0
+2025-12-04 13:25:16,Keybanc,Overweight,Overweight,main,Raises,88.0,80.0
+2025-11-25 17:02:06,Wells Fargo,Equal-Weight,Equal-Weight,main,Raises,85.0,80.0
+2025-10-01 13:49:57,Cantor Fitzgerald,Overweight,,init,Announces,90.0,0.0
+2025-08-27 14:01:29,Wells Fargo,Equal-Weight,Equal-Weight,main,Raises,80.0,76.0
+2025-08-15 12:34:21,Truist Securities,Buy,Buy,main,Raises,81.0,77.0
+2025-07-10 09:55:39,Keybanc,Overweight,Sector Weight,up,Announces,80.0,0.0
+2025-06-09 17:29:49,Truist Securities,Hold,Hold,main,Raises,77.0,76.0
+2025-03-19 16:33:18,Truist Securities,Hold,Hold,main,Raises,76.0,70.0
+2025-03-17 13:22:19,Wedbush,Outperform,Outperform,reit,Maintains,88.0,88.0
+2024-12-23 13:51:52,Truist Securities,Hold,Hold,main,Lowers,72.0,78.0
+2024-09-24 15:21:58,B of A Securities,Buy,,init,Announces,92.0,0.0
+2024-08-30 16:32:10,Truist Securities,Hold,Hold,main,Raises,78.0,65.0
+2024-06-26 14:44:23,Truist Securities,Hold,Hold,main,Raises,65.0,58.0
+2024-05-30 17:13:35,Wells Fargo,Overweight,Overweight,main,Raises,69.0,63.0
+2024-04-04 17:55:19,Truist Securities,Hold,Hold,main,Raises,58.0,55.0
+2024-03-18 12:35:44,Wedbush,Outperform,Outperform,main,Raises,66.0,64.0
+2024-03-12 11:31:48,BMO Capital,Outperform,Market Perform,up,Announces,67.0,0.0
+2024-02-26 18:35:13,Wedbush,Outperform,Neutral,up,Raises,64.0,57.0
+2024-02-26 10:44:06,Wells Fargo,Overweight,Equal-Weight,up,Raises,63.0,55.0
+2024-01-30 12:11:17,Deutsche Bank,Buy,,init,Announces,69.0,0.0
+2023-11-28 17:14:59,Stifel,Hold,Hold,reit,Maintains,55.0,0.0
+2023-11-27 13:59:49,Wells Fargo,Equal-Weight,Equal-Weight,main,Raises,55.0,54.0
+2023-10-03 11:56:57,Wedbush,Neutral,,init,Announces,54.0,0.0
+2023-09-28 11:26:21,Berenberg,Hold,,init,,0.0,0.0
+2023-09-20 09:29:21,Jefferies,Hold,,init,Announces,52.0,0.0
+2023-05-11 12:45:47,Wells Fargo,Equal-Weight,Equal-Weight,main,Raises,54.0,52.0
+2023-03-29 11:04:38,Credit Suisse,Neutral,,main,Lowers,50.0,55.0
+2022-12-09 12:32:04,Credit Suisse,Neutral,Underperform,up,Raises,58.0,47.0
+2022-09-26 13:59:03,Truist Securities,Hold,,main,Lowers,61.0,64.0
+2022-06-21 10:31:54,BMO Capital,Market Perform,Outperform,down,Announces,62.0,0.0
+2022-04-19 11:02:36,BMO Capital,Outperform,,main,Lowers,61.0,63.0
+2022-02-01 17:09:02,Credit Suisse,Underperform,,init,Announces,51.0,0.0
+2022-01-07 11:38:15,BMO Capital,Outperform,Market Perform,up,Announces,68.0,0.0
+2021-07-23 12:11:50,Wells Fargo,Equal-Weight,,main,Lowers,72.0,74.0
+2021-06-18 10:59:46,BMO Capital,Market Perform,Underperform,up,Announces,71.0,0.0
+2021-03-30 13:55:03,Capital One,Equal-Weight,Overweight,down,Announces,77.0,0.0
+2021-01-13 12:29:02,Mizuho,Underperform,Neutral,down,Announces,55.0,0.0
+2021-01-08 13:14:38,BMO Capital,Underperform,Market Perform,down,,0.0,0.0
+2020-12-14 09:53:34,Keybanc,Sector Weight,Underweight,up,,0.0,0.0
+2020-06-24 14:08:32,SunTrust Robinson Humphrey,Hold,,main,Raises,64.0,61.0
+2020-06-17 12:14:59,Wells Fargo,Equal-Weight,,main,Raises,66.0,54.0
+2020-05-22 09:49:48,Mizuho,Neutral,Buy,down,Lowers,55.0,60.0
+2020-05-14 10:09:07,Keybanc,Underweight,,main,Lowers,40.0,43.0
+2020-04-23 15:07:09,SunTrust Robinson Humphrey,Hold,,main,Lowers,61.0,77.0
+2020-04-21 10:15:33,Keybanc,Underweight,,main,Lowers,43.0,65.0
+2020-03-26 12:53:59,Wells Fargo,Equal-Weight,,main,Lowers,51.0,82.0
+2020-02-05 11:16:08,Berenberg,Buy,,init,,0.0,0.0
+2020-01-07 13:12:45,BMO Capital,Market Perform,Underperform,up,Announces,82.0,0.0
+2019-02-20 12:07:12,BMO Capital,Underperform,Market Perform,down,,0.0,0.0
+2018-08-08 12:02:44,Cantor Fitzgerald,Neutral,Neutral,main,Raises,80.0,75.0
+2018-05-31 12:47:02,Wells Fargo,Market Perform,Market Perform,main,Raises,75.0,68.0
+2018-04-17 11:18:13,Keybanc,Underweight,Underweight,main,Lowers,60.0,70.0
+2017-12-19 21:28:32,Keybanc,Underweight,Sector Weight,down,,0.0,0.0
+2017-10-23 12:28:18,Capital One,Equal-Weight,,init,,0.0,0.0
+2017-10-11 10:39:54,SunTrust Robinson Humphrey,Hold,,init,Announces,80.0,0.0
+2016-09-14 11:24:14,Stephens & Co.,Overweight,,init,Announces,84.0,0.0
+2016-03-11 11:33:40,B of A Securities,Neutral,Underperform,up,Raises,67.0,59.0
+2015-11-09 13:47:47,Stifel,Buy,,main,Lowers,66.0,69.0
+2015-09-21 10:30:04,Mizuho,Neutral,,main,Raises,63.0,59.0
+2015-08-12 10:48:16,BMO Capital,Market Perform,,down,,0.0,0.0
+2015-08-07 15:00:00,Stifel,Buy,,main,Lowers,69.0,74.0
+2015-04-08 10:03:47,BMO Capital,Outperform,,init,Announces,79.0,0.0
+2015-02-18 14:00:00,Stifel,Buy,,main,Lowers,80.0,83.0
+2015-01-13 05:00:00,JMP Securities,Market Perform,Market Outperform,down,Removes,0.0,71.0
+2014-11-05 14:00:00,JMP Securities,Market Outperform,,main,Raises,71.0,68.0
+2014-09-04 10:02:42,Mizuho,Neutral,,init,Announces,69.0,0.0
+2014-08-05 14:47:16,Hilliard Lyons,Neutral,Underperform,up,,0.0,0.0
+2014-05-06 04:48:56,JMP Securities,Market Outperform,,main,Raises,68.0,65.0
+2014-03-06 12:01:34,B of A Securities,Neutral,,main,Lowers,63.5,65.0
+2013-12-05 11:31:31,B of A Securities,Neutral,,init,Announces,61.0,0.0
+2013-11-22 18:42:39,JMP Securities,Market Outperform,Market Perform,up,Announces,65.0,0.0
+2013-02-19 13:23:01,BMO Capital,Market Perform,,main,Raises,66.0,55.0
+2013-01-16 13:54:38,Wells Fargo,Market Perform,Outperform,down,,0.0,0.0
+2012-04-24 11:24:00,BMO Capital,Market Perform,,init,Announces,50.0,0.0
+2012-02-16 18:57:00,Hilliard Lyons,Underperform,Neutral,down,,0.0,0.0

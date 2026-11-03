@@ -160,9 +160,24 @@ class Agent:
 
     # ------------------------------------------------------------------ generation
 
-    def run_batch(self, prompts, max_tokens=2048):
-        """Replies to many prompts. Each is a dict: text, input_tokens, output_tokens and
-        hit_max_tokens (the reply was cut off at max_tokens). vllm runs them concurrently."""
+    def run_batch(self, prompts, max_tokens=2048, force=None):
+        """Replies to many prompts. Each is a dict: text, input_tokens, output_tokens,
+        hit_max_tokens (the reply was cut off at max_tokens) and forced. vllm runs them
+        concurrently.
+
+        force: {"prefix": "Decision:", "choices": ["0", "1", "2"], "done": text -> bool}. A reply
+        cut off before done(text) is true gets an answer forced: its reasoning is closed, the
+        prefix written, and the model picks the most likely of the choices (budget forcing)."""
+        results, gen_ids = self._generate(prompts, max_tokens)
+        for r in results:
+            r["forced"] = False
+        if force:
+            todo = [k for k, r in enumerate(results) if r["hit_max_tokens"] and not force["done"](r["text"])]
+            if todo:
+                self._force(prompts, results, gen_ids, todo, force)
+        return results
+
+    def _generate(self, prompts, max_tokens):
         ids = [self.format(p) for p in prompts]
         too_long = [len(i) + max_tokens > self.max_model_len for i in ids]
         if any(too_long):
@@ -175,9 +190,10 @@ class Agent:
             outs = self.client.generate([{"prompt_token_ids": i} for i in ids], params, use_tqdm=False)
             results = [dict(text=o.outputs[0].text, input_tokens=len(i), output_tokens=len(o.outputs[0].token_ids),
                             hit_max_tokens=o.outputs[0].finish_reason == "length") for o, i in zip(outs, ids)]
+            gen_ids = [list(o.outputs[0].token_ids) for o in outs]
         else:
             import torch
-            results = []
+            results, gen_ids = [], []
             for i in ids:
                 x = torch.tensor([i], device=self.client.device)
                 with torch.inference_mode():
@@ -186,11 +202,65 @@ class Agent:
                 new = out[0, len(i):]
                 results.append(dict(text=self.tokenizer.decode(new, skip_special_tokens=True), input_tokens=len(i),
                                     output_tokens=len(new), hit_max_tokens=len(new) >= max_tokens))
+                gen_ids.append(new.tolist())
         elapsed = time.time() - start
         n_out = sum(r["output_tokens"] for r in results)
         print(f"[agent] {len(prompts)} prompts, {sum(r['input_tokens'] for r in results)} in / {n_out} out "
               f"tokens in {elapsed:.0f}s ({n_out / max(elapsed, 1e-9):.0f} output tok/s)", flush=True)
-        return results
+        return results, gen_ids
+
+    def _close_reasoning(self, text):
+        """(tokens that end an unfinished reasoning block, how they read in decoded text), or
+        None if the reply already got past its reasoning."""
+        if "gpt-oss" in self.model.lower():
+            # harmony format: analysis channel, then a final-channel message
+            if "assistantfinal" in text:
+                return None
+            return "<|end|><|start|>assistant<|channel|>final<|message|>", "assistantfinal"
+        if "<think>" in text and "</think>" not in text:
+            return "\n</think>\n\n", "\n</think>\n\n"
+        return None
+
+    def _force(self, prompts, results, gen_ids, todo, force):
+        """Budget forcing: append the reasoning close and prefix to each cut-off reply and take
+        the most likely allowed choice as the next token."""
+        enc = lambda s: self.tokenizer(s, add_special_tokens=False)["input_ids"]  # noqa: E731
+        # the choices as single tokens after the prefix (" 0" usually is one token; else "0")
+        choice_ids = [enc(" " + c) for c in force["choices"]]
+        sep = " "
+        if any(len(c) != 1 for c in choice_ids):
+            choice_ids, sep = [enc(c) for c in force["choices"]], ""
+        if any(len(c) != 1 for c in choice_ids):
+            raise ValueError(f"choices {force['choices']} aren't single tokens for {self.model}")
+        choice_ids = [c[0] for c in choice_ids]
+        prefix = force["prefix"] + ("" if sep else " ")
+        conts, shown = [], []
+        for k in todo:
+            close = self._close_reasoning(results[k]["text"])
+            tail, read = close if close else ("\n", "\n")
+            conts.append(self.format(prompts[k]) + gen_ids[k] + enc(tail + prefix))
+            shown.append(read + prefix + sep)
+        too_long = sum(len(c) + 1 > self.max_model_len for c in conts)
+        if too_long:
+            raise ValueError(f"{too_long} forced continuations exceed max_model_len={self.max_model_len}")
+        if self.engine == "vllm":
+            from vllm import SamplingParams
+            params = SamplingParams(temperature=0.0, max_tokens=1, allowed_token_ids=choice_ids)
+            outs = self.client.generate([{"prompt_token_ids": c} for c in conts], params, use_tqdm=False)
+            picks = [o.outputs[0].token_ids[0] for o in outs]
+        else:
+            import torch
+            picks = []
+            for c in conts:
+                x = torch.tensor([c], device=self.client.device)
+                with torch.inference_mode():
+                    logits = self.client(x).logits[0, -1]
+                picks.append(choice_ids[int(torch.argmax(logits[choice_ids]))])
+        label = dict(zip(choice_ids, force["choices"]))
+        for k, s, p in zip(todo, shown, picks):
+            results[k]["text"] += s + label[p]
+            results[k]["forced"] = True
+        print(f"[agent] forced a decision on {len(todo)} cut-off replies", flush=True)
 
     def run(self, prompt: str, max_tokens=500, get_probs=False) -> str:
         if self.provider == "anthropic":

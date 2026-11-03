@@ -1,0 +1,87 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-10-30 18:43:59,TD Cowen,Hold,Hold,main,Lowers,470.0,590.0
+2026-10-06 14:25:26,TD Cowen,Hold,Hold,main,Lowers,590.0,600.0
+2026-08-05 19:56:21,TD Cowen,Hold,Hold,main,Raises,600.0,575.0
+2026-07-07 14:14:43,TD Cowen,Hold,Hold,main,Raises,575.0,500.0
+2026-05-06 18:40:46,TD Cowen,Hold,Hold,main,Raises,500.0,450.0
+2026-04-17 12:34:37,Stephens & Co.,Equal-Weight,Equal-Weight,main,Raises,540.0,450.0
+2026-01-30 18:12:50,TD Cowen,Hold,Hold,main,Raises,470.0,460.0
+2025-10-31 18:23:38,TD Cowen,Sell,Sell,main,Lowers,430.0,450.0
+2025-01-31 20:36:45,TD Cowen,Sell,Sell,main,Raises,450.0,420.0
+2025-01-31 16:41:54,Stephens & Co.,Equal-Weight,Equal-Weight,main,Raises,500.0,452.0
+2025-01-08 20:57:55,TD Cowen,Sell,Sell,main,Raises,420.0,380.0
+2024-11-13 20:31:47,Stephens & Co.,Equal-Weight,,init,Announces,452.0,0.0
+2024-11-01 18:23:33,TD Cowen,Sell,Sell,main,Lowers,380.0,400.0
+2024-08-01 18:23:05,TD Cowen,Sell,Sell,main,Lowers,400.0,440.0
+2024-05-02 17:52:48,TD Cowen,Sell,Sell,main,Lowers,420.0,465.0
+2023-11-01 09:22:36,TD Cowen,Underperform,,init,,0.0,0.0
+2023-10-31 13:13:09,BMO Capital,Market Perform,Market Perform,main,Lowers,347.0,354.0
+2023-10-31 13:00:00,Stephens & Co.,Equal-Weight,Equal-Weight,reit,Maintains,440.0,0.0
+2023-05-02 11:47:31,Credit Suisse,Underperform,,main,Lowers,380.0,400.0
+2023-05-02 10:52:37,Stephens & Co.,Equal-Weight,,main,Lowers,440.0,442.0
+2023-03-09 15:04:13,Stephens & Co.,Equal-Weight,,reit,Maintains,442.0,0.0
+2023-02-01 12:40:16,BMO Capital,Market Perform,,main,Raises,380.0,360.0
+2022-11-03 13:20:10,BMO Capital,Market Perform,,main,Lowers,364.0,477.0
+2022-11-02 12:52:07,Stephens & Co.,Equal-Weight,,main,Lowers,442.0,519.0
+2022-11-02 11:44:20,Credit Suisse,Underperform,,main,Lowers,410.0,430.0
+2022-08-02 11:03:20,Credit Suisse,Underperform,,main,Lowers,440.0,460.0
+2022-05-03 11:07:56,Credit Suisse,Underperform,,main,Raises,460.0,440.0
+2022-02-01 14:31:19,BMO Capital,Market Perform,,main,Raises,428.0,411.0
+2021-11-02 12:17:54,Credit Suisse,Underperform,,main,Raises,420.0,380.0
+2021-11-02 11:52:08,JMP Securities,Market Underperform,,main,Raises,355.0,295.0
+2021-11-02 11:35:14,Stephens & Co.,Equal-Weight,,main,Raises,519.0,470.0
+2021-07-30 12:43:14,Credit Suisse,Underperform,,main,Raises,360.0,330.0
+2021-07-06 12:20:23,Credit Suisse,Underperform,,main,Raises,330.0,310.0
+2021-05-03 10:58:05,BMO Capital,Market Perform,,main,Raises,399.0,377.0
+2020-07-31 16:26:27,Janney Montgomery Scott,Neutral,Sell,up,Announces,394.0,0.0
+2020-07-31 13:23:43,Credit Suisse,Underperform,,main,Raises,240.0,200.0
+2020-04-03 14:56:36,JMP Securities,Market Underperform,,main,Lowers,150.0,350.0
+2020-03-19 12:43:53,BTIG,Sell,,main,Lowers,190.0,340.0
+2020-01-31 12:27:45,Janney Montgomery Scott,Sell,Neutral,down,,0.0,0.0
+2019-11-14 13:46:00,Credit Suisse,Underperform,,reit,Raises,390.0,380.0
+2019-11-05 13:22:01,Stephens & Co.,Equal-Weight,,main,Lowers,290.0,495.0
+2019-04-30 13:14:10,Stephens & Co.,Equal-Weight,Equal-Weight,main,Raises,495.0,381.0
+2019-03-28 11:57:42,Buckingham Research,Neutral,,init,Announces,440.0,0.0
+2019-01-31 11:16:33,Oppenheimer,Market Perform,Outperform,down,,0.0,0.0
+2019-01-24 13:30:24,BTIG,Sell,,init,Announces,340.0,0.0
+2019-01-03 13:39:55,Stephens & Co.,Equal-Weight,Underweight,up,Announces,381.0,0.0
+2018-11-01 14:36:27,BMO Capital,Market Perform,Market Perform,main,Raises,333.0,312.0
+2018-10-30 14:32:00,Credit Suisse,Underperform,Underperform,main,Raises,335.0,310.0
+2018-08-02 12:47:23,JMP Securities,Market Underperform,Market Underperform,main,Raises,350.0,260.0
+2018-08-02 12:33:23,BMO Capital,Market Perform,Market Perform,main,Raises,312.0,305.0
+2018-08-01 13:42:04,Susquehanna,Neutral,Neutral,main,Raises,371.0,350.0
+2018-08-01 10:28:00,Compass Point,Neutral,Sell,up,,0.0,0.0
+2018-02-01 15:18:29,BMO Capital,Market Perform,Market Perform,main,Lowers,295.0,312.0
+2018-01-09 13:53:38,Oppenheimer,Outperform,,init,Announces,355.0,0.0
+2017-10-31 17:10:57,B of A Securities,Underperform,,main,Raises,230.0,195.0
+2017-10-31 16:30:53,Credit Suisse,Underperform,,main,Raises,225.0,200.0
+2017-10-31 14:04:51,BMO Capital,Market Perform,,main,Raises,252.0,238.0
+2017-08-01 16:11:54,BMO Capital,Market Perform,,main,Raises,238.0,226.0
+2017-08-01 11:27:39,Raymond James,Market Perform,Underperform,up,,0.0,0.0
+2017-02-17 14:17:00,Janney Montgomery Scott,Sell,Neutral,down,,0.0,0.0
+2017-01-23 13:05:07,Susquehanna,Neutral,,init,Announces,226.0,0.0
+2016-11-01 04:00:00,Stephens & Co.,Underweight,,init,,0.0,0.0
+2016-09-06 09:24:25,Compass Point,Sell,Neutral,down,,0.0,0.0
+2016-07-27 08:25:27,Credit Suisse,Underperform,Neutral,down,Lowers,185.0,200.0
+2016-06-20 11:55:37,Janney Montgomery Scott,Neutral,,up,,0.0,0.0
+2016-03-16 09:35:11,JMP Securities,Market Underperform,Market Perform,down,,0.0,0.0
+2015-11-10 12:58:43,Compass Point,Neutral,Sell,up,Maintains,1.5,0.0
+2015-08-26 10:57:53,JMP Securities,Market Perform,Market Underperform,up,,0.0,0.0
+2015-07-30 15:00:00,JMP Securities,Market Underperform,,main,Raises,186.0,180.0
+2015-07-15 11:29:24,Janney Montgomery Scott,Sell,,init,Announces,168.0,0.0
+2015-04-30 13:00:00,JMP Securities,Market Underperform,,main,Raises,180.0,135.0
+2015-04-08 13:00:00,Jefferies,Hold,,main,Raises,185.0,171.0
+2015-03-02 14:00:00,Jefferies,Hold,,main,Raises,171.0,156.0
+2015-02-03 14:00:00,Jefferies,Hold,,main,Raises,156.0,142.0
+2015-01-30 14:00:00,Jefferies,Hold,,main,Raises,142.0,134.0
+2014-10-08 12:30:00,Macquarie,Neutral,,init,Announces,137.0,0.0
+2014-09-04 20:46:14,Jefferies,Hold,,init,,0.0,0.0
+2014-07-08 14:47:06,Compass Point,Sell,,init,Announces,104.0,0.0
+2014-02-04 21:00:00,JMP Securities,Market Perform,Market Outperform,down,Removes,0.0,130.0
+2014-01-15 12:12:17,B of A Securities,Neutral,,main,Raises,143.0,125.0
+2013-11-04 13:56:02,JMP Securities,Market Outperform,,main,Raises,130.0,125.0
+2013-10-16 11:15:56,Raymond James,Market Perform,,init,,0.0,0.0
+2013-06-10 10:11:33,B of A Securities,Neutral,,init,Announces,121.0,0.0
+2013-06-05 11:20:08,Credit Suisse,Neutral,,init,Announces,125.0,0.0
+2013-05-24 11:51:29,Stephens & Co.,Overweight,,init,Announces,125.0,0.0
+2013-03-05 12:56:57,JMP Securities,Market Outperform,,init,Announces,130.0,0.0

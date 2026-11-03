@@ -1,0 +1,95 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-10-09 17:54:20,Goldman Sachs,Sell,Sell,main,Raises,50.0,36.0
+2026-10-08 11:20:02,Mizuho,Underperform,Underperform,main,Raises,52.0,29.0
+2026-10-02 19:14:09,UBS,Neutral,Neutral,main,Raises,53.0,35.0
+2026-08-04 18:48:34,Mizuho,Underperform,Underperform,main,Raises,29.0,28.0
+2026-07-07 11:25:17,Mizuho,Underperform,Underperform,main,Lowers,28.0,35.0
+2026-05-27 12:38:03,Mizuho,Underperform,Underperform,main,Raises,35.0,32.0
+2026-04-22 15:18:55,Scotiabank,Sector Underperform,Sector Underperform,main,Raises,28.0,25.0
+2026-03-25 17:12:57,Raymond James,Market Perform,Underperform,up,,0.0,0.0
+2026-03-17 17:43:53,Mizuho,Underperform,Underperform,main,Raises,32.0,28.0
+2026-03-12 17:29:52,Goldman Sachs,Sell,Sell,main,Raises,25.0,22.0
+2025-10-22 11:48:23,Goldman Sachs,Sell,Sell,main,Raises,25.0,19.0
+2025-10-09 14:35:34,Scotiabank,Sector Underperform,Sector Underperform,main,Raises,26.0,25.0
+2025-09-15 11:05:48,Mizuho,Underperform,Neutral,down,Raises,29.0,27.0
+2025-07-11 15:16:32,Scotiabank,Sector Underperform,Sector Underperform,main,Raises,25.0,21.0
+2025-05-13 14:24:52,Mizuho,Neutral,Neutral,main,Raises,25.0,21.0
+2025-05-05 13:47:04,Scotiabank,Sector Underperform,Sector Underperform,main,Raises,21.0,16.0
+2025-04-11 21:27:21,Scotiabank,Sector Underperform,Sector Underperform,main,Lowers,16.0,22.0
+2025-04-01 12:35:46,Mizuho,Neutral,Neutral,main,Raises,21.0,20.0
+2025-03-27 16:26:29,Goldman Sachs,Sell,Sell,main,Lowers,16.0,19.0
+2024-12-16 17:05:26,Mizuho,Neutral,Neutral,main,Raises,20.0,18.0
+2024-12-06 16:15:10,Goldman Sachs,Sell,Sell,main,Lowers,21.0,24.0
+2024-10-10 17:22:04,Scotiabank,Sector Underperform,Sector Underperform,main,Lowers,21.0,25.0
+2024-10-02 15:40:27,JP Morgan,Underweight,Underweight,main,Lowers,23.0,26.0
+2024-09-16 13:31:11,Mizuho,Neutral,Neutral,main,Lowers,25.0,27.0
+2024-08-13 14:37:32,UBS,Neutral,Neutral,main,Lowers,30.0,33.75
+2024-07-31 19:45:58,Scotiabank,Sector Underperform,Sector Underperform,main,Raises,25.0,24.0
+2024-07-17 09:41:05,Mizuho,Neutral,,init,Announces,27.0,0.0
+2024-07-12 21:27:27,Scotiabank,Sector Underperform,Sector Underperform,main,Lowers,24.0,29.0
+2024-07-02 15:18:29,JP Morgan,Underweight,Underweight,main,Lowers,26.0,30.0
+2024-05-14 15:00:44,UBS,Neutral,Neutral,main,Lowers,33.75,37.0
+2024-04-11 16:12:22,Scotiabank,Sector Underperform,Sector Underperform,main,Raises,29.0,25.0
+2024-01-16 19:57:10,Scotiabank,Sector Underperform,Sector Perform,down,Lowers,25.0,28.0
+2023-09-01 12:46:28,Goldman Sachs,Sell,Sell,main,Raises,31.0,28.0
+2023-07-25 11:58:55,Goldman Sachs,Sell,Sell,main,Raises,28.0,25.0
+2023-03-09 10:28:34,UBS,Neutral,,init,Announces,36.0,0.0
+2022-11-09 12:11:54,Goldman Sachs,Sell,Sell,main,Raises,31.0,29.5
+2022-09-15 09:11:39,Wolfe Research,Peer Perform,Outperform,down,,0.0,0.0
+2022-07-18 12:08:27,Goldman Sachs,Sell,Sell,main,Raises,30.5,29.5
+2022-06-20 12:06:40,Goldman Sachs,Sell,Sell,main,Lowers,29.5,30.5
+2022-05-17 14:24:41,JP Morgan,Underweight,,main,Raises,32.0,26.0
+2022-03-14 12:52:41,Credit Suisse,Neutral,,main,Raises,26.0,21.0
+2022-01-13 13:08:46,Scotiabank,Sector Perform,Sector Underperform,up,Raises,20.0,12.0
+2022-01-07 14:54:51,Wolfe Research,Outperform,Peer Perform,up,Announces,25.0,0.0
+2021-12-09 11:36:49,Credit Suisse,Neutral,Underperform,up,Raises,21.0,20.0
+2021-12-09 10:02:47,JP Morgan,Underweight,Neutral,down,Lowers,19.0,20.0
+2021-12-07 10:01:37,Credit Suisse,Neutral,Underperform,up,Raises,21.0,20.0
+2021-10-28 08:51:45,Credit Suisse,Underperform,Neutral,down,Raises,20.0,19.0
+2021-10-15 12:25:36,Goldman Sachs,Sell,,main,Raises,15.0,13.0
+2021-08-26 12:51:55,Citigroup,Neutral,Buy,down,Lowers,15.0,25.03
+2021-08-06 12:18:23,Goldman Sachs,Sell,,main,Lowers,13.0,17.0
+2021-07-15 11:32:06,Scotiabank,Sector Underperform,Sector Perform,down,Announces,13.0,0.0
+2021-05-28 13:21:02,Tudor Pickering,Sell,Hold,down,Announces,15.0,0.0
+2021-03-01 12:19:10,Goldman Sachs,Sell,Sell,main,Raises,18.0,15.0
+2021-02-24 14:55:30,Scotiabank,Sector Perform,,main,Raises,23.0,17.0
+2021-02-17 12:28:41,Credit Suisse,Neutral,Underperform,up,,0.0,0.0
+2021-01-26 12:17:50,Goldman Sachs,Sell,Sell,main,Raises,15.0,13.5
+2020-12-16 12:07:56,Raymond James,Market Perform,,init,,0.0,0.0
+2020-11-04 14:40:21,Scotiabank,Sector Perform,,main,Lowers,17.0,20.0
+2020-08-07 16:41:34,JP Morgan,Neutral,,init,Announces,22.0,0.0
+2020-07-16 10:55:03,Citigroup,Neutral,,main,Raises,19.0,18.0
+2020-07-13 18:21:43,Scotiabank,Sector Perform,,main,Lowers,20.0,23.0
+2020-05-13 11:16:11,Goldman Sachs,Sell,Sell,main,Raises,18.0,12.0
+2020-05-11 12:49:52,Credit Suisse,Underperform,,main,Raises,19.0,16.0
+2020-03-30 09:07:15,Credit Suisse,Underperform,Neutral,down,Lowers,16.0,40.0
+2020-03-26 09:19:50,Goldman Sachs,Sell,Neutral,down,Lowers,12.0,18.0
+2020-03-13 12:19:19,Citigroup,Neutral,,main,Lowers,18.0,40.0
+2020-03-02 12:14:10,Goldman Sachs,Neutral,Neutral,main,Lowers,31.0,38.0
+2020-02-26 13:46:57,Credit Suisse,Neutral,,main,Lowers,40.0,43.0
+2020-02-03 10:13:41,Goldman Sachs,Neutral,Sell,up,Announces,38.0,0.0
+2020-01-17 12:16:24,Citigroup,Neutral,,main,Lowers,40.0,44.0
+2020-01-03 12:10:14,Credit Suisse,Neutral,,init,Announces,43.0,0.0
+2019-08-30 14:37:01,Tudor Pickering,Hold,Sell,up,,0.0,0.0
+2019-07-29 11:02:46,Goldman Sachs,Sell,Neutral,down,,0.0,0.0
+2019-03-04 13:27:21,Citigroup,Buy,Buy,main,Lowers,43.0,44.0
+2019-01-28 14:43:39,Wolfe Research,Peer Perform,,init,Announces,38.0,0.0
+2019-01-24 12:23:12,Barclays,Underweight,,init,Announces,47.0,0.0
+2018-11-06 10:39:06,Goldman Sachs,Neutral,Buy,down,Lowers,45.0,47.0
+2018-10-31 12:03:39,Citigroup,Buy,,init,Announces,48.0,0.0
+2018-09-07 13:41:02,Goldman Sachs,Buy,Neutral,up,,0.0,0.0
+2016-10-10 04:00:00,Piper Sandler,Neutral,Underweight,up,,0.0,0.0
+2016-09-16 12:30:48,Piper Sandler,Underweight,,main,Raises,10.0,9.0
+2016-09-09 07:48:14,Goldman Sachs,Neutral,Sell,up,Raises,15.0,13.0
+2016-08-22 14:10:45,Piper Sandler,Underweight,,main,Lowers,9.0,10.0
+2014-11-18 11:16:20,Goldman Sachs,Sell,,init,Announces,41.0,0.0
+2013-12-05 21:00:00,Macquarie,Neutral,Underperform,up,Raises,48.0,35.0
+2013-12-02 21:00:00,Simmons & Co.,Neutral,Underweight,up,,0.0,0.0
+2013-09-09 13:49:29,Simmons & Co.,Underweight,Neutral,down,,0.0,0.0
+2013-08-08 12:32:54,Macquarie,Underperform,Neutral,down,,0.0,0.0
+2013-06-10 10:22:05,Goldman Sachs,Sell,Neutral,down,Announces,56.0,0.0
+2013-05-22 12:29:33,Macquarie,Neutral,Underperform,up,Raises,71.0,50.0
+2013-04-17 11:52:25,Deutsche Bank,Hold,,main,Lowers,50.0,60.0
+2013-03-13 14:27:36,Macquarie,Underperform,Neutral,down,Lowers,50.0,60.0
+2012-09-20 13:45:00,Goldman Sachs,Neutral,,main,Raises,43.0,34.0
+2012-03-29 10:09:00,Credit Suisse,Outperform,,main,Lowers,35.0,36.0

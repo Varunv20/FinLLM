@@ -1,0 +1,80 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-10-19 16:31:03,Wells Fargo,Equal-Weight,Equal-Weight,main,Raises,43.0,42.0
+2026-10-02 13:31:28,RBC Capital,Outperform,Outperform,main,Raises,52.0,45.0
+2026-09-01 15:35:16,Wells Fargo,Equal-Weight,Equal-Weight,main,Raises,42.0,40.0
+2026-08-14 14:17:56,RBC Capital,Outperform,Sector Perform,up,Raises,45.0,41.0
+2026-06-01 15:23:16,Wells Fargo,Equal-Weight,Equal-Weight,main,Raises,40.0,39.0
+2026-05-11 12:44:47,Cantor Fitzgerald,Neutral,Neutral,main,Lowers,40.0,42.0
+2026-03-26 14:56:21,Wells Fargo,Equal-Weight,Equal-Weight,main,Raises,39.0,37.0
+2026-03-20 14:21:06,RBC Capital,Sector Perform,Sector Perform,main,Raises,41.0,38.0
+2025-11-25 16:59:30,Wells Fargo,Equal-Weight,Equal-Weight,main,Raises,37.0,36.0
+2025-11-10 15:54:44,RBC Capital,Sector Perform,Sector Perform,main,Raises,38.0,37.0
+2025-10-21 13:16:08,Wells Fargo,Equal-Weight,Equal-Weight,main,Lowers,36.0,37.0
+2025-10-17 13:16:51,JMP Securities,Market Outperform,Market Outperform,reit,Maintains,43.0,43.0
+2025-10-01 13:47:50,Cantor Fitzgerald,Neutral,,init,Announces,38.0,0.0
+2025-09-24 18:10:17,BMO Capital,Market Perform,Underperform,up,Maintains,39.0,39.0
+2025-08-27 13:59:33,Wells Fargo,Equal-Weight,Equal-Weight,main,Raises,37.0,36.0
+2025-08-08 18:15:25,RBC Capital,Sector Perform,Sector Perform,main,Raises,37.0,36.0
+2025-08-06 15:14:27,JMP Securities,Market Outperform,Market Outperform,main,Raises,43.0,40.0
+2025-05-19 16:44:30,RBC Capital,Sector Perform,Sector Perform,reit,Maintains,36.0,36.0
+2025-03-10 13:48:53,Wells Fargo,Equal-Weight,Equal-Weight,main,Lowers,36.0,38.0
+2025-02-26 15:27:04,Citizens Capital Markets,Market Outperform,Market Outperform,reit,Maintains,40.0,40.0
+2025-01-07 15:36:14,JMP Securities,Market Outperform,Market Perform,up,Announces,40.0,0.0
+2024-09-20 12:37:26,Wedbush,Outperform,Outperform,reit,Maintains,40.0,40.0
+2024-03-11 14:48:01,RBC Capital,Sector Perform,Sector Perform,reit,Maintains,32.0,32.0
+2024-01-30 12:16:29,Deutsche Bank,Hold,,init,Announces,34.0,0.0
+2023-10-03 11:54:30,Wedbush,Outperform,,init,Announces,36.0,0.0
+2023-09-28 11:23:23,Berenberg,Buy,,init,Announces,36.0,0.0
+2023-09-20 09:23:43,Jefferies,Hold,,init,Announces,29.0,0.0
+2023-08-17 13:57:11,RBC Capital,Sector Perform,Sector Perform,reit,Maintains,32.0,0.0
+2023-05-30 12:23:00,RBC Capital,Sector Perform,Sector Perform,main,Lowers,32.0,37.0
+2023-05-11 12:45:16,Wells Fargo,Equal-Weight,Equal-Weight,main,Lowers,35.0,36.0
+2023-05-03 09:50:51,Barclays,Underweight,,main,Lowers,34.0,35.0
+2023-04-20 10:23:25,Wells Fargo,Equal-Weight,,init,Announces,36.0,0.0
+2023-04-19 22:13:02,Wells Fargo,Equal-Weight,,init,Announces,36.0,0.0
+2023-04-03 11:30:24,Credit Suisse,Neutral,,main,Lowers,36.0,37.0
+2023-03-01 15:04:16,RBC Capital,Outperform,,main,Raises,40.0,37.0
+2022-12-16 11:24:42,BMO Capital,Underperform,Market Perform,down,Announces,38.0,0.0
+2022-12-14 08:53:15,Keybanc,Sector Weight,Overweight,down,,0.0,0.0
+2022-11-07 14:50:08,RBC Capital,Sector Perform,,main,Lowers,40.0,44.0
+2022-08-22 10:45:45,RBC Capital,Sector Perform,,main,Raises,44.0,39.0
+2022-08-01 10:55:24,Barclays,Underweight,,main,Raises,35.0,30.0
+2022-08-01 10:08:05,Berenberg,Buy,Hold,up,Raises,47.0,34.0
+2022-07-07 11:13:49,Keybanc,Overweight,,main,Raises,42.0,40.0
+2022-06-21 10:30:55,BMO Capital,Market Perform,Underperform,up,Raises,40.0,37.0
+2022-05-20 11:09:14,RBC Capital,Sector Perform,,main,Raises,39.0,37.0
+2022-04-26 10:31:29,Barclays,Underweight,,init,Announces,30.0,0.0
+2022-04-01 10:50:46,Credit Suisse,Neutral,,main,Raises,38.0,35.0
+2022-03-14 09:47:12,RBC Capital,Sector Perform,Underperform,up,Raises,37.0,34.0
+2022-02-01 17:11:50,Credit Suisse,Neutral,,init,Announces,35.0,0.0
+2022-01-13 10:45:58,Keybanc,Overweight,Sector Weight,up,Announces,40.0,0.0
+2021-07-27 12:56:31,RBC Capital,Underperform,,main,Lowers,37.0,38.0
+2021-06-03 12:31:34,Mizuho,Underperform,Neutral,down,Announces,35.0,0.0
+2021-03-30 13:51:27,Capital One,Equal-Weight,Overweight,down,Announces,44.0,0.0
+2020-06-19 11:46:17,Wells Fargo,Underweight,,main,Raises,35.0,33.0
+2020-04-06 17:04:27,Mizuho,Neutral,,main,Lowers,30.0,46.0
+2020-03-26 12:51:09,Wells Fargo,Underweight,,main,Lowers,28.0,43.0
+2019-12-10 11:29:06,Wells Fargo,Underperform,Market Perform,down,Announces,43.0,0.0
+2019-10-25 11:55:41,Capital One,Equal-Weight,Overweight,down,,0.0,0.0
+2019-09-12 13:11:16,Berenberg,Hold,,init,Announces,49.0,0.0
+2019-07-10 13:34:14,Credit Suisse,Underperform,,init,Announces,19.0,0.0
+2018-08-10 11:52:46,Cantor Fitzgerald,Overweight,Overweight,main,Raises,46.0,45.0
+2018-05-23 10:28:07,RBC Capital,Underperform,Sector Perform,down,Lowers,38.0,0.0
+2018-03-05 12:43:59,Mizuho,Neutral,Neutral,main,Lowers,41.0,51.0
+2017-08-11 11:57:23,BMO Capital,Underperform,Market Perform,down,,0.0,0.0
+2017-01-05 13:48:36,Mitsubishi UFJ,Neutral,Overweight,down,,0.0,0.0
+2016-08-16 03:14:05,Canaccord Genuity,Buy,,main,Raises,58.0,54.0
+2016-07-18 10:30:43,Mizuho,Neutral,Buy,down,,0.0,0.0
+2016-06-29 13:27:46,Hilliard Lyons,Underperform,Neutral,down,,0.0,0.0
+2016-06-17 11:45:53,RBC Capital,Sector Perform,Outperform,down,,0.0,0.0
+2015-09-21 10:16:31,Mizuho,Buy,Neutral,up,Raises,47.0,44.0
+2015-08-21 08:03:02,Canaccord Genuity,Buy,,main,Raises,49.0,47.0
+2015-04-08 10:03:46,BMO Capital,Market Perform,,init,Announces,48.0,0.0
+2015-03-03 09:39:06,Mizuho,Neutral,Buy,down,Lowers,46.0,47.0
+2014-09-04 10:03:06,Mizuho,Buy,,init,Announces,46.0,0.0
+2014-06-27 10:55:50,MLV & Co.,Buy,,init,Announces,42.0,0.0
+2013-08-12 11:19:23,RBC Capital,Outperform,Sector Perform,up,Maintains,45.0,0.0
+2013-04-12 13:33:14,Piper Sandler,Hold,Buy,down,,0.0,0.0
+2013-02-25 12:35:24,BMO Capital,Market Perform,,main,Raises,40.0,35.0
+2012-02-29 14:15:00,Hilliard Lyons,Neutral,Long-Term Buy,down,,0.0,0.0
+2012-02-07 13:03:00,Stifel,Hold,Buy,down,,0.0,0.0

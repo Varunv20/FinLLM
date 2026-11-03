@@ -1,0 +1,102 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-10-27 17:07:22,Truist Securities,Buy,Buy,main,Raises,40.0,29.0
+2026-10-27 13:55:35,RBC Capital,Outperform,Outperform,main,Raises,43.0,20.0
+2026-10-27 13:43:10,Wells Fargo,Overweight,Overweight,main,Raises,44.0,30.0
+2026-10-27 13:11:11,Wedbush,Outperform,Outperform,main,Raises,45.0,30.0
+2026-10-21 12:58:57,Wedbush,Outperform,Outperform,reit,Maintains,30.0,30.0
+2026-09-28 15:16:10,Truist Securities,Buy,Buy,reit,Raises,29.0,27.0
+2026-09-21 17:41:49,B of A Securities,Neutral,Neutral,main,Raises,26.0,20.0
+2026-09-11 13:54:45,Barclays,Overweight,Overweight,main,Raises,35.0,27.0
+2026-09-03 21:09:45,JP Morgan,Neutral,Neutral,main,Raises,21.0,14.0
+2026-09-01 15:42:18,Raymond James,Strong Buy,Strong Buy,main,Raises,46.0,40.0
+2026-08-06 17:59:41,RBC Capital,Outperform,Outperform,main,Raises,20.0,19.0
+2026-08-06 15:42:14,Wedbush,Outperform,Outperform,main,Raises,30.0,26.0
+2026-08-06 12:17:39,Cantor Fitzgerald,Overweight,Overweight,main,Raises,44.0,43.0
+2026-07-30 13:38:35,Wedbush,Outperform,Outperform,reit,Maintains,26.0,26.0
+2026-07-07 12:28:40,Truist Securities,Buy,Buy,main,Lowers,27.0,29.0
+2026-05-11 19:02:10,JP Morgan,Neutral,Neutral,main,Raises,14.0,13.0
+2026-03-24 12:06:46,JP Morgan,Neutral,Overweight,down,Lowers,13.0,18.0
+2026-02-26 15:27:25,Barclays,Overweight,Overweight,main,Raises,27.0,26.0
+2025-12-17 18:00:36,Barclays,Overweight,Overweight,main,Raises,26.0,23.0
+2025-11-24 18:03:16,Truist Securities,Buy,,init,Announces,29.0,0.0
+2025-11-06 22:38:38,JP Morgan,Overweight,Overweight,main,Lowers,18.0,20.0
+2025-11-06 16:30:55,RBC Capital,Outperform,Outperform,main,Raises,19.0,18.0
+2025-11-06 14:50:53,Cantor Fitzgerald,Overweight,Overweight,main,Raises,42.0,40.0
+2025-10-29 12:09:10,Barclays,Overweight,Underweight,up,Raises,23.0,6.0
+2025-10-27 15:10:13,RBC Capital,Outperform,Outperform,main,Raises,18.0,15.0
+2025-09-03 15:50:58,B of A Securities,Neutral,Buy,down,Lowers,12.0,23.0
+2025-09-02 15:19:02,Wedbush,Outperform,Outperform,reit,Maintains,26.0,26.0
+2025-08-21 14:15:43,RBC Capital,Outperform,Outperform,main,Lowers,15.0,32.0
+2025-08-07 14:44:24,Wells Fargo,Overweight,Overweight,main,Lowers,27.0,33.0
+2025-08-07 12:38:44,Wedbush,Outperform,Outperform,main,Lowers,26.0,31.0
+2025-05-08 16:42:19,Barclays,Underweight,Underweight,main,Lowers,6.0,22.0
+2025-04-21 15:23:10,William Blair,Outperform,,init,,0.0,0.0
+2025-02-28 17:22:10,Wells Fargo,Overweight,Overweight,main,Lowers,33.0,37.0
+2024-12-12 14:43:50,Wells Fargo,Overweight,,init,Announces,37.0,0.0
+2024-12-02 10:34:13,Piper Sandler,Overweight,Neutral,up,Raises,30.0,20.0
+2024-11-08 15:43:19,BMO Capital,Outperform,Outperform,reit,Raises,34.0,32.0
+2024-11-07 17:54:48,JP Morgan,Overweight,Overweight,main,Raises,28.0,27.0
+2024-09-26 14:52:36,RBC Capital,Outperform,Outperform,main,Raises,34.0,31.0
+2024-08-06 13:52:26,BMO Capital,Outperform,Outperform,reit,Maintains,32.0,32.0
+2024-08-06 13:19:23,RBC Capital,Outperform,Outperform,reit,Maintains,31.0,31.0
+2024-07-31 18:47:12,JP Morgan,Overweight,Overweight,main,Lowers,27.0,30.0
+2024-06-14 15:38:54,Raymond James,Strong Buy,Strong Buy,main,Lowers,40.0,58.0
+2024-06-14 15:18:01,BMO Capital,Outperform,Outperform,main,Lowers,32.0,34.0
+2024-06-14 14:09:04,RBC Capital,Outperform,Outperform,main,Lowers,31.0,32.0
+2024-05-10 13:38:22,Wedbush,Outperform,Outperform,main,Raises,36.0,34.0
+2024-04-16 16:02:43,BTIG,Buy,Buy,main,Lowers,38.0,56.0
+2024-02-28 19:38:58,Piper Sandler,Neutral,Overweight,down,Lowers,24.0,37.0
+2024-02-28 15:48:10,RBC Capital,Outperform,Outperform,reit,Maintains,32.0,0.0
+2024-02-28 14:21:40,BMO Capital,Outperform,Outperform,main,Lowers,34.0,38.0
+2024-02-28 12:54:32,Wedbush,Outperform,Outperform,main,Lowers,34.0,36.0
+2024-01-22 14:23:45,Mizuho,Buy,Buy,main,Lowers,50.0,59.0
+2023-11-08 20:31:36,Guggenheim,Buy,Buy,main,Lowers,34.0,40.0
+2023-11-08 20:14:17,RBC Capital,Outperform,Outperform,main,Lowers,32.0,36.0
+2023-11-08 14:15:22,Wedbush,Outperform,Outperform,main,Lowers,36.0,37.0
+2023-05-19 10:59:21,B of A Securities,Buy,,init,Announces,42.0,0.0
+2023-05-09 14:25:02,RBC Capital,Outperform,,reit,Maintains,36.0,0.0
+2023-05-09 13:26:10,Wedbush,Outperform,,main,Lowers,37.0,39.0
+2023-02-24 14:56:47,Canaccord Genuity,Buy,,main,Lowers,42.0,48.0
+2023-02-24 13:39:14,EF Hutton,Buy,,reit,Maintains,42.0,0.0
+2023-02-13 13:04:28,JP Morgan,Overweight,,main,Raises,42.0,37.0
+2023-02-10 12:50:32,Mizuho,Buy,,reit,Maintains,59.0,0.0
+2023-01-31 09:36:13,EF Hutton,Buy,,init,Announces,42.0,0.0
+2023-01-30 12:02:35,EF Hutton,Buy,,init,Announces,42.0,0.0
+2022-12-06 13:15:55,Cowen & Co.,Outperform,,init,,0.0,0.0
+2022-11-08 12:14:58,RBC Capital,Outperform,,main,Lowers,36.0,40.0
+2022-10-13 11:20:28,Raymond James,Strong Buy,Outperform,up,Announces,58.0,0.0
+2022-09-21 11:40:24,JP Morgan,Overweight,,init,Announces,37.0,0.0
+2022-05-23 12:25:37,Piper Sandler,Overweight,,main,Lowers,42.0,66.0
+2022-02-24 11:20:17,HC Wainwright & Co.,Buy,,main,Lowers,55.0,61.0
+2022-02-11 13:21:45,BMO Capital,Outperform,,init,,0.0,0.0
+2021-12-15 11:39:10,HC Wainwright & Co.,Buy,,init,Announces,61.0,0.0
+2021-08-05 10:08:52,SVB Leerink,Outperform,,main,Lowers,53.0,57.0
+2021-02-24 12:17:04,Raymond James,Outperform,Market Perform,up,Announces,58.0,0.0
+2020-11-06 09:51:21,SVB Leerink,Outperform,,main,Raises,46.0,42.0
+2020-09-08 11:00:46,SVB Leerink,Outperform,,main,Lowers,39.0,42.0
+2020-08-05 09:04:06,SVB Leerink,Outperform,,main,Lowers,42.0,44.0
+2020-03-04 10:37:07,Barclays,Underweight,,init,Announces,28.0,0.0
+2020-02-25 12:01:30,Guggenheim,Buy,Neutral,up,Announces,43.0,0.0
+2020-01-30 13:36:08,RBC Capital,Outperform,,init,Announces,44.0,0.0
+2019-08-08 11:51:33,Canaccord Genuity,Buy,,main,Raises,52.0,45.0
+2019-08-07 10:55:02,Guggenheim,Neutral,Buy,down,,0.0,0.0
+2019-08-07 10:40:33,Raymond James,Market Perform,Outperform,down,,0.0,0.0
+2019-06-13 10:29:22,Mizuho,Buy,,init,Announces,52.0,0.0
+2019-04-12 11:26:36,Guggenheim,Buy,,init,Announces,42.0,0.0
+2019-03-27 11:44:22,Berenberg,Buy,,init,Announces,45.0,0.0
+2019-03-15 11:44:28,Raymond James,Outperform,,init,Announces,40.0,0.0
+2019-02-22 11:53:45,Nomura,Reduce,Neutral,down,,0.0,0.0
+2018-12-07 12:59:50,Wedbush,Outperform,Outperform,main,Raises,44.0,42.0
+2018-06-07 10:43:14,BTIG,Buy,,init,Announces,56.0,0.0
+2018-05-09 14:11:10,Canaccord Genuity,Buy,Buy,main,Raises,38.0,36.0
+2018-03-19 12:38:53,Wedbush,Outperform,,main,Raises,39.0,38.0
+2017-11-29 13:39:38,Cantor Fitzgerald,Overweight,,init,Announces,33.0,0.0
+2017-03-02 12:26:55,Nomura,Neutral,,init,,0.0,0.0
+2016-11-23 18:58:34,Canaccord Genuity,Buy,,main,Raises,32.0,27.0
+2016-10-04 10:09:49,Piper Sandler,Overweight,,init,,0.0,0.0
+2016-03-10 10:51:18,Leerink Swann,Outperform,,main,Lowers,18.0,22.0
+2016-03-08 17:48:18,Leerink Swann,Outperform,,main,Lowers,18.0,22.0
+2015-12-22 11:08:29,Canaccord Genuity,Buy,,init,,0.0,0.0
+2015-05-06 13:00:00,Credit Suisse,Outperform,,main,Raises,18.0,14.0
+2015-02-12 14:00:00,Oppenheimer,Outperform,,main,Raises,28.0,22.0
+2014-10-23 16:58:10,MLV & Co.,Buy,,init,,0.0,0.0

@@ -1,0 +1,89 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-10-30 20:56:35,Citigroup,Buy,Buy,main,Raises,494.0,412.0
+2026-10-30 20:29:44,TD Cowen,Buy,Buy,main,Raises,500.0,420.0
+2026-10-30 15:21:02,Barclays,Overweight,Overweight,main,Raises,500.0,440.0
+2026-10-30 12:47:26,Evercore ISI Group,Outperform,Outperform,main,Raises,480.0,440.0
+2026-10-13 16:38:59,TD Cowen,Buy,Buy,main,Raises,420.0,410.0
+2026-10-07 15:37:39,Barclays,Overweight,Overweight,main,Raises,440.0,400.0
+2026-09-22 10:34:17,Morgan Stanley,Overweight,Equal-Weight,up,Raises,400.0,365.0
+2026-09-09 18:02:07,UBS,Buy,Buy,main,Raises,415.0,340.0
+2026-08-03 18:50:21,Citigroup,Buy,Buy,main,Raises,412.0,400.0
+2026-07-27 14:50:35,Evercore ISI Group,Outperform,Outperform,main,Raises,425.0,410.0
+2026-07-13 18:07:35,BNP Paribas,Outperform,,init,Announces,447.0,0.0
+2026-07-09 17:33:32,Morgan Stanley,Equal-Weight,Equal-Weight,main,Raises,365.0,325.0
+2026-07-06 17:05:50,Evercore ISI Group,Outperform,Outperform,main,Raises,410.0,390.0
+2026-07-02 13:01:09,Keybanc,Overweight,Overweight,main,Raises,390.0,350.0
+2026-06-09 13:09:39,Barclays,Overweight,Equal-Weight,up,Raises,400.0,310.0
+2026-06-02 12:46:57,Stephens & Co.,Overweight,Overweight,reit,Maintains,360.0,360.0
+2026-05-29 15:35:20,Morgan Stanley,Equal-Weight,Equal-Weight,main,Raises,325.0,315.0
+2026-04-27 15:35:39,Barclays,Equal-Weight,Equal-Weight,main,Raises,310.0,275.0
+2026-04-14 20:37:42,Barclays,Equal-Weight,Equal-Weight,main,Raises,275.0,265.0
+2026-02-13 17:52:23,Barclays,Equal-Weight,Equal-Weight,main,Lowers,265.0,325.0
+2026-02-03 14:26:18,Evercore ISI Group,Outperform,Outperform,main,Lowers,320.0,390.0
+2025-12-02 18:04:31,Morgan Stanley,Equal-Weight,,init,Announces,285.0,0.0
+2025-10-29 12:59:00,TD Cowen,Buy,,init,Announces,350.0,0.0
+2025-10-27 16:24:28,Barclays,Equal-Weight,Equal-Weight,main,Raises,325.0,275.0
+2025-10-24 15:04:06,UBS,Buy,Buy,main,Raises,355.0,320.0
+2025-10-24 12:32:08,Keybanc,Overweight,Overweight,main,Raises,350.0,325.0
+2025-10-23 17:52:35,Evercore ISI Group,Outperform,Outperform,main,Raises,390.0,350.0
+2025-10-02 13:17:04,Barclays,Equal-Weight,Equal-Weight,main,Raises,275.0,260.0
+2025-09-15 13:39:35,Rothschild & Co,Buy,,init,Announces,311.0,0.0
+2025-07-25 16:03:42,UBS,Buy,Buy,main,Raises,320.0,285.0
+2025-07-25 14:05:04,Evercore ISI Group,Outperform,Outperform,main,Raises,350.0,275.0
+2025-07-25 13:14:34,Barclays,Equal-Weight,Equal-Weight,main,Raises,260.0,245.0
+2025-06-24 13:21:19,Barclays,Equal-Weight,,init,Announces,245.0,0.0
+2025-03-18 09:06:05,Evercore ISI Group,Outperform,,init,Announces,275.0,0.0
+2025-02-14 17:19:59,Keybanc,Overweight,Overweight,main,Lowers,325.0,470.0
+2025-01-08 21:20:01,Citigroup,Buy,,init,Announces,400.0,0.0
+2024-12-13 16:03:14,B of A Securities,Buy,Buy,main,Raises,355.0,350.0
+2024-12-13 14:09:30,Wolfe Research,Peer Perform,,init,,0.0,0.0
+2024-12-12 16:09:09,UBS,Buy,Neutral,up,Raises,390.0,350.0
+2024-02-16 18:34:21,UBS,Neutral,Neutral,main,Lowers,375.0,400.0
+2024-02-13 10:31:54,Keybanc,Overweight,Overweight,main,Raises,470.0,440.0
+2024-02-07 11:24:13,Jefferies,Buy,Hold,up,Raises,536.0,323.0
+2023-10-27 15:31:03,Stephens & Co.,Overweight,Overweight,main,Lowers,390.0,420.0
+2023-08-30 08:08:18,Keybanc,Overweight,Overweight,main,Raises,440.0,415.0
+2023-08-21 08:11:20,Keybanc,Overweight,Overweight,main,Raises,415.0,385.0
+2023-07-28 09:03:15,Keybanc,Overweight,Overweight,main,Raises,385.0,375.0
+2023-07-17 15:57:33,Stephens & Co.,Overweight,Overweight,main,Raises,420.0,400.0
+2023-06-16 11:12:07,B of A Securities,Buy,Neutral,up,Raises,405.0,390.0
+2023-04-11 10:50:48,Stephens & Co.,Overweight,Equal-Weight,up,Raises,400.0,330.0
+2023-02-17 09:51:20,Keybanc,Overweight,,main,Raises,375.0,315.0
+2022-12-14 09:58:31,Deutsche Bank,Hold,,init,Announces,250.0,0.0
+2022-12-02 09:53:27,Keybanc,Overweight,,main,Lowers,315.0,350.0
+2022-11-30 13:56:16,UBS,Neutral,,init,Announces,250.0,0.0
+2022-10-28 11:01:43,B of A Securities,Neutral,Buy,down,Lowers,250.0,385.0
+2022-10-28 08:51:46,Keybanc,Overweight,,main,Lowers,350.0,400.0
+2022-07-29 12:38:21,Stephens & Co.,Equal-Weight,Equal-Weight,main,Raises,345.0,330.0
+2022-04-29 12:27:12,B of A Securities,Buy,Buy,main,Lowers,410.0,475.0
+2022-04-29 08:50:16,Keybanc,Overweight,,main,Lowers,400.0,475.0
+2021-09-15 12:24:10,B of A Securities,Buy,Buy,main,Raises,515.0,450.0
+2021-07-30 12:37:09,Stephens & Co.,Equal-Weight,Equal-Weight,main,Raises,400.0,360.0
+2021-07-30 09:54:32,Keybanc,Overweight,,main,Raises,475.0,350.0
+2021-04-30 12:35:36,Stephens & Co.,Equal-Weight,Equal-Weight,main,Raises,340.0,315.0
+2021-02-19 13:29:46,Stephens & Co.,Equal-Weight,Equal-Weight,main,Raises,315.0,300.0
+2020-11-10 09:28:47,Keybanc,Overweight,,init,Announces,350.0,0.0
+2020-10-14 12:36:03,Stephens & Co.,Equal-Weight,,init,Announces,300.0,0.0
+2020-04-24 11:16:51,B of A Securities,Neutral,Underperform,up,,0.0,0.0
+2019-12-12 12:20:08,B of A Securities,Underperform,Neutral,down,,0.0,0.0
+2019-07-26 12:01:36,B of A Securities,Neutral,Underperform,up,,0.0,0.0
+2019-05-01 11:49:19,Jefferies,Hold,Buy,down,,0.0,0.0
+2019-04-23 12:26:21,William Blair,Outperform,,init,,0.0,0.0
+2018-04-25 13:25:54,B of A Securities,Underperform,Neutral,down,,0.0,0.0
+2018-01-24 13:27:22,Goldman Sachs,Neutral,,init,Announces,110.0,0.0
+2017-10-27 13:18:02,Wells Fargo,Outperform,,main,Raises,112.0,105.0
+2017-10-17 13:30:10,B of A Securities,Neutral,Buy,down,,0.0,0.0
+2017-10-03 11:16:39,Stephens & Co.,Equal-Weight,,init,Announces,99.0,0.0
+2017-09-15 10:35:11,Jefferies,Buy,Hold,up,Announces,115.0,0.0
+2016-10-28 04:00:00,Wells Fargo,Outperform,Market Perform,up,,0.0,0.0
+2016-09-21 11:35:08,Wells Fargo,Market Perform,Outperform,down,,0.0,0.0
+2016-07-29 17:42:09,Jefferies,Hold,,main,Raises,77.0,67.0
+2016-03-22 10:52:48,Wells Fargo,Outperform,,init,,0.0,0.0
+2016-01-08 08:55:30,Janney Montgomery Scott,Buy,,init,Announces,69.0,0.0
+2015-02-20 14:00:00,Jefferies,Hold,,main,Raises,55.0,48.0
+2014-11-03 14:00:00,Jefferies,Hold,,main,Raises,48.0,45.0
+2014-08-06 03:28:48,Jefferies,Hold,,main,Lowers,45.0,47.0
+2013-10-08 10:04:31,B of A Securities,Buy,,init,Announces,50.0,0.0
+2013-02-22 12:55:27,Jefferies,Hold,,main,Raises,56.0,49.0
+2012-11-05 12:54:00,Jefferies,Hold,,main,Raises,49.0,45.0
+2012-04-27 11:05:00,Jefferies,Hold,,main,Raises,43.0,41.0

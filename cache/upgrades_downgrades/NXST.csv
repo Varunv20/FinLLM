@@ -1,0 +1,123 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-08-07 14:33:57,Wells Fargo,Overweight,Overweight,main,Lowers,249.0,253.0
+2026-05-08 14:03:08,Wells Fargo,Overweight,Overweight,main,Lowers,253.0,290.0
+2026-04-28 14:45:40,Barrington Research,Outperform,Outperform,main,Maintains,290.0,290.0
+2026-04-10 12:45:48,Citigroup,Buy,Neutral,up,Lowers,220.0,252.0
+2026-04-06 12:45:22,Benchmark,Buy,Buy,main,Lowers,250.0,300.0
+2026-03-23 18:03:12,Deutsche Bank,Buy,Buy,main,Raises,270.0,250.0
+2026-03-03 21:02:26,Barrington Research,Outperform,Outperform,main,Raises,290.0,0.0
+2026-03-02 18:39:53,Citigroup,Neutral,Neutral,main,Raises,252.0,204.0
+2026-02-27 17:58:50,Wells Fargo,Overweight,Overweight,main,Raises,290.0,250.0
+2026-02-27 17:28:47,Benchmark,Buy,Buy,main,Raises,300.0,250.0
+2026-02-27 12:59:13,Guggenheim,Buy,Buy,main,Raises,290.0,250.0
+2025-11-25 19:25:06,Citigroup,Neutral,Neutral,main,Lowers,204.0,218.0
+2025-08-20 14:46:32,Deutsche Bank,Buy,Buy,main,Raises,229.0,210.0
+2025-08-20 11:58:33,Guggenheim,Buy,Buy,main,Raises,250.0,220.0
+2025-08-19 16:45:50,Barrington Research,Outperform,Outperform,main,Maintains,225.0,225.0
+2025-08-11 10:53:54,Barrington Research,Outperform,Outperform,main,Raises,225.0,200.0
+2025-08-08 15:37:34,Wells Fargo,Overweight,Overweight,main,Raises,250.0,206.0
+2025-08-08 14:24:59,Benchmark,Buy,Buy,main,Raises,225.0,220.0
+2025-07-30 11:58:26,Barrington Research,Outperform,Outperform,main,Maintains,200.0,200.0
+2025-05-13 12:32:29,Barrington Research,Outperform,Outperform,main,Maintains,200.0,200.0
+2025-05-09 14:06:12,Benchmark,Buy,Buy,main,Raises,220.0,215.0
+2025-05-06 13:36:36,Benchmark,Buy,Buy,main,Lowers,215.0,225.0
+2025-05-01 15:35:27,Wells Fargo,Overweight,Overweight,main,Lowers,200.0,216.0
+2025-03-10 12:51:07,Rosenblatt,Buy,Buy,main,Maintains,200.0,200.0
+2025-03-05 12:39:38,Barrington Research,Outperform,Outperform,main,Maintains,200.0,200.0
+2025-02-28 16:56:33,Loop Capital,Buy,Hold,up,Raises,200.0,190.0
+2025-02-28 16:07:32,Benchmark,Buy,Buy,main,Raises,225.0,200.0
+2025-02-28 16:01:11,Guggenheim,Buy,Buy,main,Raises,220.0,210.0
+2025-02-27 17:56:35,Barrington Research,Outperform,Outperform,main,Maintains,200.0,200.0
+2025-01-22 15:49:56,Guggenheim,Buy,Buy,reit,,0.0,0.0
+2024-11-12 17:01:51,Barrington Research,Outperform,Outperform,main,Maintains,200.0,200.0
+2024-11-08 14:18:50,Benchmark,Buy,Buy,reit,Maintains,215.0,215.0
+2024-11-07 19:28:42,Barrington Research,Outperform,Outperform,main,Maintains,200.0,200.0
+2024-10-14 15:03:25,Benchmark,Buy,Buy,main,Lowers,215.0,225.0
+2024-10-04 17:01:06,Guggenheim,Buy,Buy,main,Lowers,198.0,200.0
+2024-08-13 14:00:43,Barrington Research,Outperform,Outperform,main,Maintains,200.0,200.0
+2024-08-09 17:03:35,Deutsche Bank,Buy,Buy,main,Lowers,205.0,207.0
+2024-08-09 16:07:03,Wells Fargo,Overweight,Overweight,main,Lowers,209.0,221.0
+2024-08-09 16:05:06,Benchmark,Buy,Buy,reit,Maintains,225.0,225.0
+2024-08-08 18:10:40,Barrington Research,Outperform,Outperform,main,Maintains,200.0,200.0
+2024-07-23 15:26:16,Barrington Research,Outperform,Outperform,main,Maintains,200.0,200.0
+2024-06-20 13:23:58,Benchmark,Buy,Buy,reit,Maintains,225.0,225.0
+2024-05-13 18:54:11,Barrington Research,Outperform,Outperform,main,Maintains,200.0,200.0
+2024-05-13 13:27:10,Wells Fargo,Overweight,Equal-Weight,up,Raises,221.0,190.0
+2024-05-10 15:54:26,Benchmark,Buy,Buy,reit,Maintains,225.0,225.0
+2024-05-09 12:03:22,Barrington Research,Outperform,Outperform,main,Maintains,200.0,200.0
+2024-03-13 16:34:07,Rosenblatt,Buy,Buy,main,Lowers,213.0,216.0
+2024-03-07 08:36:20,Barrington Research,Outperform,Outperform,reit,Maintains,200.0,0.0
+2024-02-28 17:33:52,Barrington Research,Outperform,Outperform,reit,Maintains,200.0,0.0
+2023-12-08 12:54:46,Citigroup,Neutral,,init,Announces,158.0,0.0
+2023-11-09 15:46:18,Wells Fargo,Equal-Weight,Equal-Weight,main,Lowers,167.0,175.0
+2023-09-15 11:43:50,Rosenblatt,Buy,Buy,reit,Maintains,230.0,0.0
+2023-09-05 11:19:03,Rosenblatt,Buy,Buy,main,Raises,230.0,228.0
+2023-08-15 14:57:33,Deutsche Bank,Buy,Buy,main,Lowers,205.0,210.0
+2023-08-11 08:11:33,Barrington Research,Outperform,Outperform,reit,Maintains,235.0,0.0
+2023-08-08 16:21:30,Barrington Research,Outperform,Outperform,reit,Maintains,235.0,0.0
+2023-06-29 16:20:13,Guggenheim,Buy,Buy,main,Raises,220.0,216.0
+2023-06-12 11:09:39,Rosenblatt,Buy,Buy,reit,Maintains,228.0,0.0
+2023-05-12 08:41:06,Barrington Research,Outperform,Outperform,reit,Maintains,235.0,0.0
+2023-03-08 09:35:10,Barrington Research,Outperform,,reit,Maintains,235.0,0.0
+2023-03-01 14:41:49,Benchmark,Buy,,reit,Maintains,230.0,0.0
+2023-02-27 14:10:57,Benchmark,Buy,,reit,Maintains,230.0,0.0
+2022-11-09 12:56:47,Rosenblatt,Buy,,main,Lowers,237.0,246.0
+2022-11-09 11:18:50,Wells Fargo,Equal-Weight,Overweight,down,Lowers,175.0,227.0
+2022-09-06 11:48:42,Rosenblatt,Buy,Neutral,up,Raises,246.0,181.0
+2022-05-16 11:30:31,Rosenblatt,Neutral,,main,Raises,181.0,180.0
+2022-05-12 13:46:16,Deutsche Bank,Buy,,main,Raises,225.0,216.0
+2022-04-19 13:02:20,Rosenblatt,Neutral,,init,Announces,180.0,0.0
+2022-03-02 13:26:27,Deutsche Bank,Buy,,main,Raises,216.0,187.0
+2022-02-23 15:58:28,Benchmark,Buy,,main,Raises,225.0,200.0
+2021-11-03 12:30:00,Wells Fargo,Overweight,,main,Raises,186.0,173.0
+2021-07-02 11:26:20,Deutsche Bank,Buy,,main,Raises,185.0,170.0
+2021-02-24 16:50:49,Wells Fargo,Overweight,,main,Raises,170.0,143.0
+2020-10-15 09:56:25,Loop Capital,Buy,,init,Announces,130.0,0.0
+2020-08-06 18:34:05,Wells Fargo,Overweight,,main,Raises,112.0,88.0
+2020-08-06 11:34:31,Benchmark,Buy,,main,Raises,130.0,125.0
+2020-06-22 14:04:50,Benchmark,Buy,,main,Raises,125.0,120.0
+2020-05-07 15:08:41,B. Riley Securities,Buy,,main,Raises,115.0,110.0
+2020-05-07 13:56:46,Wells Fargo,Overweight,,main,Raises,88.0,81.0
+2020-05-05 11:57:46,B. Riley Securities,Buy,,main,Lowers,110.0,139.0
+2020-04-14 13:59:25,Wells Fargo,Overweight,,main,Lowers,81.0,149.0
+2020-03-18 11:20:29,B. Riley Securities,Buy,,main,Lowers,139.0,140.0
+2020-01-07 11:19:56,Wells Fargo,Overweight,Equal-Weight,up,,0.0,0.0
+2019-09-24 11:08:36,Wells Fargo,Market Perform,,init,Announces,113.0,0.0
+2019-09-23 14:48:54,Benchmark,Buy,,main,Raises,150.0,135.0
+2019-03-06 14:39:51,B. Riley Securities,Buy,Buy,main,Raises,135.0,123.0
+2018-12-18 13:45:40,B. Riley Securities,Buy,Buy,main,Raises,123.0,92.0
+2018-12-11 12:00:54,Evercore ISI Group,Outperform,In-Line,up,Raises,105.0,89.0
+2018-09-06 12:19:59,B. Riley Securities,Buy,Buy,main,Raises,92.0,87.0
+2018-07-31 11:24:54,Evercore ISI Group,In-Line,,init,Announces,87.0,0.0
+2017-11-08 13:58:11,Deutsche Bank,Buy,,main,Raises,85.0,80.0
+2017-11-07 13:46:15,B. Riley Securities,Buy,,main,Raises,84.0,79.0
+2017-10-31 12:02:55,FBR Capital,Buy,,init,Announces,79.0,0.0
+2017-10-20 11:24:25,Deutsche Bank,Buy,,init,Announces,80.0,0.0
+2017-10-18 12:42:55,Guggenheim,Buy,,init,Announces,90.0,0.0
+2017-03-14 10:52:49,RBC Capital,Outperform,,init,Announces,83.0,0.0
+2016-01-28 13:51:23,Gabelli & Co.,Buy,Hold,up,,0.0,0.0
+2015-12-22 14:15:21,Barrington Research,Outperform,,init,Announces,79.0,0.0
+2015-11-18 12:10:40,Stephens & Co.,Overweight,,init,Announces,75.0,0.0
+2015-09-29 15:05:43,Jefferies,Buy,Hold,up,,0.0,0.0
+2015-05-11 13:00:00,Jefferies,Hold,,main,Raises,57.0,53.0
+2014-12-17 14:00:00,Jefferies,Hold,,main,Raises,53.0,49.0
+2014-09-29 12:24:22,Noble Capital Markets,Buy,Hold,up,Announces,54.0,0.0
+2014-07-09 21:14:54,Noble Capital Markets,Hold,,init,,0.0,0.0
+2014-06-06 10:40:36,Evercore ISI Group,Equal-Weight,Overweight,down,Maintains,52.0,0.0
+2014-04-15 12:00:00,Wedbush,Outperform,Neutral,up,Lowers,47.0,58.0
+2014-04-09 12:00:00,Wells Fargo,Outperform,Market Perform,up,Announces,0.0,0.0
+2014-03-17 12:00:00,Wells Fargo,Market Perform,Outperform,down,,0.0,0.0
+2014-01-03 21:00:00,Wedbush,Neutral,,init,Announces,60.0,0.0
+2013-12-23 12:18:22,Credit Suisse,Outperform,,main,Raises,56.0,55.0
+2013-11-19 12:21:30,Benchmark,Buy,,main,Raises,52.0,41.0
+2013-08-15 11:41:07,Evercore ISI Group,Overweight,Equal-Weight,up,Maintains,37.0,0.0
+2013-07-18 11:50:04,Evercore ISI Group,Equal-Weight,Overweight,down,Maintains,37.0,0.0
+2013-06-26 12:43:50,Benchmark,Buy,,main,Raises,39.0,21.0
+2013-06-19 11:27:28,Gabelli & Co.,Hold,Buy,down,,0.0,0.0
+2013-06-18 10:32:19,Credit Suisse,Outperform,,main,Raises,42.0,30.0
+2013-03-15 13:23:28,UBS,Buy,,init,Announces,20.0,0.0
+2013-03-08 12:28:53,Benchmark,Buy,,main,Raises,21.0,16.0
+2013-01-28 15:17:00,Benchmark,Buy,,main,Raises,16.0,0.0
+2013-01-14 12:54:50,Credit Suisse,Outperform,,init,Announces,17.0,0.0
+2012-12-11 16:48:27,Evercore ISI Group,Overweight,,init,Announces,14.0,0.0
+2012-12-10 16:45:39,Wells Fargo,Outperform,,init,,0.0,0.0

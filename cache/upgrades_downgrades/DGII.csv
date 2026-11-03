@@ -1,0 +1,63 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-08-06 16:57:57,Piper Sandler,Neutral,Neutral,main,Raises,76.0,63.0
+2026-08-06 14:47:13,Stephens & Co.,Overweight,Overweight,main,Raises,85.0,75.0
+2026-08-06 13:51:53,B. Riley Securities,Buy,Buy,main,Raises,86.0,78.0
+2026-05-12 13:35:58,Stephens & Co.,Overweight,Overweight,main,Raises,75.0,65.0
+2026-05-07 14:04:31,Piper Sandler,Neutral,Neutral,main,Raises,63.0,46.0
+2026-05-07 13:42:02,Stephens & Co.,Overweight,Overweight,main,Raises,65.0,55.0
+2026-01-05 17:17:24,Piper Sandler,Neutral,Neutral,main,Raises,46.0,41.0
+2026-01-02 12:52:44,Stephens & Co.,Overweight,Overweight,main,Raises,55.0,50.0
+2025-11-13 18:00:29,B. Riley Securities,Buy,Buy,main,Raises,48.0,45.0
+2025-11-13 16:34:55,Roth Capital,Buy,Buy,main,Raises,50.0,45.0
+2025-11-13 14:53:49,Piper Sandler,Neutral,Neutral,main,Raises,41.0,36.0
+2025-11-13 12:57:24,Craig-Hallum,Buy,Hold,up,Raises,45.0,30.0
+2025-08-19 13:26:24,Stephens & Co.,Overweight,Overweight,reit,Maintains,50.0,50.0
+2025-08-07 15:12:15,B. Riley Securities,Buy,Buy,main,Raises,40.0,35.0
+2025-08-07 13:42:29,Piper Sandler,Neutral,Neutral,main,Raises,33.0,30.0
+2025-05-08 16:36:28,Piper Sandler,Neutral,Neutral,main,Raises,30.0,26.0
+2025-04-08 14:17:34,Piper Sandler,Neutral,Neutral,main,Lowers,26.0,32.0
+2025-02-06 14:41:37,Stephens & Co.,Overweight,Overweight,reit,Maintains,45.0,45.0
+2024-11-14 13:02:42,Craig-Hallum,Hold,Buy,down,Raises,32.0,28.0
+2024-11-14 12:17:25,Piper Sandler,Neutral,Neutral,main,Raises,32.0,26.0
+2024-08-08 16:01:34,Craig-Hallum,Buy,Buy,main,Lowers,28.0,32.0
+2024-08-08 11:33:52,Piper Sandler,Neutral,Neutral,main,Lowers,26.0,27.0
+2024-07-15 12:01:59,Piper Sandler,Neutral,Neutral,main,Lowers,27.0,29.0
+2024-05-03 14:31:22,Roth MKM,Buy,Buy,main,Lowers,38.0,40.0
+2024-05-03 13:36:40,Piper Sandler,Overweight,Overweight,reit,Lowers,35.0,40.0
+2024-02-05 16:05:37,Stephens & Co.,Overweight,Overweight,main,Raises,45.0,40.0
+2023-12-13 14:26:49,Stephens & Co.,Overweight,Overweight,reit,Maintains,40.0,0.0
+2023-11-15 10:26:49,B. Riley Securities,Buy,,init,Announces,34.0,0.0
+2023-11-10 21:20:30,Piper Sandler,Overweight,Overweight,main,Lowers,30.0,50.0
+2023-11-10 15:42:04,Stephens & Co.,Overweight,Overweight,main,Lowers,40.0,50.0
+2023-05-19 08:38:00,WestPark Capital,Buy,,init,Announces,45.0,0.0
+2023-02-03 15:56:09,Cantor Fitzgerald,Overweight,,reit,Maintains,48.0,0.0
+2022-11-11 14:57:17,Stephens & Co.,Overweight,,main,Raises,50.0,40.0
+2022-11-11 14:11:46,Cantor Fitzgerald,Overweight,,main,Raises,48.0,41.0
+2022-11-11 13:23:39,Canaccord Genuity,Buy,,main,Raises,46.0,41.0
+2022-09-08 12:20:03,Cantor Fitzgerald,Overweight,,init,Announces,41.0,0.0
+2022-08-05 13:44:46,Canaccord Genuity,Buy,,main,Raises,41.0,30.0
+2022-08-05 10:38:46,Piper Sandler,Overweight,,main,Raises,45.0,30.0
+2022-06-02 11:10:16,Stephens & Co.,Overweight,,init,Announces,36.0,0.0
+2021-08-05 16:20:58,Roth Capital,Buy,,main,Lowers,28.0,29.0
+2021-05-06 16:16:58,Canaccord Genuity,Buy,,main,Lowers,25.0,28.0
+2021-03-09 12:40:05,Piper Sandler,Overweight,,init,Announces,29.0,0.0
+2021-02-04 16:47:21,Craig-Hallum,Buy,,main,Raises,28.0,22.0
+2021-02-04 16:36:14,Lake Street,Buy,,main,Raises,25.0,21.0
+2020-03-20 15:27:14,Baird,Neutral,Outperform,down,Lowers,10.0,21.0
+2020-02-10 13:58:44,Sidoti & Co.,Buy,Neutral,up,Announces,20.0,0.0
+2019-11-25 14:22:11,Sidoti & Co.,Neutral,Buy,down,,0.0,0.0
+2019-11-01 14:04:31,Baird,Outperform,,init,Announces,19.0,0.0
+2018-09-17 11:34:28,Canaccord Genuity,Buy,Buy,main,Raises,21.0,18.0
+2018-06-20 11:21:25,Canaccord Genuity,Buy,Buy,main,Raises,18.0,15.0
+2017-12-11 15:40:49,Sidoti & Co.,Buy,Neutral,up,,0.0,0.0
+2017-10-16 14:34:17,Sidoti & Co.,Neutral,Buy,down,,0.0,0.0
+2017-04-25 11:58:08,Benchmark,Buy,,init,Announces,16.0,0.0
+2015-09-01 11:16:02,Stephens & Co.,Overweight,,init,Announces,13.0,0.0
+2015-01-23 14:39:52,First Analysis,Overweight,Equal-Weight,up,,0.0,0.0
+2014-12-03 05:00:00,Canaccord Genuity,Buy,Hold,up,Raises,10.0,9.0
+2014-04-26 03:19:51,Canaccord Genuity,Hold,,main,Lowers,9.5,10.5
+2013-05-17 12:05:28,First Analysis,Equal-Weight,,init,,0.0,0.0
+2012-11-20 10:50:00,Canaccord Genuity,Hold,,init,Announces,10.0,0.0
+2012-04-27 17:13:00,Dougherty & Co.,Neutral,Buy,down,Lowers,10.0,17.0
+2012-04-27 13:05:00,Feltl & Co.,Hold,,main,Lowers,11.0,12.0
+2012-04-27 10:13:00,Piper Sandler,Neutral,Overweight,down,Lowers,12.0,16.0

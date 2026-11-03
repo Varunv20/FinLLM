@@ -1,0 +1,180 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-10-27 15:32:13,Oppenheimer,Perform,,init,Announces,0.0,0.0
+2026-10-09 11:06:37,Cantor Fitzgerald,Overweight,Overweight,reit,Maintains,476.0,476.0
+2026-09-24 11:01:45,Cantor Fitzgerald,Overweight,Overweight,reit,Maintains,476.0,476.0
+2026-09-21 12:42:27,Keybanc,Overweight,Overweight,main,Raises,429.0,423.0
+2026-09-17 12:16:55,Guggenheim,Buy,Buy,reit,Maintains,620.0,620.0
+2026-08-28 12:31:01,Cantor Fitzgerald,Overweight,Overweight,reit,Maintains,476.0,476.0
+2026-08-27 18:16:17,JP Morgan,Overweight,Overweight,main,Lowers,570.0,650.0
+2026-08-27 15:04:21,UBS,Buy,Buy,main,Lowers,525.0,611.0
+2026-08-27 13:45:04,Wells Fargo,Overweight,Overweight,main,Lowers,550.0,650.0
+2026-08-27 12:48:16,Keybanc,Overweight,Overweight,main,Lowers,423.0,610.0
+2026-08-27 11:10:55,Cantor Fitzgerald,Overweight,Overweight,main,Lowers,476.0,654.0
+2026-06-01 12:03:59,Keybanc,Overweight,Overweight,main,Raises,610.0,482.0
+2026-05-29 14:57:11,Cantor Fitzgerald,Overweight,Overweight,main,Raises,654.0,436.0
+2026-05-28 19:03:50,JP Morgan,Overweight,Overweight,main,Raises,650.0,415.0
+2026-05-28 14:25:09,Wells Fargo,Overweight,Overweight,main,Raises,650.0,500.0
+2026-05-28 14:16:49,B. Riley Securities,Buy,Buy,main,Raises,625.0,485.0
+2026-05-28 13:21:14,Guggenheim,Buy,Buy,main,Raises,620.0,575.0
+2026-03-27 13:13:13,Cantor Fitzgerald,Overweight,Overweight,reit,Maintains,436.0,436.0
+2026-03-10 16:37:10,Cantor Fitzgerald,Overweight,,init,Announces,436.0,0.0
+2026-03-05 21:19:51,JP Morgan,Overweight,Overweight,main,Raises,415.0,395.0
+2026-03-05 17:36:39,B. Riley Securities,Buy,Buy,main,Raises,485.0,420.0
+2026-03-05 13:28:21,Keybanc,Overweight,Overweight,main,Raises,482.0,426.0
+2026-02-25 12:00:43,B of A Securities,Buy,Buy,main,Raises,475.0,365.0
+2026-02-04 15:40:31,JP Morgan,Overweight,Overweight,main,Raises,395.0,370.0
+2026-01-22 13:21:10,Guggenheim,Buy,,init,Announces,510.0,0.0
+2026-01-12 22:09:13,UBS,Buy,Buy,main,Raises,400.0,373.0
+2025-11-21 16:11:23,B. Riley Securities,Buy,Buy,main,Raises,420.0,320.0
+2025-11-21 13:48:43,Keybanc,Overweight,Overweight,main,Raises,392.0,320.0
+2025-11-21 09:30:48,B of A Securities,Buy,Buy,main,Raises,365.0,310.0
+2025-11-20 20:34:07,UBS,Buy,Buy,main,Raises,373.0,336.0
+2025-11-20 18:32:50,JP Morgan,Overweight,Overweight,main,Raises,370.0,275.0
+2025-11-20 17:37:22,DA Davidson,Buy,Buy,main,Raises,390.0,300.0
+2025-11-20 15:42:47,Wells Fargo,Overweight,Overweight,main,Raises,360.0,315.0
+2025-11-14 15:30:53,Wells Fargo,Overweight,Overweight,main,Raises,315.0,305.0
+2025-10-20 11:04:48,Keybanc,Overweight,Overweight,main,Raises,320.0,306.0
+2025-10-13 14:14:34,UBS,Buy,Buy,main,Raises,336.0,296.0
+2025-09-29 13:56:28,B of A Securities,Buy,Buy,main,Raises,310.0,299.0
+2025-09-26 12:01:45,Wells Fargo,Overweight,Overweight,main,Raises,305.0,295.0
+2025-08-21 17:57:13,Raymond James,Strong Buy,Strong Buy,main,Raises,300.0,290.0
+2025-08-21 15:52:20,DA Davidson,Buy,Buy,main,Raises,300.0,265.0
+2025-08-21 15:20:13,JP Morgan,Overweight,Overweight,main,Raises,275.0,250.0
+2025-08-21 13:43:46,UBS,Buy,Buy,main,Raises,296.0,288.0
+2025-08-18 13:56:40,Wells Fargo,Overweight,Overweight,main,Raises,295.0,250.0
+2025-07-16 14:59:08,Keybanc,Overweight,Overweight,main,Raises,295.0,255.0
+2025-07-10 21:46:47,UBS,Buy,Buy,main,Raises,288.0,258.0
+2025-05-27 13:05:27,Wells Fargo,Overweight,Overweight,main,Raises,250.0,215.0
+2025-05-23 17:56:11,DA Davidson,Buy,Buy,main,Raises,265.0,220.0
+2025-05-23 13:20:22,B. Riley Securities,Buy,Buy,main,Raises,265.0,200.0
+2025-05-22 16:12:14,Raymond James,Strong Buy,Strong Buy,main,Raises,255.0,215.0
+2025-05-22 13:41:25,JP Morgan,Overweight,Overweight,main,Raises,250.0,200.0
+2025-05-22 12:38:21,UBS,Buy,Buy,main,Raises,258.0,234.0
+2025-05-19 13:18:03,Wells Fargo,Overweight,Overweight,main,Raises,215.0,200.0
+2025-04-21 11:17:31,JP Morgan,Overweight,,init,Announces,200.0,0.0
+2025-04-16 12:33:41,Keybanc,Overweight,Overweight,main,Lowers,183.0,201.0
+2025-04-03 14:14:31,Wells Fargo,Overweight,Overweight,main,Lowers,200.0,215.0
+2025-03-19 16:51:22,B. Riley Securities,Buy,Buy,main,Lowers,200.0,234.0
+2025-02-27 16:22:36,Keybanc,Overweight,Overweight,main,Lowers,201.0,229.0
+2025-02-27 11:08:15,DA Davidson,Buy,Buy,reit,Maintains,220.0,220.0
+2025-02-04 16:03:08,Raymond James,Strong Buy,Strong Buy,main,Raises,215.0,210.0
+2025-01-08 20:30:20,Keybanc,Overweight,Overweight,main,Raises,229.0,227.0
+2024-11-19 21:55:03,DA Davidson,Buy,Buy,main,Maintains,210.0,210.0
+2024-11-15 15:10:19,Wells Fargo,Overweight,Overweight,main,Raises,215.0,200.0
+2024-10-08 12:12:17,Keybanc,Overweight,Overweight,main,Raises,227.0,200.0
+2024-08-23 12:59:58,B of A Securities,Buy,Buy,main,Raises,204.0,198.0
+2024-08-22 13:21:44,B. Riley Securities,Buy,Buy,main,Raises,208.0,205.0
+2024-08-22 11:57:44,Keybanc,Overweight,Overweight,main,Raises,200.0,195.0
+2024-07-17 14:57:13,Wells Fargo,Overweight,Overweight,main,Raises,200.0,185.0
+2024-05-31 13:06:33,B. Riley Securities,Buy,Buy,main,Raises,205.0,172.0
+2024-05-29 11:39:19,B of A Securities,Buy,Buy,main,Raises,198.0,160.0
+2024-05-23 16:57:48,Craig-Hallum,Buy,Buy,main,Raises,190.0,145.0
+2024-05-23 14:27:41,Wells Fargo,Overweight,Overweight,main,Raises,185.0,175.0
+2024-05-23 14:26:22,Raymond James,Strong Buy,Strong Buy,main,Raises,195.0,143.0
+2024-05-23 13:39:17,UBS,Buy,Buy,main,Raises,200.0,175.0
+2024-05-23 11:28:30,Keybanc,Overweight,Overweight,main,Raises,179.0,169.0
+2024-05-20 15:46:50,Wells Fargo,Overweight,Overweight,main,Raises,175.0,165.0
+2024-05-13 12:25:35,Keybanc,Overweight,Overweight,main,Raises,169.0,158.0
+2024-03-12 14:00:39,Wells Fargo,Overweight,Overweight,main,Raises,165.0,145.0
+2024-03-08 12:50:09,B. Riley Securities,Buy,Neutral,up,Raises,172.0,101.0
+2024-02-29 20:41:01,Keybanc,Overweight,Overweight,main,Raises,149.0,136.0
+2024-02-29 15:40:01,Craig-Hallum,Buy,Buy,main,Raises,145.0,124.0
+2024-01-10 12:46:22,Keybanc,Overweight,,init,Announces,136.0,0.0
+2023-11-22 15:30:08,B. Riley Securities,Neutral,Neutral,main,Raises,101.0,94.0
+2023-11-22 14:51:24,Wells Fargo,Overweight,Overweight,main,Raises,125.0,105.0
+2023-11-13 14:51:52,Wells Fargo,Overweight,Overweight,main,Lowers,105.0,120.0
+2023-10-20 12:23:44,Raymond James,Strong Buy,Outperform,up,Announces,120.0,0.0
+2023-10-03 14:35:02,B of A Securities,Buy,,init,Announces,120.0,0.0
+2023-08-24 14:51:58,B. Riley Securities,Neutral,Neutral,reit,Maintains,111.0,0.0
+2023-08-24 14:25:53,Wells Fargo,Overweight,Overweight,main,Raises,120.0,115.0
+2023-08-21 11:57:24,UBS,Buy,Buy,main,Lowers,127.0,132.0
+2023-08-15 12:37:13,Wells Fargo,Overweight,Overweight,main,Lowers,115.0,120.0
+2023-07-26 09:55:43,B. Riley Securities,Neutral,Buy,down,Lowers,111.0,134.0
+2023-06-01 09:24:24,Raymond James,Outperform,,init,Announces,120.0,0.0
+2023-05-25 09:34:03,Wells Fargo,Overweight,Equal-Weight,up,,0.0,0.0
+2023-03-02 15:03:24,Craig-Hallum,Buy,,main,Raises,124.0,110.0
+2023-03-02 14:32:02,UBS,Buy,,main,Raises,125.0,124.0
+2023-03-02 13:34:52,Wells Fargo,Equal-Weight,,main,Raises,105.0,88.0
+2023-02-15 10:31:05,Wells Fargo,Equal-Weight,Overweight,down,Lowers,88.0,120.0
+2022-11-14 12:36:23,Wells Fargo,Overweight,,main,Lowers,120.0,130.0
+2022-08-23 08:37:49,Keybanc,Overweight,,main,Raises,130.0,115.0
+2022-05-27 14:31:21,DA Davidson,Buy,,main,Raises,125.0,115.0
+2022-05-11 12:04:46,Wells Fargo,Overweight,,main,Lowers,110.0,120.0
+2022-03-03 12:39:23,Wells Fargo,Overweight,,main,Raises,120.0,110.0
+2022-01-27 13:14:53,UBS,Buy,,init,Announces,125.0,0.0
+2021-11-24 15:25:49,B. Riley Securities,Buy,,main,Raises,120.0,86.0
+2021-11-24 12:37:15,Wells Fargo,Overweight,,main,Raises,110.0,85.0
+2021-11-24 09:31:18,Keybanc,Overweight,,main,Raises,115.0,104.0
+2021-08-23 09:30:28,Wells Fargo,Overweight,Equal-Weight,up,Announces,90.0,0.0
+2021-05-26 12:38:57,B. Riley Securities,Buy,,main,Lowers,86.0,97.0
+2021-03-04 11:37:19,Wells Fargo,Equal-Weight,Overweight,down,Announces,88.0,0.0
+2021-01-27 09:58:05,Keybanc,Overweight,Sector Weight,up,Announces,104.0,0.0
+2020-05-21 15:10:45,Stifel,Buy,,main,Raises,52.5,49.0
+2020-05-20 12:28:44,Wells Fargo,Overweight,,main,Raises,45.0,40.0
+2020-05-20 11:26:24,B. Riley Securities,Buy,,main,Raises,42.0,31.0
+2020-05-15 12:45:25,Stifel,Buy,,main,Lowers,49.0,60.0
+2020-05-01 13:46:17,Wells Fargo,Overweight,,main,Lowers,40.0,45.0
+2020-03-17 11:49:39,B. Riley Securities,Buy,,main,Lowers,31.0,49.0
+2020-03-17 11:48:26,Stephens & Co.,Overweight,,main,Lowers,35.0,50.0
+2020-03-05 12:06:54,DA Davidson,Buy,Neutral,up,,0.0,0.0
+2020-02-27 15:47:55,Deutsche Bank,Buy,,main,Lowers,49.0,62.0
+2020-02-27 12:14:13,B. Riley Securities,Buy,,main,Lowers,49.0,60.0
+2020-02-24 11:06:42,Stephens & Co.,Overweight,,main,Lowers,62.0,64.0
+2019-09-17 11:38:06,Wells Fargo,Outperform,,main,Raises,61.0,52.0
+2019-08-29 14:08:50,B. Riley Securities,Buy,,main,Lowers,57.0,61.0
+2019-06-04 12:38:24,B. Riley Securities,Buy,,main,Raises,61.0,60.0
+2019-05-22 14:35:56,Canaccord Genuity,Buy,,main,Lowers,64.0,68.0
+2019-05-22 13:22:22,Wells Fargo,Outperform,,main,Raises,63.0,50.0
+2019-05-22 11:57:05,Deutsche Bank,Buy,,main,Raises,62.0,54.0
+2019-02-28 14:01:11,DA Davidson,Neutral,Neutral,main,Lowers,50.0,77.0
+2019-02-27 16:47:16,B. Riley Securities,Buy,Neutral,up,Announces,60.0,0.0
+2018-11-21 13:16:49,Canaccord Genuity,Buy,Buy,main,Lowers,84.0,90.0
+2018-09-27 11:59:07,B. Riley Securities,Neutral,Neutral,main,Raises,84.0,75.0
+2018-08-30 11:53:44,Deutsche Bank,Buy,Buy,main,Raises,93.0,85.0
+2018-08-14 12:08:59,Deutsche Bank,Buy,Buy,main,Lowers,85.0,121.0
+2018-08-14 11:43:28,Canaccord Genuity,Buy,Buy,main,Lowers,90.0,125.0
+2018-08-14 11:43:27,Wells Fargo,Outperform,Outperform,main,Lowers,85.0,110.0
+2018-08-13 15:56:50,Keybanc,Sector Weight,Overweight,down,,0.0,112.0
+2018-05-23 13:26:57,B. Riley Securities,Buy,Buy,main,Lowers,120.0,137.0
+2018-05-23 11:12:25,Stifel,Buy,Buy,main,Lowers,117.0,126.0
+2018-05-23 11:12:24,Keybanc,Overweight,Overweight,main,Lowers,112.0,123.0
+2018-03-01 17:20:15,B. Riley Securities,Buy,Buy,main,Raises,137.0,132.0
+2018-02-13 13:47:36,Canaccord Genuity,Buy,Buy,main,Raises,125.0,110.0
+2018-02-13 12:51:33,B. Riley Securities,Buy,,main,Lowers,132.0,135.0
+2018-02-09 11:31:14,Keybanc,Overweight,Overweight,main,Raises,123.0,118.0
+2017-11-21 10:08:35,Keybanc,Overweight,,main,Raises,110.0,91.0
+2017-09-26 11:52:51,Deutsche Bank,Buy,,init,Announces,103.0,0.0
+2017-08-31 14:59:14,Canaccord Genuity,Buy,,main,Lowers,110.0,120.0
+2017-08-30 17:26:30,Keybanc,Overweight,Sector Weight,up,,0.0,0.0
+2017-03-02 11:38:19,DA Davidson,Neutral,Buy,down,,0.0,0.0
+2016-08-25 11:27:03,FBR Capital,Outperform,,main,Raises,121.0,115.0
+2016-04-11 20:38:08,Canaccord Genuity,Buy,,init,Announces,75.0,0.0
+2016-04-11 13:53:44,Stephens & Co.,Overweight,,init,Announces,87.0,0.0
+2016-03-03 14:08:00,Stifel,Buy,,main,Lowers,80.0,100.0
+2015-12-15 13:30:56,DA Davidson,Buy,Neutral,up,,0.0,0.0
+2015-11-06 13:09:06,DA Davidson,Neutral,,down,,0.0,0.0
+2015-08-27 11:16:45,FBR Capital,Outperform,,main,Raises,88.0,78.0
+2015-07-01 19:26:36,DA Davidson,Buy,Neutral,up,Raises,100.0,90.0
+2015-05-22 13:00:00,FBR Capital,Outperform,,main,Raises,70.0,65.0
+2015-05-15 10:17:00,Raymond James,Underperform,,down,,0.0,0.0
+2015-04-08 10:03:46,DA Davidson,Buy,Neutral,up,Maintains,48.0,0.0
+2015-02-26 14:00:00,Stifel,Buy,,main,Raises,49.0,42.0
+2015-02-25 14:00:00,Stifel,Buy,,main,Raises,42.0,40.0
+2015-01-08 05:00:00,DA Davidson,Neutral,Buy,down,,0.0,0.0
+2014-12-02 05:00:00,Wells Fargo,Outperform,Market Perform,up,,0.0,0.0
+2014-11-06 10:54:20,Wells Fargo,Market Perform,,init,,0.0,0.0
+2014-05-23 01:58:42,Stifel,Buy,,main,Raises,35.0,33.0
+2014-02-27 13:00:00,Craig-Hallum,Buy,Hold,up,Raises,36.0,26.0
+2014-02-11 12:33:23,Stifel,Buy,,main,Lowers,33.0,34.5
+2013-11-27 12:58:10,Craig-Hallum,Hold,Buy,down,Maintains,28.0,0.0
+2013-10-24 13:29:42,Raymond James,Market Perform,Outperform,down,Removes,26.5,0.0
+2013-09-26 13:13:21,FBR Capital,Outperform,,main,Raises,35.0,32.0
+2013-08-28 16:47:17,DA Davidson,Buy,Neutral,up,Raises,30.0,26.0
+2013-02-27 17:17:45,Imperial Capital,Outperform,,main,Raises,24.0,22.0
+2013-01-15 13:57:37,Raymond James,Outperform,Strong Buy,down,,0.0,0.0
+2013-01-10 18:11:29,Gilford Securities,Neutral,,main,Raises,20.0,18.0
+2012-10-10 17:00:00,DA Davidson,Neutral,,main,Lowers,15.5,17.5
+2012-08-30 12:42:00,Imperial Capital,Outperform,,main,Lowers,21.0,24.0
+2012-08-29 18:16:00,DA Davidson,Neutral,,main,Lowers,17.5,22.0
+2012-06-01 10:04:00,Imperial Capital,Outperform,,init,Announces,24.0,0.0
+2012-04-20 12:19:00,Stifel,Buy,,init,Announces,30.0,0.0

@@ -1,0 +1,71 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-11-02 21:55:31,UBS,Neutral,Neutral,main,Raises,346.0,345.0
+2026-10-27 20:19:50,Citigroup,Neutral,Neutral,main,Lowers,335.0,340.0
+2026-10-26 15:16:25,JP Morgan,Overweight,Overweight,main,Raises,365.0,360.0
+2026-10-26 14:33:13,Barclays,Equal-Weight,Equal-Weight,main,Lowers,340.0,342.0
+2026-10-12 16:24:02,Morgan Stanley,Equal-Weight,Equal-Weight,main,Lowers,380.0,382.0
+2026-10-12 16:21:59,JP Morgan,Overweight,Overweight,main,Lowers,360.0,400.0
+2026-10-09 13:36:21,RBC Capital,Outperform,Outperform,main,Lowers,400.0,415.0
+2026-10-09 09:20:05,BMO Capital,Outperform,,init,Announces,380.0,0.0
+2026-10-06 14:22:49,TD Cowen,Hold,Hold,main,Lowers,335.0,338.0
+2026-10-05 21:03:56,UBS,Neutral,Neutral,main,Lowers,345.0,384.0
+2026-10-05 14:53:32,Barclays,Equal-Weight,Equal-Weight,main,Lowers,342.0,364.0
+2026-10-01 13:55:29,Evercore ISI Group,In-Line,In-Line,main,Lowers,320.0,370.0
+2026-09-30 18:20:15,Citigroup,Neutral,Neutral,main,Lowers,340.0,355.0
+2026-09-23 15:22:27,Truist Securities,Buy,Buy,main,Lowers,370.0,375.0
+2026-08-12 16:16:51,Piper Sandler,Overweight,Overweight,main,Raises,405.0,396.0
+2026-08-03 20:18:01,UBS,Neutral,Neutral,main,Lowers,384.0,386.0
+2026-07-27 16:23:59,Morgan Stanley,Equal-Weight,Equal-Weight,main,Lowers,382.0,385.0
+2026-07-27 14:35:23,Evercore ISI Group,In-Line,In-Line,main,Lowers,370.0,380.0
+2026-07-27 10:00:48,BTIG,Sell,Sell,main,Lowers,315.0,324.0
+2026-07-13 16:35:06,HSBC,Hold,Hold,main,Raises,329.0,312.0
+2026-07-13 10:57:36,JP Morgan,Overweight,Neutral,up,Raises,400.0,328.0
+2026-07-09 10:56:23,B of A Securities,Buy,Buy,main,Raises,391.0,387.0
+2026-07-07 14:03:21,TD Cowen,Hold,Hold,main,Raises,338.0,330.0
+2026-07-07 13:33:57,UBS,Neutral,Neutral,main,Raises,386.0,340.0
+2026-07-07 12:14:56,Barclays,Equal-Weight,Equal-Weight,main,Raises,364.0,322.0
+2026-07-06 15:38:17,Evercore ISI Group,In-Line,In-Line,main,Raises,380.0,345.0
+2026-06-30 13:24:12,Piper Sandler,Overweight,Neutral,init,Announces,396.0,0.0
+2026-06-30 10:02:43,BTIG,Sell,Sell,main,Raises,324.0,285.0
+2026-06-24 15:02:18,Truist Securities,Buy,Buy,main,Raises,375.0,360.0
+2026-06-16 09:34:39,BTIG,Sell,Sell,reit,Maintains,285.0,285.0
+2026-05-22 14:45:41,Loop Capital,Buy,,init,Announces,389.0,0.0
+2026-04-29 14:40:07,Evercore ISI Group,In-Line,In-Line,main,Raises,345.0,330.0
+2026-04-28 15:22:13,Goldman Sachs,Buy,Buy,main,Raises,400.0,360.0
+2026-04-24 18:26:55,Barclays,Equal-Weight,Equal-Weight,main,Lowers,322.0,323.0
+2026-04-24 12:07:08,B of A Securities,Buy,Buy,main,Raises,387.0,381.0
+2026-04-24 11:54:12,BTIG,Sell,Sell,reit,Maintains,285.0,285.0
+2026-04-16 16:09:10,Morgan Stanley,Equal-Weight,Equal-Weight,main,Lowers,385.0,395.0
+2026-04-09 17:06:51,JP Morgan,Neutral,Neutral,main,Lowers,325.0,375.0
+2026-04-09 13:21:34,Wells Fargo,Overweight,Overweight,main,Lowers,415.0,425.0
+2026-04-06 16:25:05,Evercore ISI Group,In-Line,In-Line,main,Lowers,330.0,393.0
+2026-04-06 13:49:55,Barclays,Equal-Weight,Equal-Weight,main,Lowers,323.0,367.0
+2026-03-23 14:24:06,Truist Securities,Buy,Buy,main,Lowers,360.0,400.0
+2026-03-16 10:16:06,BTIG,Sell,Sell,main,Lowers,285.0,328.0
+2026-02-10 14:08:52,Evercore ISI Group,In-Line,In-Line,main,Lowers,393.0,400.0
+2026-02-02 13:49:38,Truist Securities,Buy,Buy,main,Lowers,400.0,420.0
+2026-02-02 13:19:15,JP Morgan,Neutral,Neutral,main,Lowers,375.0,385.0
+2026-02-02 12:47:25,BTIG,Sell,Sell,reit,Maintains,328.0,328.0
+2025-09-15 13:01:26,Truist Securities,Buy,Buy,main,Raises,375.0,348.0
+2025-09-05 13:12:50,Wells Fargo,Overweight,Overweight,main,Raises,375.0,350.0
+2025-07-21 16:48:37,Deutsche Bank,Buy,Buy,main,Raises,375.0,371.0
+2025-07-11 18:15:45,JP Morgan,Neutral,Neutral,main,Raises,342.0,260.0
+2025-07-10 16:06:48,Morgan Stanley,Equal-Weight,Equal-Weight,main,Raises,311.0,250.0
+2025-07-09 16:16:59,"Keefe, Bruyette & Woods",Outperform,Outperform,main,Raises,371.0,360.0
+2025-07-09 14:19:51,Truist Securities,Buy,Buy,main,Raises,340.0,335.0
+2025-07-08 18:40:38,Barclays,Equal-Weight,Equal-Weight,main,Raises,297.0,249.0
+2025-07-02 16:04:17,Citigroup,Neutral,Neutral,main,Raises,327.0,300.0
+2025-05-23 18:01:57,Truist Securities,Buy,Buy,main,Raises,335.0,315.0
+2025-04-28 17:17:07,Evercore ISI Group,In-Line,In-Line,main,Lowers,288.0,300.0
+2025-04-23 11:43:18,Redburn Atlantic,Neutral,Sell,up,Lowers,255.0,270.0
+2025-04-22 16:15:30,Truist Securities,Buy,Buy,main,Lowers,315.0,340.0
+2025-04-21 18:13:26,BTIG,Sell,Sell,main,Lowers,240.0,272.0
+2025-04-21 16:47:56,RBC Capital,Outperform,Outperform,reit,Maintains,310.0,310.0
+2025-04-21 15:56:27,JP Morgan,Neutral,Neutral,main,Raises,260.0,244.0
+2025-04-20 20:24:52,B of A Securities,Buy,Buy,main,Raises,275.0,274.0
+2025-04-14 17:21:34,RBC Capital,Outperform,Outperform,main,Lowers,310.0,350.0
+2025-04-11 10:28:03,B of A Securities,Buy,Neutral,up,Lowers,274.0,325.0
+2025-04-08 20:58:39,"Monness, Crespi, Hardt",Buy,Buy,main,Lowers,275.0,355.0
+2025-04-08 14:58:50,JP Morgan,Neutral,Neutral,main,Lowers,244.0,325.0
+2025-04-04 15:58:41,Truist Securities,Buy,Buy,main,Lowers,343.0,350.0
+2025-03-24 14:50:32,Citigroup,Neutral,Neutral,main,Lowers,300.0,320.0

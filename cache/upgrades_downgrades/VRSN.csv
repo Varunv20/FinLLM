@@ -1,0 +1,74 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-10-26 13:15:44,Wedbush,Outperform,Outperform,main,Raises,367.0,351.0
+2026-10-23 19:28:02,Citigroup,Buy,Buy,main,Raises,345.0,325.0
+2026-10-19 13:24:12,Wedbush,Outperform,Outperform,main,Raises,351.0,341.0
+2026-09-01 12:24:54,Wedbush,Outperform,Outperform,main,Raises,341.0,324.0
+2026-07-24 18:07:57,JP Morgan,Neutral,Neutral,main,Raises,316.0,308.0
+2026-07-24 12:53:11,Wedbush,Outperform,Outperform,main,Raises,324.0,318.0
+2026-06-18 18:52:04,JP Morgan,Neutral,Neutral,main,Raises,308.0,285.0
+2026-06-01 19:29:02,JP Morgan,Neutral,Neutral,main,Raises,285.0,278.0
+2026-04-24 19:06:48,Citigroup,Buy,Buy,main,Raises,320.0,295.0
+2026-04-24 17:17:43,JP Morgan,Neutral,Neutral,main,Raises,278.0,273.0
+2026-04-24 11:32:15,Baird,Outperform,Outperform,main,Raises,355.0,305.0
+2026-04-02 15:37:18,Citigroup,Buy,Buy,main,Raises,295.0,280.0
+2026-02-09 16:11:11,Citigroup,Buy,Buy,main,Lowers,280.0,337.0
+2026-01-06 18:13:08,JP Morgan,Neutral,Neutral,main,Raises,271.0,270.0
+2025-10-28 11:26:04,JP Morgan,Neutral,,init,Announces,270.0,0.0
+2025-07-01 13:05:55,Baird,Outperform,Outperform,main,Raises,305.0,285.0
+2025-04-25 15:25:49,Baird,Outperform,Outperform,main,Raises,285.0,275.0
+2025-04-01 12:08:32,Baird,Outperform,Outperform,main,Raises,275.0,255.0
+2025-02-04 16:37:41,Citigroup,Buy,Buy,main,Raises,250.0,246.0
+2025-01-03 13:32:59,Citigroup,Buy,Buy,main,Raises,238.0,210.0
+2024-12-09 10:44:13,Baird,Outperform,Neutral,up,Raises,250.0,200.0
+2024-06-27 16:50:28,Baird,Neutral,Neutral,main,Maintains,200.0,200.0
+2024-04-26 12:24:10,Baird,Neutral,Neutral,main,Lowers,200.0,215.0
+2024-04-02 19:49:51,Citigroup,Buy,Buy,main,Lowers,236.0,237.0
+2024-02-12 20:58:17,Citigroup,Buy,Buy,main,Lowers,237.0,238.0
+2023-07-24 16:25:01,Citigroup,Buy,Buy,main,Lowers,249.0,252.0
+2023-07-11 09:23:56,Baird,Neutral,Outperform,down,Lowers,245.0,265.0
+2023-04-28 10:43:19,Citigroup,Buy,Buy,main,Maintains,252.0,252.0
+2023-02-13 14:13:10,Citigroup,Buy,,main,Raises,252.0,243.0
+2022-12-15 11:49:56,Baird,Outperform,Neutral,up,Raises,265.0,216.0
+2022-12-13 13:17:50,Citigroup,Buy,,init,Announces,243.0,0.0
+2022-10-28 20:23:29,Baird,Neutral,Neutral,main,Announces,216.0,0.0
+2022-07-29 20:21:53,Baird,Neutral,Neutral,main,Announces,205.0,0.0
+2022-04-29 09:07:18,Baird,Neutral,Outperform,down,Lowers,210.0,260.0
+2022-02-11 21:07:10,Baird,Outperform,Outperform,main,Announces,260.0,0.0
+2020-12-09 13:06:20,JP Morgan,Overweight,Neutral,up,Announces,246.0,0.0
+2020-06-23 20:04:58,Baird,Outperform,Outperform,main,Maintains,250.0,250.0
+2020-04-27 17:25:17,CFRA,Hold,,main,Raises,204.0,199.0
+2020-04-27 12:00:50,Citigroup,Neutral,,main,Raises,235.0,220.0
+2020-04-24 16:37:22,Baird,Outperform,,main,Raises,250.0,220.0
+2020-03-12 20:03:06,Baird,Outperform,Outperform,main,Lowers,220.0,240.0
+2019-07-26 14:06:14,Baird,Outperform,,main,Raises,240.0,210.0
+2019-03-06 13:59:11,Citigroup,Neutral,Neutral,main,Raises,195.0,175.0
+2018-11-02 17:56:50,Baird,Outperform,Outperform,main,Raises,170.0,160.0
+2018-11-02 16:36:41,JP Morgan,Neutral,Neutral,main,Raises,160.0,125.0
+2018-11-02 16:01:55,Citigroup,Neutral,Neutral,main,Raises,155.0,152.0
+2018-11-02 10:55:04,Baird,Outperform,Neutral,up,,0.0,0.0
+2018-07-27 12:20:33,JP Morgan,Underweight,Underweight,main,Raises,123.0,122.0
+2018-04-30 12:34:58,Citigroup,Neutral,Neutral,main,Raises,123.0,111.0
+2017-10-27 13:01:14,Citigroup,Neutral,,main,Raises,111.0,101.0
+2017-04-12 11:57:43,Citigroup,Neutral,Sell,up,,0.0,0.0
+2016-07-29 18:06:51,JP Morgan,Underweight,,main,Raises,88.0,84.0
+2016-01-05 13:18:48,Citigroup,Sell,Neutral,down,,0.0,0.0
+2015-10-02 07:43:04,Cowen & Co.,Hold,,main,Raises,66.0,63.0
+2015-02-06 14:00:00,Citigroup,Neutral,,main,Raises,57.0,50.0
+2015-01-26 09:22:38,Credit Suisse,Underperform,Neutral,down,Maintains,47.5,0.0
+2015-01-22 11:15:13,JP Morgan,Underweight,Neutral,down,Maintains,57.5,0.0
+2014-07-26 01:21:17,Citigroup,Neutral,,main,Raises,50.0,48.0
+2014-06-27 10:31:04,Wells Fargo,Market Perform,Outperform,down,,0.0,0.0
+2014-03-17 12:00:00,Cowen & Co.,Market Perform,Outperform,down,Lowers,49.0,63.0
+2014-02-07 13:00:00,Citigroup,Sell,Neutral,down,,0.0,0.0
+2013-07-26 11:00:00,B. Riley Securities,Buy,Neutral,up,Raises,0.0,0.0
+2013-03-28 10:34:26,Citigroup,Neutral,,main,Raises,50.0,35.0
+2013-02-27 11:19:06,Credit Suisse,Neutral,Outperform,down,,0.0,0.0
+2013-02-05 13:58:06,Topeka Capital,Buy,,main,Raises,52.0,46.0
+2013-01-11 14:02:13,B. Riley Securities,Neutral,,init,Announces,0.0,0.0
+2012-11-30 19:26:46,Citigroup,Neutral,,main,Lowers,35.0,42.0
+2012-11-26 14:24:00,First Analysis,Equal-Weight,Overweight,down,,0.0,0.0
+2012-07-27 12:47:00,Stifel,Buy,,main,Raises,50.0,45.0
+2012-07-23 09:43:00,Citigroup,Neutral,Buy,down,Lowers,46.0,47.0
+2012-04-27 12:23:00,JP Morgan,Neutral,,main,Raises,41.5,40.0
+2012-04-10 10:09:00,JP Morgan,Neutral,,main,Raises,40.0,38.0
+2012-04-03 10:34:00,Citigroup,Buy,,main,Raises,46.0,39.0

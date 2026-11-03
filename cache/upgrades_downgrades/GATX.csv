@@ -1,0 +1,55 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-10-08 21:20:17,Citigroup,Buy,Buy,main,Raises,216.0,215.0
+2026-08-03 18:22:23,Citigroup,Buy,Buy,main,Raises,215.0,214.0
+2026-07-31 12:43:03,Susquehanna,Positive,Positive,main,Raises,220.0,218.0
+2026-07-13 18:17:25,Citigroup,Buy,Buy,main,Raises,214.0,211.0
+2026-05-08 12:40:47,Susquehanna,Positive,Positive,main,Lowers,218.0,220.0
+2026-04-08 13:38:10,Citigroup,Buy,Neutral,up,Raises,211.0,210.0
+2026-02-24 13:33:25,Citigroup,Neutral,Buy,down,Raises,210.0,197.0
+2026-02-20 13:13:43,Susquehanna,Positive,Positive,main,Raises,220.0,212.0
+2026-01-26 16:52:10,Susquehanna,Positive,Positive,main,Raises,212.0,192.0
+2026-01-06 18:42:51,Citigroup,Buy,Buy,main,Raises,198.0,192.0
+2025-11-24 18:37:53,Citigroup,Buy,Buy,main,Raises,192.0,191.0
+2025-10-22 13:21:13,Susquehanna,Positive,Positive,main,Raises,192.0,190.0
+2025-09-22 11:11:02,Citigroup,Buy,,init,Announces,201.0,0.0
+2025-04-24 13:29:11,Susquehanna,Neutral,Neutral,main,Lowers,160.0,165.0
+2024-11-18 12:59:29,Goldman Sachs,Buy,,init,Announces,185.0,0.0
+2024-10-21 12:58:15,Susquehanna,Neutral,Neutral,main,Raises,140.0,122.0
+2024-04-24 12:12:09,Susquehanna,Neutral,Neutral,main,Raises,122.0,120.0
+2024-01-24 17:25:43,Susquehanna,Neutral,Neutral,main,Raises,120.0,115.0
+2024-01-24 15:08:55,Wells Fargo,Overweight,Overweight,main,Raises,140.0,130.0
+2023-10-16 13:35:04,Susquehanna,Neutral,Neutral,main,Lowers,115.0,122.0
+2023-07-26 14:49:15,Susquehanna,Neutral,Neutral,main,Raises,122.0,118.0
+2023-07-26 14:38:06,Stephens & Co.,Overweight,Overweight,main,Raises,142.0,135.0
+2023-07-26 13:15:06,Wells Fargo,Overweight,Overweight,main,Raises,145.0,125.0
+2023-07-26 09:57:11,TD Cowen,Market Perform,Outperform,down,Raises,137.0,135.0
+2023-04-26 13:12:01,Susquehanna,Neutral,,main,Raises,118.0,115.0
+2023-01-25 15:19:37,Susquehanna,Neutral,,main,Raises,115.0,110.0
+2023-01-25 12:50:33,Wells Fargo,Overweight,,main,Raises,125.0,120.0
+2022-11-07 12:13:26,Susquehanna,Neutral,Positive,down,,0.0,0.0
+2022-07-22 14:40:16,Susquehanna,Positive,,main,Lowers,112.0,122.0
+2022-02-02 16:07:40,Sidoti & Co.,Buy,Neutral,up,Announces,130.0,0.0
+2022-01-10 14:38:26,Wells Fargo,Overweight,,main,Raises,120.0,110.0
+2021-10-20 12:04:34,Wells Fargo,Overweight,,main,Raises,110.0,103.0
+2021-07-26 10:29:20,Susquehanna,Positive,Neutral,up,Announces,112.0,0.0
+2021-07-16 10:47:07,Cowen & Co.,Outperform,Market Perform,up,Announces,101.0,0.0
+2021-03-29 14:03:24,Wells Fargo,Overweight,,main,Raises,103.0,98.0
+2020-09-18 13:55:11,Sidoti & Co.,Neutral,,main,Raises,73.0,69.0
+2020-06-16 11:41:15,Stephens & Co.,Overweight,Equal-Weight,up,Raises,78.0,62.0
+2020-04-15 13:04:33,Cowen & Co.,Market Perform,,main,Lowers,62.0,88.0
+2020-04-03 15:35:49,Wells Fargo,Overweight,,main,Lowers,75.0,90.0
+2020-01-24 11:30:03,Stephens & Co.,Equal-Weight,,main,Raises,80.0,75.0
+2018-07-27 13:16:09,Buckingham Research,Neutral,Neutral,main,Raises,74.0,67.0
+2018-07-20 11:20:16,Stifel,Hold,Hold,main,Raises,78.0,66.0
+2018-06-29 10:11:13,Mizuho,Buy,,init,Announces,88.0,0.0
+2018-04-20 11:40:26,Stifel,Hold,Hold,main,Raises,66.0,65.0
+2018-03-28 11:45:05,Stifel,Hold,Hold,main,Raises,65.0,60.0
+2018-01-24 12:44:47,Citigroup,Buy,Buy,main,Raises,78.0,71.0
+2018-01-04 12:22:14,Seaport Global,Neutral,,init,,0.0,0.0
+2017-10-20 14:40:00,Buckingham Research,Neutral,,main,Lowers,61.0,64.0
+2017-07-21 17:02:43,Citigroup,Buy,,main,Lowers,71.0,73.0
+2017-07-17 10:04:03,Stifel,Hold,Sell,up,,0.0,0.0
+2017-03-03 11:10:42,Cowen & Co.,Market Perform,,init,Announces,62.0,0.0
+2017-01-12 11:06:27,Stifel,Sell,Hold,down,,0.0,0.0
+2016-12-14 15:27:01,Sidoti & Co.,Neutral,,down,,0.0,0.0
+2016-09-30 11:30:11,CLSA,Underperform,,init,Announces,45.0,0.0

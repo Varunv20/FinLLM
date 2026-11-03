@@ -25,7 +25,12 @@ def parse_decision(summary, fallback=None):
     Falls back to the stored value when the reply has no Decision line."""
     if isinstance(summary, str):
         # gpt-oss replies are "analysis<reasoning>assistantfinal<answer>"; the reasoning
-        # often floats a decision it later changes, so read only the final answer
+        # often floats a decision it later changes, so read only the final answer, and none
+        # at all if the reply was cut off before it (the stored value came from the same text)
+        if summary.lstrip().startswith("analysis") and "assistantfinal" not in summary:
+            return None
+        if "<think>" in summary and "</think>" not in summary:  # same for Qwen-style reasoning
+            return None
         summary = summary.rsplit("assistantfinal", 1)[-1]
         # Qwen-style thinking models: "<think>...</think>answer"
         summary = summary.rsplit("</think>", 1)[-1]

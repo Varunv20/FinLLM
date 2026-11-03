@@ -1,0 +1,61 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-07-28 14:30:01,JP Morgan,Neutral,Neutral,main,Lowers,260.0,275.0
+2026-03-30 12:54:20,JP Morgan,Neutral,,init,Announces,145.0,0.0
+2026-01-28 15:33:26,Argus Research,Buy,Buy,main,Raises,200.0,170.0
+2025-07-11 12:12:32,B of A Securities,Neutral,Neutral,main,Raises,120.0,100.0
+2025-06-09 14:30:12,B of A Securities,Neutral,Neutral,main,Raises,100.0,95.0
+2025-01-29 13:05:35,B of A Securities,Neutral,Underperform,up,Raises,92.0,58.0
+2024-11-05 14:12:16,Craig-Hallum,Hold,Hold,main,Raises,69.0,62.0
+2024-04-30 16:28:20,Craig-Hallum,Hold,Buy,down,Announces,62.0,0.0
+2022-11-08 14:22:53,Sidoti & Co.,Buy,Neutral,up,Announces,78.0,0.0
+2022-10-31 14:16:25,Sidoti & Co.,Neutral,Buy,down,,0.0,0.0
+2022-08-02 13:46:20,Craig-Hallum,Buy,,main,Raises,70.0,65.0
+2021-11-09 15:47:01,B of A Securities,Underperform,Neutral,down,Lowers,38.0,46.0
+2021-02-05 13:57:36,Argus Research,Buy,Hold,up,,0.0,0.0
+2020-07-30 13:02:29,Citigroup,Neutral,,main,Raises,33.0,30.0
+2020-04-29 16:08:03,Citigroup,Neutral,,main,Raises,30.0,22.0
+2020-04-28 18:12:30,CFRA,Hold,,main,Lowers,30.0,35.0
+2020-01-28 12:06:49,Citigroup,Neutral,,main,Raises,35.0,33.0
+2019-10-30 11:58:53,Citigroup,Neutral,,main,Lowers,33.0,36.0
+2018-12-20 14:02:30,Citigroup,Neutral,Buy,down,,0.0,0.0
+2018-07-31 11:45:49,Citigroup,Buy,Buy,main,Raises,35.0,33.0
+2018-04-24 12:45:55,Citigroup,Buy,Buy,main,Raises,33.0,32.0
+2018-04-13 13:36:04,Citigroup,Buy,Neutral,up,,0.0,0.0
+2017-12-18 14:32:42,Craig-Hallum,Buy,Hold,up,,0.0,0.0
+2017-11-02 12:10:00,Argus Research,Hold,Buy,down,,0.0,0.0
+2016-10-31 04:00:00,Cross Research,Hold,Buy,down,,0.0,0.0
+2016-07-26 11:58:00,Craig-Hallum,Hold,Buy,down,,0.0,0.0
+2016-04-26 11:50:19,B. Riley Securities,Buy,,main,Raises,0.0,0.0
+2016-01-26 12:52:42,Citigroup,Neutral,Sell,up,,0.0,0.0
+2016-01-20 11:08:50,RBC Capital,Sector Perform,Underperform,up,,0.0,0.0
+2015-12-04 16:25:31,B. Riley Securities,Buy,,init,,0.0,0.0
+2015-12-04 09:23:25,B. Riley Securities,Buy,,init,Announces,0.0,0.0
+2015-12-03 22:33:09,Canaccord Genuity,Buy,,init,Announces,26.0,0.0
+2015-10-23 11:43:06,Citigroup,Sell,,down,,0.0,0.0
+2015-10-22 09:38:43,Goldman Sachs,Sell,Neutral,down,,0.0,0.0
+2015-08-03 11:52:17,Goldman Sachs,Neutral,Buy,down,,0.0,0.0
+2015-07-21 15:00:00,Citigroup,Neutral,,main,Raises,23.0,21.0
+2015-07-21 09:20:27,Longbow Research,Neutral,Underperform,up,,0.0,0.0
+2015-04-21 13:00:00,Citigroup,Neutral,,main,Lowers,21.0,25.0
+2015-04-14 10:07:49,Longbow Research,Underperform,Neutral,down,Announces,18.5,0.0
+2015-03-13 10:05:54,Goldman Sachs,Buy,Neutral,up,,0.0,0.0
+2014-10-28 13:00:00,Citigroup,Neutral,,main,Raises,25.0,23.0
+2014-07-23 00:01:35,Citigroup,Neutral,,main,Raises,23.0,20.0
+2014-07-22 10:20:01,Deutsche Bank,Hold,Sell,up,Raises,24.0,15.0
+2014-04-24 03:03:51,Citigroup,Hold,,main,Raises,20.0,17.0
+2014-04-23 12:00:00,Craig-Hallum,Buy,Hold,up,Raises,24.0,17.0
+2014-04-23 11:16:20,B of A Securities,Neutral,,main,Raises,20.0,17.0
+2014-01-28 21:00:00,Needham,Buy,Hold,up,Announces,19.0,0.0
+2014-01-13 13:30:00,Raymond James,Underperform,Market Perform,down,,0.0,0.0
+2013-10-29 16:27:20,Cross Research,Buy,Hold,up,,0.0,0.0
+2013-10-29 16:27:05,Craig-Hallum,Hold,Buy,down,,0.0,0.0
+2013-07-16 11:58:24,Raymond James,Market Perform,Outperform,down,,0.0,0.0
+2013-07-11 12:36:02,Cross Research,Hold,Buy,down,Raises,16.0,14.5
+2013-05-23 10:38:21,Deutsche Bank,Sell,Hold,down,Maintains,11.0,11.0
+2013-04-23 12:21:07,Deutsche Bank,Hold,,main,Raises,11.0,10.0
+2013-01-29 18:23:43,B of A Securities,Neutral,,main,Raises,11.0,9.5
+2012-11-01 19:21:00,Deutsche Bank,Hold,,main,Raises,10.0,9.0
+2012-07-24 11:10:00,Deutsche Bank,Hold,,main,Raises,9.0,8.0
+2012-07-24 10:32:00,Citigroup,Neutral,,main,Raises,9.0,8.5
+2012-07-02 11:16:00,Citigroup,Neutral,,main,Lowers,8.5,10.0
+2012-04-24 11:10:00,B of A Securities,Neutral,,main,Lowers,11.5,12.5

@@ -1,0 +1,70 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-04-07 10:31:23,Keybanc,Overweight,,init,Announces,110.0,0.0
+2025-10-09 13:57:49,Scotiabank,Sector Perform,Sector Outperform,down,Raises,106.0,102.0
+2025-08-13 13:35:41,Scotiabank,Sector Outperform,Sector Outperform,main,Raises,102.0,98.0
+2025-07-15 12:08:22,B of A Securities,Buy,Underperform,up,Raises,107.0,85.0
+2025-07-11 15:41:35,Scotiabank,Sector Outperform,Sector Outperform,main,Raises,98.0,88.0
+2025-05-23 17:08:48,B of A Securities,Underperform,Underperform,main,Raises,85.0,77.0
+2025-04-29 18:07:03,B of A Securities,Underperform,Underperform,main,Raises,77.0,76.0
+2025-03-13 19:58:36,JP Morgan,Neutral,Neutral,main,Raises,81.0,77.0
+2025-01-13 19:08:37,B of A Securities,Underperform,Underperform,main,Raises,64.0,62.0
+2024-11-12 15:55:57,JP Morgan,Neutral,Neutral,main,Lowers,64.0,65.0
+2024-09-12 16:24:23,JP Morgan,Neutral,Neutral,main,Lowers,62.0,64.0
+2024-08-20 13:45:49,Scotiabank,Sector Outperform,Sector Outperform,main,Raises,81.0,80.0
+2024-07-12 21:45:13,Scotiabank,Sector Outperform,Sector Outperform,main,Raises,80.0,75.0
+2024-05-09 19:45:20,Scotiabank,Sector Outperform,Sector Outperform,main,Raises,75.0,72.0
+2024-04-11 20:08:48,Scotiabank,Sector Outperform,Sector Outperform,main,Raises,72.0,67.0
+2023-09-14 13:34:21,Scotiabank,Sector Outperform,Sector Perform,up,Announces,68.0,0.0
+2023-05-24 12:48:20,Argus Research,Buy,,main,Lowers,58.0,76.0
+2023-05-24 09:40:39,Goldman Sachs,Neutral,Neutral,main,Lowers,54.0,60.0
+2023-02-06 12:21:01,Raymond James,Market Perform,Outperform,down,,0.0,0.0
+2023-01-26 13:19:59,Raymond James,Outperform,,main,Lowers,65.0,78.0
+2023-01-17 14:23:34,Scotiabank,Sector Perform,Sector Outperform,down,Lowers,85.0,91.0
+2022-10-24 12:36:07,Raymond James,Outperform,,main,Lowers,78.0,86.0
+2022-07-05 11:52:28,Goldman Sachs,Neutral,,main,Lowers,60.0,68.0
+2022-06-10 11:22:33,Raymond James,Outperform,,main,Raises,86.0,76.0
+2022-04-25 11:53:12,Raymond James,Outperform,,main,Raises,76.0,69.0
+2021-10-26 12:35:36,Raymond James,Outperform,,main,Raises,69.0,62.0
+2021-07-27 13:09:05,Raymond James,Outperform,,main,Raises,62.0,60.0
+2021-04-27 12:22:22,JP Morgan,Neutral,,init,Announces,51.0,0.0
+2020-09-24 10:27:23,Goldman Sachs,Neutral,,init,Announces,45.5,0.0
+2020-08-12 11:26:55,B of A Securities,Buy,,init,Announces,51.0,0.0
+2020-07-24 13:05:27,Jefferies,Buy,,main,Lowers,52.0,54.0
+2020-06-19 10:03:03,Stifel,Buy,,init,Announces,47.0,0.0
+2020-06-01 11:32:06,Raymond James,Outperform,,main,Raises,49.0,48.0
+2020-05-07 11:33:36,Raymond James,Outperform,Market Perform,up,Announces,48.0,0.0
+2020-05-07 10:26:21,Scotiabank,Sector Outperform,Sector Perform,up,Raises,44.0,40.0
+2020-04-28 12:41:16,Citigroup,Neutral,,main,Lowers,43.0,49.0
+2019-10-17 13:59:31,Citigroup,Neutral,,main,Lowers,49.0,61.0
+2019-10-15 10:46:43,Jefferies,Buy,Hold,up,,0.0,0.0
+2018-04-25 10:20:09,Jefferies,Hold,Buy,down,,0.0,0.0
+2018-02-05 11:58:54,Jefferies,Buy,Hold,up,,0.0,0.0
+2018-01-02 13:52:59,Sidoti & Co.,Buy,Neutral,up,,0.0,0.0
+2017-04-19 10:22:29,Jefferies,Hold,Underperform,up,,0.0,0.0
+2017-04-10 10:41:32,Jefferies,Underperform,Buy,down,Lowers,52.0,66.0
+2016-10-13 04:00:00,Jefferies,Buy,Hold,up,,0.0,0.0
+2016-08-10 12:24:19,Barclays,Equal-Weight,,main,Raises,61.0,47.0
+2016-07-25 16:23:12,Jefferies,Hold,,main,Raises,60.0,59.0
+2016-04-18 10:51:36,Jefferies,Hold,Buy,down,,0.0,0.0
+2016-01-14 19:08:59,Jefferies,Buy,,main,Lowers,60.0,65.0
+2015-07-23 11:13:57,Jefferies,Buy,Hold,up,Maintains,68.0,0.0
+2015-04-24 13:00:00,Jefferies,Hold,,main,Raises,67.0,66.0
+2015-03-13 13:00:00,Jefferies,Hold,,main,Lowers,66.0,69.0
+2015-01-09 05:00:00,Jefferies,Hold,Buy,down,Lowers,69.0,79.0
+2014-11-19 14:00:00,Citigroup,Buy,,main,Lowers,80.0,83.0
+2014-04-02 11:09:44,Jefferies,Buy,,init,Announces,79.0,0.0
+2013-11-21 12:17:52,Raymond James,Market Perform,Outperform,down,Removes,0.0,74.0
+2013-11-13 13:40:04,Maxim Group,Buy,,init,Announces,81.0,0.0
+2013-08-12 11:50:15,Raymond James,Outperform,,up,,0.0,0.0
+2013-07-30 13:28:34,Raymond James,Outperform,,up,,0.0,0.0
+2013-07-29 21:19:45,ISI Group,Neutral,,init,Announces,67.0,0.0
+2013-04-24 12:49:44,BMO Capital,Outperform,Market Perform,up,Raises,70.0,58.0
+2013-04-24 11:48:35,BMO Capital,Outperform,Market Perform,up,,0.0,0.0
+2013-02-11 13:28:21,BMO Capital,Market Perform,,main,Raises,58.0,56.0
+2013-01-07 18:13:12,Scotiabank,Sector Perform,,down,,0.0,0.0
+2012-11-05 13:15:00,BMO Capital,Market Perform,,main,Raises,56.0,52.0
+2012-08-08 16:49:00,Barclays,Equal-Weight,,main,Raises,52.0,51.0
+2012-07-17 18:26:00,Barclays,Equal-Weight,,main,Lowers,51.0,57.0
+2012-05-07 12:42:00,Raymond James,Market Perform,Outperform,down,,0.0,0.0
+2012-05-07 12:26:00,Pritchard Capital Partners,Neutral,,main,Raises,50.0,48.0
+2012-05-04 14:47:00,UBS,Buy,,main,Lowers,65.0,67.0

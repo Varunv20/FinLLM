@@ -1,0 +1,122 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-10-21 11:44:47,Rosenblatt,Buy,Buy,main,Raises,57.0,51.0
+2026-10-16 11:45:07,Rosenblatt,Buy,Buy,main,Maintains,51.0,51.0
+2026-10-08 21:25:51,Citigroup,Neutral,Neutral,main,Raises,45.0,39.0
+2026-10-06 12:59:38,Mizuho,Neutral,Neutral,main,Raises,43.0,35.0
+2026-08-12 18:32:29,Citigroup,Neutral,Neutral,main,Raises,39.0,33.0
+2026-08-12 18:18:14,Goldman Sachs,Sell,Sell,main,Raises,34.0,30.0
+2026-08-12 14:18:50,Mizuho,Neutral,Neutral,main,Raises,35.0,34.0
+2026-08-12 12:45:49,Wedbush,Neutral,Neutral,main,Raises,40.0,34.0
+2026-08-12 12:38:49,Needham,Buy,Buy,reit,Maintains,46.0,46.0
+2026-08-12 12:38:41,Barclays,Equal-Weight,Equal-Weight,main,Raises,39.0,38.0
+2026-08-12 12:10:31,Rosenblatt,Buy,Buy,main,Raises,51.0,45.0
+2026-07-23 17:21:42,Mizuho,Neutral,Neutral,main,Lowers,34.0,44.0
+2026-07-22 16:35:15,Rosenblatt,Buy,Buy,main,Raises,45.0,40.0
+2026-07-22 13:21:50,Barclays,Equal-Weight,Equal-Weight,main,Raises,38.0,34.0
+2026-07-22 10:08:40,Needham,Buy,Buy,main,Raises,46.0,40.0
+2026-07-13 17:55:28,Citigroup,Neutral,Neutral,main,Raises,33.0,31.0
+2026-06-11 11:58:13,Wolfe Research,Peer Perform,,init,,0.0,0.0
+2026-06-01 11:50:02,Mizuho,Neutral,Neutral,main,Raises,44.0,36.0
+2026-05-12 12:38:26,Mizuho,Neutral,Neutral,main,Raises,36.0,30.0
+2026-05-07 18:08:04,Barclays,Equal-Weight,Equal-Weight,main,Lowers,34.0,38.0
+2026-05-06 23:24:30,Rosenblatt,Buy,Buy,main,Raises,40.0,32.0
+2026-05-06 20:05:42,JP Morgan,Neutral,Neutral,main,Raises,32.0,28.0
+2026-05-06 18:33:04,Citigroup,Neutral,Neutral,main,Raises,31.0,25.0
+2026-05-06 17:54:08,CJS Securities,Market Perform,Market Underperform,up,,0.0,0.0
+2026-05-06 12:53:40,Wedbush,Neutral,Neutral,main,Lowers,34.0,42.0
+2026-05-06 10:39:29,Needham,Buy,Buy,reit,Maintains,40.0,40.0
+2024-10-02 18:33:26,Barclays,Equal-Weight,Equal-Weight,main,Adjusts,42.0,438.0
+2024-09-23 13:20:36,Loop Capital,Buy,Buy,main,Lowers,1000.0,1500.0
+2024-09-18 10:44:00,Needham,Buy,,init,Announces,600.0,0.0
+2024-09-17 11:42:44,Mizuho,Neutral,,init,Announces,450.0,0.0
+2024-09-06 12:21:59,JP Morgan,Neutral,Overweight,down,Lowers,500.0,950.0
+2024-09-04 13:47:08,Barclays,Equal-Weight,Overweight,down,Lowers,438.0,693.0
+2024-08-28 17:09:10,CFRA,Hold,Buy,down,Lowers,454.0,729.0
+2024-08-28 16:20:50,Barclays,Overweight,Overweight,reit,Maintains,693.0,693.0
+2024-08-28 16:17:37,Wells Fargo,Equal-Weight,Equal-Weight,main,Lowers,375.0,650.0
+2024-08-08 15:29:41,Goldman Sachs,Neutral,Neutral,main,Lowers,675.0,775.0
+2024-08-07 17:06:16,B of A Securities,Neutral,Buy,down,Lowers,700.0,1090.0
+2024-08-07 14:25:34,Wells Fargo,Equal-Weight,Equal-Weight,main,Lowers,650.0,890.0
+2024-08-07 11:19:52,Rosenblatt,Buy,Buy,main,Maintains,1300.0,1300.0
+2024-08-07 00:20:17,JP Morgan,Overweight,Overweight,main,Lowers,950.0,1150.0
+2024-08-02 13:32:54,Wedbush,Neutral,Neutral,reit,Maintains,800.0,800.0
+2024-07-15 13:24:12,Susquehanna,Negative,Negative,main,Raises,325.0,285.0
+2024-07-10 15:47:15,Nomura,Neutral,Buy,down,Announces,930.0,0.0
+2024-05-01 18:16:58,Wells Fargo,Equal-Weight,Equal-Weight,main,Lowers,890.0,960.0
+2024-05-01 16:43:42,Goldman Sachs,Neutral,Neutral,main,Lowers,800.0,937.0
+2024-05-01 13:36:09,Wedbush,Neutral,Neutral,main,Raises,800.0,530.0
+2024-05-01 12:23:08,Rosenblatt,Buy,Buy,main,Maintains,1300.0,1300.0
+2024-04-24 13:31:54,Keybanc,Sector Weight,,init,,0.0,0.0
+2024-04-24 11:53:52,Wedbush,Neutral,Neutral,reit,Maintains,530.0,530.0
+2024-04-16 11:15:07,Loop Capital,Buy,Buy,main,Raises,1500.0,600.0
+2024-03-25 10:56:00,Northland Capital Markets,Outperform,Outperform,main,Raises,1300.0,925.0
+2024-03-25 09:58:18,JP Morgan,Overweight,,init,Announces,1150.0,0.0
+2024-03-13 11:17:22,B of A Securities,Buy,Buy,main,Raises,1280.0,1040.0
+2024-03-06 15:30:16,Argus Research,Buy,,init,Announces,1350.0,0.0
+2024-03-04 11:03:20,Goldman Sachs,Neutral,,init,Announces,941.0,0.0
+2024-02-20 19:00:15,Rosenblatt,Buy,Buy,main,Raises,1300.0,700.0
+2024-02-16 13:02:25,Wells Fargo,Equal-Weight,,init,Announces,960.0,0.0
+2024-02-15 13:19:40,B of A Securities,Buy,,init,Announces,1040.0,0.0
+2024-02-13 14:15:29,Barclays,Overweight,Overweight,main,Raises,961.0,691.0
+2024-01-30 17:53:44,Rosenblatt,Buy,Buy,main,Raises,700.0,550.0
+2024-01-30 16:08:38,Wedbush,Neutral,Neutral,main,Raises,530.0,250.0
+2024-01-30 16:06:27,Northland Capital Markets,Outperform,Outperform,main,Raises,625.0,450.0
+2024-01-30 14:14:25,Susquehanna,Negative,Negative,main,Raises,250.0,162.0
+2024-01-19 13:34:53,Wedbush,Neutral,Neutral,reit,Maintains,250.0,0.0
+2024-01-19 13:18:05,Barclays,Overweight,Overweight,main,Raises,396.0,335.0
+2023-12-11 14:04:00,Susquehanna,Negative,Neutral,down,Announces,160.0,0.0
+2023-11-02 15:47:35,Barclays,Overweight,Overweight,main,Raises,335.0,327.0
+2023-10-30 12:47:21,Wedbush,Neutral,Neutral,reit,Maintains,250.0,0.0
+2023-10-20 18:24:50,Nomura Instinet,Buy,,init,Announces,413.0,0.0
+2023-09-19 08:44:07,Barclays,Overweight,,init,Announces,327.0,0.0
+2023-08-23 11:34:40,Wedbush,Neutral,Underperform,up,Announces,250.0,0.0
+2023-08-10 17:49:28,Susquehanna,Neutral,Neutral,main,Raises,300.0,90.0
+2023-08-09 11:37:24,Rosenblatt,Buy,Buy,reit,Maintains,375.0,0.0
+2023-08-08 11:11:32,Rosenblatt,Buy,Buy,reit,Maintains,375.0,0.0
+2023-08-07 16:44:17,Loop Capital,Buy,Buy,main,Raises,400.0,325.0
+2023-07-21 17:26:01,Northland Capital Markets,Outperform,Outperform,main,Raises,345.0,300.0
+2023-07-21 11:19:12,Rosenblatt,Buy,Buy,main,Raises,375.0,300.0
+2023-06-09 13:31:34,Rosenblatt,Buy,Buy,reit,Maintains,300.0,0.0
+2023-06-07 08:06:33,Rosenblatt,Buy,,init,Announces,300.0,0.0
+2023-05-24 14:10:02,Loop Capital,Buy,Buy,main,Raises,200.0,150.0
+2023-05-03 13:41:44,Loop Capital,Buy,,main,Lowers,150.0,100.0
+2023-05-03 12:10:12,Wedbush,Underperform,,reit,Maintains,65.0,0.0
+2023-05-03 11:20:34,Susquehanna,Neutral,,main,Raises,90.0,69.0
+2023-04-06 12:12:49,Wedbush,Underperform,Neutral,down,Announces,65.0,0.0
+2023-02-01 15:04:29,Northland Capital Markets,Outperform,,main,Raises,175.0,165.0
+2022-11-02 13:25:23,Wedbush,Neutral,,main,Raises,65.0,55.0
+2022-09-19 12:19:44,Susquehanna,Neutral,Positive,down,Announces,55.0,0.0
+2022-08-12 11:09:43,Susquehanna,Positive,,main,Raises,88.0,70.0
+2021-05-05 13:59:41,Susquehanna,Positive,,main,Raises,44.0,40.0
+2021-05-05 13:21:33,Northland Capital Markets,Outperform,,main,Raises,50.0,48.0
+2020-06-11 15:31:46,Northland Capital Markets,Outperform,,init,Announces,49.0,0.0
+2020-06-05 10:26:42,Loop Capital,Buy,,init,Announces,35.0,0.0
+2019-12-27 14:56:23,Maxim Group,Buy,,main,Raises,36.0,34.0
+2019-02-15 14:21:22,Maxim Group,Buy,Hold,up,Announces,38.0,0.0
+2018-10-05 13:24:37,Maxim Group,Hold,Buy,down,,0.0,50.0
+2018-01-31 13:20:37,Maxim Group,Buy,,main,Raises,50.0,45.0
+2017-11-15 13:40:42,Wells Fargo,Market Perform,,init,Announces,20.0,0.0
+2017-09-18 10:42:09,DA Davidson,Neutral,Buy,down,,0.0,32.0
+2016-11-30 12:15:54,DA Davidson,Buy,Neutral,up,Raises,32.0,25.0
+2016-08-05 12:59:46,Roth Capital,Neutral,Buy,down,,0.0,0.0
+2016-07-28 11:52:15,Pacific Crest,Sector Weight,,init,,0.0,0.0
+2016-07-19 10:37:41,DA Davidson,Neutral,Buy,down,Lowers,19.0,0.0
+2016-07-19 10:10:41,Stifel,Hold,Buy,down,,0.0,0.0
+2016-04-15 11:44:59,Sterne Agee,Buy,,main,Lowers,35.0,38.0
+2016-01-27 11:26:06,Susquehanna,Positive,Neutral,up,Raises,33.0,28.0
+2015-11-11 16:26:49,Susquehanna,Neutral,Positive,down,,0.0,0.0
+2015-08-05 21:20:49,Susquehanna,Positive,,main,Lowers,40.0,48.0
+2015-05-06 10:46:37,Roth Capital,Buy,,init,Announces,50.0,0.0
+2015-01-21 14:00:00,Stifel,Buy,,main,Raises,43.0,40.0
+2014-11-17 14:00:00,DA Davidson,Buy,,main,Raises,41.0,35.0
+2014-11-14 14:00:00,Stifel,Buy,,main,Raises,40.0,32.0
+2014-09-29 09:36:51,Roth Capital,Buy,,init,Announces,35.0,0.0
+2014-08-07 03:07:00,Stifel,Buy,,main,Raises,32.0,30.0
+2014-06-27 00:28:16,Stifel,Buy,,main,Raises,30.0,23.0
+2014-05-16 10:09:31,Stifel,Buy,Hold,up,Announces,23.0,0.0
+2013-11-22 11:58:00,DA Davidson,Buy,,init,Announces,18.5,0.0
+2013-10-16 12:22:40,Stifel,Hold,Buy,down,Removes,0.0,14.0
+2013-04-24 12:35:13,Stifel,Buy,,main,Lowers,13.0,15.0
+2013-02-28 11:24:52,Wunderlich Securities,Buy,,main,Raises,14.0,13.0
+2012-10-10 10:16:00,Wunderlich Securities,Buy,,main,Lowers,13.0,17.0
+2012-09-25 09:57:00,Wunderlich Securities,Buy,,init,Announces,17.0,0.0

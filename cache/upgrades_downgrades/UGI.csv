@@ -1,0 +1,70 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-09-29 18:50:15,Scotiabank,Sector Outperform,,init,Announces,46.0,0.0
+2026-09-09 21:17:14,Jefferies,Buy,Hold,up,Raises,43.0,40.0
+2026-08-07 15:25:26,Wells Fargo,Overweight,Overweight,main,Lowers,42.0,45.0
+2026-05-12 12:55:24,Wells Fargo,Overweight,,init,Announces,46.0,0.0
+2026-04-30 22:56:13,Jefferies,Hold,Buy,down,Lowers,40.0,45.0
+2025-12-15 13:28:23,Mizuho,Outperform,Outperform,main,Raises,44.0,41.0
+2025-05-15 15:04:49,Mizuho,Outperform,Outperform,main,Raises,39.0,38.0
+2025-04-25 14:59:13,Mizuho,Outperform,Outperform,main,Raises,38.0,33.0
+2024-11-22 17:21:38,Jefferies,Buy,,init,Announces,28.0,0.0
+2024-10-16 15:23:07,Wells Fargo,Equal-Weight,Equal-Weight,main,Raises,27.0,26.0
+2024-05-03 17:41:51,Wells Fargo,Equal-Weight,Equal-Weight,main,Lowers,27.0,28.0
+2024-04-17 12:14:15,Mizuho,Neutral,Neutral,main,Raises,27.0,26.0
+2024-03-14 13:06:10,Wells Fargo,Equal-Weight,Overweight,down,Raises,28.0,27.0
+2024-01-18 17:31:31,Mizuho,Neutral,Neutral,main,Lowers,26.0,29.0
+2023-09-11 14:23:20,Mizuho,Neutral,Neutral,main,Lowers,29.0,33.0
+2023-08-28 09:54:27,Wells Fargo,Overweight,Equal-Weight,up,Lowers,27.0,28.0
+2023-08-04 14:27:02,Wells Fargo,Equal-Weight,Equal-Weight,main,Lowers,28.0,35.0
+2023-04-18 11:04:59,Barclays,Underweight,,main,Lowers,37.0,40.0
+2023-02-02 13:31:58,Barclays,Underweight,,main,Raises,40.0,39.0
+2023-01-18 10:19:13,Barclays,Underweight,Equal-Weight,down,Announces,39.0,0.0
+2023-01-10 13:25:29,Wells Fargo,Equal-Weight,,main,Raises,42.0,41.0
+2022-11-23 13:27:57,B of A Securities,Underperform,Neutral,down,Lowers,41.0,43.0
+2022-11-21 13:05:26,Wells Fargo,Equal-Weight,,main,Raises,39.0,36.0
+2022-10-19 13:05:37,Wells Fargo,Equal-Weight,,main,Lowers,36.0,42.0
+2022-10-19 11:29:39,Barclays,Equal-Weight,,main,Lowers,36.0,40.0
+2022-08-08 11:33:04,Wells Fargo,Equal-Weight,,main,Raises,42.0,41.0
+2022-04-29 11:03:54,Wells Fargo,Equal-Weight,,main,Lowers,40.0,46.0
+2022-03-07 11:56:40,B of A Securities,Neutral,Buy,down,Lowers,38.0,46.0
+2021-10-20 11:11:12,Wells Fargo,Equal-Weight,,init,Announces,46.0,0.0
+2021-06-23 12:57:57,B of A Securities,Buy,Neutral,up,Announces,51.0,0.0
+2020-07-24 13:25:29,Jefferies,Buy,,main,Lowers,45.0,46.0
+2020-07-16 10:16:40,Barclays,Equal-Weight,Underweight,up,Announces,37.0,0.0
+2020-05-11 14:09:14,UBS,Buy,,main,Raises,36.0,35.0
+2020-05-07 16:40:23,UBS,Buy,,main,Lowers,35.0,36.0
+2020-05-07 15:10:42,Barclays,Underweight,,main,Raises,30.0,29.0
+2020-04-01 15:28:21,UBS,Buy,,main,Lowers,36.0,37.0
+2020-03-30 13:41:09,UBS,Buy,,main,Lowers,37.0,45.0
+2019-12-04 13:06:51,UBS,Buy,,main,Lowers,54.0,56.0
+2019-11-12 12:59:04,UBS,Buy,,main,Lowers,56.0,58.0
+2019-10-17 12:43:38,UBS,Buy,,main,Lowers,58.0,60.0
+2019-04-05 11:21:35,Jefferies,Buy,Hold,up,Raises,60.0,54.0
+2019-02-25 11:43:02,UBS,Buy,Neutral,up,,0.0,0.0
+2018-12-14 11:25:21,UBS,Neutral,Buy,down,Lowers,63.0,65.0
+2018-10-12 12:20:16,Barclays,Underweight,Underweight,main,Raises,53.0,50.0
+2018-07-30 14:02:37,B of A Securities,Neutral,Neutral,main,Raises,52.0,51.0
+2018-07-11 12:16:19,Barclays,Underweight,Underweight,main,Raises,50.0,47.0
+2018-06-05 12:45:24,B of A Securities,Neutral,Buy,down,,0.0,53.0
+2018-04-20 11:45:50,UBS,Buy,Neutral,up,,0.0,0.0
+2018-03-28 12:35:23,Citigroup,Neutral,Neutral,main,Lowers,48.0,49.0
+2018-03-27 12:54:47,Citigroup,Neutral,Neutral,main,Lowers,48.0,49.0
+2017-11-10 17:26:23,Barclays,Underweight,,main,Lowers,47.0,48.0
+2016-12-20 11:01:35,UBS,Neutral,,init,,0.0,0.0
+2016-11-14 12:36:14,Janney Montgomery Scott,Buy,Neutral,up,,0.0,0.0
+2016-07-25 16:47:11,Jefferies,Hold,,main,Raises,40.0,39.0
+2016-06-20 10:57:55,Barclays,Underweight,Equal-Weight,down,Raises,42.0,39.0
+2016-05-04 10:50:19,Citigroup,Neutral,,main,Raises,44.0,36.5
+2016-04-29 11:37:16,Janney Montgomery Scott,Neutral,Buy,down,,0.0,0.0
+2015-04-23 14:54:32,Janney Montgomery Scott,Buy,,init,Announces,43.0,0.0
+2015-02-02 14:00:00,Citigroup,Neutral,,main,Raises,36.5,29.33
+2015-01-27 14:00:00,Barclays,Equal-Weight,,main,Raises,37.0,34.0
+2014-11-03 14:00:00,Jefferies,Hold,,main,Raises,36.0,34.0
+2014-10-07 13:00:00,Jefferies,Hold,,main,Raises,34.0,32.0
+2014-04-23 12:00:00,Barclays,Equal-Weight,,init,Announces,47.0,0.0
+2014-04-18 03:55:13,Jefferies,Hold,,main,Raises,46.0,43.0
+2014-04-10 13:10:51,B of A Securities,Buy,,init,Announces,53.0,0.0
+2013-09-04 10:39:04,Jefferies,Hold,,init,Announces,43.0,0.0
+2013-02-15 16:44:55,UBS,Neutral,Buy,down,Maintains,37.0,0.0
+2013-02-15 15:11:10,UBS,Neutral,Buy,down,,0.0,0.0
+2013-01-25 11:52:49,Citigroup,Neutral,Buy,down,Raises,37.0,34.0

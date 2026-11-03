@@ -1,0 +1,53 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-10-23 11:12:25,Needham,Buy,Buy,main,Lowers,85.0,90.0
+2026-07-30 11:26:59,Needham,Buy,Buy,main,Raises,90.0,80.0
+2026-04-30 12:22:51,Needham,Buy,Buy,main,Raises,80.0,62.0
+2026-02-04 12:22:57,Needham,Buy,Buy,main,Raises,62.0,55.0
+2026-01-23 18:19:59,Lake Street,Buy,Buy,main,Raises,57.0,51.0
+2026-01-16 09:51:35,Needham,Buy,Buy,main,Raises,55.0,47.0
+2025-11-05 18:11:20,Lake Street,Buy,Buy,main,Raises,51.0,46.0
+2025-08-01 09:41:37,Needham,Buy,Buy,main,Lowers,47.0,48.0
+2025-04-30 18:03:34,Lake Street,Buy,Buy,main,Lowers,46.0,52.0
+2025-04-30 11:52:48,Needham,Buy,Buy,main,Lowers,48.0,50.0
+2025-01-30 18:23:55,Lake Street,Buy,Buy,main,Raises,52.0,46.0
+2025-01-30 11:19:24,Needham,Buy,Buy,main,Raises,50.0,48.0
+2025-01-14 19:41:55,Needham,Buy,Buy,main,Maintains,48.0,48.0
+2024-11-01 11:46:38,Needham,Buy,Buy,main,Raises,48.0,45.0
+2024-07-31 17:45:28,Lake Street,Buy,Buy,main,Raises,46.0,35.0
+2024-07-31 11:13:32,Needham,Buy,Buy,main,Raises,45.0,40.0
+2024-05-06 09:27:17,Needham,Buy,Buy,main,Raises,40.0,31.0
+2024-04-29 15:27:12,Sidoti & Co.,Neutral,Buy,down,Announces,33.0,0.0
+2024-02-01 12:24:13,Needham,Buy,Buy,main,Raises,31.0,30.0
+2023-10-26 10:29:55,Needham,Buy,Buy,reit,Maintains,30.0,0.0
+2023-08-01 11:02:36,Needham,Buy,Buy,reit,Maintains,30.0,0.0
+2023-05-08 11:02:40,Needham,Buy,,main,Lowers,30.0,34.0
+2023-02-02 11:42:33,Needham,Buy,,main,Lowers,34.0,35.0
+2022-11-09 11:48:59,Needham,Buy,,main,Raises,35.0,34.0
+2022-08-24 13:21:18,Fox Advisors,Overweight,,init,Announces,35.0,0.0
+2022-08-04 10:43:32,Needham,Buy,,main,Raises,34.0,32.0
+2021-10-28 10:34:12,Needham,Buy,,main,Lowers,32.0,35.0
+2021-07-29 15:50:25,Sidoti & Co.,Buy,Neutral,up,Raises,35.0,32.0
+2021-03-30 11:26:15,Needham,Buy,Hold,up,Announces,35.0,0.0
+2021-01-12 15:35:42,Sidoti & Co.,Neutral,Buy,down,,0.0,0.0
+2020-06-04 13:32:10,Sidoti & Co.,Buy,,main,Raises,28.0,24.0
+2020-02-26 14:32:27,Sidoti & Co.,Buy,Neutral,up,,0.0,0.0
+2019-11-25 14:53:25,Lake Street,Buy,,init,Announces,38.0,0.0
+2018-10-31 14:01:21,Citigroup,Neutral,Neutral,main,Lowers,25.0,30.0
+2017-07-18 12:56:41,Needham,Buy,,main,Raises,37.0,34.0
+2016-10-21 04:00:00,Cross Research,Sell,Hold,down,,0.0,0.0
+2016-04-22 07:57:31,B. Riley Securities,Neutral,Buy,down,Lowers,0.0,0.0
+2015-07-23 13:57:26,Raymond James,Outperform,Market Perform,up,,0.0,0.0
+2015-07-14 10:52:55,B. Riley Securities,Buy,,init,Announces,0.0,0.0
+2015-07-02 11:35:50,Citigroup,Neutral,Sell,up,,0.0,0.0
+2015-04-24 13:00:00,Citigroup,Sell,,main,Raises,24.0,21.0
+2014-10-24 13:00:00,Citigroup,Sell,,main,Lowers,21.0,22.0
+2014-07-26 00:44:56,Citigroup,Sell,,main,Raises,22.0,20.0
+2014-04-24 12:00:00,Raymond James,Market Perform,Underperform,up,,0.0,0.0
+2014-02-05 13:00:00,Needham,Buy,Hold,up,Announces,26.0,0.0
+2013-07-08 12:34:30,Needham,Hold,Buy,down,Removes,0.0,20.0
+2013-02-05 13:35:24,Deutsche Bank,Hold,,main,Raises,18.0,15.0
+2013-02-04 20:57:20,Deutsche Bank,Hold,,main,Raises,18.0,15.0
+2012-10-25 19:39:00,Deutsche Bank,Hold,,main,Lowers,15.0,16.0
+2012-10-25 14:47:00,Raymond James,Underperform,Market Perform,down,,0.0,0.0
+2012-07-12 13:54:00,Raymond James,Market Perform,Underperform,up,,0.0,0.0
+2012-07-02 11:13:00,Citigroup,Sell,,main,Lowers,12.0,13.0

@@ -1,0 +1,94 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-10-08 16:58:11,Stifel,Buy,Buy,main,Lowers,393.0,445.0
+2026-10-06 11:58:54,Jefferies,Buy,Hold,up,Lowers,370.0,377.0
+2026-08-13 15:33:32,Goldman Sachs,Neutral,Neutral,main,Lowers,422.0,469.0
+2026-05-11 13:41:28,Cantor Fitzgerald,Overweight,Overweight,main,Raises,564.0,311.0
+2026-04-17 10:45:07,Clear Street,Buy,Buy,main,Raises,350.0,310.0
+2026-03-03 17:49:48,Stifel,Buy,Buy,main,Raises,305.0,262.0
+2026-03-03 15:02:55,Goldman Sachs,Neutral,Neutral,main,Raises,296.0,248.0
+2026-03-02 18:55:17,Cantor Fitzgerald,Overweight,Overweight,main,Raises,311.0,285.0
+2026-01-26 13:09:50,Stifel,Buy,Buy,main,Raises,262.0,237.0
+2026-01-23 12:53:26,Cantor Fitzgerald,Overweight,,init,Announces,285.0,0.0
+2025-12-16 11:31:53,Clear Street,Buy,,init,Announces,295.0,0.0
+2025-11-14 10:03:43,Goldman Sachs,Neutral,Neutral,main,Raises,248.0,205.0
+2025-10-09 15:33:13,Stifel,Buy,Buy,main,Raises,226.0,210.0
+2025-10-01 10:45:32,Keybanc,Sector Weight,Overweight,down,,0.0,0.0
+2025-08-15 12:22:48,Jefferies,Hold,,init,Announces,202.0,0.0
+2025-08-07 17:34:48,Goldman Sachs,Neutral,Neutral,main,Raises,205.0,168.0
+2025-08-04 18:59:25,Stifel,Buy,Buy,main,Raises,210.0,204.0
+2025-08-01 12:55:33,Keybanc,Overweight,Overweight,main,Raises,211.0,205.0
+2025-07-31 18:57:12,Baird,Outperform,Outperform,main,Raises,220.0,200.0
+2025-07-16 15:06:50,Keybanc,Overweight,Overweight,main,Raises,205.0,172.0
+2025-07-11 14:39:46,Stifel,Buy,Buy,main,Raises,204.0,174.0
+2025-06-06 14:57:06,Goldman Sachs,Neutral,Buy,down,Raises,168.0,145.0
+2025-05-27 15:11:03,Piper Sandler,Neutral,Neutral,main,Raises,153.0,138.0
+2025-05-05 17:27:21,Piper Sandler,Neutral,Neutral,main,Raises,138.0,124.0
+2025-05-02 15:21:27,Keybanc,Overweight,Overweight,main,Raises,163.0,136.0
+2025-05-01 12:32:23,Baird,Outperform,Outperform,main,Raises,170.0,159.0
+2025-04-24 17:54:43,Goldman Sachs,Buy,Buy,main,Lowers,145.0,164.0
+2025-04-09 13:42:33,Stifel,Buy,Buy,main,Lowers,131.0,157.0
+2025-04-08 13:01:58,Piper Sandler,Neutral,,init,Announces,124.0,0.0
+2025-03-14 14:22:47,Keybanc,Overweight,Sector Weight,up,Announces,136.0,0.0
+2025-02-27 14:10:59,Baird,Outperform,Outperform,main,Lowers,159.0,201.0
+2024-12-11 15:46:52,Stifel,Buy,Buy,main,Raises,172.0,153.0
+2024-11-04 16:37:55,Goldman Sachs,Buy,Buy,main,Raises,153.0,124.0
+2024-10-31 11:59:27,Baird,Outperform,Outperform,main,Raises,138.0,131.0
+2024-09-19 17:03:55,Goldman Sachs,Buy,Buy,main,Lowers,124.0,182.0
+2024-08-05 13:22:19,Stifel,Buy,Buy,main,Lowers,119.0,172.0
+2024-08-01 12:07:05,Baird,Outperform,Outperform,main,Lowers,143.0,170.0
+2024-05-02 10:57:01,Baird,Outperform,Outperform,main,Lowers,180.0,185.0
+2024-04-16 12:24:33,Stifel,Buy,Buy,main,Lowers,184.0,185.0
+2024-03-01 13:58:55,Stifel,Buy,Buy,main,Raises,185.0,168.0
+2024-02-26 18:50:42,Sidoti & Co.,Neutral,Buy,down,Maintains,165.0,165.0
+2024-01-10 12:57:31,Keybanc,Sector Weight,,init,Announces,0.0,0.0
+2023-12-19 15:48:46,Stifel,Buy,Buy,main,Raises,168.0,144.0
+2023-12-15 11:44:17,Goldman Sachs,Buy,,init,Announces,164.0,0.0
+2023-10-17 14:18:37,Sidoti & Co.,Buy,Neutral,up,,0.0,0.0
+2023-04-27 11:06:15,Baird,Outperform,,main,Raises,147.0,137.0
+2023-02-23 14:31:40,Baird,Outperform,,main,Raises,120.0,95.0
+2023-01-17 10:27:09,Keybanc,Sector Weight,Overweight,down,,0.0,0.0
+2022-10-28 09:34:33,Baird,Outperform,Neutral,up,Raises,95.0,92.0
+2022-10-28 08:40:48,Keybanc,Overweight,Sector Weight,up,Announces,99.0,0.0
+2020-06-10 13:38:15,Stifel,Buy,,main,Lowers,40.0,44.0
+2020-05-01 15:17:57,B. Riley Securities,Neutral,,main,Raises,27.0,21.0
+2020-04-24 10:25:39,Baird,Neutral,Outperform,down,Lowers,30.0,36.0
+2020-03-17 12:02:37,B. Riley Securities,Neutral,,main,Lowers,21.0,34.0
+2020-03-10 09:57:28,Kansas City Capital,Outperform,Perform,up,,0.0,0.0
+2019-09-11 10:23:32,Baird,Outperform,Neutral,up,Raises,36.0,35.0
+2019-08-02 16:18:54,B. Riley Securities,Neutral,,main,Lowers,34.0,39.0
+2019-05-16 10:32:35,Stifel,Buy,Hold,up,Raises,39.0,32.0
+2018-08-07 12:49:33,B. Riley Securities,Neutral,Neutral,main,Lowers,39.0,40.0
+2018-08-03 10:49:21,Baird,Neutral,Outperform,down,,0.0,40.0
+2018-07-10 12:31:25,Stifel,Hold,Hold,main,Raises,41.0,37.0
+2018-03-09 13:49:00,Canaccord Genuity,Buy,Buy,main,Raises,42.0,35.0
+2018-03-08 12:49:42,Baird,Outperform,Outperform,main,Lowers,40.0,41.0
+2017-11-03 16:11:51,Baird,Outperform,,main,Raises,35.0,34.0
+2017-08-18 18:20:34,FBR Capital,Market Perform,,main,Lowers,28.0,37.0
+2017-08-04 19:33:03,Canaccord Genuity,Buy,,main,Lowers,35.0,47.0
+2017-05-05 11:28:13,Baird,Outperform,Neutral,up,Announces,41.0,0.0
+2016-11-18 13:37:50,Avondale Partners,Market Perform,Market Outperform,down,,0.0,0.0
+2016-08-12 10:52:48,Baird,Neutral,Outperform,down,,0.0,0.0
+2016-04-11 20:38:44,Canaccord Genuity,Buy,,init,Announces,27.0,0.0
+2016-03-08 13:20:45,FBR Capital,Market Perform,,main,Raises,27.0,25.0
+2016-03-04 12:59:27,Avondale Partners,Market Outperform,,main,Raises,29.0,27.0
+2015-04-14 13:00:00,DA Davidson,Neutral,,main,Raises,32.0,30.0
+2015-03-13 13:00:00,Stifel,Buy,,main,Raises,33.0,31.0
+2014-08-08 11:57:13,FBR Capital,Market Perform,Outperform,down,Lowers,27.0,30.0
+2014-08-05 10:25:24,Baird,Outperform,Neutral,up,Raises,30.0,27.0
+2014-05-09 07:23:27,Stifel,Buy,,main,Lowers,28.0,29.0
+2014-02-12 21:00:00,Keybanc,Hold,Buy,down,Removes,0.0,28.0
+2013-11-08 16:45:40,Johnson Rice,Equal-Weight,Overweight,down,Raises,28.0,26.0
+2013-11-08 16:24:43,DA Davidson,Neutral,,main,Raises,26.0,25.0
+2013-08-09 11:12:29,DA Davidson,Neutral,Buy,down,Maintains,25.0,0.0
+2013-05-09 11:04:48,Wedbush,Neutral,Outperform,down,Lowers,23.0,26.0
+2013-03-08 15:37:17,Johnson Rice,Overweight,Equal-weight,up,,0.0,0.0
+2013-03-08 11:24:39,DA Davidson,Buy,,main,Raises,28.0,26.0
+2013-01-10 18:12:44,Gilford Securities,Buy,,main,Raises,26.0,25.0
+2012-12-13 19:12:40,Johnson Rice,Equal-Weight,Overweight,down,Maintains,25.0,0.0
+2012-11-09 13:55:00,Stifel,Buy,,main,Lowers,27.0,31.0
+2012-11-08 18:41:00,Keybanc,Buy,Hold,up,,0.0,0.0
+2012-10-02 12:01:00,DA Davidson,Buy,,init,Announces,25.0,0.0
+2012-10-01 20:22:00,DA Davidson,Buy,,init,Announces,25.0,0.0
+2012-08-31 13:01:00,Stifel,Buy,,main,Lowers,31.0,34.0
+2012-08-09 12:36:00,Stifel,Buy,,main,Raises,34.0,33.0
+2012-08-08 17:28:00,Wedbush,Outperform,,main,Raises,26.0,25.0

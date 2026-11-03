@@ -1,0 +1,214 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-10-05 20:10:37,UBS,Buy,Buy,main,Lowers,80.0,83.0
+2026-08-06 17:19:49,Morgan Stanley,Equal-Weight,Equal-Weight,main,Raises,78.0,58.0
+2026-07-31 14:49:00,Wells Fargo,Equal-Weight,Equal-Weight,main,Raises,70.0,50.0
+2026-07-30 20:28:13,UBS,Buy,Buy,main,Raises,83.0,75.0
+2026-07-30 14:18:22,Evercore ISI Group,In-Line,In-Line,main,Raises,73.0,60.0
+2026-07-29 14:52:18,Mizuho,Outperform,Outperform,main,Raises,77.0,75.0
+2026-07-29 13:34:24,BMO Capital,Outperform,Outperform,main,Raises,75.0,68.0
+2026-07-10 14:48:39,JP Morgan,Overweight,Overweight,main,Raises,75.0,65.0
+2026-06-10 17:35:19,UBS,Buy,Buy,main,Raises,72.0,66.0
+2026-05-06 10:16:40,Seaport Global,Buy,Neutral,up,Announces,75.0,0.0
+2026-04-30 22:25:26,JP Morgan,Overweight,Overweight,main,Lowers,65.0,70.0
+2026-04-30 14:27:23,Wells Fargo,Equal-Weight,Equal-Weight,main,Lowers,50.0,60.0
+2026-03-23 13:58:03,Argus Research,Buy,Buy,main,Lowers,56.0,70.0
+2026-02-18 13:30:25,Evercore ISI Group,In-Line,In-Line,main,Raises,62.0,53.0
+2026-02-04 15:51:03,JP Morgan,Overweight,Overweight,main,Lowers,70.0,77.0
+2026-01-12 22:00:48,UBS,Buy,Buy,main,Raises,70.0,64.0
+2026-01-12 15:50:58,Argus Research,Buy,Buy,main,Raises,70.0,65.0
+2025-12-19 14:32:15,Wells Fargo,Equal-Weight,Equal-Weight,main,Raises,60.0,51.0
+2025-12-18 13:18:10,Mizuho,Outperform,Outperform,main,Raises,70.0,60.0
+2025-12-15 13:12:06,BMO Capital,Outperform,Market Perform,up,Raises,71.0,61.0
+2025-11-17 13:08:42,Mizuho,Outperform,Outperform,main,Raises,60.0,54.0
+2025-11-11 14:44:05,Wells Fargo,Equal-Weight,Equal-Weight,main,Lowers,51.0,52.0
+2025-11-11 14:23:51,Evercore ISI Group,In-Line,In-Line,main,Lowers,53.0,62.0
+2025-10-15 16:06:30,Wells Fargo,Equal-Weight,Equal-Weight,main,Lowers,52.0,53.0
+2025-10-03 14:02:45,Mizuho,Outperform,Outperform,main,Lowers,54.0,58.0
+2025-09-08 11:37:18,Morgan Stanley,Equal-Weight,,init,Announces,60.0,0.0
+2025-09-02 12:36:02,BMO Capital,Market Perform,Market Perform,main,Raises,61.0,60.0
+2025-08-26 13:45:37,Argus Research,Buy,Buy,main,Lowers,65.0,70.0
+2025-08-07 17:16:47,UBS,Buy,Buy,main,Lowers,64.0,73.0
+2025-07-31 15:57:28,Wells Fargo,Equal-Weight,Equal-Weight,main,Raises,53.0,50.0
+2025-07-09 15:10:11,UBS,Buy,Buy,main,Lowers,73.0,74.0
+2025-05-06 14:06:54,JP Morgan,Overweight,Overweight,main,Lowers,67.0,71.0
+2025-05-01 16:01:31,Wells Fargo,Equal-Weight,Overweight,down,Lowers,50.0,58.0
+2025-05-01 14:25:55,UBS,Buy,Buy,main,Lowers,74.0,85.0
+2025-04-09 17:29:21,Wells Fargo,Overweight,Overweight,main,Lowers,58.0,69.0
+2025-03-27 13:02:48,Wells Fargo,Overweight,Overweight,main,Lowers,69.0,80.0
+2025-03-26 11:47:01,JP Morgan,Overweight,Neutral,up,Raises,71.0,68.0
+2025-03-05 13:34:21,Seaport Global,Neutral,Buy,down,,0.0,0.0
+2025-01-30 15:05:41,JP Morgan,Neutral,Neutral,main,Lowers,68.0,81.0
+2025-01-30 14:00:21,Wells Fargo,Overweight,Overweight,main,Lowers,80.0,90.0
+2025-01-29 14:52:01,UBS,Buy,Buy,main,Lowers,93.0,95.0
+2024-12-11 16:58:16,BMO Capital,Market Perform,Market Perform,main,Raises,84.0,83.0
+2024-12-11 15:52:29,Wells Fargo,Overweight,Overweight,main,Lowers,90.0,95.0
+2024-11-19 16:19:39,BMO Capital,Market Perform,Market Perform,main,Lowers,83.0,92.0
+2024-08-15 13:12:16,UBS,Buy,Buy,main,Lowers,107.0,116.0
+2024-08-09 12:17:29,BMO Capital,Market Perform,Market Perform,main,Lowers,92.0,105.0
+2024-08-08 13:13:40,Wells Fargo,Overweight,Overweight,main,Lowers,100.0,112.0
+2024-08-08 10:52:02,JP Morgan,Neutral,Underweight,up,Lowers,89.0,90.0
+2024-05-07 15:22:47,BMO Capital,Market Perform,Market Perform,main,Raises,105.0,97.0
+2024-05-02 15:21:54,JP Morgan,Underweight,Underweight,main,Raises,90.0,88.0
+2024-05-01 15:37:36,UBS,Buy,Buy,main,Raises,116.0,114.0
+2024-05-01 14:09:17,Mizuho,Buy,Buy,main,Raises,110.0,101.0
+2024-04-11 13:53:44,Wells Fargo,Overweight,Equal-Weight,up,Raises,112.0,100.0
+2024-03-14 09:10:56,Jefferies,Buy,Hold,up,Raises,126.0,100.0
+2024-03-01 18:08:06,Wolfe Research,Outperform,,init,,0.0,0.0
+2024-02-01 14:19:34,JP Morgan,Underweight,Underweight,main,Raises,88.0,70.0
+2024-02-01 13:47:33,Wells Fargo,Equal-Weight,Equal-Weight,main,Raises,100.0,80.0
+2023-11-15 16:11:07,BMO Capital,Market Perform,Market Perform,main,Lowers,75.0,84.0
+2023-11-13 15:14:26,Stifel,Buy,Buy,main,Lowers,96.0,110.0
+2023-11-09 19:47:38,UBS,Buy,Buy,main,Lowers,103.0,110.0
+2023-10-30 15:02:06,Stifel,Buy,Buy,main,Lowers,110.0,115.0
+2023-10-10 15:00:14,UBS,Buy,Buy,main,Lowers,110.0,116.0
+2023-10-05 16:53:46,Mizuho,Buy,Buy,main,Lowers,106.0,114.0
+2023-09-13 15:43:49,Mizuho,Buy,Buy,reit,Maintains,114.0,0.0
+2023-07-28 18:10:18,JP Morgan,Underweight,Underweight,main,Lowers,87.0,94.0
+2023-07-26 13:12:25,Credit Suisse,Outperform,Outperform,main,Raises,113.0,110.0
+2023-06-30 12:47:37,Wells Fargo,Equal-Weight,Equal-Weight,main,Lowers,90.0,100.0
+2023-06-29 16:28:21,Deutsche Bank,Buy,Buy,main,Lowers,95.0,105.0
+2023-06-29 14:07:30,Mizuho,Buy,Buy,main,Lowers,114.0,129.0
+2023-06-29 10:42:24,Evercore ISI Group,In-Line,Outperform,down,,0.0,0.0
+2023-06-26 09:05:51,BMO Capital,Market Perform,Outperform,down,Lowers,90.0,109.0
+2023-06-12 14:24:00,Deutsche Bank,Buy,Buy,main,Lowers,105.0,110.0
+2023-05-17 13:00:46,Mizuho,Buy,Buy,reit,Maintains,129.0,0.0
+2023-05-04 15:37:08,Stifel,Buy,,main,Lowers,142.0,145.0
+2023-05-04 15:32:48,BMO Capital,Outperform,,main,Lowers,109.0,135.0
+2023-05-04 11:20:49,Wells Fargo,Equal-Weight,,main,Lowers,100.0,110.0
+2023-05-04 10:57:15,Mizuho,Buy,,main,Lowers,129.0,139.0
+2023-05-03 11:54:52,Credit Suisse,Outperform,,main,Lowers,122.0,130.0
+2023-04-17 12:02:35,Wells Fargo,Equal-Weight,,main,Lowers,110.0,115.0
+2023-02-02 14:42:23,Wells Fargo,Equal-Weight,,main,Lowers,115.0,118.0
+2023-02-02 13:47:17,BMO Capital,Outperform,,main,Raises,136.0,135.0
+2023-02-02 09:57:07,JP Morgan,Underweight,Neutral,down,Raises,105.0,104.0
+2023-01-26 12:47:50,BMO Capital,Outperform,,main,Lowers,135.0,139.0
+2023-01-26 12:14:44,Mizuho,Buy,,main,Lowers,136.0,141.0
+2023-01-12 13:40:46,Mizuho,Buy,,main,Raises,141.0,136.0
+2023-01-11 13:42:04,UBS,Buy,,main,Raises,135.0,131.0
+2022-11-09 13:58:06,Wells Fargo,Equal-Weight,,main,Raises,118.0,104.0
+2022-11-08 12:44:33,Credit Suisse,Outperform,,main,Raises,125.0,120.0
+2022-10-18 11:48:32,Wells Fargo,Equal-Weight,,main,Lowers,104.0,110.0
+2022-09-12 11:07:03,Credit Suisse,Outperform,,init,Announces,120.0,0.0
+2022-07-28 12:38:05,Wells Fargo,Equal-Weight,,main,Raises,110.0,107.0
+2022-07-28 11:50:44,BMO Capital,Outperform,,main,Raises,135.0,129.0
+2022-07-27 12:38:26,UBS,Buy,,main,Raises,131.0,127.0
+2022-07-19 13:03:55,Mizuho,Buy,,main,Raises,139.0,138.0
+2022-07-18 14:07:02,Wells Fargo,Equal-Weight,,main,Lowers,107.0,113.0
+2022-07-06 11:57:43,Mizuho,Buy,,main,Raises,138.0,135.0
+2022-04-29 13:34:10,BMO Capital,Outperform,,main,Raises,129.0,122.0
+2022-04-19 10:55:59,Mizuho,Buy,,main,Raises,135.0,129.0
+2022-04-18 11:39:45,Wells Fargo,Equal-Weight,,main,Raises,113.0,105.0
+2022-04-13 11:43:33,Deutsche Bank,Buy,,main,Raises,120.0,115.0
+2022-03-25 11:11:46,Mizuho,Buy,,main,Raises,129.0,127.0
+2022-02-03 13:21:05,Mizuho,Buy,,main,Raises,127.0,125.0
+2022-01-24 13:39:16,BMO Capital,Outperform,,main,Lowers,120.0,133.0
+2022-01-20 10:00:27,Wells Fargo,Equal-Weight,Overweight,down,Lowers,110.0,120.0
+2022-01-19 15:23:41,JP Morgan,Neutral,,main,Lowers,107.0,109.0
+2021-11-15 14:39:40,Wells Fargo,Overweight,,main,Raises,120.0,115.0
+2021-11-12 12:33:44,Mizuho,Buy,,main,Raises,125.0,116.0
+2021-11-11 16:05:59,"Monness, Crespi, Hardt",Neutral,Buy,down,,0.0,0.0
+2021-11-11 12:18:49,Wells Fargo,Overweight,,main,Raises,115.0,107.0
+2021-10-13 09:42:21,Mizuho,Buy,,init,Announces,116.0,0.0
+2021-10-01 11:25:21,Wells Fargo,Overweight,,main,Raises,107.0,100.0
+2021-09-01 11:50:17,Deutsche Bank,Buy,,main,Raises,115.0,100.0
+2021-07-30 09:17:59,JP Morgan,Neutral,Underweight,up,Announces,90.0,0.0
+2021-06-18 10:41:55,Stifel,Buy,,init,Announces,118.0,0.0
+2021-05-04 10:40:31,JP Morgan,Underweight,Neutral,down,Raises,89.0,88.0
+2021-05-03 11:40:04,BMO Capital,Outperform,,main,Lowers,105.0,115.0
+2021-02-08 17:11:55,Deutsche Bank,Buy,,main,Raises,100.0,90.0
+2021-02-05 15:02:59,Credit Suisse,Outperform,,main,Raises,103.0,94.0
+2020-11-12 13:36:03,Credit Suisse,Outperform,,main,Raises,94.0,91.0
+2020-09-22 16:08:24,Evercore ISI Group,In-Line,,init,Announces,80.0,0.0
+2020-08-24 13:38:28,JP Morgan,Neutral,,main,Raises,75.0,62.0
+2020-07-30 13:20:40,Deutsche Bank,Buy,,main,Raises,90.0,85.0
+2020-07-20 15:35:18,SunTrust Robinson Humphrey,Buy,,main,Raises,87.0,75.0
+2020-07-09 11:10:55,UBS,Buy,,main,Raises,78.0,71.0
+2020-06-24 14:30:45,Wells Fargo,Overweight,,main,Raises,80.0,75.0
+2020-05-07 15:24:36,SunTrust Robinson Humphrey,Buy,,main,Lowers,75.0,87.0
+2020-05-07 12:04:37,Deutsche Bank,Buy,,main,Raises,70.0,65.0
+2020-05-07 10:11:26,JP Morgan,Neutral,Underweight,up,Lowers,62.0,68.0
+2020-05-06 13:03:20,UBS,Buy,,main,Raises,71.0,68.0
+2020-04-16 13:28:25,Deutsche Bank,Buy,,main,Raises,65.0,55.0
+2020-04-13 11:46:40,BMO Capital,Outperform,Market Perform,up,Lowers,75.0,87.0
+2020-04-08 14:46:34,UBS,Buy,,main,Lowers,68.0,86.0
+2020-03-10 11:07:56,UBS,Buy,,main,Lowers,86.0,90.0
+2020-02-12 13:45:19,BMO Capital,Market Perform,,main,Raises,87.0,81.0
+2020-01-29 13:18:18,Wells Fargo,Overweight,,main,Raises,88.0,85.0
+2020-01-29 11:26:28,JP Morgan,Underweight,Neutral,down,Lowers,68.0,74.0
+2020-01-28 15:54:36,UBS,Buy,,main,Raises,90.0,88.0
+2019-11-20 15:42:32,Buckingham Research,Neutral,,main,Lowers,80.0,85.0
+2019-11-20 15:21:38,BMO Capital,Market Perform,Outperform,down,,0.0,0.0
+2019-11-20 13:17:19,Deutsche Bank,Buy,,main,Lowers,86.0,88.0
+2019-10-16 11:11:12,Wells Fargo,Outperform,,init,Announces,90.0,0.0
+2019-10-14 13:04:29,"Monness, Crespi, Hardt",Buy,Neutral,up,Announces,88.0,0.0
+2019-08-28 12:27:00,SunTrust Robinson Humphrey,Buy,,main,Lowers,87.0,95.0
+2019-08-01 13:57:49,Buckingham Research,Neutral,,main,Raises,85.0,75.0
+2019-06-14 10:47:12,JP Morgan,Neutral,Overweight,down,Announces,82.0,0.0
+2019-01-02 13:01:11,Deutsche Bank,Buy,Buy,main,Lowers,90.0,100.0
+2018-12-27 11:25:36,JP Morgan,Overweight,Neutral,up,,0.0,0.0
+2018-11-16 14:33:41,Deutsche Bank,Buy,Buy,main,Raises,100.0,96.0
+2018-11-08 14:10:47,Credit Suisse,Outperform,Outperform,main,Raises,97.0,95.0
+2018-10-02 10:48:59,UBS,Buy,Buy,main,Raises,96.0,93.0
+2018-08-24 12:34:41,JP Morgan,Neutral,Neutral,main,Raises,87.0,81.0
+2018-08-02 12:33:23,BMO Capital,Outperform,Outperform,main,Raises,95.0,84.0
+2018-08-02 12:11:02,Credit Suisse,Outperform,Outperform,main,Raises,95.0,86.0
+2018-06-15 11:17:22,JP Morgan,Neutral,Neutral,main,Raises,81.0,71.0
+2018-05-03 11:25:07,Keybanc,Overweight,Overweight,main,Raises,87.0,80.0
+2018-03-28 12:08:14,BMO Capital,Outperform,,init,Announces,82.0,0.0
+2018-03-26 10:32:55,Longbow Research,Buy,Neutral,up,,0.0,0.0
+2018-03-23 11:10:16,Credit Suisse,Outperform,Neutral,up,,0.0,74.0
+2018-01-31 16:29:07,"Monness, Crespi, Hardt",Neutral,Buy,down,,0.0,0.0
+2018-01-31 14:31:23,Credit Suisse,Neutral,Neutral,main,Raises,74.0,69.0
+2017-11-08 14:09:52,Credit Suisse,Neutral,,main,Raises,69.0,65.0
+2017-11-08 13:58:10,Deutsche Bank,Buy,,main,Raises,78.0,74.0
+2017-11-08 10:14:22,Keybanc,Overweight,,main,Raises,80.0,77.0
+2017-11-07 14:11:30,UBS,Buy,,main,Raises,78.0,74.0
+2017-08-03 16:40:27,Deutsche Bank,Buy,,main,Lowers,74.0,75.0
+2016-11-23 19:00:35,Jefferies,Buy,,main,Lowers,129.0,140.0
+2016-07-28 07:58:31,Credit Suisse,Neutral,Outperform,down,Lowers,119.0,122.0
+2016-03-23 08:07:18,Credit Suisse,Neutral,,main,Raises,6.0,5.5
+2016-01-28 08:14:03,Jefferies,Buy,,main,Lowers,113.0,150.0
+2016-01-27 16:02:51,Deutsche Bank,Buy,,main,Lowers,114.0,115.0
+2016-01-26 09:31:13,UBS,Buy,,main,Lowers,125.0,138.0
+2015-11-05 20:03:56,Deutsche Bank,Buy,,main,Lowers,135.0,140.0
+2015-10-15 11:12:49,Keybanc,Overweight,,main,Lowers,131.0,135.0
+2015-06-04 11:23:33,Seaport Global,Buy,,init,Announces,152.0,0.0
+2015-05-20 11:17:09,First Analysis,Equal-Weight,Overweight,down,,0.0,0.0
+2015-03-16 13:00:00,Keybanc,Overweight,,main,Raises,147.0,138.0
+2015-01-28 14:00:00,JP Morgan,Neutral,,main,Raises,110.0,105.0
+2015-01-15 05:00:00,Piper Sandler,Overweight,,init,Announces,146.0,0.0
+2014-12-03 14:00:00,UBS,Buy,,main,Raises,129.0,127.0
+2014-12-01 05:00:00,Jefferies,Buy,Hold,up,Raises,147.0,123.0
+2014-11-07 13:00:00,"Monness, Crespi, Hardt",Buy,,main,Raises,120.0,115.0
+2014-08-08 12:07:53,UBS,Buy,,init,Announces,130.0,0.0
+2014-06-23 10:14:36,Keybanc,Buy,Hold,up,Announces,136.0,0.0
+2014-05-02 06:31:41,JP Morgan,Neutral,,main,Raises,100.0,92.0
+2014-05-02 05:55:10,Jefferies,Hold,,main,Raises,110.0,92.0
+2014-05-02 05:46:26,Deutsche Bank,Buy,,main,Raises,120.0,110.0
+2014-01-29 15:52:35,Deutsche Bank,Buy,,main,Raises,110.0,105.0
+2013-12-16 21:00:00,Goldman Sachs,Neutral,,init,Announces,102.0,0.0
+2013-11-06 14:25:13,Jefferies,Hold,,main,Lowers,92.0,97.0
+2013-10-03 10:40:07,Jefferies,Hold,Buy,down,Lowers,97.0,104.0
+2013-08-14 13:08:18,"Monness, Crespi, Hardt",Buy,,main,Raises,105.0,99.0
+2013-04-25 15:36:12,Keybanc,Hold,Buy,down,Removes,0.0,96.0
+2013-04-25 12:30:28,"Monness, Crespi, Hardt",Buy,,main,Raises,99.0,94.0
+2013-04-16 12:27:16,Jefferies,Buy,,main,Raises,104.0,92.0
+2013-04-15 12:19:20,Deutsche Bank,Buy,,main,Raises,105.0,90.0
+2013-03-27 11:26:43,Deutsche Bank,Buy,,main,Lowers,90.0,92.0
+2013-03-27 11:16:01,Jefferies,Buy,,main,Lowers,92.0,97.0
+2013-03-26 12:21:33,Longbow Research,Neutral,Buy,down,Removes,0.0,95.0
+2013-03-26 11:36:14,Deutsche Bank,Buy,,main,Lowers,90.0,92.0
+2013-01-30 14:57:20,JP Morgan,Neutral,,main,Lowers,70.0,74.0
+2013-01-30 13:08:30,Deutsche Bank,Buy,,main,Lowers,92.0,95.0
+2013-01-11 14:43:46,Hilliard Lyons,Neutral,Long-Term Buy,down,Removes,0.0,85.0
+2013-01-10 13:29:58,Deutsche Bank,Buy,,main,Raises,95.0,90.0
+2013-01-02 14:19:34,Jefferies,Buy,,main,Raises,100.0,95.0
+2012-12-20 19:08:09,Jefferies,Buy,,main,Raises,95.0,90.0
+2012-12-05 12:02:24,Deutsche Bank,Buy,,main,Raises,90.0,85.0
+2012-11-01 11:52:00,Deutsche Bank,Buy,,main,Raises,85.0,80.0
+2012-10-08 09:55:00,JP Morgan,Neutral,Overweight,down,Maintains,76.0,0.0
+2012-09-27 10:42:00,JP Morgan,Overweight,,main,Lowers,76.0,80.0
+2012-09-10 10:32:00,Jefferies,Buy,,main,Raises,90.0,85.0
+2012-07-27 10:23:00,Jefferies,Buy,,main,Raises,85.0,81.0
+2012-06-25 10:41:00,Jefferies,Buy,,main,Raises,81.0,76.0
+2012-04-25 11:20:00,JP Morgan,Overweight,,main,Raises,72.0,69.0

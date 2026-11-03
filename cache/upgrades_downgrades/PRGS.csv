@@ -1,0 +1,91 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-10-02 15:14:00,DA Davidson,Buy,Buy,main,Maintains,55.0,55.0
+2026-08-12 19:39:16,DA Davidson,Buy,Buy,main,Raises,55.0,45.0
+2026-07-23 17:01:19,DA Davidson,Buy,Buy,main,Raises,45.0,40.0
+2026-07-01 17:47:16,DA Davidson,Buy,Buy,main,Maintains,40.0,40.0
+2026-07-01 13:15:28,Oppenheimer,Outperform,Outperform,main,Lowers,50.0,57.0
+2026-07-01 13:03:38,Guggenheim,Buy,Buy,reit,Maintains,83.0,83.0
+2026-04-01 20:46:36,Citigroup,Buy,Buy,main,Lowers,46.0,60.0
+2026-03-31 20:46:08,DA Davidson,Buy,Buy,main,Lowers,40.0,50.0
+2026-03-31 15:31:07,Jefferies,Hold,Hold,main,Lowers,34.0,45.0
+2026-03-31 14:37:23,Wedbush,Outperform,Outperform,main,Lowers,45.0,65.0
+2026-03-31 13:58:37,Oppenheimer,Outperform,Outperform,main,Lowers,57.0,70.0
+2026-03-25 15:31:03,DA Davidson,Buy,Buy,main,Lowers,50.0,70.0
+2026-02-04 19:32:49,DA Davidson,Buy,Buy,main,Maintains,70.0,70.0
+2026-01-22 19:02:39,Citigroup,Buy,Buy,main,Raises,60.0,54.0
+2026-01-22 14:40:00,Wedbush,Outperform,Outperform,main,Lowers,65.0,75.0
+2026-01-16 18:50:07,Citigroup,Buy,Buy,main,Lowers,54.0,57.0
+2026-01-15 20:17:05,DA Davidson,Buy,Buy,main,Lowers,70.0,75.0
+2026-01-05 19:50:29,Jefferies,Hold,Hold,main,Lowers,45.0,50.0
+2025-10-13 12:40:19,Citigroup,Buy,Neutral,up,Maintains,57.0,57.0
+2025-09-30 14:50:06,DA Davidson,Buy,Buy,main,Maintains,75.0,75.0
+2025-09-30 12:07:25,Jefferies,Hold,Hold,main,Lowers,50.0,60.0
+2025-07-15 20:22:40,Citigroup,Neutral,Neutral,main,Lowers,57.0,64.0
+2025-07-01 15:33:41,DA Davidson,Buy,Buy,main,Raises,75.0,70.0
+2025-07-01 12:46:37,Wedbush,Outperform,Outperform,reit,Maintains,75.0,75.0
+2025-04-14 18:45:29,DA Davidson,Buy,Buy,main,Lowers,70.0,75.0
+2025-04-01 14:52:33,Guggenheim,Buy,Buy,reit,Maintains,83.0,83.0
+2025-04-01 14:29:30,Wedbush,Outperform,Outperform,reit,Maintains,75.0,75.0
+2025-01-22 14:57:32,Guggenheim,Buy,Buy,reit,Maintains,83.0,83.0
+2025-01-21 14:22:57,DA Davidson,Buy,Buy,main,Maintains,75.0,75.0
+2025-01-17 18:56:23,Citigroup,Neutral,Neutral,main,Raises,68.0,65.0
+2025-01-17 14:17:03,Guggenheim,Buy,Buy,reit,Maintains,83.0,83.0
+2025-01-06 19:50:22,Jefferies,Hold,Hold,main,Raises,70.0,65.0
+2024-10-22 16:23:07,Oppenheimer,Outperform,Outperform,main,Raises,80.0,70.0
+2024-09-25 17:00:44,Guggenheim,Buy,Buy,main,Raises,70.0,64.0
+2024-09-25 14:46:17,DA Davidson,Buy,Buy,main,Raises,70.0,65.0
+2024-09-25 12:37:15,Oppenheimer,Outperform,Outperform,main,Raises,70.0,66.0
+2024-09-10 13:55:31,DA Davidson,Buy,Buy,main,Maintains,65.0,65.0
+2024-09-10 13:13:10,Wedbush,Outperform,Outperform,reit,Maintains,68.0,68.0
+2024-07-18 13:52:00,Wedbush,Outperform,Outperform,main,Raises,68.0,67.0
+2024-06-26 15:45:24,DA Davidson,Buy,Buy,main,Maintains,65.0,65.0
+2024-06-26 15:43:10,Oppenheimer,Outperform,Outperform,main,Maintains,66.0,66.0
+2024-06-26 12:37:48,Jefferies,Hold,Hold,main,Lowers,55.0,60.0
+2024-06-25 16:47:34,Guggenheim,Buy,Buy,reit,Maintains,64.0,64.0
+2024-03-28 11:35:46,DA Davidson,Buy,,init,Announces,65.0,0.0
+2024-03-27 14:41:41,JP Morgan,Overweight,Overweight,main,Lowers,63.0,65.0
+2024-03-27 11:37:39,Oppenheimer,Outperform,Outperform,main,Maintains,66.0,66.0
+2024-02-23 13:35:05,Wedbush,Outperform,Outperform,main,Raises,67.0,65.0
+2023-09-28 13:32:34,Wedbush,Outperform,Outperform,reit,Maintains,65.0,0.0
+2023-09-27 13:09:46,Wedbush,Outperform,Outperform,reit,Maintains,65.0,0.0
+2023-09-27 12:28:35,Oppenheimer,Outperform,Outperform,reit,Maintains,66.0,0.0
+2023-09-19 12:08:55,Wedbush,Outperform,Outperform,reit,Maintains,65.0,0.0
+2023-08-08 15:47:26,Citigroup,Neutral,Neutral,main,Raises,62.0,57.0
+2023-06-30 12:14:03,Oppenheimer,Outperform,Outperform,main,Raises,66.0,63.0
+2023-03-30 11:17:39,Citigroup,Neutral,,main,Raises,57.0,54.0
+2023-03-29 12:27:54,Guggenheim,Buy,,reit,Maintains,64.0,0.0
+2023-03-29 12:10:37,JP Morgan,Overweight,,main,Raises,65.0,57.0
+2023-03-29 10:56:26,Oppenheimer,Outperform,,main,Raises,63.0,53.0
+2023-03-13 13:49:00,Guggenheim,Buy,,main,Raises,64.0,60.0
+2022-09-09 08:46:50,Jefferies,Hold,,init,Announces,52.0,0.0
+2022-08-12 11:00:06,Guggenheim,Buy,,init,Announces,60.0,0.0
+2022-06-29 11:49:12,Oppenheimer,Outperform,,main,Lowers,53.0,60.0
+2022-03-30 11:18:05,Citigroup,Neutral,,main,Raises,52.0,48.0
+2021-10-22 09:50:27,JP Morgan,Overweight,,init,Announces,60.0,0.0
+2021-08-06 10:24:44,Citigroup,Neutral,,init,Announces,48.0,0.0
+2021-07-15 09:05:00,Oppenheimer,Outperform,,init,Announces,54.0,0.0
+2021-06-08 11:22:01,Guggenheim,Buy,,init,Announces,56.0,0.0
+2021-01-15 11:57:57,Wedbush,Outperform,,main,Raises,55.0,45.0
+2020-03-27 12:58:32,Wedbush,Outperform,,main,Lowers,42.0,58.0
+2020-03-23 13:50:41,Benchmark,Buy,,main,Lowers,0.0,0.0
+2019-07-26 11:33:08,Wedbush,Outperform,Neutral,up,,0.0,0.0
+2019-07-17 10:57:47,Benchmark,Buy,Hold,up,Announces,49.0,0.0
+2018-06-28 11:17:51,Benchmark,Hold,Sell,up,,0.0,29.0
+2016-09-13 10:48:32,Ladenburg Thalmann,Neutral,Buy,down,,0.0,0.0
+2015-10-02 10:32:19,Wedbush,Neutral,,main,Lowers,25.0,29.0
+2015-06-23 12:58:16,Sidoti & Co.,Neutral,,init,Announces,30.0,0.0
+2014-03-28 05:22:59,Jefferies,Hold,,main,Lowers,23.0,25.0
+2013-12-12 12:01:28,JMP Securities,Market Perform,Market Outperform,down,Removes,0.0,28.0
+2013-06-27 11:37:09,Jefferies,Hold,,main,Raises,23.0,21.0
+2013-06-14 11:24:28,Needham,Hold,Buy,down,Removes,0.0,29.0
+2013-03-28 12:36:48,Wedbush,Neutral,,main,Raises,24.0,22.0
+2013-03-28 12:10:35,Benchmark,Buy,,main,Lowers,29.0,33.0
+2012-12-10 18:39:10,Wedbush,Neutral,,main,Raises,22.0,21.0
+2012-10-24 18:42:00,Wedbush,Neutral,,main,Lowers,21.0,22.0
+2012-10-09 13:39:00,Mizuho,Underperform,Neutral,down,,0.0,0.0
+2012-10-09 10:36:00,Jefferies,Hold,,main,Lowers,21.0,23.0
+2012-09-27 16:46:00,Wedbush,Neutral,,main,Raises,22.0,20.0
+2012-09-27 10:19:00,Jefferies,Hold,,main,Lowers,23.0,25.0
+2012-08-29 09:47:00,Wedbush,Neutral,,init,Announces,20.0,0.0
+2012-06-28 10:24:00,Jefferies,Hold,,main,Lowers,25.0,28.0
+2012-03-23 10:44:00,Benchmark,Buy,,main,Raises,33.0,23.0

@@ -1,0 +1,101 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-10-19 20:59:59,Citigroup,Neutral,Neutral,main,Lowers,31.0,32.0
+2026-10-16 17:04:57,Piper Sandler,Overweight,Overweight,main,Lowers,34.0,36.0
+2026-09-08 11:25:14,Hovde Group,Outperform,,init,Announces,34.0,0.0
+2026-08-19 11:21:13,Cantor Fitzgerald,Neutral,Neutral,main,Raises,31.0,30.0
+2026-07-21 19:10:22,Citigroup,Neutral,Neutral,main,Raises,32.0,29.0
+2026-07-17 18:04:58,Piper Sandler,Overweight,Overweight,main,Raises,36.0,33.0
+2026-07-17 14:55:35,Stephens & Co.,Overweight,Overweight,main,Raises,35.0,32.0
+2026-07-17 14:08:14,"Keefe, Bruyette & Woods",Market Perform,Market Perform,main,Raises,32.0,30.0
+2026-06-25 09:46:39,Benchmark,Hold,,init,,0.0,0.0
+2026-05-19 13:11:56,Cantor Fitzgerald,Neutral,Neutral,main,Lowers,30.0,31.0
+2026-04-20 12:34:34,"Keefe, Bruyette & Woods",Market Perform,Market Perform,main,Lowers,30.0,32.0
+2026-04-17 17:41:20,Piper Sandler,Overweight,Overweight,main,Lowers,33.0,35.0
+2026-04-17 12:37:52,Stephens & Co.,Overweight,Overweight,main,Lowers,32.0,34.0
+2026-03-03 14:34:37,Cantor Fitzgerald,Neutral,Neutral,main,Lowers,31.0,32.0
+2026-01-16 16:41:09,Piper Sandler,Overweight,Overweight,main,Raises,35.0,34.0
+2025-10-17 15:02:27,Piper Sandler,Overweight,Overweight,main,Lowers,34.0,35.0
+2025-09-10 13:22:30,Cantor Fitzgerald,Neutral,,init,Announces,32.0,0.0
+2025-07-21 13:12:30,"Keefe, Bruyette & Woods",Market Perform,Market Perform,main,Raises,32.0,30.0
+2025-07-18 12:14:26,Piper Sandler,Overweight,Overweight,main,Raises,35.0,34.0
+2025-04-21 17:05:44,RBC Capital,Sector Perform,Sector Perform,main,Lowers,31.0,33.0
+2025-04-21 15:59:29,Stephens & Co.,Overweight,Overweight,reit,Maintains,33.0,33.0
+2025-01-17 16:13:01,Stephens & Co.,Overweight,Overweight,reit,Maintains,34.0,34.0
+2025-01-16 15:21:00,Stephens & Co.,Overweight,Overweight,reit,Maintains,34.0,34.0
+2024-12-04 17:43:24,"Keefe, Bruyette & Woods",Market Perform,Market Perform,main,Raises,32.0,28.0
+2024-10-18 16:04:00,Stephens & Co.,Overweight,Overweight,main,Raises,31.0,30.0
+2024-10-18 14:28:39,Piper Sandler,Overweight,Overweight,main,Raises,31.0,30.0
+2024-10-18 13:01:55,RBC Capital,Sector Perform,Sector Perform,reit,Maintains,28.0,28.0
+2024-07-19 15:53:08,RBC Capital,Sector Perform,Sector Perform,main,Raises,28.0,27.0
+2024-07-19 13:24:08,Stephens & Co.,Overweight,Overweight,main,Raises,30.0,28.0
+2024-07-19 12:40:12,Piper Sandler,Overweight,Overweight,main,Raises,30.0,27.0
+2024-07-18 14:57:36,Stephens & Co.,Overweight,Overweight,reit,Maintains,28.0,28.0
+2024-07-09 17:08:56,RBC Capital,Sector Perform,Sector Perform,main,Raises,27.0,26.0
+2024-04-19 13:57:41,Stephens & Co.,Overweight,Overweight,main,Raises,28.0,27.0
+2024-04-09 15:02:15,RBC Capital,Sector Perform,Sector Perform,reit,Maintains,26.0,26.0
+2024-01-19 16:10:21,Piper Sandler,Overweight,Overweight,main,Raises,27.0,26.0
+2024-01-19 13:45:42,RBC Capital,Sector Perform,Sector Perform,reit,Maintains,26.0,0.0
+2023-12-01 10:21:19,Citigroup,Neutral,,init,Announces,23.0,0.0
+2023-10-20 19:07:13,Piper Sandler,Overweight,Overweight,main,Lowers,26.0,27.0
+2023-10-20 15:44:57,Stephens & Co.,Overweight,Overweight,main,Lowers,24.0,25.0
+2023-07-31 16:35:37,Piper Sandler,Overweight,Overweight,main,Raises,27.0,25.0
+2023-07-21 13:06:34,Stephens & Co.,Overweight,Overweight,main,Raises,27.0,26.0
+2023-04-21 13:18:14,Stephens & Co.,Overweight,,reit,Maintains,25.0,0.0
+2023-04-21 12:44:17,RBC Capital,Sector Perform,,reit,Maintains,25.0,0.0
+2022-12-13 11:46:51,"Keefe, Bruyette & Woods",Market Perform,Outperform,down,Announces,28.0,0.0
+2022-04-22 11:58:01,Piper Sandler,Overweight,,main,Raises,28.0,27.0
+2021-10-22 13:17:18,RBC Capital,Sector Perform,,main,Raises,27.0,26.0
+2021-07-16 09:22:56,Raymond James,Market Perform,Outperform,down,,0.0,0.0
+2021-04-16 11:30:53,Raymond James,Outperform,,main,Raises,30.0,24.0
+2021-01-22 13:57:18,Raymond James,Outperform,,main,Raises,24.0,19.0
+2020-07-17 15:16:50,Piper Sandler,Overweight,,main,Raises,19.0,17.0
+2020-07-17 12:17:38,Raymond James,Outperform,,main,Raises,19.0,17.0
+2020-07-17 11:45:31,Citigroup,Neutral,,main,Raises,17.0,16.0
+2020-06-18 11:06:24,Citigroup,Neutral,,main,Raises,16.0,12.0
+2020-04-17 09:10:31,Raymond James,Outperform,Market Perform,up,Announces,14.0,0.0
+2020-03-24 11:53:03,Citigroup,Neutral,,main,Lowers,12.0,21.0
+2020-01-17 13:52:44,RBC Capital,Sector Perform,,main,Raises,22.0,20.0
+2020-01-17 12:38:59,Stephens & Co.,Overweight,,reit,Raises,24.0,22.0
+2019-10-18 13:33:20,Citigroup,Buy,,main,Lowers,21.0,22.0
+2018-10-19 11:38:57,Citigroup,Buy,Buy,main,Lowers,27.0,28.0
+2018-06-18 11:53:57,Citigroup,Buy,,init,Announces,28.0,0.0
+2018-04-20 12:35:18,Piper Sandler,Buy,Hold,up,,0.0,0.0
+2018-03-01 13:35:45,Piper Sandler,Overweight,Neutral,up,,0.0,27.0
+2017-10-20 12:54:22,Piper Sandler,Hold,Buy,down,,0.0,0.0
+2017-05-15 10:41:35,"Keefe, Bruyette & Woods",Outperform,Market Perform,up,,0.0,23.0
+2016-11-11 13:54:59,Merion Capital,Neutral,Outperform,down,,0.0,0.0
+2016-11-10 09:39:11,"Keefe, Bruyette & Woods",Market Perform,Outperform,down,Announces,23.0,0.0
+2016-09-13 12:29:43,Piper Sandler,Hold,Buy,down,,0.0,0.0
+2016-01-22 13:18:37,Merion Capital,Outperform,Neutral,up,Maintains,46.0,0.0
+2016-01-08 15:08:24,Piper Sandler,Buy,Hold,up,,0.0,0.0
+2015-08-21 20:01:13,"Keefe, Bruyette & Woods",Outperform,,main,Raises,44.0,41.0
+2015-07-17 15:00:00,"Keefe, Bruyette & Woods",Market Perform,,main,Raises,41.0,39.0
+2015-06-18 08:24:01,"Keefe, Bruyette & Woods",Outperform,,main,Raises,39.0,37.0
+2015-06-05 13:09:04,Stephens & Co.,Overweight,,main,Raises,39.0,36.0
+2015-04-17 13:00:00,"Keefe, Bruyette & Woods",Outperform,,main,Raises,37.0,35.0
+2015-04-17 10:15:02,Wunderlich Securities,Hold,Buy,down,Maintains,35.0,0.0
+2015-03-02 15:12:10,Piper Sandler,Hold,Buy,down,,0.0,0.0
+2014-07-21 12:43:24,FIG Partners,Outperform,Market Perform,up,Lowers,35.0,36.5
+2014-07-19 03:30:53,Raymond James,Outperform,,main,Lowers,37.0,38.0
+2014-05-17 00:16:38,Raymond James,Hold,,main,Raises,38.0,28.7
+2014-05-16 10:09:28,"Keefe, Bruyette & Woods",Outperform,Market Perform,up,Maintains,35.0,0.0
+2014-04-21 10:57:35,Raymond James,Outperform,Market Perform,up,Announces,38.0,0.0
+2014-02-14 11:33:25,Wunderlich Securities,Buy,Hold,up,Raises,38.0,35.0
+2013-10-24 10:33:46,Sterne Agee,Neutral,,init,,0.0,0.0
+2013-10-23 21:07:15,Sterne Agee,Neutral,,init,,0.0,0.0
+2013-10-18 11:20:47,Raymond James,Market Perform,Outperform,down,Removes,0.0,29.0
+2013-10-18 10:34:58,Wunderlich Securities,Hold,,main,Raises,32.0,30.0
+2013-09-27 11:23:10,Wunderlich Securities,Hold,Buy,down,Maintains,30.0,0.0
+2013-07-19 10:49:50,Wunderlich Securities,Buy,,main,Raises,30.0,29.0
+2013-06-26 11:52:40,Raymond James,Outperform,Market Perform,up,Announces,25.0,0.0
+2013-06-26 11:51:55,Wunderlich Securities,Buy,Hold,up,Raises,29.0,20.5
+2013-05-29 10:33:00,Wunderlich Securities,Hold,Buy,down,Maintains,41.0,0.0
+2013-04-19 10:31:47,Wunderlich Securities,Buy,,main,Raises,41.0,39.0
+2013-03-12 13:12:40,Stephens & Co.,Overweight,Equal-Weight,up,Raises,42.0,38.0
+2013-01-18 11:38:36,Wunderlich Securities,Buy,,main,Raises,39.0,37.0
+2012-12-12 13:18:26,BGB Securities,Hold,,init,Announces,37.0,0.0
+2012-10-01 10:24:00,Wunderlich Securities,Buy,,main,Raises,37.0,35.0
+2012-09-26 11:38:00,Stifel,Hold,Buy,down,Removes,0.0,0.0
+2012-07-19 19:08:00,Wunderlich Securities,Buy,,main,Raises,35.0,32.0
+2012-06-25 12:00:00,Stifel,Buy,,main,Raises,32.0,30.0
+2012-04-20 10:08:00,Wunderlich Securities,Buy,,main,Raises,32.0,29.0

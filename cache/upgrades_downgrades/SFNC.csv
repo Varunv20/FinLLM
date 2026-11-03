@@ -1,0 +1,60 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-10-19 19:39:26,DA Davidson,Neutral,Neutral,main,Raises,25.0,24.0
+2026-10-19 17:17:07,Morgan Stanley,Underweight,Underweight,main,Raises,27.0,26.0
+2026-10-19 15:14:08,"Keefe, Bruyette & Woods",Outperform,Outperform,main,Lowers,25.0,26.0
+2026-09-10 09:26:12,"Keefe, Bruyette & Woods",Outperform,Market Perform,up,Maintains,26.0,26.0
+2026-09-08 18:09:46,Morgan Stanley,Underweight,Equal-Weight,down,Raises,26.0,24.0
+2026-09-04 17:12:43,Piper Sandler,Overweight,Neutral,up,Raises,27.5,26.0
+2026-09-04 15:47:48,"Keefe, Bruyette & Woods",Market Perform,Market Perform,main,Raises,26.0,25.0
+2026-07-20 16:11:19,DA Davidson,Neutral,Neutral,main,Raises,24.0,23.0
+2026-07-20 13:15:41,"Keefe, Bruyette & Woods",Market Perform,Market Perform,main,Raises,25.0,24.0
+2026-07-17 19:05:39,DA Davidson,Neutral,Neutral,main,Maintains,23.0,23.0
+2026-06-29 17:39:19,Morgan Stanley,Equal-Weight,Equal-Weight,main,Raises,24.0,23.0
+2026-04-20 16:36:50,Stephens & Co.,Overweight,Overweight,main,Raises,25.0,24.0
+2026-04-17 18:54:53,DA Davidson,Neutral,Neutral,main,Maintains,21.0,21.0
+2026-03-31 17:49:46,Morgan Stanley,Equal-Weight,Equal-Weight,main,Lowers,21.0,23.0
+2026-01-22 16:29:26,Morgan Stanley,Equal-Weight,Equal-Weight,main,Raises,23.0,22.0
+2026-01-22 16:19:21,DA Davidson,Neutral,Neutral,main,Raises,23.0,21.0
+2026-01-22 12:37:15,Raymond James,Outperform,Market Perform,up,Announces,23.0,0.0
+2025-11-19 11:30:02,Baird,Outperform,Neutral,up,Maintains,22.0,22.0
+2025-10-20 12:30:24,"Keefe, Bruyette & Woods",Market Perform,Market Perform,main,Lowers,21.0,22.0
+2025-07-23 15:58:18,DA Davidson,Neutral,Neutral,main,Raises,23.0,21.0
+2025-07-21 15:47:06,DA Davidson,Neutral,Neutral,main,Raises,21.0,19.0
+2025-07-21 13:14:23,"Keefe, Bruyette & Woods",Market Perform,Market Perform,main,Raises,22.0,21.0
+2025-04-21 16:31:57,"Keefe, Bruyette & Woods",Market Perform,Market Perform,main,Lowers,21.0,23.0
+2025-04-21 15:45:34,Stephens & Co.,Overweight,Overweight,main,Lowers,25.0,27.0
+2025-01-23 15:40:34,Stephens & Co.,Overweight,Overweight,main,Lowers,28.0,29.0
+2024-10-21 12:09:55,Stephens & Co.,Overweight,Equal-Weight,up,Announces,28.0,0.0
+2024-07-26 13:43:46,Piper Sandler,Underweight,Underweight,main,Raises,20.0,18.0
+2024-07-25 18:07:26,Stephens & Co.,Equal-Weight,Equal-Weight,main,Raises,23.0,21.0
+2024-07-25 13:30:06,"Keefe, Bruyette & Woods",Market Perform,Market Perform,main,Raises,22.0,20.0
+2024-04-25 15:18:13,Stephens & Co.,Equal-Weight,Equal-Weight,main,Lowers,21.0,22.0
+2024-04-25 13:51:18,"Keefe, Bruyette & Woods",Market Perform,Market Perform,main,Lowers,20.0,21.0
+2024-01-25 19:18:54,Baird,Neutral,Neutral,main,Raises,22.0,20.0
+2023-10-25 15:32:28,Stephens & Co.,Equal-Weight,Equal-Weight,main,Lowers,18.0,20.0
+2023-07-26 14:31:37,Stephens & Co.,Equal-Weight,Equal-Weight,main,Raises,21.0,19.0
+2023-01-25 15:00:06,Baird,Neutral,,main,Lowers,26.0,28.0
+2022-05-09 11:03:04,Piper Sandler,Underweight,Neutral,down,Announces,26.0,0.0
+2021-04-07 12:28:20,Raymond James,Market Perform,Outperform,down,,0.0,0.0
+2021-01-27 14:27:15,Raymond James,Outperform,,main,Raises,28.0,19.0
+2020-10-20 15:54:45,DA Davidson,Neutral,Buy,down,Lowers,18.0,22.0
+2020-10-20 13:19:54,Baird,Neutral,,main,Lowers,21.0,23.0
+2020-06-17 12:35:39,Raymond James,Outperform,Market Perform,up,Announces,19.0,0.0
+2020-01-24 12:00:11,Piper Sandler,Neutral,Overweight,down,Lowers,27.0,29.5
+2019-08-01 11:40:15,Piper Sandler,Buy,Hold,up,,0.0,0.0
+2019-03-15 10:37:36,DA Davidson,Buy,,init,Announces,31.0,0.0
+2018-10-16 12:44:46,Baird,Outperform,,init,Announces,34.0,0.0
+2018-01-24 12:48:57,Piper Sandler,Buy,Hold,up,,0.0,0.0
+2017-10-24 13:30:05,Piper Sandler,Hold,Buy,down,,0.0,0.0
+2017-01-25 13:11:35,Raymond James,Underperform,Market Perform,down,,0.0,0.0
+2016-10-26 04:00:00,"Keefe, Bruyette & Woods",Market Perform,Outperform,down,,0.0,0.0
+2016-06-08 16:41:04,"Keefe, Bruyette & Woods",Outperform,,main,Lowers,53.0,54.0
+2016-04-22 12:35:18,Piper Sandler,Hold,Buy,down,,0.0,0.0
+2016-02-29 18:25:41,"Keefe, Bruyette & Woods",Outperform,,main,Lowers,45.0,59.0
+2015-09-21 11:37:12,Piper Sandler,Neutral,,init,Announces,53.0,0.0
+2015-01-26 14:00:00,"Keefe, Bruyette & Woods",Outperform,,main,Raises,47.0,46.0
+2014-11-24 05:00:00,Sterne Agee,Buy,,init,Announces,5.0,0.0
+2014-05-30 02:45:59,Raymond James,Outperform,,main,Raises,46.0,45.0
+2014-04-21 10:12:50,"Keefe, Bruyette & Woods",Outperform,Market Perform,up,Raises,42.0,40.0
+2013-09-13 13:24:05,Stephens & Co.,Overweight,Equal-Weight,up,Raises,33.0,29.0
+2013-09-13 11:24:14,Raymond James,Outperform,Market Perform,up,Announces,32.0,0.0

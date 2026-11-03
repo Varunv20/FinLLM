@@ -1,0 +1,65 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-10-23 17:24:07,Morgan Stanley,Underweight,Underweight,main,Lowers,40.0,41.0
+2026-10-13 11:02:34,Goldman Sachs,Sell,Sell,main,Lowers,32.0,36.0
+2026-10-08 14:16:26,Morgan Stanley,Underweight,Underweight,main,Lowers,41.0,44.0
+2026-10-07 20:36:04,UBS,Neutral,Neutral,main,Lowers,40.0,44.0
+2026-10-01 17:23:58,Goldman Sachs,Sell,Sell,main,Lowers,36.0,42.0
+2026-07-24 17:13:35,"Keefe, Bruyette & Woods",Market Perform,Market Perform,main,Lowers,42.0,44.0
+2026-07-10 11:20:21,"Keefe, Bruyette & Woods",Market Perform,Market Perform,main,Lowers,44.0,49.0
+2026-07-09 17:13:38,Morgan Stanley,Underweight,Underweight,main,Lowers,47.0,53.0
+2026-05-05 17:06:38,Argus Research,Buy,Buy,main,Lowers,52.0,63.0
+2026-05-04 20:03:49,UBS,Neutral,Neutral,main,Lowers,44.0,45.0
+2026-05-04 11:22:43,"Keefe, Bruyette & Woods",Market Perform,Market Perform,main,Raises,49.0,47.0
+2026-04-14 16:14:04,Goldman Sachs,Sell,Sell,main,Raises,45.0,40.0
+2026-04-10 12:38:06,Citizens,Market Outperform,Market Outperform,main,Lowers,60.0,65.0
+2026-04-09 17:10:25,Morgan Stanley,Underweight,Underweight,main,Lowers,52.0,59.0
+2026-04-08 20:10:47,UBS,Neutral,Neutral,main,Lowers,45.0,48.0
+2026-04-08 11:46:28,"Keefe, Bruyette & Woods",Market Perform,Outperform,down,Lowers,47.0,62.0
+2026-04-01 17:43:41,Goldman Sachs,Sell,Sell,main,Lowers,40.0,46.0
+2026-03-12 20:19:48,UBS,Neutral,Neutral,main,Lowers,48.0,59.0
+2026-03-12 17:35:01,Goldman Sachs,Sell,Sell,main,Lowers,46.0,53.0
+2026-01-30 15:18:40,"Keefe, Bruyette & Woods",Outperform,Outperform,main,Raises,62.0,59.0
+2026-01-08 15:46:13,"Keefe, Bruyette & Woods",Outperform,Outperform,main,Lowers,59.0,60.0
+2026-01-06 15:33:58,Morgan Stanley,Underweight,Underweight,main,Lowers,59.0,61.0
+2025-12-17 18:07:21,"Keefe, Bruyette & Woods",Outperform,Outperform,main,Raises,60.0,58.0
+2025-12-11 16:47:51,Morgan Stanley,Underweight,Underweight,main,Lowers,61.0,62.0
+2025-10-24 15:45:41,"Keefe, Bruyette & Woods",Outperform,Outperform,main,Lowers,58.0,60.0
+2025-10-13 16:34:15,"Keefe, Bruyette & Woods",Outperform,Outperform,main,Lowers,60.0,65.0
+2025-10-03 12:20:47,BMO Capital,Market Perform,,init,Announces,56.0,0.0
+2025-09-08 13:02:11,Morgan Stanley,Underweight,Underweight,main,Raises,61.0,47.0
+2025-08-25 14:34:08,"Keefe, Bruyette & Woods",Outperform,Market Perform,up,Raises,65.0,60.0
+2025-07-25 13:17:19,"Keefe, Bruyette & Woods",Market Perform,Market Perform,main,Raises,60.0,57.0
+2025-07-15 13:22:07,Wells Fargo,Equal-Weight,Equal-Weight,main,Raises,52.0,50.0
+2025-07-14 13:37:36,JMP Securities,Market Outperform,Market Outperform,main,Raises,60.0,55.0
+2025-07-14 11:40:01,"Keefe, Bruyette & Woods",Market Perform,Market Perform,main,Raises,57.0,46.0
+2025-07-11 14:12:22,Wells Fargo,Equal-Weight,Equal-Weight,main,Raises,50.0,38.0
+2025-06-23 14:54:56,Morgan Stanley,Underweight,Underweight,main,Raises,45.0,33.0
+2025-05-15 17:21:33,Goldman Sachs,Sell,Sell,main,Raises,40.0,35.0
+2025-05-12 17:29:41,"Keefe, Bruyette & Woods",Market Perform,Market Perform,main,Raises,46.0,44.0
+2025-04-28 14:40:02,JMP Securities,Market Outperform,Market Outperform,reit,Maintains,55.0,55.0
+2025-04-08 22:32:18,Wells Fargo,Equal-Weight,Equal-Weight,main,Lowers,38.0,44.0
+2025-04-08 17:12:10,JMP Securities,Market Outperform,Market Outperform,main,Lowers,55.0,60.0
+2025-04-07 16:11:59,Morgan Stanley,Underweight,Equal-Weight,down,Lowers,33.0,56.0
+2025-03-13 16:16:46,Morgan Stanley,Equal-Weight,Equal-Weight,main,Lowers,56.0,63.0
+2025-02-03 16:20:54,UBS,Neutral,Neutral,main,Raises,54.0,50.0
+2025-01-31 17:32:09,"Keefe, Bruyette & Woods",Market Perform,Market Perform,main,Raises,57.0,52.0
+2025-01-31 15:06:22,Wells Fargo,Equal-Weight,Equal-Weight,main,Raises,55.0,51.0
+2025-01-31 14:23:15,Morgan Stanley,Equal-Weight,Equal-Weight,main,Raises,63.0,60.0
+2025-01-15 15:09:36,Goldman Sachs,Sell,Sell,main,Lowers,44.0,51.0
+2025-01-14 14:32:11,Wells Fargo,Equal-Weight,Equal-Weight,main,Lowers,51.0,59.0
+2025-01-13 17:31:14,"Keefe, Bruyette & Woods",Market Perform,Market Perform,main,Lowers,52.0,57.0
+2025-01-03 17:19:03,Wolfe Research,Peer Perform,Outperform,down,,0.0,0.0
+2024-12-20 11:53:33,"Keefe, Bruyette & Woods",Market Perform,Outperform,down,Lowers,57.0,65.0
+2024-12-09 12:40:11,Morgan Stanley,Equal-Weight,Overweight,down,Raises,63.0,60.0
+2024-11-01 16:23:55,"Keefe, Bruyette & Woods",Outperform,Outperform,main,Raises,65.0,59.0
+2024-11-01 12:42:40,JMP Securities,Market Outperform,Market Outperform,main,Raises,59.0,55.0
+2024-07-26 14:32:39,Goldman Sachs,Sell,Sell,main,Raises,42.0,38.0
+2024-07-26 12:15:24,"Keefe, Bruyette & Woods",Outperform,Outperform,reit,Raises,56.0,49.0
+2024-07-23 17:33:26,Morgan Stanley,Overweight,Overweight,main,Raises,56.0,53.0
+2024-06-21 14:14:36,Morgan Stanley,Overweight,Overweight,main,Lowers,54.0,58.0
+2024-04-26 13:41:25,"Keefe, Bruyette & Woods",Outperform,Outperform,reit,Lowers,49.0,51.0
+2024-04-11 14:15:47,Morgan Stanley,Overweight,Overweight,main,Maintains,58.0,0.0
+2024-03-26 10:10:15,UBS,Neutral,Neutral,main,Raises,44.0,43.0
+2024-02-05 18:44:30,UBS,Neutral,Neutral,main,Raises,43.0,40.0
+2024-01-09 15:50:04,UBS,Neutral,Neutral,main,Raises,40.0,31.0
+2024-01-03 11:19:40,Wolfe Research,Outperform,Peer Perform,up,Announces,42.0,0.0

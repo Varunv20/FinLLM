@@ -1,0 +1,121 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-10-15 14:24:04,Barclays,Overweight,Overweight,main,Raises,75.0,74.0
+2026-09-30 18:44:31,Citigroup,Neutral,Neutral,main,Lowers,73.0,75.0
+2026-08-20 18:34:37,Citigroup,Neutral,Buy,down,Raises,75.0,67.0
+2026-08-03 11:18:45,Barclays,Overweight,Overweight,main,Raises,74.0,70.0
+2026-07-31 13:43:24,Stifel,Buy,Buy,main,Raises,72.0,68.0
+2026-07-14 12:09:02,Piper Sandler,Overweight,Overweight,main,Raises,73.0,72.0
+2026-06-18 19:22:57,Citigroup,Buy,Buy,main,Raises,67.0,65.0
+2026-06-16 15:19:53,Stifel,Buy,Buy,reit,Raises,68.0,66.0
+2026-05-20 11:39:13,Stifel,Buy,Buy,main,Raises,66.0,59.0
+2026-05-18 14:46:13,Piper Sandler,Overweight,Overweight,main,Raises,72.0,69.0
+2026-05-11 14:54:29,Citigroup,Buy,Buy,main,Raises,65.0,63.0
+2026-05-11 13:18:12,Barclays,Overweight,Overweight,main,Raises,70.0,62.0
+2026-03-03 18:15:50,Citigroup,Buy,Buy,main,Raises,63.0,55.0
+2026-03-02 14:34:07,Barclays,Overweight,Overweight,main,Raises,62.0,56.0
+2026-02-24 11:28:56,Piper Sandler,Overweight,,init,Announces,73.0,0.0
+2025-12-17 17:36:28,Barclays,Overweight,Overweight,main,Raises,56.0,51.0
+2025-12-11 14:14:55,Citigroup,Buy,Neutral,up,Raises,55.0,45.0
+2025-10-31 15:22:56,Barclays,Overweight,Overweight,main,Lowers,51.0,52.0
+2025-10-31 14:02:44,Stifel,Buy,Buy,main,Raises,50.0,48.0
+2025-10-29 11:48:09,B of A Securities,Neutral,Underperform,up,Raises,40.0,39.0
+2025-08-04 14:25:10,Barclays,Overweight,Overweight,main,Lowers,52.0,53.0
+2025-08-01 15:08:24,Stifel,Buy,Buy,main,Lowers,53.0,57.0
+2025-06-20 12:31:00,Barclays,Overweight,Overweight,main,Lowers,53.0,54.0
+2025-06-04 12:08:01,Barclays,Overweight,Equal-Weight,up,Raises,54.0,51.0
+2025-05-28 15:43:56,JP Morgan,Neutral,Neutral,main,Lowers,50.0,52.0
+2025-05-06 11:43:45,JP Morgan,Neutral,Neutral,main,Lowers,52.0,54.0
+2025-05-02 21:41:21,Barclays,Equal-Weight,Equal-Weight,main,Lowers,51.0,54.0
+2025-05-02 12:48:20,Stifel,Buy,Buy,main,Lowers,57.0,61.0
+2025-04-15 15:29:31,Stifel,Buy,Buy,main,Lowers,61.0,64.0
+2025-03-05 12:33:56,Barclays,Equal-Weight,Equal-Weight,main,Lowers,54.0,61.0
+2024-11-04 11:33:18,Barclays,Equal-Weight,Overweight,down,Maintains,61.0,61.0
+2024-10-14 17:38:40,B of A Securities,Underperform,Underperform,main,Raises,48.0,44.0
+2024-10-11 14:26:05,Stifel,Buy,Buy,main,Lowers,67.0,69.0
+2024-08-05 23:26:14,Barclays,Overweight,Overweight,main,Raises,61.0,56.0
+2024-07-15 11:56:52,Piper Sandler,Neutral,Neutral,main,Lowers,54.0,55.0
+2024-07-11 01:26:31,Citigroup,Neutral,Neutral,main,Raises,52.0,48.0
+2024-05-06 15:12:45,Barclays,Overweight,Overweight,main,Raises,56.0,55.0
+2024-05-06 12:56:27,Benchmark,Hold,,reit,,0.0,0.0
+2024-04-15 17:32:25,B of A Securities,Underperform,Underperform,main,Raises,43.0,40.0
+2024-01-16 20:07:34,Benchmark,Hold,Buy,down,,0.0,0.0
+2024-01-03 20:18:55,Stifel,Buy,Buy,main,Lowers,60.0,68.0
+2023-11-14 12:59:23,Barclays,Overweight,Overweight,main,Lowers,57.0,60.0
+2023-11-13 21:37:05,Piper Sandler,Neutral,Neutral,main,Lowers,55.0,59.0
+2023-10-17 14:10:59,Barclays,Overweight,Equal-Weight,up,,0.0,0.0
+2023-10-16 14:15:32,B of A Securities,Underperform,Neutral,down,Raises,47.0,46.0
+2023-09-13 13:13:20,JP Morgan,Neutral,,init,Announces,60.0,0.0
+2023-08-14 13:37:35,Piper Sandler,Neutral,Neutral,main,Raises,59.0,46.0
+2023-08-10 11:33:51,Barclays,Equal-Weight,Equal-Weight,main,Raises,48.0,46.0
+2023-08-08 14:10:02,Benchmark,Buy,Buy,reit,Maintains,60.0,0.0
+2023-07-18 15:27:04,Citigroup,Neutral,Neutral,main,Raises,52.0,40.0
+2023-05-19 12:23:10,Stifel,Buy,Buy,main,Lowers,61.0,64.0
+2023-05-18 10:23:59,Citigroup,Neutral,Neutral,main,Lowers,40.0,48.0
+2023-05-16 13:28:06,Benchmark,Buy,Buy,reit,Maintains,60.0,0.0
+2023-04-05 11:12:58,Citigroup,Neutral,,main,Lowers,48.0,52.0
+2023-02-28 14:12:00,Citigroup,Neutral,,main,Lowers,52.0,60.0
+2023-02-28 11:23:49,Barclays,Equal-Weight,,main,Lowers,46.0,50.0
+2023-01-19 13:37:33,Benchmark,Buy,,init,Announces,70.0,0.0
+2022-11-08 13:49:27,Stifel,Buy,Buy,main,Raises,64.0,62.0
+2022-11-08 13:37:02,B of A Securities,Neutral,,main,Raises,59.0,45.0
+2022-10-06 12:41:00,Barclays,Equal-Weight,Overweight,down,Lowers,48.0,52.0
+2022-09-26 11:49:15,Morgan Stanley,Equal-Weight,,main,Raises,55.0,50.0
+2022-08-08 11:58:05,Barclays,Overweight,,main,Lowers,52.0,57.0
+2022-07-13 13:54:02,Morgan Stanley,Equal-Weight,,main,Lowers,50.0,60.0
+2022-05-09 11:44:55,Barclays,Overweight,,main,Raises,57.0,56.0
+2022-04-11 10:25:01,Morgan Stanley,Equal-Weight,Overweight,down,,0.0,0.0
+2022-04-08 12:51:25,Stifel,Buy,Buy,main,Raises,62.0,55.0
+2022-03-11 14:22:51,B of A Securities,Neutral,Buy,down,,0.0,0.0
+2022-03-02 13:44:58,Piper Sandler,Neutral,,main,Raises,55.0,45.5
+2022-03-01 14:51:39,Tudor Pickering,Hold,Buy,down,,0.0,0.0
+2022-02-28 15:45:08,Stifel,Buy,,main,Raises,55.0,54.0
+2022-01-31 13:56:56,Stifel,Buy,Buy,main,Raises,54.0,51.0
+2021-11-11 15:19:50,Citigroup,Buy,,main,Raises,50.0,41.0
+2021-11-04 12:59:41,Stifel,Buy,Buy,main,Raises,51.0,43.0
+2021-10-25 13:22:23,Barclays,Overweight,,main,Raises,50.0,42.0
+2021-07-02 13:02:35,Stifel,Buy,Buy,main,Raises,43.0,38.0
+2021-05-03 11:20:52,Barclays,Overweight,Equal-Weight,up,Raises,37.0,33.0
+2021-03-25 10:58:14,Morgan Stanley,Overweight,Equal-Weight,up,Raises,40.0,33.0
+2021-03-09 11:53:10,Piper Sandler,Neutral,Overweight,down,Announces,32.0,0.0
+2020-12-22 13:09:13,Goldman Sachs,Neutral,,init,Announces,34.0,0.0
+2020-11-10 12:56:56,Morgan Stanley,Equal-Weight,Overweight,down,Announces,23.0,0.0
+2020-11-06 17:32:07,Credit Suisse,Outperform,,main,Raises,24.0,23.0
+2020-09-16 09:23:51,Scotiabank,Sector Perform,,init,Announces,22.0,0.0
+2020-07-31 13:59:04,Raymond James,Strong Buy,,main,Raises,26.0,24.0
+2020-07-31 13:04:44,Stifel,Buy,Hold,up,Announces,28.0,0.0
+2020-07-31 12:29:06,Credit Suisse,Outperform,,main,Raises,22.0,19.0
+2020-07-13 11:51:32,Raymond James,Strong Buy,,main,Raises,24.0,22.0
+2020-07-08 11:53:29,Morgan Stanley,Overweight,,main,Raises,22.0,18.0
+2020-06-05 10:20:24,Stifel,Hold,,init,Announces,20.0,0.0
+2020-05-28 11:38:46,B of A Securities,Neutral,Underperform,up,,0.0,0.0
+2020-05-14 10:02:33,Barclays,Equal-Weight,Overweight,down,Announces,14.0,0.0
+2020-05-05 12:27:14,Citigroup,Neutral,,main,Raises,17.0,14.0
+2020-05-01 15:35:06,Stephens & Co.,Overweight,,main,Raises,22.0,17.0
+2020-05-01 12:42:27,Credit Suisse,Outperform,,main,Raises,16.0,14.0
+2020-04-16 10:49:15,Stephens & Co.,Overweight,,main,Raises,17.0,15.0
+2020-04-15 12:58:44,Piper Sandler,Overweight,,main,Lowers,20.0,30.0
+2020-04-09 11:31:47,Raymond James,Strong Buy,,reit,Raises,22.0,15.0
+2020-03-16 14:39:42,Morgan Stanley,Overweight,,main,Lowers,18.0,35.0
+2020-03-02 13:40:30,Piper Sandler,Overweight,,main,Lowers,30.0,32.0
+2020-02-28 17:58:13,B of A Securities,Buy,,main,Lowers,35.0,39.0
+2020-02-28 12:48:05,Raymond James,Strong Buy,,main,Lowers,35.0,39.0
+2019-11-21 14:38:57,Wolfe Research,Peer Perform,,init,Announces,33.0,0.0
+2019-10-07 12:32:09,Morgan Stanley,Overweight,,main,Lowers,35.0,40.0
+2019-09-23 13:17:24,Citigroup,Buy,,main,Lowers,37.0,38.0
+2019-08-02 16:25:56,Raymond James,Strong Buy,,reit,Lowers,40.0,42.0
+2019-03-12 13:38:01,Citigroup,Buy,Buy,main,Raises,43.0,41.0
+2019-03-08 14:04:26,RBC Capital,Outperform,Outperform,main,Raises,39.0,33.0
+2019-03-08 13:58:18,Raymond James,Strong Buy,Strong Buy,main,Raises,44.0,39.0
+2019-02-07 11:59:02,Raymond James,Strong Buy,,init,Announces,39.0,0.0
+2019-01-10 12:45:50,Stephens & Co.,Overweight,,init,Announces,45.0,0.0
+2019-01-04 15:31:31,Citigroup,Buy,Buy,main,Lowers,41.0,42.0
+2018-09-19 11:19:34,Morgan Stanley,Overweight,,init,Announces,42.0,0.0
+2018-09-17 11:44:37,JP Morgan,Overweight,Overweight,main,Raises,42.0,40.0
+2018-09-14 11:31:55,Citigroup,Buy,Buy,main,Raises,41.0,38.0
+2018-05-15 15:56:12,Barclays,Overweight,Overweight,main,Raises,36.0,31.0
+2018-04-06 12:46:54,RBC Capital,Outperform,,init,Announces,32.0,0.0
+2018-03-05 14:11:47,B of A Securities,Buy,,init,Announces,30.0,0.0
+2018-03-05 13:28:08,Piper Sandler,Overweight,,init,Announces,30.0,0.0
+2018-03-05 12:52:14,Barclays,Overweight,,init,Announces,31.0,0.0
+2018-03-05 12:43:32,JP Morgan,Overweight,,init,Announces,32.0,0.0
+2018-03-05 12:39:02,Credit Suisse,Outperform,,init,Announces,31.0,0.0

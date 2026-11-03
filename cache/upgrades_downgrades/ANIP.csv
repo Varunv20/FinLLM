@@ -1,0 +1,87 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-09-23 12:02:26,Oppenheimer,Perform,,init,Announces,85.0,0.0
+2026-08-10 14:00:18,Guggenheim,Buy,Buy,main,Lowers,119.0,124.0
+2026-08-10 12:23:07,Canaccord Genuity,Hold,Hold,main,Lowers,90.0,91.0
+2026-07-17 10:27:40,Canaccord Genuity,Hold,,init,Announces,91.0,0.0
+2026-07-10 12:33:27,Guggenheim,Buy,Buy,reit,Maintains,124.0,124.0
+2026-01-16 15:17:37,Guggenheim,Buy,Buy,main,Raises,124.0,115.0
+2025-12-09 15:23:47,Barclays,Overweight,,init,Announces,100.0,0.0
+2025-11-10 14:45:31,Guggenheim,Buy,Buy,main,Raises,115.0,114.0
+2025-10-09 14:40:41,Truist Securities,Hold,Hold,main,Raises,90.0,77.0
+2025-09-24 12:22:39,JP Morgan,Overweight,Overweight,main,Raises,115.0,95.0
+2025-09-17 14:35:24,HC Wainwright & Co.,Buy,Buy,main,Raises,121.0,93.0
+2025-09-08 13:42:08,Guggenheim,Buy,Buy,main,Raises,114.0,86.0
+2025-08-11 13:17:48,Truist Securities,Hold,Hold,main,Raises,77.0,65.0
+2025-08-08 18:55:38,HC Wainwright & Co.,Buy,Buy,main,Raises,93.0,84.0
+2025-07-10 10:26:04,HC Wainwright & Co.,Buy,,init,Announces,84.0,0.0
+2025-05-12 14:26:29,Guggenheim,Buy,Buy,reit,Maintains,86.0,86.0
+2025-04-21 15:58:01,Truist Securities,Hold,Hold,main,Raises,65.0,62.0
+2025-04-11 14:10:44,Guggenheim,Buy,Buy,reit,Maintains,86.0,86.0
+2025-03-17 10:47:05,HC Wainwright & Co.,Buy,Buy,reit,Maintains,94.0,94.0
+2025-03-14 12:09:46,Jefferies,Buy,,init,Announces,80.0,0.0
+2025-03-12 13:37:49,JP Morgan,Overweight,,init,Announces,85.0,0.0
+2025-03-05 14:33:10,Guggenheim,Buy,Buy,main,Raises,86.0,84.0
+2025-03-03 11:43:32,HC Wainwright & Co.,Buy,Buy,reit,Maintains,94.0,94.0
+2024-12-11 11:50:53,Leerink Partners,Outperform,,init,Announces,80.0,0.0
+2024-11-11 15:20:29,HC Wainwright & Co.,Buy,Buy,reit,Maintains,94.0,94.0
+2024-10-22 17:14:21,Truist Securities,Hold,Hold,main,Raises,62.0,60.0
+2024-10-11 09:07:00,Piper Sandler,Overweight,,init,Announces,68.0,0.0
+2024-09-18 17:28:43,Raymond James,Outperform,Outperform,main,Raises,83.0,81.0
+2024-09-17 10:23:12,HC Wainwright & Co.,Buy,Buy,reit,Maintains,94.0,94.0
+2024-09-11 10:46:19,Truist Securities,Hold,Buy,down,Lowers,60.0,80.0
+2024-08-07 12:17:53,HC Wainwright & Co.,Buy,Buy,reit,Maintains,94.0,94.0
+2024-06-26 10:42:15,HC Wainwright & Co.,Buy,Buy,main,Raises,94.0,87.0
+2024-05-13 15:02:24,HC Wainwright & Co.,Buy,Buy,main,Raises,87.0,83.0
+2024-04-23 16:53:31,Guggenheim,Buy,Buy,reit,Maintains,77.0,77.0
+2024-03-15 12:25:52,Capital One,Overweight,,init,,0.0,0.0
+2024-03-05 16:59:51,Guggenheim,Buy,Buy,main,Raises,77.0,70.0
+2024-03-04 11:35:53,HC Wainwright & Co.,Buy,Buy,main,Raises,83.0,73.0
+2024-03-01 13:22:37,Truist Securities,Buy,Buy,main,Raises,80.0,72.0
+2024-02-16 13:54:14,Truist Securities,Buy,Buy,main,Raises,72.0,70.0
+2023-10-19 17:38:06,Guggenheim,Buy,Buy,reit,Maintains,72.0,0.0
+2023-09-13 14:04:49,Guggenheim,Buy,Buy,reit,Maintains,72.0,0.0
+2023-08-22 10:11:15,HC Wainwright & Co.,Buy,Buy,main,Raises,73.0,60.0
+2023-08-21 13:56:09,Truist Securities,Buy,Buy,reit,Maintains,70.0,0.0
+2023-08-10 19:37:57,Guggenheim,Buy,Buy,main,Raises,72.0,62.0
+2023-07-27 14:35:40,Guggenheim,Buy,Buy,main,Raises,62.0,59.0
+2023-07-21 14:04:40,Truist Securities,Buy,Buy,main,Raises,60.0,52.0
+2023-05-09 14:36:48,Guggenheim,Buy,,main,Raises,59.0,55.0
+2023-05-09 12:42:00,Truist Securities,Buy,,main,Raises,52.0,50.0
+2023-05-09 11:18:59,Raymond James,Outperform,,main,Raises,49.0,48.0
+2023-05-09 10:26:54,HC Wainwright & Co.,Buy,,main,Raises,60.0,53.0
+2023-03-13 10:17:38,HC Wainwright & Co.,Buy,,main,Raises,53.0,50.0
+2023-03-01 10:24:49,Guggenheim,Buy,,init,Announces,55.0,0.0
+2023-02-21 11:06:16,HC Wainwright & Co.,Buy,,reit,Maintains,50.0,0.0
+2022-09-07 10:06:39,HC Wainwright & Co.,Buy,,init,Announces,50.0,0.0
+2022-08-09 11:57:39,Raymond James,Outperform,,main,Raises,48.0,47.0
+2022-03-16 11:21:39,Raymond James,Outperform,,main,Lowers,47.0,65.0
+2021-11-02 11:15:32,Raymond James,Outperform,,main,Raises,65.0,60.0
+2021-11-02 10:55:04,Truist Securities,Buy,,init,Announces,70.0,0.0
+2021-05-10 13:51:28,Raymond James,Outperform,,main,Raises,60.0,40.0
+2020-08-03 12:36:12,Raymond James,Outperform,,main,Lowers,40.0,49.0
+2020-05-08 12:28:47,Raymond James,Outperform,,main,Lowers,49.0,65.0
+2020-05-07 18:16:34,Cantor Fitzgerald,Neutral,Overweight,down,Lowers,40.0,78.0
+2020-04-30 15:18:30,Guggenheim,Buy,,main,Lowers,58.0,62.0
+2020-02-28 12:46:55,Raymond James,Outperform,,main,Lowers,65.0,75.0
+2019-11-07 17:30:30,Raymond James,Outperform,,main,Lowers,75.0,82.0
+2019-09-12 10:07:04,Guggenheim,Buy,,init,Announces,76.0,0.0
+2019-05-10 10:17:29,Raymond James,Outperform,Strong Buy,down,Raises,82.0,73.0
+2018-11-12 12:43:18,Canaccord Genuity,Buy,Buy,main,Lowers,70.0,75.0
+2018-08-17 12:01:30,Canaccord Genuity,Buy,Buy,main,Lowers,75.0,82.0
+2018-08-08 12:02:44,Cantor Fitzgerald,Overweight,Overweight,main,Lowers,74.0,85.0
+2018-06-12 10:32:48,Cantor Fitzgerald,Overweight,,init,Announces,85.0,0.0
+2018-02-28 15:14:14,Canaccord Genuity,Buy,Buy,main,Raises,82.0,77.0
+2017-10-16 17:14:56,Canaccord Genuity,Buy,,main,Raises,66.0,60.0
+2017-07-31 10:53:11,Canaccord Genuity,Buy,,init,Announces,60.0,0.0
+2016-08-05 15:53:09,Oppenheimer,Outperform,,main,Raises,71.0,65.0
+2016-07-19 11:09:49,Oppenheimer,Perform,Outperform,up,,0.0,0.0
+2016-06-23 08:33:24,Raymond James,Strong Buy,,init,,0.0,0.0
+2016-05-24 15:10:18,Standpoint Research,Hold,Buy,down,,0.0,0.0
+2015-11-13 15:10:51,Standpoint Research,Buy,,init,Announces,54.0,0.0
+2015-09-28 11:47:39,Roth Capital,Buy,Neutral,up,Lowers,60.0,67.0
+2015-06-23 13:00:00,Oppenheimer,Outperform,,main,Raises,67.0,61.0
+2015-04-10 11:45:20,Roth Capital,Neutral,Buy,down,,0.0,0.0
+2014-12-15 05:00:00,Guggenheim,Buy,,init,Announces,65.0,0.0
+2014-08-06 03:34:55,Oppenheimer,Outperform,,main,Raises,37.0,35.0
+2014-01-22 13:00:00,Oppenheimer,Outperform,,init,Announces,29.0,0.0
+2014-01-07 21:00:00,Roth Capital,Buy,,init,Announces,27.0,0.0

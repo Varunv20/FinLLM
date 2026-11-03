@@ -1,0 +1,138 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-11-02 19:27:07,Citigroup,Buy,Buy,main,Lowers,98.0,115.0
+2026-10-30 10:18:49,Needham,Buy,Buy,main,Lowers,96.0,139.0
+2026-10-07 20:49:03,UBS,Buy,Buy,main,Lowers,74.0,107.0
+2026-10-06 19:26:36,JP Morgan,Underweight,Underweight,main,Lowers,64.0,72.0
+2026-10-06 14:31:27,Barclays,Equal-Weight,Equal-Weight,main,Lowers,75.0,87.0
+2026-10-05 10:47:58,Morgan Stanley,Underweight,Underweight,main,Lowers,57.0,72.0
+2026-08-19 14:22:33,Barclays,Equal-Weight,Equal-Weight,main,Lowers,87.0,92.0
+2026-08-04 18:01:42,JP Morgan,Underweight,Underweight,main,Lowers,72.0,76.0
+2026-08-03 19:00:58,Citigroup,Buy,Buy,main,Raises,115.0,95.0
+2026-07-31 09:46:50,Needham,Buy,Buy,main,Raises,139.0,90.0
+2026-07-17 11:01:03,Seaport Global,Neutral,Buy,down,Raises,205.0,185.0
+2026-07-15 12:36:57,Barclays,Equal-Weight,Equal-Weight,main,Raises,92.0,77.0
+2026-07-13 16:22:49,JP Morgan,Underweight,Underweight,main,Lowers,76.0,77.0
+2026-07-10 18:02:34,UBS,Buy,Buy,main,Raises,109.0,90.0
+2026-07-09 11:14:08,B of A Securities,Buy,Buy,main,Raises,108.0,91.0
+2026-05-27 18:24:16,UBS,Buy,,init,Announces,90.0,0.0
+2026-05-11 19:57:10,Citigroup,Buy,Buy,main,Raises,95.0,82.0
+2026-05-07 19:45:38,JP Morgan,Underweight,Underweight,main,Raises,77.0,67.0
+2026-05-06 15:37:59,Barclays,Equal-Weight,Equal-Weight,main,Raises,77.0,67.0
+2026-04-17 16:05:34,JP Morgan,Underweight,Underweight,main,Raises,67.0,65.0
+2026-03-31 11:22:47,Needham,Buy,Buy,reit,Maintains,90.0,90.0
+2026-02-19 13:19:14,Stephens & Co.,Equal-Weight,Equal-Weight,main,Lowers,67.0,68.0
+2026-02-19 11:56:19,Needham,Buy,Buy,reit,Maintains,90.0,90.0
+2026-01-21 16:08:40,Barclays,Equal-Weight,Equal-Weight,main,Lowers,69.0,71.0
+2026-01-16 15:48:19,JP Morgan,Underweight,Underweight,main,Lowers,67.0,70.0
+2025-11-12 15:46:40,Barclays,Equal-Weight,,init,Announces,71.0,0.0
+2025-11-07 12:27:39,Citigroup,Buy,Neutral,up,Maintains,82.0,82.0
+2025-11-05 20:17:18,JP Morgan,Underweight,Underweight,main,Lowers,70.0,76.0
+2025-10-24 10:29:01,Needham,Buy,Buy,main,Lowers,90.0,95.0
+2025-10-14 12:48:38,JP Morgan,Underweight,Underweight,main,Raises,76.0,74.0
+2025-10-02 10:19:44,Needham,Buy,Buy,reit,Maintains,95.0,95.0
+2025-09-25 15:06:34,Citigroup,Neutral,Neutral,main,Raises,82.0,81.0
+2025-09-18 12:35:26,Benchmark,Buy,Buy,main,Raises,85.0,80.0
+2025-08-14 17:55:00,Morgan Stanley,Equal-Weight,Equal-Weight,main,Raises,72.0,60.0
+2025-08-06 09:41:53,Needham,Buy,Buy,reit,Maintains,95.0,95.0
+2025-07-25 12:51:47,Benchmark,Buy,Buy,main,Raises,80.0,76.0
+2025-07-25 10:16:37,Needham,Buy,Buy,main,Raises,95.0,74.0
+2025-07-17 11:40:56,JP Morgan,Underweight,Overweight,down,Raises,72.0,65.0
+2025-07-17 11:33:46,Stephens & Co.,Equal-Weight,Overweight,down,Raises,82.0,72.0
+2025-06-16 14:50:40,B of A Securities,Buy,Buy,main,Raises,94.0,80.0
+2025-05-28 12:01:24,Benchmark,Buy,,init,Announces,76.0,0.0
+2025-04-24 19:05:05,Needham,Buy,Buy,main,Lowers,74.0,93.0
+2025-04-23 17:21:34,Citigroup,Neutral,,init,Announces,64.0,0.0
+2025-04-22 12:42:00,B of A Securities,Buy,Buy,main,Lowers,80.0,85.0
+2025-03-27 15:27:47,JP Morgan,Overweight,Overweight,main,Lowers,65.0,80.0
+2025-03-19 10:31:22,Needham,Buy,Buy,main,Lowers,93.0,100.0
+2025-02-19 16:19:47,JP Morgan,Overweight,Overweight,main,Raises,80.0,74.0
+2025-02-13 16:33:00,Stephens & Co.,Overweight,Overweight,main,Raises,92.0,83.0
+2025-02-13 10:06:56,Needham,Buy,Buy,main,Raises,100.0,74.0
+2025-01-17 14:58:38,JP Morgan,Overweight,Overweight,main,Lowers,74.0,75.0
+2025-01-16 11:43:52,Needham,Buy,Buy,reit,Maintains,74.0,74.0
+2024-11-22 12:52:02,Seaport Global,Buy,Neutral,up,Announces,74.0,0.0
+2024-10-25 09:52:16,Needham,Buy,Buy,main,Raises,74.0,73.0
+2024-10-14 17:29:33,B of A Securities,Buy,Buy,main,Lowers,66.0,67.0
+2024-09-25 14:02:06,Morgan Stanley,Equal-Weight,Underweight,up,Raises,58.0,40.0
+2024-09-12 11:05:22,Stephens & Co.,Equal-Weight,,init,Announces,64.0,0.0
+2024-09-10 14:54:39,JP Morgan,Overweight,Overweight,main,Raises,75.0,63.0
+2024-08-20 10:37:22,Needham,Buy,Buy,reit,Maintains,73.0,73.0
+2024-08-06 11:45:53,JP Morgan,Overweight,Neutral,up,Raises,63.0,58.0
+2024-07-22 17:16:51,B of A Securities,Buy,Buy,main,Lowers,67.0,68.0
+2024-06-10 13:23:41,JP Morgan,Neutral,Underweight,up,Raises,58.0,53.0
+2024-05-02 15:59:36,JP Morgan,Underweight,Underweight,main,Raises,53.0,48.0
+2024-04-26 10:58:24,B of A Securities,Buy,Underperform,up,Raises,68.0,55.0
+2024-02-29 15:04:37,B of A Securities,Underperform,Underperform,main,Lowers,55.0,60.0
+2024-02-29 11:16:59,Morgan Stanley,Underweight,Underweight,main,Raises,40.0,35.0
+2023-10-31 15:41:33,Benchmark,Buy,Buy,main,Raises,62.0,58.0
+2023-10-31 10:15:20,JP Morgan,Underweight,Neutral,down,Announces,50.0,0.0
+2023-10-12 15:22:14,JP Morgan,Neutral,Neutral,main,Raises,52.0,50.0
+2023-08-01 12:14:54,Benchmark,Buy,Buy,main,Lowers,58.0,71.0
+2023-07-31 09:53:48,JP Morgan,Neutral,Neutral,main,Lowers,50.0,55.0
+2023-06-23 14:29:54,Stephens & Co.,Overweight,Overweight,reit,Maintains,55.0,0.0
+2023-06-23 14:20:39,JP Morgan,Neutral,Neutral,main,Raises,52.0,50.0
+2023-05-01 12:34:40,Benchmark,Buy,,main,Lowers,58.0,71.0
+2023-02-28 12:48:54,Morgan Stanley,Underweight,,main,Raises,35.0,33.0
+2023-02-21 13:36:03,Benchmark,Buy,,main,Raises,71.0,62.0
+2023-02-21 10:10:50,JP Morgan,Neutral,Overweight,down,Lowers,55.0,60.0
+2023-01-17 14:55:56,Morgan Stanley,Underweight,,main,Lowers,33.0,35.0
+2022-10-31 14:04:48,Benchmark,Buy,,main,Lowers,62.0,71.0
+2022-10-06 10:10:07,JP Morgan,Overweight,Neutral,up,Announces,60.0,0.0
+2022-09-09 10:49:17,B of A Securities,Underperform,Buy,down,,0.0,0.0
+2022-09-01 13:17:25,Morgan Stanley,Underweight,,main,Raises,35.0,33.0
+2022-08-01 12:08:13,Benchmark,Buy,,main,Lowers,71.0,85.0
+2022-07-14 13:53:23,Morgan Stanley,Underweight,,main,Lowers,33.0,40.0
+2022-05-23 13:32:20,Morgan Stanley,Underweight,,main,Lowers,40.0,43.0
+2022-04-29 11:39:09,Seaport Global,Neutral,Buy,down,,0.0,0.0
+2022-03-08 14:27:01,Morgan Stanley,Underweight,,main,Raises,43.0,40.0
+2021-11-17 11:51:29,Morgan Stanley,Underweight,Equal-Weight,down,Announces,40.0,0.0
+2021-08-05 13:26:20,Morgan Stanley,Equal-Weight,,main,Raises,55.0,52.0
+2021-07-26 14:19:06,Morgan Stanley,Equal-Weight,,main,Raises,52.0,51.0
+2021-05-07 12:48:09,Morgan Stanley,Equal-Weight,,main,Raises,51.0,48.0
+2021-01-15 11:17:54,JP Morgan,Overweight,Neutral,up,,0.0,0.0
+2020-12-07 14:09:59,Morgan Stanley,Equal-Weight,,main,Raises,48.0,38.0
+2020-11-17 13:02:26,B of A Securities,Buy,Underperform,up,,0.0,0.0
+2020-10-19 11:07:57,Seaport Global,Buy,,init,Announces,47.0,0.0
+2020-10-15 14:41:48,B of A Securities,Underperform,,main,Raises,56.0,52.0
+2020-08-05 14:48:32,Morgan Stanley,Equal-Weight,,main,Raises,38.0,35.0
+2020-07-10 12:45:32,Morgan Stanley,Equal-Weight,,main,Raises,35.0,20.0
+2020-06-17 14:42:45,Benchmark,Buy,,main,Raises,39.0,27.5
+2020-05-18 12:41:22,Morgan Stanley,Equal-Weight,,main,Raises,20.0,18.0
+2020-05-05 12:43:52,Morgan Stanley,Equal-Weight,,main,Raises,18.0,17.0
+2020-04-13 14:02:16,Morgan Stanley,Equal-Weight,,main,Raises,17.0,12.0
+2020-03-30 18:14:20,Morgan Stanley,Equal-Weight,,main,Lowers,12.0,27.0
+2020-03-23 14:03:47,Benchmark,Buy,,main,Lowers,27.0,35.0
+2020-03-12 10:47:04,Benchmark,Buy,,init,Announces,35.0,0.0
+2020-03-11 15:06:07,JP Morgan,Neutral,,main,Lowers,28.0,35.0
+2020-02-20 14:40:15,JP Morgan,Neutral,,main,Lowers,35.0,37.0
+2019-12-18 14:00:12,JP Morgan,Neutral,,main,Raises,37.0,35.0
+2019-11-14 11:45:18,Morgan Stanley,Equal-Weight,Underweight,up,Raises,31.0,22.0
+2019-10-15 12:00:01,Morgan Stanley,Underweight,,main,Raises,22.0,20.0
+2019-09-13 10:52:31,B of A Securities,Underperform,Neutral,down,,0.0,0.0
+2019-09-10 10:29:53,JP Morgan,Neutral,Underweight,up,Raises,30.0,23.0
+2019-08-15 11:58:19,B of A Securities,Neutral,Buy,down,Raises,29.0,26.0
+2019-08-02 15:42:17,Morgan Stanley,Underweight,,main,Raises,20.0,18.0
+2019-07-15 12:19:21,Buckingham Research,Neutral,,main,Raises,20.0,15.0
+2019-06-05 11:39:32,Stephens & Co.,Overweight,Equal-Weight,up,Raises,30.0,19.0
+2019-05-06 14:41:43,Morgan Stanley,Underweight,,main,Raises,18.0,10.0
+2019-04-26 12:32:34,B of A Securities,Buy,Neutral,up,,0.0,0.0
+2019-02-19 11:58:28,JP Morgan,Underweight,,init,Announces,14.0,0.0
+2018-08-15 11:35:36,Morgan Stanley,Underweight,Underweight,main,Lowers,16.0,19.0
+2018-07-18 12:06:18,Buckingham Research,Neutral,Neutral,main,Lowers,19.0,21.0
+2018-07-10 11:10:56,Morgan Stanley,Underweight,Overweight,down,,0.0,25.0
+2018-03-14 13:30:43,Morgan Stanley,Overweight,Overweight,main,Raises,25.0,23.0
+2017-10-19 12:22:24,B of A Securities,Underperform,Neutral,down,,0.0,0.0
+2017-01-10 14:16:19,CL King,Neutral,Buy,down,,0.0,0.0
+2016-04-11 14:24:33,Jefferies,Hold,,init,,0.0,0.0
+2015-11-09 13:14:13,Goldman Sachs,Neutral,Sell,up,,0.0,0.0
+2015-07-22 11:27:51,B of A Securities,Buy,Neutral,up,,0.0,0.0
+2015-02-25 19:55:20,B of A Securities,Neutral,Underperform,up,,0.0,0.0
+2014-09-29 09:56:37,Morgan Stanley,Overweight,Underperform,up,Raises,30.0,22.0
+2014-07-23 13:03:08,B of A Securities,Underperform,Buy,down,Lowers,27.0,39.0
+2013-10-22 12:00:00,Stephens & Co.,Equal-Weight,Overweight,down,,0.0,0.0
+2013-05-30 12:20:09,UBS,Sell,Neutral,down,,0.0,0.0
+2013-05-29 13:25:55,CL King,Buy,,init,Announces,28.0,0.0
+2012-10-24 14:17:00,UBS,Neutral,,main,Raises,20.0,18.0
+2012-07-24 15:53:00,UBS,Neutral,,main,Raises,18.0,17.0
+2012-05-23 14:48:00,UBS,Neutral,,main,Lowers,17.0,19.0
+2012-02-15 18:28:00,UBS,Neutral,,main,Raises,19.0,15.0

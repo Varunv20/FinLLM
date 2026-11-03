@@ -1,0 +1,183 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-11-02 19:32:34,CIBC,Outperformer,Outperformer,main,Lowers,24.0,25.0
+2026-11-02 18:04:30,Citigroup,Buy,Buy,main,Raises,23.0,21.0
+2026-10-27 18:55:34,CIBC,Outperformer,Outperformer,main,Lowers,25.0,30.0
+2026-10-27 15:53:23,DA Davidson,Buy,Buy,main,Lowers,27.0,31.0
+2026-10-16 15:04:00,RBC Capital,Outperform,Outperform,main,Lowers,25.0,30.0
+2026-10-14 10:37:59,B of A Securities,Buy,Neutral,up,Lowers,25.0,28.0
+2026-10-12 18:07:21,Truist Securities,Hold,Hold,main,Lowers,24.0,28.0
+2026-10-05 19:27:17,Citigroup,Buy,Buy,main,Lowers,21.0,29.0
+2026-09-03 21:13:42,JP Morgan,Overweight,Overweight,main,Lowers,28.0,31.0
+2026-08-04 14:44:26,Citigroup,Buy,Buy,main,Lowers,29.0,30.0
+2026-08-03 14:13:05,Truist Securities,Hold,Hold,reit,Raises,28.0,27.0
+2026-07-17 16:42:18,RBC Capital,Outperform,Outperform,reit,Maintains,30.0,30.0
+2026-07-15 13:10:21,Truist Securities,Hold,Hold,main,Lowers,27.0,28.0
+2026-07-10 09:48:57,Raymond James,Strong Buy,Outperform,up,Announces,30.0,0.0
+2026-06-30 16:28:25,DA Davidson,Buy,Buy,main,Maintains,31.0,31.0
+2026-06-29 16:05:54,JP Morgan,Overweight,Overweight,main,Raises,31.0,30.0
+2026-05-14 18:31:24,JP Morgan,Overweight,Overweight,main,Lowers,30.0,32.0
+2026-05-05 15:28:05,Citigroup,Buy,Buy,main,Lowers,30.0,32.0
+2026-05-04 15:42:29,DA Davidson,Buy,Buy,main,Maintains,31.0,31.0
+2026-04-15 15:42:38,Truist Securities,Hold,Hold,main,Lowers,28.0,29.0
+2026-03-31 14:51:00,DA Davidson,Buy,Buy,main,Maintains,31.0,31.0
+2026-02-13 18:21:40,Citigroup,Buy,Buy,main,Raises,32.0,30.0
+2026-02-02 20:21:34,DA Davidson,Buy,Buy,main,Maintains,31.0,31.0
+2026-02-02 14:41:36,Truist Securities,Hold,Hold,main,Raises,29.0,28.0
+2026-01-14 21:01:04,Citigroup,Buy,Buy,main,Raises,30.0,26.0
+2026-01-06 15:11:51,Truist Securities,Hold,Hold,main,Raises,28.0,27.0
+2025-12-12 18:16:36,CIBC,Outperformer,Outperformer,main,Raises,28.0,27.0
+2025-11-17 17:50:17,B of A Securities,Neutral,Buy,down,Lowers,26.0,29.0
+2025-11-14 15:58:33,JP Morgan,Overweight,Overweight,main,Lowers,27.0,28.0
+2025-11-12 20:45:11,Citigroup,Buy,Buy,main,Lowers,26.0,28.0
+2025-11-03 18:14:15,DA Davidson,Buy,Buy,main,Lowers,31.0,35.0
+2025-11-03 15:39:03,RBC Capital,Outperform,Outperform,main,Lowers,30.0,31.0
+2025-10-27 12:12:52,Citigroup,Buy,Buy,main,Lowers,28.0,30.0
+2025-10-13 14:26:59,Truist Securities,Hold,Hold,main,Lowers,27.0,29.0
+2025-09-29 14:11:26,DA Davidson,Buy,Buy,main,Maintains,35.0,35.0
+2025-09-17 13:26:56,JP Morgan,Overweight,Overweight,main,Lowers,31.0,32.0
+2025-09-11 17:28:42,CIBC,Outperformer,Outperformer,main,Lowers,31.0,32.0
+2025-07-28 16:20:47,Truist Securities,Hold,Hold,main,Lowers,29.0,30.0
+2025-07-22 14:20:59,DA Davidson,Buy,Buy,main,Lowers,35.0,36.0
+2025-07-01 11:47:24,JP Morgan,Overweight,Overweight,main,Lowers,30.0,32.0
+2025-06-03 13:33:23,Citigroup,Buy,Buy,main,Lowers,31.0,35.0
+2025-04-22 16:45:49,Truist Securities,Hold,Hold,main,Lowers,30.0,33.0
+2025-04-22 14:24:13,CIBC,Outperformer,Outperformer,main,Lowers,32.0,35.0
+2025-04-08 11:44:24,JP Morgan,Overweight,,init,Announces,31.0,0.0
+2025-02-03 16:39:43,RBC Capital,Outperform,Outperform,reit,Maintains,36.0,36.0
+2025-01-15 18:18:29,Citigroup,Buy,Buy,main,Lowers,35.0,38.0
+2025-01-15 11:07:57,CIBC,Outperformer,Neutral,up,Announces,35.0,0.0
+2025-01-06 14:10:22,Truist Securities,Hold,Hold,main,Lowers,33.0,34.0
+2024-12-23 12:37:46,Raymond James,Outperform,Market Perform,up,Announces,32.0,0.0
+2024-12-06 17:00:41,BMO Capital,Outperform,Market Perform,up,Maintains,38.0,38.0
+2024-10-15 12:17:58,Truist Securities,Hold,Hold,main,Raises,34.0,31.0
+2024-07-30 16:42:14,BMO Capital,Market Perform,Market Perform,main,Maintains,38.0,38.0
+2024-07-30 14:48:30,Citigroup,Buy,Buy,main,Lowers,36.0,37.0
+2024-07-29 15:28:18,RBC Capital,Outperform,Outperform,main,Raises,37.0,34.0
+2024-07-29 12:44:20,DA Davidson,Buy,Buy,main,Lowers,36.0,37.0
+2024-07-29 12:14:04,Truist Securities,Hold,Hold,main,Lowers,31.0,32.0
+2024-07-16 14:04:56,Truist Securities,Hold,Hold,main,Lowers,32.0,36.0
+2024-04-29 13:38:47,RBC Capital,Outperform,Outperform,main,Lowers,37.0,38.0
+2024-04-03 13:43:22,Truist Securities,Hold,Hold,reit,Maintains,36.0,36.0
+2024-03-22 16:47:16,BMO Capital,Market Perform,Market Perform,main,Raises,38.0,36.0
+2024-01-29 17:28:52,RBC Capital,Outperform,Outperform,reit,Maintains,39.0,0.0
+2023-12-19 16:02:58,RBC Capital,Outperform,Outperform,main,Raises,39.0,38.0
+2023-11-27 11:22:37,Raymond James,Market Perform,Strong Buy,down,,0.0,0.0
+2023-07-31 15:39:18,Truist Securities,Hold,Hold,main,Raises,36.0,35.0
+2023-07-31 14:33:13,RBC Capital,Outperform,Outperform,reit,Maintains,40.0,0.0
+2023-07-10 11:27:32,B of A Securities,Buy,Neutral,up,Raises,38.0,34.0
+2023-06-28 14:24:21,Truist Securities,Hold,Hold,main,Raises,35.0,34.0
+2023-06-22 12:44:57,RBC Capital,Outperform,Outperform,reit,Maintains,38.0,0.0
+2023-05-08 11:09:06,Raymond James,Strong Buy,,main,Lowers,40.0,42.0
+2023-04-11 14:06:17,Truist Securities,Hold,,main,Lowers,34.0,35.0
+2023-04-10 10:55:59,DA Davidson,Buy,Neutral,up,Raises,35.0,34.0
+2023-02-13 09:38:26,Raymond James,Strong Buy,,main,Raises,42.0,38.0
+2023-02-06 12:57:35,BMO Capital,Market Perform,,main,Lowers,36.0,42.0
+2023-01-31 12:14:04,Citigroup,Buy,,main,Raises,39.0,37.0
+2022-11-03 11:38:29,Raymond James,Strong Buy,,main,Lowers,38.0,39.0
+2022-10-25 19:53:52,Citigroup,Buy,Buy,main,Lowers,38.0,42.0
+2022-10-19 14:29:53,DA Davidson,Neutral,,main,Lowers,33.0,35.0
+2022-09-29 11:15:17,Raymond James,Strong Buy,,main,Lowers,39.0,45.0
+2022-09-20 10:46:22,B of A Securities,Neutral,Buy,down,,0.0,0.0
+2022-09-12 11:30:16,Raymond James,Strong Buy,,main,Lowers,45.0,50.0
+2022-08-15 19:52:17,Citigroup,Buy,Buy,main,Lowers,42.0,48.0
+2022-07-20 13:44:12,Argus Research,Hold,Buy,down,,0.0,0.0
+2022-06-29 12:56:51,Truist Securities,Hold,,init,Announces,37.0,0.0
+2022-06-23 12:28:31,Goldman Sachs,Buy,,main,Lowers,41.0,49.0
+2022-05-02 09:24:37,BMO Capital,Market Perform,Outperform,down,Announces,42.0,0.0
+2022-01-07 20:51:15,Citigroup,Buy,Buy,main,Raises,46.0,45.0
+2021-11-22 11:17:33,Raymond James,Strong Buy,Strong Buy,main,Raises,50.0,45.0
+2021-09-16 19:50:08,Citigroup,Buy,Buy,main,Maintains,45.0,0.0
+2021-08-27 11:38:29,Raymond James,Strong Buy,,main,Lowers,45.0,50.0
+2021-07-27 12:38:50,B of A Securities,Buy,Neutral,up,,0.0,0.0
+2021-07-15 10:21:18,Goldman Sachs,Buy,,init,Announces,40.0,0.0
+2021-05-03 11:42:51,Stephens & Co.,Equal-Weight,Overweight,down,Announces,35.0,0.0
+2021-05-03 11:35:23,BMO Capital,Outperform,,main,Raises,42.0,40.0
+2021-04-27 19:48:55,Citigroup,Buy,Buy,main,Raises,46.0,37.0
+2021-04-26 11:49:22,Raymond James,Strong Buy,Outperform,up,Raises,50.0,37.0
+2021-02-02 13:25:11,Raymond James,Outperform,,main,Raises,37.0,34.0
+2021-01-19 20:47:34,Citigroup,Buy,Buy,main,Raises,37.0,34.0
+2020-12-04 10:28:04,Raymond James,Outperform,Market Perform,up,,0.0,0.0
+2020-09-11 13:46:54,B of A Securities,Neutral,,main,Raises,31.0,30.0
+2020-08-04 15:01:09,Citigroup,Buy,,main,Raises,32.0,26.0
+2020-08-03 16:49:11,B of A Securities,Neutral,,main,Raises,30.0,29.0
+2020-08-03 12:01:29,RBC Capital,Outperform,,main,Raises,33.0,30.0
+2020-08-03 11:45:17,DA Davidson,Neutral,Buy,down,Announces,29.0,0.0
+2020-07-09 15:29:42,Scotiabank,Sector Perform,,main,Raises,28.0,26.5
+2020-04-01 11:17:48,Stephens & Co.,Overweight,,main,Lowers,25.0,32.0
+2020-03-27 13:14:06,Citigroup,Buy,,main,Lowers,26.0,34.0
+2020-01-17 12:34:31,Citigroup,Buy,,main,Raises,35.0,33.0
+2019-04-05 11:35:32,Stephens & Co.,Overweight,Equal-Weight,up,,0.0,0.0
+2019-03-11 10:44:30,BMO Capital,Outperform,Market Perform,up,Announces,32.0,0.0
+2019-01-23 13:14:31,Seaport Global,Buy,,init,Announces,30.0,0.0
+2019-01-02 13:50:41,B of A Securities,Neutral,Buy,down,,0.0,0.0
+2018-11-20 14:14:16,Argus Research,Buy,Buy,main,Lowers,34.0,40.0
+2018-10-30 13:48:30,BMO Capital,Market Perform,Market Perform,main,Lowers,33.0,36.0
+2018-10-29 14:24:03,Raymond James,Strong Buy,Strong Buy,main,Lowers,36.0,41.0
+2018-10-29 13:58:47,Citigroup,Buy,Buy,main,Lowers,33.0,35.0
+2018-10-29 11:40:30,DA Davidson,Buy,Neutral,up,Lowers,35.0,37.5
+2018-10-25 14:51:06,Citigroup,Buy,Buy,main,Lowers,35.0,42.0
+2018-04-30 12:34:58,Citigroup,Buy,Buy,main,Raises,42.0,41.0
+2018-01-24 13:32:22,B of A Securities,Buy,Neutral,up,,0.0,0.0
+2017-11-02 13:21:03,Argus Research,Buy,,main,Raises,39.0,37.0
+2017-10-24 11:41:27,Stephens & Co.,Equal-Weight,,init,Announces,35.0,0.0
+2017-08-14 11:27:18,BMO Capital,Market Perform,Outperform,down,,0.0,0.0
+2017-07-05 11:11:15,B of A Securities,Neutral,Buy,down,,0.0,0.0
+2017-01-09 12:43:22,Raymond James,Strong Buy,Outperform,up,,0.0,0.0
+2016-09-22 10:34:53,Goldman Sachs,Buy,,init,Announces,37.0,0.0
+2016-08-12 12:07:55,Dundee,Neutral,Buy,down,,0.0,0.0
+2016-08-08 15:17:31,Citigroup,Buy,,main,Raises,37.0,36.0
+2016-08-08 10:39:20,DA Davidson,Neutral,Buy,down,Maintains,33.0,0.0
+2016-06-29 11:43:02,DA Davidson,Buy,Neutral,up,,0.0,0.0
+2016-05-09 12:03:31,DA Davidson,Neutral,Buy,down,Lowers,33.0,34.0
+2016-05-03 13:44:36,Vertical Research,Hold,Buy,down,,0.0,0.0
+2016-03-15 11:10:56,Argus Research,Buy,,main,Raises,0.0,0.0
+2016-03-14 17:44:16,Citigroup,Buy,,main,Raises,32.0,30.0
+2016-03-11 10:41:14,Citigroup,Buy,,main,Raises,32.0,30.0
+2016-01-19 12:46:19,Dundee,Buy,Neutral,up,,0.0,0.0
+2015-11-17 18:54:38,RBC Capital,Outperform,,main,Lowers,35.0,37.0
+2015-11-13 12:53:57,CLSA,Outperform,Underperform,up,,0.0,0.0
+2015-09-15 11:43:01,B of A Securities,Buy,Neutral,up,,0.0,0.0
+2015-07-16 11:50:23,B of A Securities,Neutral,Buy,down,,0.0,0.0
+2015-06-17 11:38:14,Dundee,Neutral,,init,Announces,34.0,0.0
+2015-05-05 13:00:00,Citigroup,Buy,,main,Lowers,37.0,38.0
+2015-05-04 13:00:00,UBS,Sell,,main,Lowers,27.0,29.0
+2015-04-28 13:00:00,Citigroup,Buy,,main,Lowers,38.0,41.0
+2015-02-02 14:00:00,UBS,Sell,,main,Raises,29.0,28.0
+2014-11-04 14:00:00,Citigroup,Buy,,main,Raises,39.0,37.0
+2014-11-03 13:09:09,DA Davidson,Buy,,main,Raises,40.0,37.0
+2014-09-05 10:09:14,JP Morgan,Neutral,,init,Announces,35.0,0.0
+2014-09-04 10:19:35,BMO Capital,Outperform,,init,Announces,39.0,0.0
+2014-09-03 21:11:41,BMO Capital,Outperform,,init,Announces,39.0,0.0
+2014-08-05 10:25:27,DA Davidson,Buy,Neutral,up,Announces,0.0,0.0
+2014-08-04 13:05:47,DA Davidson,Buy,Neutral,up,,0.0,0.0
+2013-12-12 21:00:00,JP Morgan,Overweight,,init,Announces,37.0,0.0
+2013-08-20 13:20:52,Longbow Research,Buy,Neutral,up,Announces,34.0,0.0
+2013-08-16 12:04:56,B of A Securities,Buy,,main,Raises,34.0,33.0
+2013-06-24 12:37:02,Deutsche Bank,Hold,,main,Raises,33.0,32.0
+2013-06-20 10:33:17,BMO Capital,Outperform,Market Perform,up,Maintains,33.0,0.0
+2013-06-18 13:33:34,Scotiabank,Sector Perform,Underperform,up,,0.0,0.0
+2013-06-10 13:11:30,RBC Capital,Outperform,Sector Perform,up,Announces,34.0,31.0
+2013-05-31 12:49:04,Buckingham Research,Buy,Neutral,up,Maintains,34.0,0.0
+2013-05-14 16:11:15,Raymond James,Strong Buy,Outperform,up,Raises,36.0,34.0
+2013-04-29 14:28:19,UBS,Sell,,main,Raises,24.0,20.0
+2013-03-19 13:01:14,Raymond James,Outperform,Market Perform,up,Announces,33.0,0.0
+2013-01-28 15:17:57,RBC Capital,Sector Perform,Outperform,down,Raises,31.0,30.0
+2013-01-28 14:38:12,Deutsche Bank,Hold,,main,Raises,32.0,28.0
+2013-01-25 20:02:19,B of A Securities,Buy,,main,Raises,35.0,32.0
+2013-01-15 14:09:45,Goldman Sachs,Neutral,,main,Raises,30.0,28.0
+2013-01-09 15:36:00,Citigroup,Buy,,main,Raises,36.0,32.0
+2012-12-14 15:45:36,Raymond James,Market Perform,,init,,0.0,0.0
+2012-10-31 09:54:00,McAdams Wright Ragen,Sell,Hold,down,,0.0,0.0
+2012-10-29 12:38:00,BMO Capital,Market Perform,,main,Raises,28.5,26.5
+2012-10-29 12:35:00,Deutsche Bank,Hold,,main,Raises,25.0,23.0
+2012-10-15 17:03:00,Citigroup,Buy,,main,Raises,32.0,28.0
+2012-10-15 16:19:00,RBC Capital,Outperform,Sector Perform,up,,0.0,0.0
+2012-10-01 11:43:00,DA Davidson,Neutral,,main,Raises,27.0,24.0
+2012-09-07 11:07:00,Goldman Sachs,Neutral,Buy,down,Maintains,27.0,0.0
+2012-09-04 11:23:00,DA Davidson,Neutral,,main,Raises,24.0,23.0
+2012-07-30 10:24:00,Deutsche Bank,Hold,,main,Raises,23.0,19.0
+2012-07-17 10:10:00,BMO Capital,Underperform,Market Perform,down,Maintains,23.0,0.0
+2012-07-09 09:39:00,Citigroup,Buy,Neutral,up,Raises,28.0,22.5
+2012-07-06 11:49:00,DA Davidson,Neutral,Buy,down,Raises,23.0,22.0
+2012-05-17 18:33:00,DA Davidson,Buy,Neutral,up,Maintains,22.0,0.0
+2012-03-05 12:22:00,BMO Capital,Market Perform,Underperform,up,Raises,23.0,20.0

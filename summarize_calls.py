@@ -4,7 +4,8 @@ in main.py (--summaries) reads the short version instead of the full ~10.5k-toke
     python summarize_calls.py                         # usable 2018 calls (main.py's default)
     python summarize_calls.py --year 0                # every usable call
     python summarize_calls.py --calls-file runs/anon_openai_gpt-oss-20b_2018_calls.csv
-    python summarize_calls.py --preview 5             # print 5 summaries next to their inputs
+    python summarize_calls.py --preview 5             # print 5 summaries, save nothing
+    python summarize_calls.py --limit 8               # summarize and save 8 calls (quick test)
 
 Summarizer: gpt-oss-20b, a light mixture-of-experts model (21B weights, 3.6B active per token,
 ~13 GB in MXFP4) and the same weights main.py uses, at low reasoning effort, run with vLLM in
@@ -132,7 +133,9 @@ if __name__ == "__main__":
     ap.add_argument("--model", default=MODEL)
     ap.add_argument("--batch-size", type=int, default=256)
     ap.add_argument("--max-input-tokens", type=int, default=MAX_INPUT_TOKENS)
+    ap.add_argument("--limit", type=int, help="summarize (and save) only the first N calls, for a quick test")
     ap.add_argument("--preview", type=int, default=0, metavar="N", help="print N summaries, save nothing")
     a = ap.parse_args()
-    run(select(a.year, a.calls_file), anonymized=not a.original, batch_size=a.batch_size, model=a.model,
+    calls = select(a.year, a.calls_file)
+    run(calls.head(a.limit) if a.limit else calls, anonymized=not a.original, batch_size=a.batch_size, model=a.model,
         preview=a.preview, max_input_tokens=a.max_input_tokens)

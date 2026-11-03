@@ -1,0 +1,27 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-02-02 15:42:48,Wells Fargo,Underweight,Underweight,main,Lowers,28.0,29.0
+2025-10-24 14:14:40,Wells Fargo,Underweight,Underweight,main,Lowers,29.0,30.0
+2025-07-21 12:10:51,JMP Securities,Market Perform,,init,,0.0,0.0
+2024-09-06 13:02:15,Wells Fargo,Underweight,Underweight,main,Raises,30.0,20.0
+2023-06-30 12:48:41,Wells Fargo,Underweight,Underweight,main,Lowers,20.0,21.0
+2023-04-26 12:09:55,Wells Fargo,Underweight,,main,Lowers,21.0,24.0
+2023-01-27 13:02:18,Wells Fargo,Underweight,,main,Lowers,24.0,26.0
+2022-09-23 12:40:18,Wells Fargo,Underweight,,main,Lowers,26.0,30.0
+2021-12-01 12:24:15,Wells Fargo,Underweight,,main,Raises,40.0,37.0
+2020-06-10 11:53:08,Wells Fargo,Underweight,,main,Raises,28.0,23.0
+2020-04-09 10:55:29,Wells Fargo,Underweight,Equal-Weight,down,,0.0,0.0
+2018-08-22 11:16:08,JMP Securities,Market Perform,Market Outperform,down,,0.0,0.0
+2018-01-24 11:41:43,JMP Securities,Market Outperform,Market Perform,up,,0.0,0.0
+2017-11-14 11:14:54,Citigroup,Buy,Neutral,up,,0.0,0.0
+2015-11-10 10:54:50,Goldman Sachs,Neutral,Sell,up,,0.0,0.0
+2015-10-26 10:39:55,JMP Securities,Market Perform,Outperform,down,,0.0,0.0
+2015-08-12 12:38:21,Goldman Sachs,Sell,Neutral,down,,0.0,0.0
+2015-08-07 19:03:51,Citigroup,Buy,,main,Raises,59.0,50.0
+2015-05-08 13:00:00,Citigroup,Buy,,main,Raises,45.0,42.0
+2015-03-26 11:09:19,Goldman Sachs,Neutral,,init,Announces,35.5,0.0
+2015-03-06 14:00:00,JMP Securities,Market Outperform,,main,Raises,40.0,35.0
+2014-11-07 14:00:00,Citigroup,Buy,,main,Raises,38.0,33.0
+2014-09-23 13:00:00,Citigroup,Buy,,main,Raises,33.0,29.0
+2014-08-08 20:00:00,Citigroup,Buy,,main,Raises,29.0,28.0
+2014-07-11 23:30:17,Citigroup,Buy,,main,Raises,28.0,21.0
+2014-05-09 04:47:00,Citigroup,Buy,,main,Raises,21.0,20.0

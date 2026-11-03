@@ -1,0 +1,111 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-10-21 15:44:43,Stephens & Co.,Overweight,Overweight,main,Lowers,50.0,55.0
+2026-10-15 15:16:42,Truist Securities,Buy,Buy,main,Lowers,59.0,70.0
+2026-10-05 15:10:53,Barclays,Equal-Weight,Equal-Weight,main,Lowers,47.0,54.0
+2026-08-24 13:01:47,Stephens & Co.,Overweight,Overweight,reit,Maintains,55.0,55.0
+2026-08-10 13:53:13,"Keefe, Bruyette & Woods",Outperform,Outperform,main,Lowers,61.0,64.0
+2026-08-07 11:11:53,Barclays,Equal-Weight,Equal-Weight,main,Raises,54.0,51.0
+2026-07-07 17:11:01,Barclays,Equal-Weight,Equal-Weight,main,Raises,51.0,50.0
+2026-06-25 16:51:05,"Keefe, Bruyette & Woods",Outperform,Outperform,main,Lowers,64.0,67.0
+2026-05-12 13:37:16,Stephens & Co.,Overweight,Overweight,main,Lowers,58.0,61.0
+2026-05-11 13:32:49,Barclays,Equal-Weight,Equal-Weight,main,Lowers,50.0,54.0
+2026-04-10 16:39:41,"Keefe, Bruyette & Woods",Outperform,Outperform,main,Lowers,67.0,71.0
+2026-04-06 14:07:48,Barclays,Equal-Weight,Equal-Weight,main,Lowers,54.0,63.0
+2026-02-23 14:15:00,"Keefe, Bruyette & Woods",Outperform,Outperform,main,Raises,71.0,70.0
+2026-01-06 20:18:56,Barclays,Equal-Weight,Equal-Weight,main,Lowers,63.0,64.0
+2025-12-18 13:57:34,"Keefe, Bruyette & Woods",Outperform,Outperform,main,Raises,72.0,70.0
+2025-11-10 17:27:45,"Keefe, Bruyette & Woods",Outperform,Outperform,main,Raises,70.0,69.0
+2025-10-06 13:07:33,Barclays,Equal-Weight,Equal-Weight,main,Lowers,64.0,65.0
+2025-07-08 15:50:46,Barclays,Equal-Weight,Equal-Weight,main,Lowers,65.0,67.0
+2025-04-08 15:52:46,"Keefe, Bruyette & Woods",Outperform,Market Perform,up,Maintains,69.0,69.0
+2025-02-24 14:06:52,Barclays,Equal-Weight,Equal-Weight,main,Raises,67.0,61.0
+2025-02-24 13:20:15,Stephens & Co.,Overweight,Overweight,main,Raises,75.0,68.0
+2025-01-08 15:49:43,"Keefe, Bruyette & Woods",Market Perform,Market Perform,main,Lowers,63.0,64.0
+2025-01-06 13:24:55,Barclays,Equal-Weight,Equal-Weight,main,Raises,61.0,59.0
+2025-01-03 10:33:14,Deutsche Bank,Buy,Hold,up,Raises,77.0,76.0
+2024-12-10 16:55:20,"Keefe, Bruyette & Woods",Market Perform,Market Perform,main,Raises,64.0,63.0
+2024-11-11 17:18:04,Truist Securities,Buy,Buy,main,Raises,70.0,64.0
+2024-11-08 15:16:20,Stephens & Co.,Overweight,Overweight,main,Raises,68.0,63.0
+2024-10-08 17:19:41,Barclays,Equal-Weight,Equal-Weight,main,Raises,59.0,56.0
+2024-09-04 14:27:48,"Keefe, Bruyette & Woods",Market Perform,Market Perform,main,Raises,63.0,58.0
+2024-08-15 12:37:48,Stephens & Co.,Overweight,Overweight,reit,Maintains,63.0,63.0
+2024-08-07 17:26:14,Deutsche Bank,Hold,Hold,main,Raises,63.0,61.0
+2024-08-07 14:37:41,"Keefe, Bruyette & Woods",Market Perform,Market Perform,main,Raises,58.0,53.0
+2024-08-07 13:03:32,Truist Securities,Buy,Buy,main,Raises,64.0,62.0
+2024-08-06 17:43:34,"Keefe, Bruyette & Woods",Market Perform,Market Perform,main,Maintains,53.0,53.0
+2024-08-06 15:29:37,Stephens & Co.,Overweight,Overweight,reit,Maintains,60.0,60.0
+2024-07-02 11:14:51,"Keefe, Bruyette & Woods",Market Perform,Market Perform,main,Lowers,53.0,55.0
+2024-05-13 13:19:49,"Keefe, Bruyette & Woods",Market Perform,Market Perform,main,Lowers,55.0,56.0
+2024-05-10 15:34:26,Stephens & Co.,Overweight,Overweight,main,Raises,60.0,59.0
+2024-04-09 11:42:30,Barclays,Equal-Weight,Equal-Weight,main,Raises,56.0,52.0
+2024-03-21 12:22:29,"Keefe, Bruyette & Woods",Market Perform,Market Perform,main,Raises,56.0,54.0
+2024-02-26 14:27:58,"Keefe, Bruyette & Woods",Market Perform,Market Perform,main,Raises,54.0,51.0
+2024-02-23 14:45:54,Barclays,Equal-Weight,Equal-Weight,main,Lowers,52.0,55.0
+2024-02-23 13:33:22,Truist Securities,Buy,Buy,main,Raises,60.0,55.0
+2023-12-13 16:02:21,"Keefe, Bruyette & Woods",Market Perform,Market Perform,main,Raises,51.0,46.0
+2023-11-15 09:56:49,Barclays,Equal-Weight,,init,Announces,44.0,0.0
+2023-11-14 13:26:11,Stephens & Co.,Overweight,Overweight,reit,Maintains,51.0,0.0
+2023-11-09 21:34:22,Truist Securities,Buy,Buy,main,Raises,55.0,52.0
+2023-10-02 08:36:49,"Keefe, Bruyette & Woods",Market Perform,Outperform,down,Lowers,43.0,45.0
+2023-08-17 11:49:36,Stephens & Co.,Overweight,Overweight,reit,Maintains,48.0,0.0
+2023-08-10 16:45:04,Truist Securities,Buy,Buy,main,Raises,52.0,48.0
+2023-08-10 11:10:59,BTIG,Buy,Buy,main,Raises,48.0,47.0
+2023-08-09 16:16:37,Stephens & Co.,Overweight,Overweight,reit,Maintains,44.0,0.0
+2023-05-08 13:16:59,"Keefe, Bruyette & Woods",Outperform,,main,Lowers,41.0,47.0
+2023-05-05 13:33:53,Truist Securities,Buy,,main,Lowers,48.0,56.0
+2023-05-05 09:58:30,Barclays,Overweight,,main,Lowers,43.0,46.0
+2023-05-04 12:10:09,Stephens & Co.,Overweight,,reit,Maintains,46.0,0.0
+2023-04-13 10:12:09,Barclays,Overweight,,main,Lowers,46.0,48.0
+2023-03-02 13:01:10,Credit Suisse,Outperform,,reit,Maintains,47.0,0.0
+2023-02-28 14:13:52,"Keefe, Bruyette & Woods",Outperform,,main,Lowers,45.0,47.0
+2023-02-24 11:46:50,Barclays,Overweight,,main,Lowers,48.0,53.0
+2022-12-06 13:10:07,Credit Suisse,Outperform,,main,Lowers,47.0,48.0
+2022-11-29 14:36:10,Truist Securities,Buy,,main,Lowers,56.0,60.0
+2022-10-17 13:48:17,Truist Securities,Buy,,main,Lowers,60.0,63.0
+2022-10-17 12:07:57,Barclays,Overweight,,main,Lowers,51.0,68.0
+2022-09-26 11:16:08,Stephens & Co.,Overweight,,main,Lowers,49.0,52.0
+2022-08-04 11:44:38,Barclays,Overweight,,main,Raises,68.0,66.0
+2022-07-11 12:49:32,Barclays,Overweight,,main,Lowers,66.0,73.0
+2022-04-12 12:40:55,Barclays,Overweight,,main,Lowers,73.0,74.0
+2022-04-01 10:49:49,Credit Suisse,Outperform,,main,Lowers,59.0,75.0
+2022-02-02 10:04:22,BTIG,Neutral,,init,,0.0,0.0
+2021-11-19 13:35:04,Credit Suisse,Outperform,,main,Raises,65.0,56.0
+2021-11-04 11:52:23,Barclays,Overweight,,main,Raises,69.0,65.0
+2021-10-11 12:09:22,Barclays,Overweight,,main,Raises,65.0,63.0
+2021-07-09 11:24:54,Barclays,Overweight,,main,Raises,58.0,56.0
+2021-05-03 10:21:45,Credit Suisse,Outperform,,init,Announces,56.0,0.0
+2020-10-09 11:51:13,Barclays,Overweight,,main,Raises,50.0,48.0
+2020-04-24 13:57:36,SunTrust Robinson Humphrey,Buy,,main,Raises,38.0,36.0
+2020-04-20 11:44:39,Compass Point,Neutral,Buy,down,Announces,29.0,0.0
+2020-04-08 09:47:05,"Keefe, Bruyette & Woods",Outperform,Market Perform,up,,0.0,0.0
+2020-04-07 15:37:40,SunTrust Robinson Humphrey,Buy,,main,Lowers,36.0,52.0
+2019-10-09 10:50:26,"Keefe, Bruyette & Woods",Market Perform,Outperform,down,,0.0,0.0
+2019-06-19 11:30:32,Susquehanna,Positive,,init,Announces,48.0,0.0
+2019-01-24 13:31:37,Compass Point,Buy,,init,,0.0,0.0
+2018-07-17 11:43:53,"Keefe, Bruyette & Woods",Outperform,Market Perform,up,,0.0,39.0
+2017-10-27 16:02:58,Barclays,Overweight,,main,Raises,41.0,36.0
+2017-06-30 17:46:59,Barclays,Overweight,,main,Raises,49.0,48.0
+2016-07-18 05:46:29,"Keefe, Bruyette & Woods",Market Perform,Outperform,down,Raises,39.0,38.0
+2016-02-16 18:45:25,"Keefe, Bruyette & Woods",Outperform,,main,Lowers,39.5,41.0
+2016-02-12 16:48:29,Barclays,Overweight,,main,Lowers,46.0,50.0
+2015-09-25 16:51:08,Piper Sandler,Overweight,,main,Lowers,45.0,46.0
+2015-08-04 20:25:48,"Keefe, Bruyette & Woods",Outperform,,main,Raises,43.0,41.0
+2015-07-31 19:56:31,Barclays,Overweight,,main,Raises,50.0,45.0
+2015-04-24 13:00:00,Barclays,Overweight,,main,Raises,45.0,42.0
+2015-03-09 11:29:26,"Monness, Crespi, Hardt",Buy,,init,Announces,43.0,0.0
+2015-02-27 14:00:00,"Keefe, Bruyette & Woods",Outperform,,main,Raises,41.0,37.0
+2015-01-13 14:00:00,Barclays,Overweight,,main,Raises,42.0,39.0
+2015-01-02 05:00:00,Stephens & Co.,Overweight,Equal-weight,up,Raises,43.0,31.0
+2014-12-16 14:00:00,"Keefe, Bruyette & Woods",Outperform,,main,Raises,37.0,34.0
+2014-11-03 14:00:00,"Keefe, Bruyette & Woods",Outperform,,main,Raises,34.0,33.0
+2014-07-21 11:45:53,SunTrust Robinson Humphrey,Buy,,init,Announces,34.0,0.0
+2014-01-03 21:00:00,Janney Montgomery Scott,Buy,Neutral,up,Maintains,29.0,0.0
+2013-12-05 21:00:00,Goldman Sachs,Neutral,,init,Announces,31.0,0.0
+2013-09-03 10:34:19,"Keefe, Bruyette & Woods",Outperform,Market Perform,up,,0.0,0.0
+2013-07-23 13:28:22,Credit Suisse,Neutral,,up,,0.0,0.0
+2013-07-08 12:15:21,Barclays,Overweight,,init,Announces,52.0,0.0
+2012-12-19 16:53:45,Barclays,Overweight,Equal-Weight,up,Removes,28.0,21.0
+2012-12-19 14:45:36,Barclays,Overweight,Equal-Weight,up,,0.0,0.0
+2012-11-19 15:53:00,Barclays,Equal-Weight,,main,Raises,21.0,18.0
+2012-11-07 18:21:00,Stephens & Co.,Equal-Weight,Overweight,down,Lowers,25.0,26.0
+2012-10-09 16:29:00,Barclays,Equal-Weight,,main,Raises,18.0,17.0

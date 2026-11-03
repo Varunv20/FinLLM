@@ -1,0 +1,101 @@
+GradeDate,Firm,ToGrade,FromGrade,Action,priceTargetAction,currentPriceTarget,priorPriceTarget
+2026-10-26 16:09:29,RBC Capital,Sector Perform,Sector Perform,main,Raises,400.0,375.0
+2026-10-26 11:06:40,Cantor Fitzgerald,Neutral,Neutral,main,Raises,285.0,264.0
+2026-10-12 15:00:48,Wells Fargo,Equal-Weight,Equal-Weight,main,Lowers,348.0,377.0
+2026-10-09 19:58:29,JP Morgan,Neutral,Neutral,main,Lowers,375.0,390.0
+2026-10-07 10:50:53,Cantor Fitzgerald,Neutral,Neutral,main,Raises,264.0,259.0
+2026-10-06 17:19:50,Morgan Stanley,Equal-Weight,Equal-Weight,main,Lowers,350.0,390.0
+2026-08-19 12:11:44,Morgan Stanley,Equal-Weight,Equal-Weight,main,Raises,390.0,345.0
+2026-07-27 13:03:37,Wells Fargo,Equal-Weight,Equal-Weight,main,Raises,377.0,366.0
+2026-07-20 14:49:14,JP Morgan,Neutral,Neutral,main,Raises,390.0,380.0
+2026-07-09 18:25:49,Wells Fargo,Equal-Weight,Equal-Weight,main,Raises,366.0,357.0
+2026-05-21 13:49:19,Morgan Stanley,Equal-Weight,Equal-Weight,main,Lowers,330.0,350.0
+2026-04-27 15:00:41,RBC Capital,Sector Perform,Sector Perform,main,Lowers,375.0,385.0
+2026-04-27 14:22:06,Wells Fargo,Equal-Weight,Overweight,down,Lowers,357.0,420.0
+2026-04-27 12:24:16,Truist Securities,Buy,Buy,main,Lowers,405.0,450.0
+2026-04-09 13:55:21,Cantor Fitzgerald,Neutral,Neutral,main,Lowers,280.0,360.0
+2026-04-09 13:51:10,Wells Fargo,Overweight,Overweight,main,Lowers,420.0,447.0
+2026-04-06 09:34:03,Morgan Stanley,Equal-Weight,Overweight,down,Lowers,350.0,450.0
+2026-03-19 19:31:15,Jefferies,Underperform,Hold,down,Lowers,312.0,392.0
+2026-02-23 18:16:38,JP Morgan,Neutral,Neutral,main,Lowers,410.0,450.0
+2026-02-17 16:00:58,Truist Securities,Buy,Buy,main,Lowers,450.0,510.0
+2026-02-17 15:15:57,Cantor Fitzgerald,Neutral,Neutral,main,Lowers,360.0,422.0
+2026-01-15 13:43:46,Wells Fargo,Overweight,,init,Announces,490.0,0.0
+2026-01-14 13:43:41,Cantor Fitzgerald,Neutral,Neutral,main,Lowers,422.0,470.0
+2025-11-17 16:31:01,Morgan Stanley,Overweight,Overweight,main,Lowers,480.0,490.0
+2025-11-04 18:28:08,TD Cowen,Hold,Hold,main,Lowers,442.0,448.0
+2025-10-27 14:33:19,JP Morgan,Neutral,Neutral,main,Lowers,450.0,460.0
+2025-10-07 15:20:47,Morgan Stanley,Overweight,Overweight,main,Lowers,500.0,525.0
+2025-07-29 11:37:23,BMO Capital,Market Perform,Market Perform,main,Raises,474.0,429.0
+2025-07-28 17:52:28,Compass Point,Neutral,Neutral,main,Raises,490.0,432.0
+2025-07-28 16:17:55,Truist Securities,Buy,Buy,main,Raises,560.0,500.0
+2025-07-28 15:50:25,JP Morgan,Neutral,Neutral,main,Raises,460.0,440.0
+2025-06-20 14:07:17,B of A Securities,Buy,,init,Announces,543.0,0.0
+2025-05-19 14:52:43,Morgan Stanley,Overweight,Overweight,main,Raises,525.0,490.0
+2025-05-01 17:24:20,Morgan Stanley,Overweight,Overweight,main,Lowers,490.0,515.0
+2025-04-28 13:45:15,Truist Securities,Buy,Buy,main,Lowers,500.0,525.0
+2025-04-28 12:33:13,JP Morgan,Neutral,Neutral,main,Lowers,400.0,402.0
+2025-02-18 17:13:20,Truist Securities,Buy,Buy,main,Raises,525.0,480.0
+2025-02-18 16:37:41,RBC Capital,Sector Perform,Sector Perform,reit,Maintains,500.0,500.0
+2025-02-14 15:43:14,JMP Securities,Market Perform,Market Perform,reit,,0.0,0.0
+2025-02-14 14:27:54,Morgan Stanley,Overweight,Overweight,main,Lowers,520.0,535.0
+2025-01-14 15:18:50,Truist Securities,Buy,Buy,main,Lowers,480.0,500.0
+2025-01-03 12:48:20,JP Morgan,Neutral,Neutral,main,Lowers,412.0,415.0
+2024-12-05 12:24:08,Morgan Stanley,Overweight,,init,Announces,593.0,0.0
+2024-11-21 15:21:37,BMO Capital,Market Perform,Market Perform,main,Raises,461.0,445.0
+2024-10-28 15:10:04,RBC Capital,Sector Perform,Sector Perform,main,Lowers,475.0,480.0
+2024-10-28 13:44:08,Wolfe Research,Outperform,Peer Perform,up,Announces,535.0,0.0
+2024-10-28 13:20:57,Truist Securities,Buy,Buy,main,Lowers,500.0,530.0
+2024-10-10 18:56:09,JP Morgan,Neutral,Neutral,main,Lowers,420.0,426.0
+2024-10-09 18:32:20,Jefferies,Hold,Hold,main,Raises,471.0,444.0
+2024-09-27 14:10:25,Truist Securities,Buy,Buy,main,Raises,530.0,485.0
+2024-09-16 10:12:17,Wolfe Research,Peer Perform,Outperform,down,,0.0,0.0
+2024-07-29 16:34:50,Truist Securities,Buy,Buy,main,Raises,485.0,440.0
+2024-07-29 14:43:41,RBC Capital,Sector Perform,Sector Perform,main,Raises,455.0,425.0
+2024-07-12 10:17:57,Oppenheimer,Perform,,init,,0.0,0.0
+2024-07-11 15:21:35,JP Morgan,Neutral,Neutral,main,Raises,420.0,400.0
+2024-04-30 14:11:16,BMO Capital,Market Perform,Market Perform,main,Lowers,453.0,544.0
+2024-04-29 14:54:20,Compass Point,Neutral,Neutral,main,Lowers,390.0,490.0
+2024-04-29 13:50:46,Truist Securities,Buy,Buy,main,Lowers,440.0,600.0
+2024-04-29 09:42:25,RBC Capital,Sector Perform,Outperform,down,Lowers,425.0,555.0
+2024-02-28 12:04:44,BMO Capital,Market Perform,Outperform,down,Announces,544.0,0.0
+2024-02-26 12:30:29,JP Morgan,Neutral,Neutral,main,Raises,420.0,375.0
+2024-02-20 15:30:14,RBC Capital,Outperform,Outperform,main,Raises,555.0,410.0
+2024-02-20 14:28:27,Truist Securities,Buy,Buy,main,Raises,600.0,450.0
+2023-12-04 15:28:48,Truist Securities,Buy,Buy,reit,Maintains,450.0,0.0
+2023-10-31 16:56:18,Truist Securities,Buy,Buy,reit,Maintains,450.0,0.0
+2023-10-30 17:46:48,RBC Capital,Outperform,Outperform,main,Lowers,410.0,435.0
+2023-10-30 14:34:59,BMO Capital,Outperform,Outperform,main,Lowers,434.0,450.0
+2023-09-22 08:28:43,Wolfe Research,Outperform,,init,Announces,521.0,0.0
+2023-09-13 11:58:06,BMO Capital,Outperform,Outperform,main,Raises,450.0,415.0
+2023-09-07 17:08:04,Jefferies,Hold,Hold,main,Raises,396.0,370.0
+2023-07-31 15:35:21,Truist Securities,Buy,Buy,main,Raises,450.0,400.0
+2023-07-31 14:24:55,RBC Capital,Outperform,Outperform,main,Raises,435.0,425.0
+2023-06-02 12:39:16,BMO Capital,Outperform,Underperform,up,Raises,389.0,270.0
+2023-05-01 13:17:42,RBC Capital,Outperform,,main,Raises,365.0,360.0
+2023-04-10 15:42:42,Jefferies,Hold,,main,Raises,315.0,313.0
+2023-04-05 11:49:34,BMO Capital,Underperform,,main,Raises,245.0,230.0
+2023-02-21 15:10:03,Truist Securities,Buy,,main,Raises,400.0,335.0
+2023-02-21 13:54:37,RBC Capital,Outperform,,main,Raises,360.0,350.0
+2023-02-21 13:23:29,Compass Point,Neutral,Buy,down,Raises,350.0,330.0
+2023-01-20 09:59:05,BMO Capital,Underperform,,init,Announces,230.0,0.0
+2022-12-20 12:26:50,Compass Point,Buy,Neutral,up,Announces,330.0,0.0
+2022-12-12 11:56:38,Jefferies,Hold,,init,Announces,295.0,0.0
+2022-10-31 13:24:03,RBC Capital,Outperform,,main,Raises,350.0,275.0
+2022-08-15 11:28:08,Compass Point,Neutral,Buy,down,Announces,310.0,0.0
+2022-08-01 14:24:03,Truist Securities,Buy,,main,Raises,285.0,270.0
+2022-08-01 12:19:46,RBC Capital,Outperform,,main,Raises,275.0,260.0
+2021-09-30 11:03:30,RBC Capital,Outperform,,main,Lowers,220.0,235.0
+2021-04-13 15:02:55,Truist Securities,Buy,,main,Lowers,210.0,245.0
+2021-02-26 12:15:34,Compass Point,Buy,Neutral,up,Announces,225.0,0.0
+2020-10-05 16:00:54,Truist Securities,Buy,,main,Raises,220.0,200.0
+2020-09-18 10:31:52,Compass Point,Neutral,,init,Announces,202.0,0.0
+2020-07-15 12:57:18,SunTrust Robinson Humphrey,Buy,,main,Raises,180.0,140.0
+2020-04-08 14:22:05,RBC Capital,Outperform,,main,Lowers,125.0,134.0
+2020-02-24 13:12:13,SunTrust Robinson Humphrey,Buy,,main,Raises,140.0,110.0
+2019-09-06 11:22:52,JMP Securities,Market Perform,,init,,0.0,0.0
+2019-07-01 13:16:09,SunTrust Robinson Humphrey,Buy,,main,Raises,100.0,85.0
+2019-05-06 15:55:52,RBC Capital,Outperform,Outperform,main,Raises,84.0,70.0
+2016-08-22 11:59:19,JP Morgan,Overweight,,init,,0.0,0.0
+2016-08-22 10:16:11,SunTrust Robinson Humphrey,Buy,,init,Announces,24.0,0.0
+2016-08-22 10:15:55,RBC Capital,Outperform,,init,Announces,23.0,0.0
